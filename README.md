@@ -47,6 +47,8 @@ Chenrezig King of Space
     - [2.1 Taking Refuge in the Three Jewels](#21-taking-refuge-in-the-three-jewels)
     - [2.2 The Practice of Vajrasattva: the Method for Purifying Negativities and Obscurations](#22-the-practice-of-vajrasattva-the-method-for-purifying-negativities-and-obscurations)
     - [2.3 The Mandala Offering: the Method for Gathering the Two Accumulations](#23-the-mandala-offering-the-method-for-gathering-the-two-accumulations)
+        - [2.3.1 Visualizing the Field of Accumulation](#231-visualizing-the-field-of-accumulation)
+        - [2.3.2 The Thirty-Sevenfold Maṇḍala Offering](#232-the-thirty-sevenfold-maṇḍala-offering)
     - [2.4 The Practice of Guru Yoga to Instill Blessings in the Mind](#24-the-practice-of-guru-yoga-to-instill-blessings-in-the-mind)
 
 - [3. The Special Preliminaries: Cultivating Love, Compassion and Bodhicitta](#3-the-special-preliminaries-cultivating-love-compassion-and-bodhicitta)
@@ -56,6 +58,7 @@ Chenrezig King of Space
 
 - [Closing](#closing)
     - [The Sanskrit Vowels and Consonants and The Essence of Dependency](#the-sanskrit-vowels-and-consonants)
+    - [Ye Dharma Mantra (The Essence of Dependency)](#ye-dharma-mantra-the-essence-of-dependency-1)
     - [The Hundred Syllable Mantra](#the-hundred-syllable-mantra-1)
     - [Concluding Multiplying Mantras](#concluding-multiplying-mantras)
     - [The Short Prayer to be Reborn in Blissful Land of Amitabha](#the-short-prayer-to-be-reborn-in-blissful-land-of-amitabha)
@@ -416,24 +419,344 @@ Through your blessings, may the minds of myself and all sentient beings, limitle
 By supplicating thus with intense devotion, the field of accumulation melts into the nature of five-colored lights, which then dissolve into you. Thus, imagine that your mind-stream is blessed, and rest for a while in the natural state without reference point
 
 ### 2.2 The Practice of Vajrasattva: the Method for Purifying Negativities and Obscurations
+
+Negativities, obscurations, and karmic imprints hinder the realization of the profound meaning of Dharma. Therefore, it is necessary to purify one’s obscurations, just as it is necessary to wipe a mirror in order for a reflection to appear. It is said, “Though negativities themselves have no good qualities, the benefit of negativities is that they can be purified if confessed.” Thus, no matter how grave your negativities and obscurations are, if you confess them properly, they must become purified. Although there are many ways to confess, the supreme method is the meditation and recitation of Vajrasattva. The Stainless Confession Tantra says, “Vajrasattva himself has promised that the negativities and obscurations of someone who recites the Hundred Syllable Mantra, which is the essence of all the sugatas of the three times, will become completely purified.” Therefore,
+engage in the practice properly.
+
+![alt text](.imgs/vajrasattva.png)
+
+Above the crown of my head, on a seat of lotus and moon, is a brilliant white hūm̆̇ . The hūm̆̇ emanates rays of light into the ten directions and makes delightful offerings to the buddhas and
+bodhisattvas, and having gathered their wisdom, love, and power, the light dissolves back into the hūm̆̇. Again, the hūm̆̇ emanates rays of light to the abodes of the six classes of beings, purifying
+their karmic perceptions, self-grasping, and habitual tendencies. The light gathers back, and the hūm̆̇ transforms into the Guru Vajrasattva—the presiding master of all buddha families. His
+complexion is white and clear, and he is endowed with the ornaments of a saṃbhogakāya. In his right hand, close to his heart, he holds a vajra of empty awareness and in his left hand, beside his hip, a bell of empty appearance. He sits with his legs crossed in half-[vajra] posture, appearing clearly in a vast rainbow-sphere.
+
+O Glorious Vajrasattva—myself and all limitless sentient beings, please purify and cleanse our ignorance, self-grasping, and karmic imprints.
+
+Having supplicated thus, a stream of bodhicitta nectar emerges from the seed syllable and mantra garland at Vajrasattva’s heart. [The nectar] fills up his entire body, enters the Brahma opening at my crown, and purifies all my negativities and obscurations.
+
+(*Recite the Hundred-Syllable Mantra.*)
+
+om̆̇ vajrasattva samaya | manupālaya | vajrasattva tvenopa  
+tiṣṭha dṛiḍho me bhava | sutokyo me bhava | supokyo me bhava  
+| anurakto me bhava | sarva siddhimme prayaccha | sarva  
+karmasu came | cittaṃ śreyaḥ kuru hūm̆̇ | ha ha ha ha hoḥ  
+bhagāvan sarva tathāgata vajra māme muñca vajrī bhava mahā  
+samaya sattva āḥ || 
+
+In the darkness of ignorance, I have gone astray and breached samaya. Guru, protector, please give me refuge! Chief vajra holder, nature of great compassion, lord of all beings, I take refuge in you!
+
+To this supplication, Vajrasattva responds, “O child of noble family, all your negativities, obscurations, faults, and downfalls are cleansed.” Giving pardon, he [melts into light and] dissolves
+into me indivisibly. 
+
+Having contemplated thus, even the notion of a deity dissolves into a state of luminous, natural awareness. Rest briefly in this state of beholding Vajrasattva’s actual face: the empty awareness, in which all concepts of something to be purified and someone who purifies lack inherent existence.
+
 ### 2.3 The Mandala Offering: the Method for Gathering the Two Accumulations
+
+A sūtra says, “As long as one has not truly completed the two accumulations, one will not truly realize emptiness.” Furthermore, “The ultimate, innate wisdom is the mark that testifies to one having gathered the accumulations and purified obscurations.” Thus, it is crucial to gather the accumulations. While there are many methods for gathering the accumulations, the maṇḍala offering is supreme. A tantra says, “Through offering the entire billionfold universe, adorned with various desirable qualities, to all the buddhas in their pure realms, buddha wisdom is accomplished.” Thus, be diligent in the maṇḍala offering.
+
+![alt text](.imgs/tree.jpg)
+
+#### 2.3.1 Visualizing the Field of Accumulation
+In the space before me, in the center of a wish-granting tree that emerges from a lake, on a precious throne that sits beneath a lotus and moon, is Great Vajradhāra—the presiding master of all buddha families—surrounded by the ocean of accomplished Kagyü masters. In front is the Blessed Lord Chakrasaṃvara together with a host of yidam deities of the four and six classes of tantra. To his right are the buddhas of the three times, endowed with the major and minor marks, together with the thousand buddhas of this Fortunate Eon. Behind is the Great Mother of Transcendent Wisdom and volumes of sūtras and tantras, naturally echoing the sound of Dharma. To his left are the bodhisattva-protectors of the three families surrounded by the noble Sangha of Bodhisattvas. Surrounding everything are oceans of oath-bound protectors, gathering like billowing clouds.
+
+In the presence of this visualized merit-field, think that you offer yourself, everything you own, the universe and all beings, and all the glories and riches of gods and humans.
+
+#### 2.3.2 The Thirty-Sevenfold Maṇḍala Offering
+
+![alt text](.imgs/mandala.png)
+
+Om̆̇ vajra bhumi ā hūm̆̇. The completely pure base is a golden ground<sup>[4](#4)</sup> full of power. Om̆̇ vajra reke ā hūm̆̇. It is surrounded by a circle of iron mountains. At its center is hūm̆̇, the king of mountains, Sumeru. In the east is Excellent Body<sup>[5](#5)</sup>; in the south, the land of the Jambu Tree<sup>[6](#6)</sup>; in the west, Wish-Fulfilling Cattle<sup>[7](#7)</sup>; in the north, Voice of Doom<sup>[8](#8)</sup>; toward<sup>[9](#9)</sup> the east, Body and Noble Body; toward the south, Tail Fan and Minor Tail Fan; toward the west, Tremulous and Great Destiny; toward the north, Voice of Doom and Satellite of Voice of Doom. There is also the mountain of jewels, the wish-granting tree, the wish-granting cow, the harvest that needs no toil, the precious wheel, the precious gem, the precious queen, the precious minister, the precious elephant, the precious supreme steed, the precious general, the great treasure vase, the goddess of beauty, the goddess of garlands, the goddess of song, the goddess of dance, the goddess of flowers, the goddess of incense, the goddess of light, the goddess of perfume, the sun, the moon, a precious parasol, and a banner of universal victory. In the center are the most exalted glories and riches of gods and humans, without exception. I offer this field of utter purity to the gurus, yidams, buddhas, bodhisattvas, ḍākas, ḍākinīs, and Dharma protectors. Please accept it with compassion for the benefit of beings. Having accepted it, please grant your blessings!
+
+<details id="4"><summary>Note <sup>4</sup></summary>The maṇḍala is a symbolic representation of the universe. The universe is2
+said to sit on a golden ground, at the center of which is Mount Meru. The
+world-systems orbit this cosmic mountain.</details>  
+<details id="5"><summary>Note <sup>5</sup></summary>Pūrvavideha is the world that lies in the east, where people have very special looks. The world is extremely vast and wonderful. The land is in oval in shape, as are the faces of the inhabitants.</details>  
+<details id="6"><summary>Note <sup>6</sup></summary>Jambudvīpa or the world of the Rose-Apple Tree is the world of human beings. People here have rich humanity, and are able to tell good from evil, right from wrong. The land is oblate spheroid, and so is human face.</details>  
+<details id="7"><summary>Note <sup>7</sup></summary>Aparagodānīya is the world that lies in the west, where people live off of cow markets and cow selling. There are many cows, goats, and valuable treasures. The land and people’s faces both look like the full moon.</details>  
+<details id="8"><summary>Note <sup>8</sup></summary>Uttarakurū is the world that lies in the north. It is a place that is better than the other three worlds. People here are very casual and free from worries. The land is square in shape, and human faces are similar to this.</details>  
+<details id="9"><summary>Note <sup>9</sup></summary>Each of these planets is accompanied by two smaller planets.</details><br>  
+
+An infinite array of worlds, each with four continents and the wealth of infinite oceans of realms—if I bring them all to mind and offer them without exception, please hold with compassion all the beings they contain! My body, enjoyments, and whatever I own—my aggregates, elements, and sense sources; my aspirations now and in times to come; as well as everything I grasp as “mine”—by offering them all, may I be blessed with the end of self-grasping! Completely liberated from the bounds of real and unreal—transcending the names and attributes of arising, cessation, and abiding; coming and going; affirmation and denial—the supreme maṇḍala is the natural state. By offering it, may I be blessed to attain the state of buddhahood!
+
+om̆̇ guru deva ḍākinī ratna maṇḍala pratīccha svāhā
+
+Thus offer.
+
+![alt text](.imgs/mandala.png)
+
+All owned and unowned things of the infinite, billionfold universe in its totality, my own body, enjoyments, and all my possessions, I offer—holding nothing back—to the ocean of the rare and precious ones. May the self-grasping of all beings be thereby fully pacified! May all beings be endowed with bodhicitta, and may they instantly attain the state of buddhahood! 
+
+This verse is to be accumulated.
+
+![alt text](.imgs/tree.jpg)
+
+To the assembly of gurus with three kāyas perfectly complete, I make outer, inner, secret, and suchness offerings. Please accept this offering of my body, wealth, and all appearance and existence, and bestow the unsurpassed, supreme accomplishment!
+
+At the end of this recitation, the field of accumulation dissolves into you. The fundamental nature of the one who offers, the recipient of the offering, and the offering itself transcend all names and characteristics. Rest briefly within this unaltered state of mahāmudrā—
+the ultimate maṇḍala, which is the natural state.
+
+
 ### 2.4 The Practice of Guru Yoga to Instill Blessings in the Mind
+
+The only way to realize the natural state of Mahamudra is through a devotion that sees the guru as the Buddha and from the power of blessings received from that guru. In a sūtra it says, “The ultimate truth is realized through faith.” In a tantra it says, “Better than meditating on a hundred-thousand deities for ten million eons is to think of the guru for a single moment.” Lord Jigten Sumgön said, “Unless the sun of devotion shines upon the snow mountain of the guru’s four kāyas, the stream of blessings will not emerge. Therefore, apply your mind assiduously in the practice of devotion.” As mentioned here and in various other sources, one should be diligent in the practice of Guru Yoga, as it causes the guru’s blessings to enter one’s mind.
+
+In the space before me, on a seat of lotus and moon, sits my root guru—the embodiment of all places of refuge—appearing in the form of Great Vajradhāra: the glory of all saṃsāra and nirvāṇa. Blue and adorned with precious ornaments, he holds a vajra and bell crossed at the heart, and his legs are crossed in vajra posture. He is surrounded by the Golden Garland of the Kagyü Lineage<sup>[10](#10)</sup>, who embody wisdom, love, and power and who spread through space like massing clouds. Contemplate thus, and then make offerings.
+
+<details id="10"><summary>Note <sup>10</sup></summary>The Golden Garland refers to the early masters of the Kagyü lineage.</details><br>
+
+Glorious guru, lord of four kāyas, I offer my body, speech, mind, and all of material existence as offering substances of outer, inner, and other nature. The one who offers, the recipient, and the offering itself have one single nature—unconfined and of one taste. As I make offerings, please bestow the effortless accomplishment. Supplicate with deep-felt devotion:
+
+To Great Vajradhāra, Tilopa, Nāropa, Marpa, Milarepa, Gampopa, Phagmodrupa, Lord Jigten Sumgön, root guru of threefold kindnesse<sup>[11](#11)</sup>—to all the root and lineage gurus—I pray: Through your blessings, may self-grasping leave my mind. Bless me to develop loving-kindness and compassion! Through your blessings, may I realize the natural state of selflessness! Bless me to reach buddhahood in this very life! Thus, supplicate earnestly from your heart.
+
+<details id="11"><summary>Note <sup>11</sup></summary>This refers to the root guru who is kind to us in three ways: through bestowing empowerment, explaining the tantras, and giving essential instructions.</details><br>
+
+Root guru, who embodies all the buddhas, I pray to you with a single-minded, longing heart! Then, from the four places of the guru’s body, four-colored light rays emanate and dissolve into my own four places. In this way, I receive the four
+empowerments; the four obscurations are purified, one by one; and I actualize the four kāyas. Then, the guru dissolves into me, and I evenly rest in an inseparable state.
+
+Thus, having merged your mind indivisibly with the guru’s mind, rest within a non-referential state. In all circumstances throughout the post-meditative state, it is important to sustain recognition that the nature of your own mindful awareness is the guru. Je Götsangpa said, “Guru Yoga is to recognize your own mind. The nature of supplication is to sustain undistracted mindfulness. The guru is nowhere outside, but rather, he is indivisible from your own mind. Practice Guru Yoga in this way.” Thus, recognize that, ultimately, the actual guru is indivisibly united with your own mind.
 
 ## 3. The Special Preliminaries: Cultivating Love, Compassion and Bodhicitta
 ### 3.1 First, Cultivating Love
+
+The enjoyment of bliss and happiness of all mother sentient beings, limitless as space, is caused by a wish to benefit others. Therefore, may the minds of all be filled with love!
+
+Having recited this, think about your mother, who cared for you with great kindness in four different ways, such as looking after you affectionately. Then consider how all other sentient beings have cared for you with just such kindness when they were your mothers in previous lives. Reflect upon this thought until you have developed love—the uncontrived mind that wishes that all sentient beings may have happiness and the cause of happiness, which is love.
+
 ### 3.2 Second, Cultivating Compassion
+
+The intolerable suffering that torments mother sentient beings, who are limitless as space, in the six realms of saṃsāra, is caused by the ignorance of grasping at a self. May it be fully pacified, and may all beings care for others with altruistic compassion!
+
+Having recited this, bring to mind the intense suffering of sentient beings, imagining them as your own mother. A feeling of unbearable compassion will certainly arise. Then, consider that even though they are not your mothers in this present life, they all have surely been your mothers in previous lives. So, thinking that all these sentient beings that are tormented by suffering have been your mothers, exert yourself in cultivating great compassion—the wish that they all be free from suffering and the cause of suffering, which is self-grasping
+
 ### 3.3 Third, Cultivating Bodhicitta
+
+Committing to the result is aspiring bodhicitta, and committing to the cause is engaging bodhicitta. Whether one takes the vows of aspiring and engaging bodhicitta according to the elaborate system of the Great Awakening of Bodhicitta or the concise ritual of taking them oneself, it is essential to understand the training that is to be undertaken.
+
+For countless lifetimes, mother sentient beings have been tormented by great evil, suffering, and pain due to having taken birth for their own sakes. To free them from the ocean of existence, I shall enter the supreme path of enlightenment.
+
+Repeat this many times and gain an actual experience of compassion and bodhicitta within your mind. In all your daily activities, never separate from the wish to do whatever you can to bring benefit and happiness to all sentient beings. Within such practice, all precepts of the bodhisattva vow are included, and everything you do will become a practice of the six pāramitās. The benefits of bodhicitta are endless. The Avataṃsaka Sūtra states, “All the buddhas of the three times ultimately arise from the excellent, pure mind of bodhicitta—the treasure trove of merit. All the happiness of worldly beings arises from it. All goodness extolled by the victorious ones arises from it. It consumes the obscurations of all worlds. Without a doubt, it is through bodhicitta that one will become foremost among the victorious ones.” Furthermore, Lord Jigten Sumgön says in the Gongchik, “The Buddha is an embodiment of bodhicitta.” If bodhicitta is present, one cannot help but attain awakening. If it is absent, no matter what other practices, generation and completion stages, and so forth, one engages in, they will amount to nothing more than a facade. Therefore, as the three special preliminaries are the essence of all paths, practice them sincerely until they have taken birth within your mind-stream.
+
+Thinking that it would benefit many devoted and dedicated disciples to have a Ngöndro Sādhana of appropriate length, Dorzin Könchok Döndrup requested His Eminence Garchen Rinpoche to compose this text, supporting his request by offering a white katak scarf with the auspicious symbols printed on it and a hundred dollars. Moreover, several devotees from inside Tibet requested the composition of this text with great insistence. Thinking that it might be of benefit to his Dharma friends, who can see gold in a clod of dirt [humbly referring to Himself], the 8th Garchen Rinpoche, Könchok Gyaltsen, compiled this text in accordance with the structure of Dharmakīrti’s Oral Instructions on the Preliminaries of the Fivefold Path [of Mahāmudrā], while also including some lines taken from the instructions of other learned and accomplished masters of the past. This text was completed at the Garchen Buddhist Institute in the United States. The disciple Thubten Nima assisted, acting as Rinpoche’s scribe.
 
 ## Closing
 ### The Sanskrit Vowels and Consonants and The Essence of Dependency
+
+om̆̇ | a ā | i ī | u ū | ṛi ṛī | ḷi ḷī | e ai | o au | aṁ aḥ |
+ka kha ga gha nga | ca cha ja jha ña | ṭa ṭha ḍa ḍha ṇa |
+ta tha da dha na | pa pha ba bha ma | ya ra la va | śa ṣa sa ha
+kṣaḥ svāhā ||
+
+### Ye Dharma Mantra (The Essence of Dependency)
+
+(*Recite three times.*) 
+
+om̆̇ ye dharmā hetu prabhavā hetuṃ teṣāṃ tathāgato hyavadat teṣāṃ cayo nirodha evaṃ vādī mahā śramaṇaḥ svāhā  
+om̆̇ ye dharmā hetu prabhavā hetuṃ teṣāṃ tathāgato hyavadat teṣāṃ cayo nirodha evaṃ vādī mahā śramaṇaḥ svāhā  
+om̆̇ ye dharmā hetu prabhavā hetuṃ teṣāṃ tathāgato hyavadat teṣāṃ cayo nirodha evaṃ vādī mahā śramaṇaḥ svāhā 
+
+
 ### The Hundred Syllable Mantra
+
+om̆̇ vajrasattva samaya | manupālaya | vajrasattva tvenopa
+tiṣṭha dṛiḍho me bhava | sutokyo me bhava | supokyo me
+bhava | anurakto me bhava | sarva siddhimme prayaccha |
+sarva karmasu came | cittaṃ śreyaḥ kuru hūm̆̇ | ha ha ha
+ha hoḥ bhagāvan sarva tathāgata vajra māme muñca vajrī
+bhava mahā samaya sattva āḥ ||
+
+
 ### Concluding Multiplying Mantras
+
+tadyathā pañcandriya āwa bodhanāye svāhā
+
+om̆̇ ru ru dharu mukhe mukhe svāhā
+
+(*Recite 7 times.*)
+
+om̆̇ hanubhaśha bhara hridaya svāhā  
+om̆̇ hanubhaśha bhara hridaya svāhā  
+om̆̇ hanubhaśha bhara hridaya svāhā  
+om̆̇ hanubhaśha bhara hridaya svāhā  
+om̆̇ hanubhaśha bhara hridaya svāhā  
+om̆̇ hanubhaśha bhara hridaya svāhā  
+om̆̇ hanubhaśha bhara hridaya svāhā  
+
+(*Recite 108 times.*)
+
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm  
+om̆̇ āḥ hūm 
+
 ### The Short Prayer to be Reborn in Blissful Land of Amitabha
+
+Emaho! [In the center is] the wondrous Buddha Amitābha of Boundless Light. To his right is Chenrezig, the Lord of Great Compassion, and to his left is Vajrapāṇi, the Bodhisattva of Great Power. They are surrounded by buddhas and bodhisattvas, inconceivable in number—limitless peace and happiness is the pure land of Great Bliss. As soon as I and others pass from this life, may we—unhindered by another saṃsāric birth—be born there and see the face of Amitābha, Boundless Light! May the buddhas and bodhisattvas of the ten directions bless this aspiration that it may be accomplished without hindrance!
+
+tadyathā pañcandriya āwa bodhanāye svāhā
+
 ### Dedication Prayers
+
+May bodhicitta, the precious and supreme mind, arise in whom it has not yet arisen! Where it has arisen, may it not decline, but ever increase higher and higher!
+
+By this merit may I obtain omniscience or [at least] defeat the enemies—my wrongdoings—may I liberate all beings who are tossed in the ocean of saṃsāra by the waves of birth, old age, sickness, and death!
+
+Just as the hero Mañjushrī realized things as they are and as did Samantabhadra too, I will follow in their path by perfectly dedicating all of these virtues!
+
+By the blessing of the buddhas who attained the three kāyas, by the blessing of the truth of the unchanging nature of
+reality, and by the blessing of the undivided Sangha community, may my aspirations be fulfilled according to this dedication prayer!
+
+By the virtues collected in the three times by myself and all beings in saṃsāra and nirvāṇa, and by the intrinsic root of virtue, may I and all sentient beings quickly attain unsurpassed, perfect, complete, and precious awakening!
+
 ### The Long Life Prayer for His Holiness the Dalai Lama
+
+For this realm encircled by snow-covered mountains, you are the source of all benefit and happiness without exception. Tenzin Gyatso, Lord Chenrezig, may you remain steadfast until the end of saṃsāra!
+
 ### The Long Life Prayer for His Holiness Chetsang Rinpoche
+
+Embodiment of the Three Jewels, great being who upholds and increases the teachings of the Śhākya Lion, supreme are your activities of guiding others with your perfect deeds. May you, the precious guru, who accomplishes everything spontaneously, live long!
+
 ### The Long Life Prayer for His Holiness Chungtsang Rinpoche
+
+Holder of the teachings of Lord Drikungpa, great lord of the Three Jewels, through the power of your peerless compassion
+and the holy Dharma’s peace and light, you bring relief to beings. May your life be long!
+
 ### The Long Life Prayer for His Eminence Garchen Rinpoche
+
+The one known in the Noble Land as Āryadeva, emanated into the Gar clan of Eastern Tibet as Chödingpa, the heart son of Jigten Gönpo—may the life of glorious Garchen remain steadfast for a hundred aeons!
+
+In this degenerate age, when the Buddha’s teaching fades away, through his powerful, vajra-like conduct, he takes on himself the heavy responsibility of the unbiased teaching. May Garchen, the Sun of the Teaching, live long!
+
+I pray for the excellent health of the guru! I pray that he lives a supremely long life! I pray that his activities spread far and wide! Grant blessings that I may not be separate from my guru!
+
+In all the activities of the glorious guru, may wrong views not arise within me for even a moment, and through devotion that sees whatever he does as perfect, may the guru’s blessings enter my mind!
+
+May all sentient beings have happiness, and may all the lower realms be permanently emptied! May the aspirations made by bodhisattvas of all bhūmis be accomplished!
+
 ### A Praying for Generating Dri-Kung Sect Written by Mi-Pam
 
+May the teaching of the great Drikungpa Ratnaśhrī—Master of Interdependence, Omniscient Lord of Dharma, who has seen all knowable things—be upheld until the end of existence. May it be taught and accomplished through hearing, reflecting, and meditating!
+
+May the Doctrine, only remedy for suffering, The source of every bliss and happiness, Be nurtured and upheld with reverence, And throughout a vast continuance of time, endure!
+
+![alt text](.imgs/white-tara.png)
+
+Noble Lady White Tārā
+
+om̆̇ tāre tuttāre ture mama āyur jñāna  
+puṇye puṣṭīṃ kuru svāhā  
+Om̆̇ , O Tara, swift liberator from suffering, make my  
+lifespan, wisdom and merit increase, svāhā  
+
+![alt text](.imgs/wheel.png)
+
+Garchen Buddhist Institute  
+P.O. Box 4318  
+9995 E. Blissful Path  
+Chino Valley, AZ 86323  
+928-925-1237  
+[www.garchen.net](https://garchen.net)  
 
