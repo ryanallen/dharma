@@ -7,9 +7,13 @@ Principles and practices that uphold the natural and moral order of the universe
 
 # A PRACTICE OF THE PRELIMINARIES OF THE FIVEFOLD MAHAMUDRA
 
-
+![alt text](.imgs/garchen.png)
 
 By The Garchen Buddhist Institute
+
+![alt text](.imgs/chenrezig.png)
+
+Chenrezig King of Space
 
 ## Opening
 
