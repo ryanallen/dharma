@@ -1,19 +1,70 @@
 # Dharma
 Principles and practices that uphold the natural and moral order of the universe from a Buddhist point of view.
 
-# Contents
-
-- A PRACTICE OF THE PRELIMINARIES OF THE FIVEFOLD MAHAMUDRA
-
 # A PRACTICE OF THE PRELIMINARIES OF THE FIVEFOLD MAHAMUDRA
 
 ![alt text](.imgs/garchen.png)
 
 By The Garchen Buddhist Institute
 
+---
+
 ![alt text](.imgs/chenrezig.png)
 
 Chenrezig King of Space
+
+---
+
+## Contents
+
+- [Opening](#opening)
+    - [Taking refuge and generating bodhicitta](#taking-refuge-and-generating-bodhicitta)
+    - [ The Four Immeasurable](#the-four-immeasurable)
+    - [Supplication to Vajradhara's Lineage](#supplication-to-vajradhāras-lineage)
+    - [Seven Limb Prayer](#seven-limb-prayer)
+    - [The Sanskrit Vowels and Consonants](#the-sanskrit-vowels-and-consonants)
+    - [Ye Dharma Mantra (The Essence of Dependency)](#ye-dharma-mantra-the-essence-of-dependency)
+    - [The Hundred Syllable Mantra](#the-hundred-syllable-mantra)
+    - [Multiplying Mantras and Mala (Blessing) Mantra](#multiplying-mantras-and-mala-blessing-mantra)
+        - [From the Ārya Parinata Chakra Sūtra](#from-the-ārya-parinata-chakra-sūtra)
+        - [From the Selected Instructions by Atīśha](#from-the-selected-instructions-by-atīśha)
+        - [From the Collection of Ten Million Sūtras](#from-the-collection-of-ten-million-sūtras)
+        - [From the Dhāranī of the Inestimable Jeweled Mansion](#from-the-dhāranī-of-the-inestimable-jeweled-mansion)
+        - [From the Sūtra of Gone Before the Lotus](#from-the-selected-instructions-by-atīśha)
+    - [Om̆̇ āḥ hūm](#om̆̇-āḥ-hūm)
+
+- [The Excellent Path to Enlightenment: A Practice of the Preliminaries of the Fivefold Path of Mahāmudrā](#the-excellent-path-to-enlightenment-a-practice-of-the-preliminaries-of-the-fivefold-path-of-mahāmudrā)
+    - [Supplication To Guru](#supplication-to-guru)
+    - [Generating Bodhicitta](#generating-bodhicitta)
+
+- [1. The Four Common, Outer Preliminaries](#1-the-four-common-outer-preliminaries)
+    - [1.1 The Difficulty of Finding a Precious Human Body](#11-the-difficulty-of-finding-a-precious-human-body)
+    - [1.2 Death and Impermanence](#12-death-and-impermanence)
+    - [1.3 The Shortcomings of Samsara](#13-the-shortcomings-of-samsara)
+    - [1.4 Karma, Cause and Effect](#14-karma-cause-and-effect)
+
+- [2. The Four Uncommon, Inner Preliminaries](#2-the-four-uncommon-inner-preliminaries)
+    - [2.1 Taking Refuge in the Three Jewels](#21-taking-refuge-in-the-three-jewels)
+    - [2.2 The Practice of Vajrasattva: the Method for Purifying Negativities and Obscurations](#22-the-practice-of-vajrasattva-the-method-for-purifying-negativities-and-obscurations)
+    - [2.3 The Mandala Offering: the Method for Gathering the Two Accumulations](#23-the-mandala-offering-the-method-for-gathering-the-two-accumulations)
+    - [2.4 The Practice of Guru Yoga to Instill Blessings in the Mind](#24-the-practice-of-guru-yoga-to-instill-blessings-in-the-mind)
+
+- [3. The Special Preliminaries: Cultivating Love, Compassion and Bodhicitta](#3-the-special-preliminaries-cultivating-love-compassion-and-bodhicitta)
+    - [3.1 First, Cultivating Love](#31-first-cultivating-love)
+    - [3.2 Second, Cultivating Compassion](#32-second-cultivating-compassion)
+    - [3.3 Third, Cultivating Bodhicitta](#33-third-cultivating-bodhicitta)
+
+- [Closing](#closing)
+    - [The Sanskrit Vowels and Consonants and The Essence of Dependency](#the-sanskrit-vowels-and-consonants)
+    - [The Hundred Syllable Mantra](#the-hundred-syllable-mantra-1)
+    - [Concluding Multiplying Mantras](#concluding-multiplying-mantras)
+    - [The Short Prayer to be Reborn in Blissful Land of Amitabha](#the-short-prayer-to-be-reborn-in-blissful-land-of-amitabha)
+    - [Dedication Prayers](#dedication-prayers)
+    - [The Long Life Prayer for His Holiness the Dalai Lama](#the-long-life-prayer-for-his-holiness-the-dalai-lama)
+    - [The Long Life Prayer for His Holiness Chetsang Rinpoche](#the-long-life-prayer-for-his-holiness-chetsang-rinpoche)
+    - [The Long Life Prayer for His Holiness Chungtsang Rinpoche](#the-long-life-prayer-for-his-holiness-chungtsang-rinpoche)
+    - [The Long Life Prayer for His Eminence Garchen Rinpoche](#the-long-life-prayer-for-his-eminence-garchen-rinpoche)
+    - [A Praying for Generating Dri-Kung Sect Written by Mi-Pam](#a-praying-for-generating-dri-kung-sect-written-by-mi-pam)
 
 ## Opening
 
