@@ -109,6 +109,8 @@ rest in equanimity, free from attachment and aversion!
 
 To Great Vajradhāra, Tilopa, Nāropa, Marpa, Milarepa, Gampopa, Phagmo Drupa, and Lord Jigten Sumgön; to the feet of the root guru of threefold kindness; to all the  root and lineage gurus, the yidams, and Dharma protectors, I pray: please bless my mind-stream!  
 
+![alt text](.imgs/flower.png)
+
 ### Seven-Limb Prayer
 
 Whatever slight merit I have gathered through prostrating, offering, confessing, rejoicing, beseeching, and praying, I dedicate to the complete awakening of all beings!
@@ -127,6 +129,8 @@ ya ra la va | śa ṣa sa ha kṣaḥ svāhā ||
 om̆̇ ye dharmā hetu prabhavā hetuṃ teṣāṃ tathāgato hyavadat teṣāṃ cayo nirodha evaṃ vādī mahā śramaṇaḥ svāhā  
 om̆̇ ye dharmā hetu prabhavā hetuṃ teṣāṃ tathāgato hyavadat teṣāṃ cayo nirodha evaṃ vādī mahā śramaṇaḥ svāhā  
 om̆̇ ye dharmā hetu prabhavā hetuṃ teṣāṃ tathāgato hyavadat teṣāṃ cayo nirodha evaṃ vādī mahā śramaṇaḥ svāhā  
+
+![alt text](.imgs/offering.png)
 
 ### The Hundred Syllable Mantra
 
@@ -348,6 +352,8 @@ All mother sentient beings, limitless as space—especially those enemies who ha
 
 All mother sentient beings, limitless as space—especially those enemies who hate me, obstructers who harm me, and those who create obstacles on my path to liberation and omniscience—may they experience happiness; be free from suffering; and swiftly may they attain precious, unsurpassed perfectly complete enlightenment!  
 
+![alt text](.imgs/offering-2.png)
+
 For that purpose, until I attain buddhahood, I will apply my body, speech, and mind to virtue. 
 
 Until death, I will apply my body, speech, and mind to virtue. 
@@ -356,12 +362,59 @@ From today until this time tomorrow, I will apply my body, speech, and mind to v
 
 ## 1. The Four Common, Outer Preliminaries
 ### 1.1 The Difficulty of Finding a Precious Human Body
+
+Unless a true wish for liberation arises within you, your practice will not turn toward the Dharma. It will only turn toward the Dharma if you have a pure intention of renouncing saṃsāra. Therefore, reflect upon the freedoms and advantages of this precious human body that is so difficult to find, as an antidote to the deep-seated attachment to this life.
+
+Now that I have found this excellent support of freedom and advantage, which in the future, will be difficult to find again, I must practice to attain the state of unsurpassed awakening in order to fulfill the benefit of others.
+
 ### 1.2 Death and Impermanence
+
+As an antidote to sloth and laziness, reflect on the impermanence of life:
+
+Since the demonic Lord of Death is the enemy that hates my precious body, death is certain, but its timing is unknown. Therefore, I must recognize my own impermanence and that of others.
+
 ### 1.3 The Shortcomings of Samsara
+
+As an antidote to the belief that true happiness can be found within saṃsāric existence, reflect on the suffering of saṃsāra.
+
+Wherever I am born in the realms of saṃsāra, I have no chance at finding [true] wellbeing. Therefore, without concern for worldly pleasures, I enter the path of nirvāṇa.
+
 ### 1.4 Karma, Cause and Effect
 
+To make meaningful use of this body of freedom and advantage, reflect on karma, cause and effect.
+
+To make this life of freedom and advantage meaningful, I renounce the three poisonous emotions and unwholesome deeds. I will exert myself in virtuous actions and will protect the samaya and vows of the three doors.
+
+![alt text](.imgs/offering-2.png)
+
 ## 2. The Four Uncommon, Inner Preliminaries
+
+Of the four uncommon preliminaries, first, in order to be taken under the protection of the Three Jewels, one takes refuge. Since taking refuge is the entrance door to Buddhism, the benefits of taking refuge in the Three Jewels with fully trusting faith, free from any doubts, are inconceivable. The Condensed Perfection of Wisdom says, “If the merit of taking refuge had material form, even the three worlds would be too small to contain it.” The White Lotus Sūtra says, “Lay or ordained, those who have entered my teachings will, in this very fortunate eon, attain complete nirvāṇa without residue.” 
+
+---
+
+![alt text](.imgs/tree.jpg)
+
+---
+
 ### 2.1 Taking Refuge in the Three Jewels
+
+Visualize the places of refuge with the intention of taking refuge in the Three Jewels for
+the purpose of freeing all sentient beings, limitless as space, from saṃsāra, the ocean of
+suffering.
+
+In the space before me, in the center of a wish-granting tree that emerges from a lake, on a precious throne that sits beneath a lotus and moon, is the Guru, Vajradhāra—the presiding master of all buddha families—surrounded by the ocean of accomplished Kagyü masters. In front is the Blessed Lord Chakrasaṃvara together with a host of yidam deities of the four and six classes of tantra. To his right are the buddhas of the three times, endowed with the major and minor marks, together with the thousand buddhas of this Fortunate Eon. Behind is the Great Mother of Transcendent Wisdom and
+volumes of sūtras and tantras, naturally echoing the sound of Dharma. To his left are the bodhisattva-protectors of the three families, surrounded by the assembly of the Three Vehicles’
+noble Sangha. Surrounding everything are oceans of oath-bound protectors, gathering like billowing clouds.
+
+Go for refuge thinking that “from now onwards, until attaining awakening, I and all limitless sentient beings take refuge and prostrate with respectful body, speech, and mind to the places of refuge visualized in front of me in this way”.
+
+Namo! In the Buddha: dharmakāya, guru, and empty essence; in the Dharma: saṃbhogakāya, yidam, and clear nature; and in the Sangha: nirmāṇakāya, ḍākinī, and all-pervasive compassion, I take refuge until attaining awakening!
+
+Through your blessings, may the minds of myself and all sentient beings, limitless as space, turn toward the Dharma! Through your blessings, may my Dharma become the path! Through your blessings, may the path dispel confusion! Through your blessings, may confused appearances arise as primordial wisdom!
+
+By supplicating thus with intense devotion, the field of accumulation melts into the nature of five-colored lights, which then dissolve into you. Thus, imagine that your mind-stream is blessed, and rest for a while in the natural state without reference point
+
 ### 2.2 The Practice of Vajrasattva: the Method for Purifying Negativities and Obscurations
 ### 2.3 The Mandala Offering: the Method for Gathering the Two Accumulations
 ### 2.4 The Practice of Guru Yoga to Instill Blessings in the Mind
