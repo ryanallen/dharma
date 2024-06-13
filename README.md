@@ -494,7 +494,7 @@ In the space before me, on a seat of lotus and moon, sits my root guru—the emb
 
 Glorious guru, lord of four kāyas, I offer my body, speech, mind, and all of material existence as offering substances of outer, inner, and other nature. The one who offers, the recipient, and the offering itself have one single nature—unconfined and of one taste. As I make offerings, please bestow the effortless accomplishment. Supplicate with deep-felt devotion:
 
-To Great Vajradhāra, Tilopa, Nāropa, Marpa, Milarepa, Gampopa, Phagmodrupa, Lord Jigten Sumgön, root guru of threefold kindnesse<sup>[11](#11)</sup>—to all the root and lineage gurus—I pray: Through your blessings, may self-grasping leave my mind. Bless me to develop loving-kindness and compassion! Through your blessings, may I realize the natural state of selflessness! Bless me to reach buddhahood in this very life! Thus, supplicate earnestly from your heart.
+To Great Vajradhāra, Tilopa, Nāropa, Marpa, Milarepa, Gampopa, Phagmodrupa, Lord Jigten Sumgön, root guru of threefold kindness<sup>[11](#11)</sup>—to all the root and lineage gurus—I pray: Through your blessings, may self-grasping leave my mind. Bless me to develop loving-kindness and compassion! Through your blessings, may I realize the natural state of selflessness! Bless me to reach buddhahood in this very life! Thus, supplicate earnestly from your heart.
 
 <details id="11"><summary>Note <sup>11</sup></summary>This refers to the root guru who is kind to us in three ways: through bestowing empowerment, explaining the tantras, and giving essential instructions.</details><br>
 
