@@ -413,6 +413,8 @@ engage in the practice properly.
 
 ![alt text](.imgs/vajrasattva.png)
 
+![alt text](.imgs/hum.png)
+
 Above the crown of my head, on a seat of lotus and moon, is a brilliant white hūm̆̇ . The hūm̆̇ emanates rays of light into the ten directions and makes delightful offerings to the buddhas and
 bodhisattvas, and having gathered their wisdom, love, and power, the light dissolves back into the hūm̆̇. Again, the hūm̆̇ emanates rays of light to the abodes of the six classes of beings, purifying
 their karmic perceptions, self-grasping, and habitual tendencies. The light gathers back, and the hūm̆̇ transforms into the Guru Vajrasattva—the presiding master of all buddha families. His
