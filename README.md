@@ -87,23 +87,11 @@ Until awakening, I take refuge in the Buddha, Dharma, and the Supreme Assembly! 
 
 (*Recite three times.*)  
 
-May all mother sentient beings-limitless as space-  
-have happiness and the causes of happiness!<sup>[1](#1)</sup> May they be free  
-from suffering and the causes of suffering!<sup>[2](#2)</sup> May they not be  
-separated from the happiness that is free from sorrow! May they  
-rest in equanimity, free from attachment and aversion!  
+May all mother sentient beings limitless as space have happiness and the causes of happiness!<sup>[1](#1)</sup> May they be free from suffering and the causes of suffering!<sup>[2](#2)</sup> May they not be separated from the happiness that is free from sorrow! May they rest in equanimity, free from attachment and aversion!  
 
-May all mother sentient beings-limitless as space-  
-have happiness and the causes of happiness!<sup>[1](#1)</sup> May they be free  
-from suffering and the causes of suffering!<sup>[2](#2)</sup> May they not be  
-separated from the happiness that is free from sorrow! May they  
-rest in equanimity, free from attachment and aversion!  
+May all mother sentient beings limitless as space have happiness and the causes of happiness!<sup>[1](#1)</sup> May they be free from suffering and the causes of suffering!<sup>[2](#2)</sup> May they not be separated from the happiness that is free from sorrow! May they rest in equanimity, free from attachment and aversion!   
 
-May all mother sentient beings-limitless as space-  
-have happiness and the causes of happiness!<sup>[1](#1)</sup> May they be free  
-from suffering and the causes of suffering!<sup>[2](#2)</sup> May they not be  
-separated from the happiness that is free from sorrow! May they  
-rest in equanimity, free from attachment and aversion!  
+May all mother sentient beings limitless as space have happiness and the causes of happiness!<sup>[1](#1)</sup> May they be free from suffering and the causes of suffering!<sup>[2](#2)</sup> May they not be separated from the happiness that is free from sorrow! May they rest in equanimity, free from attachment and aversion!  
 
 <details id="1"><summary>Note <sup>1</sup></summary>The cause of happiness is love.</details>  
 <details id="2"><summary>Note <sup>2</sup></summary>The cause of suffering is self-grasping.</details><br>
