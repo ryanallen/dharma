@@ -358,6 +358,10 @@ om̆̇ āḥ hūm
 om̆̇ āḥ hūm  
 om̆̇ āḥ hūm  
 om̆̇ āḥ hūm  
+<sup>Wisdom, clarity, consciousness, body, inbreath  
+Empty, spacious, openess, speech, in-between-breaths  
+Union of openess and clarity, mind, exhale</sup>  
+commentary [src](https://www.youtube.com/watch?v=WaAbelZnEtM), audio [src](https://www.youtube.com/watch?v=BA7LXjESK2I)
 
 ## The Excellent Path to Enlightenment: A Practice of the Preliminaries of the Fivefold Path of Mahāmudrā
 
@@ -787,7 +791,12 @@ om̆̇ āḥ hūm
 om̆̇ āḥ hūm  
 om̆̇ āḥ hūm  
 om̆̇ āḥ hūm  
-om̆̇ āḥ hūm 
+om̆̇ āḥ hūm  
+<sup>Wisdom, clarity, consciousness, body, inbreath  
+Empty, spacious, openess, speech, in-between-breaths  
+Union of openess and clarity, mind, exhale</sup>  
+commentary [src](https://www.youtube.com/watch?v=WaAbelZnEtM), audio [src](https://www.youtube.com/watch?v=BA7LXjESK2I)  
+
 
 ### The Short Prayer to be Reborn in Blissful Land of Amitabha
 
