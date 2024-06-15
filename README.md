@@ -3,6 +3,8 @@ Principles and practices that uphold the natural and moral order of the universe
 
 # A PRACTICE OF THE PRELIMINARIES OF THE FIVEFOLD MAHAMUDRA
 
+<audio controls src=".audio/preliminaries/preliminaries.mp3" title="Listen to 'A Practice of the Preliminaries of the Fivefold Mahamudra'"></audio>
+
 ![alt text](.imgs/garchen.png)
 
 By The Garchen Buddhist Institute
@@ -74,6 +76,8 @@ Chenrezig King of Space
 (Start of 1st session)
 
 ### Taking Refuge and Generating Bodhicitta
+
+<audio controls src=".audio/preliminaries/preliminaries_001.mp3" title="Listen to 'Taking Refuge and Generating Bodhicitta'"></audio>
 
 (*Recite three times.*)
 
