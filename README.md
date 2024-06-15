@@ -143,7 +143,7 @@ teṣāṃ ca yo nirodha
 <sup>and also that which puts a stop to these causes</sup>  
 evaṃ vādī mahā śramaṇaḥ svāhā  
 <sup>this too has been taught by the Great Shramana.</sup>  
-[src](https://www.youtube.com/watch?v=iZ_VJ0bdc94)  
+audio [src](https://www.youtube.com/watch?v=Pr7lZlDkRjQ), commentary [src](https://www.youtube.com/watch?v=iZ_VJ0bdc94)  
 
 ![alt text](.imgs/offering.png)
 
@@ -616,7 +616,7 @@ teṣāṃ ca yo nirodha
 <sup>and also that which puts a stop to these causes</sup>  
 evaṃ vādī mahā śramaṇaḥ svāhā  
 <sup>this too has been taught by the Great Shramana.</sup>  
-[src](https://www.youtube.com/watch?v=iZ_VJ0bdc94)  
+audio [src](https://www.youtube.com/watch?v=Pr7lZlDkRjQ), commentary [src](https://www.youtube.com/watch?v=iZ_VJ0bdc94)  
 
 
 ### The Hundred Syllable Mantra<sup>*</sup>
