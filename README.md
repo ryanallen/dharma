@@ -75,8 +75,6 @@ Chenrezig King of Space
 
 ### Taking Refuge and Generating Bodhicitta
 
-https://github.com/ryanallen/dharma/assets/1077040/deac2f6d-70bc-4c44-b18f-102621d11e01
-
 (*Recite three times.*)
 
 Until awakening, I take refuge in the Buddha, Dharma, and the Supreme Assembly! By the merit of generosity and other good deeds, may I attain buddhahood for the benefit of all beings!  
