@@ -127,12 +127,13 @@ om̆̇ ye dharmā hetu prabhavā hetuṃ teṣāṃ tathāgato hyavadat teṣā�
 
 ### The Hundred Syllable Mantra
 
-om̆̇ vajrasattva samaya | manupālaya | vajrasattva tvenopa  
-tiṣṭha dṛiḍho me bhava | sutokyo me bhava | supokyo me bhava  
-| anurakto me bhava | sarva siddhimme prayaccha | sarva  
-karmasu came | cittaṃ śreyaḥ kuru hūm̆̇ | ha ha ha ha hoḥ  
-bhagāvan sarva tathāgata vajra māme muñca vajrī bhava mahā  
-samaya sattva āḥ ||  
+Om Vajrasattva Samaya Manupalaya  
+Vajrasattva Tenopadista Dritho Me Bhava  
+Sutokeyu Me Bhava Supokeyu Me Bhava  
+Anurakto Me Bhava Sarva Siddhi Me Drayata  
+SarvaKarmaSuca Me CittamSreyanGuruHum  
+Ha Ha Ha Ha Ho Bhagvan Sarva Tathagata  
+Vajra Ma Me Muca Vajra Bhava Maha Samayasattva Ah  
 
 ### Multiplying Mantras and Mala (Blessing) Mantra
 
@@ -547,12 +548,14 @@ om̆̇ ye dharmā hetu prabhavā hetuṃ teṣāṃ tathāgato hyavadat teṣā�
 
 ### The Hundred Syllable Mantra
 
-om̆̇ vajrasattva samaya | manupālaya | vajrasattva tvenopa
-tiṣṭha dṛiḍho me bhava | sutokyo me bhava | supokyo me
-bhava | anurakto me bhava | sarva siddhimme prayaccha |
-sarva karmasu came | cittaṃ śreyaḥ kuru hūm̆̇ | ha ha ha
-ha hoḥ bhagāvan sarva tathāgata vajra māme muñca vajrī
-bhava mahā samaya sattva āḥ ||
+Om Vajrasattva Samaya Manupalaya  
+Vajrasattva Tenopadista Dritho Me Bhava  
+Sutokeyu Me Bhava Supokeyu Me Bhava  
+Anurakto Me Bhava Sarva Siddhi Me Drayata  
+SarvaKarmaSuca Me CittamSreyanGuruHum  
+Ha Ha Ha Ha Ho Bhagvan Sarva Tathagata  
+Vajra Ma Me Muca Vajra Bhava Maha Samayasattva Ah  
+[src](https://www.youtube.com/watch?v=uKy3zIoleCs)  
 
 
 ### Concluding Multiplying Mantras
