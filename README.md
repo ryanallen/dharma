@@ -5,6 +5,10 @@ Principles and practices that uphold the natural and moral order of the universe
 
 <audio controls src=".audio/preliminaries/preliminaries.mp3" title="Listen to 'A Practice of the Preliminaries of the Fivefold Mahamudra'"></audio>
 
+[![Listen to 'A Practice of the Preliminaries of the Fivefold Mahamudra'](https://i.sstatic.net/Vp2cE.png)](.audio/preliminaries/preliminaries_001.mp4)
+
+<video controls src=".audio/preliminaries/preliminaries_001.mp4" title="Title"></video>
+
 ![alt text](.imgs/garchen.png)
 
 By The Garchen Buddhist Institute
