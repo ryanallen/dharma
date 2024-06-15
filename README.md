@@ -75,7 +75,7 @@ Chenrezig King of Space
 
 ### Taking Refuge and Generating Bodhicitta
 
-<audio controls src=".audio/preliminaries/preliminaries_001.mp3" title="Listen to 'Taking Refuge and Generating Bodhicitta'"></audio>
+https://github.com/ryanallen/dharma/assets/1077040/deac2f6d-70bc-4c44-b18f-102621d11e01
 
 (*Recite three times.*)
 
