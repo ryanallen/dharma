@@ -23,7 +23,7 @@ Chenrezig King of Space
     - [Supplication to Vajradhara's Lineage](#supplication-to-vajradhāras-lineage)
     - [Seven Limb Prayer](#seven-limb-prayer)
     - [The Sanskrit Vowels and Consonants](#the-sanskrit-vowels-and-consonants)
-    - [Ye Dharma Mantra (The Essence of Dependency)](#ye-dharma-mantra-the-essence-of-dependency)
+    - [Ye Dharma Mantra (The Essence of the Dependent Origination Mantra)](#ye-dharma-mantra-the-essence-of-the-dependent-origination-mantra)
     - [The Hundred Syllable Mantra](#the-hundred-syllable-mantra)
     - [Multiplying Mantras and Mala (Blessing) Mantra](#multiplying-mantras-and-mala-blessing-mantra)
         - [From the Ārya Parinata Chakra Sūtra](#from-the-ārya-parinata-chakra-sūtra)
@@ -58,7 +58,7 @@ Chenrezig King of Space
 
 - [Closing](#closing)
     - [The Sanskrit Vowels and Consonants and The Essence of Dependency](#the-sanskrit-vowels-and-consonants)
-    - [Ye Dharma Mantra (The Essence of Dependency)](#ye-dharma-mantra-the-essence-of-dependency-1)
+    - [Ye Dharma Mantra (The Essence of the Dependent Origination Mantra)](#ye-dharma-mantra-the-essence-of-the-dependent-origination-mantra-1)
     - [The Hundred Syllable Mantra](#the-hundred-syllable-mantra-1)
     - [Concluding Multiplying Mantras](#concluding-multiplying-mantras)
     - [The Short Prayer to be Reborn in Blissful Land of Amitabha](#the-short-prayer-to-be-reborn-in-blissful-land-of-amitabha)
@@ -113,7 +113,7 @@ ka kha ga gha nga | ca cha ja jha ña | ṭa ṭha ḍa ḍha ṇa |
 ta tha da dha na | pa pha ba bha ma |  
 ya ra la va | śa ṣa sa ha kṣaḥ svāhā ||  
 
-### Ye Dharma Mantra (The Essence of Dependency)
+### Ye Dharma Mantra (The Essence of the Dependent Origination Mantra)
 
 (*Recite three times.*) 
 
@@ -562,7 +562,7 @@ ka kha ga gha nga | ca cha ja jha ña | ṭa ṭha ḍa ḍha ṇa |
 ta tha da dha na | pa pha ba bha ma | ya ra la va | śa ṣa sa ha
 kṣaḥ svāhā ||
 
-### Ye Dharma Mantra (The Essence of Dependency)
+### Ye Dharma Mantra (The Essence of the Dependent Origination Mantra)
 
 (*Recite three times.*) 
 
