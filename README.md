@@ -125,13 +125,40 @@ om̆̇ ye dharmā hetu prabhavā hetuṃ teṣāṃ tathāgato hyavadat teṣā�
 
 ### The Hundred Syllable Mantra
 
-Om Vajrasattva Samaya Manupalaya  
-Vajrasattva Tenopadista Dritho Me Bhava  
-Sutokeyu Me Bhava Supokeyu Me Bhava  
-Anurakto Me Bhava Sarva Siddhi Me Drayata  
-SarvaKarmaSuca Me CittamSreyanGuruHum  
-Ha Ha Ha Ha Ho Bhagvan Sarva Tathagata  
-Vajra Ma Me Muca Vajra Bhava Maha Samayasattva Ah  
+oṃ     
+<sup>Om is the supreme expression of praise.</sup>  
+vajrasattva samaya manupālaya vajrasattva  
+<sup>Vajrasattva, ensure your samaya remains intact.</sup>  
+tvenopatiṣṭha dṛḍho me bhava  
+<sup>Be steadfast in your care of me.</sup>   
+sutoṣyo me bhava  
+<sup>Grant me unqualified contentment.</sup>  
+supoṣyo me bhava  
+<sup>Enhance everything that is noble within me.</sup>  
+anurakto me bhava  
+<sup>Look after me.</sup>  
+sarvasiddhiṃ me prayaccha  
+<sup>Grant me all accomplishments,</sup>  
+sarvakarmasu ca me  
+<sup>And in everything I do</sup>  
+cittaṃ śreyaḥ kuru  
+<sup>Ensure my mind is virtuous.</sup>  
+hūṃ  
+<sup>The hūṃ syllable is Vajrasattva’s wisdom mind.</sup>  
+ha ha ha ha  
+<sup>These represent the four immeasurables, the four empowerments, the four joys, and the four kāyās.</sup>  
+hoḥ  
+<sup>What joy!</sup>  
+bhagavan sarvatathāgatavajra  
+<sup>Blessed One, who embodies all the tathāgatas, Vajra(sattva),</sup>  
+mā me muñca  
+<sup>Never abandon me!</sup>  
+vajrī bhava  
+<sup>Grant me the realization of vajra nature!</sup>  
+mahāsamayasattva  
+<sup>Great samayasattva,</sup>  
+āḥ  
+<sup>I am one with you.</sup>  
 
 ### Multiplying Mantras and Mala (Blessing) Mantra
 
@@ -546,16 +573,45 @@ om̆̇ ye dharmā hetu prabhavā hetuṃ teṣāṃ tathāgato hyavadat teṣā�
 
 ### The Hundred Syllable Mantra<sup>*</sup>
 
+(*Recite twenty times.*) 
+
 <sup>* "Since this is a Vajrasattva practice, the 100,000 accumulation will be for the Hundred Syllable Mantra." - MW</sup>
 
-Om Vajrasattva Samaya Manupalaya  
-Vajrasattva Tenopadista Dritho Me Bhava  
-Sutokeyu Me Bhava Supokeyu Me Bhava  
-Anurakto Me Bhava Sarva Siddhi Me Drayata  
-SarvaKarmaSuca Me CittamSreyanGuruHum  
-Ha Ha Ha Ha Ho Bhagvan Sarva Tathagata  
-Vajra Ma Me Muca Vajra Bhava Maha Samayasattva Ah  
-[src](https://www.youtube.com/watch?v=uKy3zIoleCs)  
+oṃ     
+<sup>Om is the supreme expression of praise.</sup>  
+vajrasattva samaya manupālaya vajrasattva  
+<sup>Vajrasattva, ensure your samaya remains intact.</sup>  
+tvenopatiṣṭha dṛḍho me bhava  
+<sup>Be steadfast in your care of me.</sup>   
+sutoṣyo me bhava  
+<sup>Grant me unqualified contentment.</sup>  
+supoṣyo me bhava  
+<sup>Enhance everything that is noble within me.</sup>  
+anurakto me bhava  
+<sup>Look after me.</sup>  
+sarvasiddhiṃ me prayaccha  
+<sup>Grant me all accomplishments,</sup>  
+sarvakarmasu ca me  
+<sup>And in everything I do</sup>  
+cittaṃ śreyaḥ kuru  
+<sup>Ensure my mind is virtuous.</sup>  
+hūṃ  
+<sup>The hūṃ syllable is Vajrasattva’s wisdom mind.</sup>  
+ha ha ha ha  
+<sup>These represent the four immeasurables, the four empowerments, the four joys, and the four kāyās.</sup>  
+hoḥ  
+<sup>What joy!</sup>  
+bhagavan sarvatathāgatavajra  
+<sup>Blessed One, who embodies all the tathāgatas, Vajra(sattva),</sup>  
+mā me muñca  
+<sup>Never abandon me!</sup>  
+vajrī bhava  
+<sup>Grant me the realization of vajra nature!</sup>  
+mahāsamayasattva  
+<sup>Great samayasattva,</sup>  
+āḥ  
+<sup>I am one with you.</sup>  
+*audio [src](https://www.youtube.com/watch?v=uKy3zIoleCs), english [src](https://www.bodhicittasangha.org/100-syllable-mantra/)*
 
 
 ### Concluding Multiplying Mantras
