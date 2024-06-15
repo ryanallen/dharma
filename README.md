@@ -17,6 +17,10 @@ Chenrezig King of Space
 
 ## Contents
 
+> Ngondro Online Vajrasattva Retreat  
+[1st Session in the Morning](#opening)  
+[2nd, 3rd and 4th Sessions of the Day](#generating-bodhicitta)
+
 - [Opening](#opening)
     - [Taking refuge and generating bodhicitta](#taking-refuge-and-generating-bodhicitta)
     - [ The Four Immeasurable](#the-four-immeasurable)
@@ -71,7 +75,7 @@ Chenrezig King of Space
 
 ## Opening
 
-(Start of 1st session)
+(Start of 1st session (<a href="https://www.dropbox.com/scl/fi/97ixuinhk8qh908sauxv0/Preliminaries-First-Session.mp3?rlkey=s764hpxy91km53fexnjfqhdy4&dl=0" target="_blank">audio</a>))
 
 ### Taking Refuge and Generating Bodhicitta
 
@@ -389,7 +393,7 @@ Alas! Sentient beings, like myself, marred by sins and evil karma...
 
 ### Generating Bodhicitta
 
-(Start of sessions 2-4)
+(Start of sessions 2-4 (<a href="https://www.dropbox.com/scl/fi/9bewde86g0q1ypjw72g40/Preliminaries-Additional-Sessions.mp3?rlkey=dj47l92qemh8xbo4zxhuvco0q&dl=0" target="_blank">audio</a>))
 
 (*Recite three times*)
 
