@@ -544,7 +544,9 @@ om̆̇ ye dharmā hetu prabhavā hetuṃ teṣāṃ tathāgato hyavadat teṣā�
 om̆̇ ye dharmā hetu prabhavā hetuṃ teṣāṃ tathāgato hyavadat teṣāṃ cayo nirodha evaṃ vādī mahā śramaṇaḥ svāhā 
 
 
-### The Hundred Syllable Mantra
+### The Hundred Syllable Mantra<sup>*</sup>
+
+<sup>* "Since this is a Vajrasattva practice, the 100,000 accumulation will be for the Hundred Syllable Mantra." - MW</sup>
 
 Om Vajrasattva Samaya Manupalaya  
 Vajrasattva Tenopadista Dritho Me Bhava  
