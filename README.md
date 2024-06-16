@@ -583,6 +583,8 @@ into me indivisibly.
 
 Having contemplated thus, even the notion of a deity dissolves into a state of luminous, natural awareness. Rest briefly in this state of beholding Vajrasattva’s actual face: the empty awareness, in which all concepts of something to be purified and someone who purifies lack inherent existence.
 
+<details>
+
 ### 2.3 The Mandala Offering: the Method for Gathering the Two Accumulations
 
 A sūtra says, “As long as one has not truly completed the two accumulations, one will not truly realize emptiness.” Furthermore, “The ultimate, innate wisdom is the mark that testifies to one having gathered the accumulations and purified obscurations.” Thus, it is crucial to gather the accumulations. While there are many methods for gathering the accumulations, the maṇḍala offering is supreme. A tantra says, “Through offering the entire billionfold universe, adorned with various desirable qualities, to all the buddhas in their pure realms, buddha wisdom is accomplished.” Thus, be diligent in the maṇḍala offering.
@@ -668,6 +670,8 @@ For countless lifetimes, mother sentient beings have been tormented by great evi
 Repeat this many times and gain an actual experience of compassion and bodhicitta within your mind. In all your daily activities, never separate from the wish to do whatever you can to bring benefit and happiness to all sentient beings. Within such practice, all precepts of the bodhisattva vow are included, and everything you do will become a practice of the six pāramitās. The benefits of bodhicitta are endless. The Avataṃsaka Sūtra states, “All the buddhas of the three times ultimately arise from the excellent, pure mind of bodhicitta—the treasure trove of merit. All the happiness of worldly beings arises from it. All goodness extolled by the victorious ones arises from it. It consumes the obscurations of all worlds. Without a doubt, it is through bodhicitta that one will become foremost among the victorious ones.” Furthermore, Lord Jigten Sumgön says in the Gongchik, “The Buddha is an embodiment of bodhicitta.” If bodhicitta is present, one cannot help but attain awakening. If it is absent, no matter what other practices, generation and completion stages, and so forth, one engages in, they will amount to nothing more than a facade. Therefore, as the three special preliminaries are the essence of all paths, practice them sincerely until they have taken birth within your mind-stream.
 
 Thinking that it would benefit many devoted and dedicated disciples to have a Ngöndro Sādhana of appropriate length, Dorzin Könchok Döndrup requested His Eminence Garchen Rinpoche to compose this text, supporting his request by offering a white katak scarf with the auspicious symbols printed on it and a hundred dollars. Moreover, several devotees from inside Tibet requested the composition of this text with great insistence. Thinking that it might be of benefit to his Dharma friends, who can see gold in a clod of dirt [humbly referring to Himself], the 8th Garchen Rinpoche, Könchok Gyaltsen, compiled this text in accordance with the structure of Dharmakīrti’s Oral Instructions on the Preliminaries of the Fivefold Path [of Mahāmudrā], while also including some lines taken from the instructions of other learned and accomplished masters of the past. This text was completed at the Garchen Buddhist Institute in the United States. The disciple Thubten Nima assisted, acting as Rinpoche’s scribe.
+
+</details>
 
 ## Closing
 ### The Sanskrit Vowels and Consonants and The Essence of Dependency
