@@ -459,8 +459,6 @@ Until death, I will apply my body, speech, and mind to virtue.
 
 From today until this time tomorrow, I will apply my body, speech, and mind to virtue.
 
-<details>
-
 ## 1. The Four Common, Outer Preliminaries
 ### 1.1 The Difficulty of Finding a Precious Human Body
 <details> 
@@ -521,7 +519,6 @@ Through your blessings, may the minds of myself and all sentient beings, limitle
 
 By supplicating thus with intense devotion, the field of accumulation melts into the nature of five-colored lights, which then dissolve into you. Thus, imagine that your mind-stream is blessed, and rest for a while in the natural state without reference point
 </details> 
-</details><br>
 
 ### 2.2 The Practice of Vajrasattva: the Method for Purifying Negativities and Obscurations
 <details> 
