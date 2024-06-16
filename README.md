@@ -900,13 +900,13 @@ Empty, spacious, openess, speech, in-between-breaths
 Union of openess and clarity, mind, exhale</sup>  
 commentary [src](https://www.youtube.com/watch?v=WaAbelZnEtM), audio [src](https://www.youtube.com/watch?v=BA7LXjESK2I)  
 
-<details>
-
 ### The Short Prayer to be Reborn in Blissful Land of Amitabha
+<details>
 
 Emaho! [In the center is] the wondrous Buddha Amitābha of Boundless Light. To his right is Chenrezig, the Lord of Great Compassion, and to his left is Vajrapāṇi, the Bodhisattva of Great Power. They are surrounded by buddhas and bodhisattvas, inconceivable in number—limitless peace and happiness is the pure land of Great Bliss. As soon as I and others pass from this life, may we—unhindered by another saṃsāric birth—be born there and see the face of Amitābha, Boundless Light! May the buddhas and bodhisattvas of the ten directions bless this aspiration that it may be accomplished without hindrance!
 
 tadyathā pañcandriya āwa bodhanāye svāhā
+</details>
 
 ### Dedication Prayers
 
