@@ -159,10 +159,8 @@ Whatever slight merit I have gathered through prostrating, offering, confessing,
 
 ### The Sanskrit Vowels and Consonants
 
-om̆̇ | a ā | i ī | u ū | ṛi ṛī | ḷi ḷī | e ai | o au | aṁ aḥ |  
-ka kha ga gha nga | ca cha ja jha ña | ṭa ṭha ḍa ḍha ṇa |  
-ta tha da dha na | pa pha ba bha ma |  
-ya ra la va | śa ṣa sa ha kṣaḥ svāhā ||  
+om̆̇ | a ā | i ī | u ū | ṛi ṛī | ḷi ḷī | e ai | o au | aṁ aḥ | ka kha ga gha nga | ca cha ja jha ña | ṭa ṭha ḍa ḍha ṇa | ta tha da dha na | pa pha ba bha ma | ya ra la va | śa ṣa sa ha kṣaḥ svāhā ||  
+audio [src](https://www.youtube.com/watch?v=9nnH5Jt3ikI)  
 
 ### Ye Dharma Mantra (The Essence of the Dependent Origination Mantra)
 
@@ -697,10 +695,9 @@ Thinking that it would benefit many devoted and dedicated disciples to have a Ng
 ## Closing
 ### The Sanskrit Vowels and Consonants and The Essence of Dependency
 
-om̆̇ | a ā | i ī | u ū | ṛi ṛī | ḷi ḷī | e ai | o au | aṁ aḥ |
-ka kha ga gha nga | ca cha ja jha ña | ṭa ṭha ḍa ḍha ṇa |
-ta tha da dha na | pa pha ba bha ma | ya ra la va | śa ṣa sa ha
-kṣaḥ svāhā ||
+om̆̇ | a ā | i ī | u ū | ṛi ṛī | ḷi ḷī | e ai | o au | aṁ aḥ | ka kha ga gha nga | ca cha ja jha ña | ṭa ṭha ḍa ḍha ṇa | ta tha da dha na | pa pha ba bha ma | ya ra la va | śa ṣa sa ha kṣaḥ svāhā ||  
+audio [src](https://www.youtube.com/watch?v=9nnH5Jt3ikI)  
+
 
 ### Ye Dharma Mantra (The Essence of the Dependent Origination Mantra)
 
