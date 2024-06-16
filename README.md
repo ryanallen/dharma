@@ -456,33 +456,37 @@ From today until this time tomorrow, I will apply my body, speech, and mind to v
 
 ## 1. The Four Common, Outer Preliminaries
 ### 1.1 The Difficulty of Finding a Precious Human Body
-
+<details> 
 Unless a true wish for liberation arises within you, your practice will not turn toward the Dharma. It will only turn toward the Dharma if you have a pure intention of renouncing saṃsāra. Therefore, reflect upon the freedoms and advantages of this precious human body that is so difficult to find, as an antidote to the deep-seated attachment to this life.
 
 Now that I have found this excellent support of freedom and advantage, which in the future, will be difficult to find again, I must practice to attain the state of unsurpassed awakening in order to fulfill the benefit of others.
+</details> 
 
 ### 1.2 Death and Impermanence
-
+<details> 
 As an antidote to sloth and laziness, reflect on the impermanence of life:
 
 Since the demonic Lord of Death is the enemy that hates my precious body, death is certain, but its timing is unknown. Therefore, I must recognize my own impermanence and that of others.
+</details> 
 
 ### 1.3 The Shortcomings of Samsara
-
+<details> 
 As an antidote to the belief that true happiness can be found within saṃsāric existence, reflect on the suffering of saṃsāra.
 
 Wherever I am born in the realms of saṃsāra, I have no chance at finding [true] wellbeing. Therefore, without concern for worldly pleasures, I enter the path of nirvāṇa.
+</details> 
 
 ### 1.4 Karma, Cause and Effect
-
+<details> 
 To make meaningful use of this body of freedom and advantage, reflect on karma, cause and effect.
 
 To make this life of freedom and advantage meaningful, I renounce the three poisonous emotions and unwholesome deeds. I will exert myself in virtuous actions and will protect the samaya and vows of the three doors.
 
 ![alt text](.imgs/offering-2.png)
+</details> 
 
 ## 2. The Four Uncommon, Inner Preliminaries
-
+<details> 
 Of the four uncommon preliminaries, first, in order to be taken under the protection of the Three Jewels, one takes refuge. Since taking refuge is the entrance door to Buddhism, the benefits of taking refuge in the Three Jewels with fully trusting faith, free from any doubts, are inconceivable. The Condensed Perfection of Wisdom says, “If the merit of taking refuge had material form, even the three worlds would be too small to contain it.” The White Lotus Sūtra says, “Lay or ordained, those who have entered my teachings will, in this very fortunate eon, attain complete nirvāṇa without residue.” 
 
 ---
@@ -490,9 +494,10 @@ Of the four uncommon preliminaries, first, in order to be taken under the protec
 ![alt text](.imgs/tree.jpg)
 
 ---
+</details> 
 
 ### 2.1 Taking Refuge in the Three Jewels
-
+<details> 
 Visualize the places of refuge with the intention of taking refuge in the Three Jewels for
 the purpose of freeing all sentient beings, limitless as space, from saṃsāra, the ocean of
 suffering.
@@ -508,11 +513,13 @@ Namo! In the Buddha: dharmakāya, guru, and empty essence; in the Dharma: saṃb
 Through your blessings, may the minds of myself and all sentient beings, limitless as space, turn toward the Dharma! Through your blessings, may my Dharma become the path! Through your blessings, may the path dispel confusion! Through your blessings, may confused appearances arise as primordial wisdom!
 
 By supplicating thus with intense devotion, the field of accumulation melts into the nature of five-colored lights, which then dissolve into you. Thus, imagine that your mind-stream is blessed, and rest for a while in the natural state without reference point
+</details> 
 
 ### 2.2 The Practice of Vajrasattva: the Method for Purifying Negativities and Obscurations
-
+<details> 
 Negativities, obscurations, and karmic imprints hinder the realization of the profound meaning of Dharma. Therefore, it is necessary to purify one’s obscurations, just as it is necessary to wipe a mirror in order for a reflection to appear. It is said, “Though negativities themselves have no good qualities, the benefit of negativities is that they can be purified if confessed.” Thus, no matter how grave your negativities and obscurations are, if you confess them properly, they must become purified. Although there are many ways to confess, the supreme method is the meditation and recitation of Vajrasattva. The Stainless Confession Tantra says, “Vajrasattva himself has promised that the negativities and obscurations of someone who recites the Hundred Syllable Mantra, which is the essence of all the sugatas of the three times, will become completely purified.” Therefore,
 engage in the practice properly.
+</details> 
 
 ![alt text](.imgs/vajrasattva.png)
 
