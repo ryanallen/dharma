@@ -30,22 +30,22 @@ If you are unable to complete 100,000 recitations of the mantra by October 5, yo
 ### PAGE TURNING INSTRUCTIONS for New Version of Tibetan, English and Chinese
 
 For accumulation of Guru Yoga use of this text:  
-*A Practice of the Preliminaries of the Fivefold Mahamudra*
+*[A Practice of the Preliminaries of the Fivefold Mahamudra](.src/PaiYin_Ngondro-Sadhana_V26.17_藏英中_20231101-1.pdf)*
 
 Pages 1 - 24 [Opening Prayers](#opening) ([First session of each day only](#opening))  
 Pages 35 - 41 [Vajrasattva Ngondro Practice](#the-excellent-path-to-enlightenment-a-practice-of-the-preliminaries-of-the-fivefold-path-of-mahāmudrā)  
 Pages 77 - 98 [Closing Prayers](#closing) (Last session of each day only)  
 
-HOW TO NAVIGATE THE SADHANA FOR 4 SESSIONS:  
+### HOW TO NAVIGATE THE SADHANA FOR 4 SESSIONS:  
 
-Opening:  
-1st Session in the Morning - Pages 1 - 18  
+#### Opening:  
+[1st Session in the Morning](#opening) - Pages 1 - 18  
 [2nd, 3rd and 4th Sessions of the Day](#generating-bodhicitta) - Pages 16 - 24  
 
-Practice:  
+#### Practice:  
 [Vajrasattva Ngondro Practice](#the-excellent-path-to-enlightenment-a-practice-of-the-preliminaries-of-the-fivefold-path-of-mahāmudrā) - Pages 35 - 41  
 
-Closing:  
+#### Closing:  
 [Closing Prayers for Mid-Day Sessions](#closing) - Pages 77 - 80  
 [Dedication Prayer for Mid-Day Sessions](#dedication-prayers) - Choose either page 85 or 86 or 87  
 [Last Session of the Day](#closing) - Pages 77 - 98  
