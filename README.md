@@ -118,7 +118,7 @@ Chenrezig King of Space
 
 ## Opening
 
-(Start of 1st session (<a href="https://www.dropbox.com/scl/fi/97ixuinhk8qh908sauxv0/Preliminaries-First-Session.mp3?rlkey=s764hpxy91km53fexnjfqhdy4&dl=0" target="_blank">audio</a>))
+(Start of 1st session (<a href="https://www.dropbox.com/scl/fi/vdundow5orish1x12djs3/Preliminaries-Daily-1.mp3?rlkey=t7yzfh7y1dpdnks5euyv4wrhq&dl=0" target="_blank">audio</a>))
 
 ### Taking Refuge and Generating Bodhicitta
 
@@ -437,7 +437,7 @@ Alas! Sentient beings, like myself, marred by sins and evil karma...
 
 ### Generating Bodhicitta
 
-(Start of sessions 2-4 (<a href="https://www.dropbox.com/scl/fi/9bewde86g0q1ypjw72g40/Preliminaries-Additional-Sessions.mp3?rlkey=dj47l92qemh8xbo4zxhuvco0q&dl=0" target="_blank">audio</a>))
+(Start of sessions (<a href="https://www.dropbox.com/scl/fi/8i6bongn6beclg8senou5/Preliminaries-Daily-2.mp3?rlkey=8r5y0vyjuhdzk9l02lk0ubn2q&dl=0" target="_blank">2</a>, <a href="https://www.dropbox.com/scl/fi/dor2b88b022n3jbrgyomv/Preliminaries-Daily-3.mp3?rlkey=6s1fo6mhzl2rpxhv30iv0af0x&dl=0" target="_blank">3</a>, and <a href="https://www.dropbox.com/scl/fi/wk3oj36et7ld2el21edfy/Preliminaries-Daily-4.mp3?rlkey=dybeta9n6ckuowyh3o8f03nmb&dl=0" target="_blank">4</a>))
 
 (*Recite three times*)
 
@@ -888,6 +888,7 @@ Empty, spacious, openess, speech, in-between-breaths
 Union of openess and clarity, mind, exhale</sup>  
 commentary [src](https://www.youtube.com/watch?v=WaAbelZnEtM), audio [src](https://www.youtube.com/watch?v=BA7LXjESK2I)  
 
+<details>
 
 ### The Short Prayer to be Reborn in Blissful Land of Amitabha
 
