@@ -204,7 +204,7 @@ audio [src](https://www.youtube.com/watch?v=Pr7lZlDkRjQ), commentary [src](https
 
 oṃ     
 <sup>Om is the supreme expression of praise.</sup>  
-va·jra·satt·va sa·m·aya man·u·pā·laya va·jra·satt·va  
+va·jra·satt·va sa·ma·ya ma·nu·pā·la·ya va·jra·satt·va  
 <sup>Vajrasattva, ensure your samaya remains intact.</sup>  
 tven·o·pa·tiṣ·ṭha dṛḍ·ho me bha·va  
 <sup>Be steadfast in your care of me.</sup>   
@@ -212,11 +212,11 @@ su·to·ṣyo me bha·va
 <sup>Grant me unqualified contentment.</sup>  
 su·po·ṣyo me bha·va  
 <sup>Enhance everything that is noble within me.</sup>  
-anur·akto me bha·va  
+nur·ak·to me bha·va  
 <sup>Look after me.</sup>  
 sar·va·sidd·hiṃ me pray·acch·a  
 <sup>Grant me all accomplishments,</sup>  
-sarva·karma·su ca me  
+sar·va·kar·ma·su ca me  
 <sup>And in everything I do</sup>  
 citt·aṃ śrey·aḥ ku·ru  
 <sup>Ensure my mind is virtuous.</sup>  
@@ -232,7 +232,7 @@ mā me muñ·ca
 <sup>Never abandon me!</sup>  
 va·jrī bha·va  
 <sup>Grant me the realization of vajra nature!</sup>  
-ma·hā·sa·maya·satt·va  
+ma·hā·sa·ma·ya·satt·va  
 <sup>Great samayasattva,</sup>  
 āḥ  
 <sup>I am one with you.</sup>  
@@ -741,7 +741,7 @@ audio [src](https://www.youtube.com/watch?v=Pr7lZlDkRjQ), commentary [src](https
 
 oṃ     
 <sup>Om is the supreme expression of praise.</sup>  
-va·jra·satt·va sa·m·aya man·u·pā·laya va·jra·satt·va  
+va·jra·satt·va sa·ma·ya ma·nu·pā·la·ya va·jra·satt·va  
 <sup>Vajrasattva, ensure your samaya remains intact.</sup>  
 tven·o·pa·tiṣ·ṭha dṛḍ·ho me bha·va  
 <sup>Be steadfast in your care of me.</sup>   
@@ -749,11 +749,11 @@ su·to·ṣyo me bha·va
 <sup>Grant me unqualified contentment.</sup>  
 su·po·ṣyo me bha·va  
 <sup>Enhance everything that is noble within me.</sup>  
-anur·akto me bha·va  
+nur·ak·to me bha·va  
 <sup>Look after me.</sup>  
 sar·va·sidd·hiṃ me pray·acch·a  
 <sup>Grant me all accomplishments,</sup>  
-sarva·karma·su ca me  
+sar·va·kar·ma·su ca me  
 <sup>And in everything I do</sup>  
 citt·aṃ śrey·aḥ ku·ru  
 <sup>Ensure my mind is virtuous.</sup>  
@@ -769,7 +769,7 @@ mā me muñ·ca
 <sup>Never abandon me!</sup>  
 va·jrī bha·va  
 <sup>Grant me the realization of vajra nature!</sup>  
-ma·hā·sa·maya·satt·va  
+ma·hā·sa·ma·ya·satt·va  
 <sup>Great samayasattva,</sup>  
 āḥ  
 <sup>I am one with you.</sup>  
