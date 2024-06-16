@@ -159,8 +159,24 @@ Whatever slight merit I have gathered through prostrating, offering, confessing,
 
 ### The Sanskrit Vowels and Consonants
 
-om̆̇ | a ā | i ī | u ū | ṛi ṛī | ḷi ḷī | e ai | o au | aṁ aḥ | ka kha ga gha nga | ca cha ja jha ña | ṭa ṭha ḍa ḍha ṇa | ta tha da dha na | pa pha ba bha ma | ya ra la va | śa ṣa sa ha kṣaḥ svāhā ||  
-audio [src](https://www.youtube.com/watch?v=9nnH5Jt3ikI)  
+om̆̇  
+a ā  
+i ī  
+u ū  
+ṛi ṛī  
+ḷī   
+e ai  
+o au  
+aṁ aḥ  
+ka kha ga gha nga  
+ca cha ja jha ña  
+ṭa ṭha ḍa ḍha ṇa  
+ta tha da dha na  
+pa pha ba bha ma  
+ya ra la va  
+śa ṣa sa ha kṣaḥ  
+svāhā  
+<sub>audio [src](https://www.youtube.com/watch?v=9nnH5Jt3ikI)</sub>  
 
 ### Ye Dharma Mantra (The Essence of the Dependent Origination Mantra)
 
@@ -193,8 +209,8 @@ he·tuṃ te·ṣāṃ ta·thā·ga·ta hy·a·va·dat
 te·ṣāṃ ca yo ni·ro·dha  
 <sup>and also that which puts a stop to these causes</sup>  
 ev·aṃ vā·dī ma·hā śra·ma·ṇaḥ svā·hā  
-<sup>this too has been taught by the Great Shramana.</sup> 
-audio [src](https://www.youtube.com/watch?v=Pr7lZlDkRjQ), commentary [src](https://www.youtube.com/watch?v=iZ_VJ0bdc94)  
+<sup>this too has been taught by the Great Shramana.</sup>  
+<sub>audio [src](https://www.youtube.com/watch?v=Pr7lZlDkRjQ), commentary [src](https://www.youtube.com/watch?v=iZ_VJ0bdc94)</sub>  
 
 ![alt text](.imgs/offering.png)
 
@@ -236,7 +252,7 @@ ma·hā·sa·ma·ya·satt·va
 <sup>Great samayasattva,</sup>  
 āḥ  
 <sup>I am one with you.</sup>  
-*audio [src](https://www.youtube.com/watch?v=uKy3zIoleCs), english [src](https://www.bodhicittasangha.org/100-syllable-mantra/)*
+<sub>audio [src](https://www.youtube.com/watch?v=uKy3zIoleCs), english [src](https://www.bodhicittasangha.org/100-syllable-mantra/)</sub>
 
 ### Multiplying Mantras and Mala (Blessing) Mantra
 
@@ -415,7 +431,7 @@ om̆̇ āḥ hūm
 <sup>Wisdom, clarity, consciousness, body, inbreath  
 Empty, spacious, openess, speech, in-between-breaths  
 Union of openess and clarity, mind, exhale</sup>  
-commentary [src](https://www.youtube.com/watch?v=WaAbelZnEtM), audio [src](https://www.youtube.com/watch?v=BA7LXjESK2I)
+<sub>commentary [src](https://www.youtube.com/watch?v=WaAbelZnEtM), audio [src](https://www.youtube.com/watch?v=BA7LXjESK2I)</sub>
 
 ## The Excellent Path to Enlightenment: A Practice of the Preliminaries of the Fivefold Path of Mahāmudrā
 
@@ -580,7 +596,7 @@ ma·hā·sa·ma·ya·satt·va
 <sup>Great samayasattva,</sup>  
 āḥ  
 <sup>I am one with you.</sup>  
-*audio [src](https://www.youtube.com/watch?v=uKy3zIoleCs), english [src](https://www.bodhicittasangha.org/100-syllable-mantra/)*
+<sub>audio [src](https://www.youtube.com/watch?v=uKy3zIoleCs), english [src](https://www.bodhicittasangha.org/100-syllable-mantra/)</sub>
 
 In the darkness of ignorance, I have gone astray and breached samaya. Guru, protector, please give me refuge! Chief vajra holder, nature of great compassion, lord of all beings, I take refuge in you!
 
@@ -695,8 +711,24 @@ Thinking that it would benefit many devoted and dedicated disciples to have a Ng
 ## Closing
 ### The Sanskrit Vowels and Consonants and The Essence of Dependency
 
-om̆̇ | a ā | i ī | u ū | ṛi ṛī | ḷi ḷī | e ai | o au | aṁ aḥ | ka kha ga gha nga | ca cha ja jha ña | ṭa ṭha ḍa ḍha ṇa | ta tha da dha na | pa pha ba bha ma | ya ra la va | śa ṣa sa ha kṣaḥ svāhā ||  
-audio [src](https://www.youtube.com/watch?v=9nnH5Jt3ikI)  
+om̆̇  
+a ā  
+i ī  
+u ū  
+ṛi ṛī  
+ḷī   
+e ai  
+o au  
+aṁ aḥ  
+ka kha ga gha nga  
+ca cha ja jha ña  
+ṭa ṭha ḍa ḍha ṇa  
+ta tha da dha na  
+pa pha ba bha ma  
+ya ra la va  
+śa ṣa sa ha kṣaḥ  
+svāhā  
+<sub>audio [src](https://www.youtube.com/watch?v=9nnH5Jt3ikI)</sub>   
 
 
 ### Ye Dharma Mantra (The Essence of the Dependent Origination Mantra)
@@ -730,8 +762,8 @@ he·tuṃ te·ṣāṃ ta·thā·ga·ta hy·a·va·dat
 te·ṣāṃ ca yo ni·ro·dha  
 <sup>and also that which puts a stop to these causes</sup>  
 ev·aṃ vā·dī ma·hā śra·ma·ṇaḥ svā·hā  
-<sup>this too has been taught by the Great Shramana.</sup> 
-audio [src](https://www.youtube.com/watch?v=Pr7lZlDkRjQ), commentary [src](https://www.youtube.com/watch?v=iZ_VJ0bdc94) 
+<sup>this too has been taught by the Great Shramana.</sup>  
+<sub>audio [src](https://www.youtube.com/watch?v=Pr7lZlDkRjQ), commentary [src](https://www.youtube.com/watch?v=iZ_VJ0bdc94)</sub>
 
 
 ### The Hundred Syllable Mantra<sup>*</sup>
@@ -776,7 +808,7 @@ ma·hā·sa·ma·ya·satt·va
 <sup>Great samayasattva,</sup>  
 āḥ  
 <sup>I am one with you.</sup>  
-*audio [src](https://www.youtube.com/watch?v=uKy3zIoleCs), english [src](https://www.bodhicittasangha.org/100-syllable-mantra/)*
+<sub>audio [src](https://www.youtube.com/watch?v=uKy3zIoleCs), english [src](https://www.bodhicittasangha.org/100-syllable-mantra/)</sub>
 
 
 ### Concluding Multiplying Mantras
@@ -908,7 +940,7 @@ om̆̇ āḥ hūm
 <sup>Wisdom, clarity, consciousness, body, inbreath  
 Empty, spacious, openess, speech, in-between-breaths  
 Union of openess and clarity, mind, exhale</sup>  
-commentary [src](https://www.youtube.com/watch?v=WaAbelZnEtM), audio [src](https://www.youtube.com/watch?v=BA7LXjESK2I)  
+<sub>commentary [src](https://www.youtube.com/watch?v=WaAbelZnEtM), audio [src](https://www.youtube.com/watch?v=BA7LXjESK2I)</sub>
 
 [**Go to Dedication - all daily practices except the last -->**](#dedication-prayers)
 
