@@ -1,6 +1,53 @@
 # Dharma
 Principles and practices that uphold the natural and moral order of the universe from a Buddhist point of view.
 
+# Ngondro Online Vajrasattva Retreat
+
+> [1st Session in the Morning](#opening)  
+[2nd, 3rd and 4th Sessions of the Day](#generating-bodhicitta)
+[Contents](#contents)
+
+## with Venerable Khenpo Tenzin
+
+![Vajrasattva](.imgs/vajrasattva.jpg)
+
+> The main obstacles that prevent all the extraordinary experiences and realizations of the profound path from arising are negative actions, obscurations, and habitual tendencies. Just as it is important to clean the surface of a mirror if forms are to be reflected in it, so too it is important to eliminate our obscurations so that realization can appear like a reflection in the mirror of the Ground of All. The Buddha taught countless methods of purification for this purpose, but the best of them all is meditation and recitation related to the teacher as Vajrasattva.   
+> 
+> ~ Patrul Rinpoche (1808-87)
+
+### COMMITMENT / SAMAYA
+
+The commitment you need to make in order to participant is to promise to do at minimum one session purely, with no distractions of any kind, every day starting from June 16 to October 4. Participants must commit to doing the entire retreat and watch the online class once a week for instruction. This retreat will be restricted for the participants and will not be accessible on our public YouTube channel.
+
+Khenpo Tenzin recognizes that each person’s conditions will vary and some may work full time, part time, or be retired. However at minimum you will be required to do one session of practice everyday for the Vajrasattva ngondro retreat and work towards a total of 100,000 accumulations. Four sessions a day is traditional for a retreat and is best. Yet if you only have time to do 1, 2 or 3 sessions a day, that is also acceptable.
+
+If you are unable to complete 100,000 recitations of the mantra by October 5, you may continue with your accumulations until you complete them. However you can only count mantras if you are seated for a formal session, not when you are doing other activities such as walking, etc. 
+
+---
+
+### PAGE TURNING INSTRUCTIONS for New Version of Tibetan, English and Chinese
+
+For accumulation of Guru Yoga use of this text:  
+*A Practice of the Preliminaries of the Fivefold Mahamudra*
+
+Pages 1 - 24 [Opening Prayers](#opening) ([First session of each day only](#opening))  
+Pages 35 - 41 [Vajrasattva Ngondro Practice](#the-excellent-path-to-enlightenment-a-practice-of-the-preliminaries-of-the-fivefold-path-of-mahāmudrā)  
+Pages 77 - 98 [Closing Prayers](#closing) (Last session of each day only)  
+
+HOW TO NAVIGATE THE SADHANA FOR 4 SESSIONS:  
+
+Opening:  
+1st Session in the Morning - Pages 1 - 18  
+[2nd, 3rd and 4th Sessions of the Day](#generating-bodhicitta) - Pages 16 - 24  
+
+Practice:  
+Vajrasattva Ngondro Practice - Pages 35 - 41  
+
+Closing:  
+Closing Prayers for Mid-Day Sessions - Pages 77 - 80  
+Dedication Prayer for Mid-Day Sessions - Choose either page 85 or 86 or 87  
+Last Session of the Day - Pages 77 - 98  
+
 # A PRACTICE OF THE PRELIMINARIES OF THE FIVEFOLD MAHAMUDRA
 
 ![alt text](.imgs/garchen.png)
@@ -17,13 +64,9 @@ Chenrezig King of Space
 
 ## Contents
 
-> Ngondro Online Vajrasattva Retreat  
-[1st Session in the Morning](#opening)  
-[2nd, 3rd and 4th Sessions of the Day](#generating-bodhicitta)
-
 - [Opening](#opening)
     - [Taking refuge and generating bodhicitta](#taking-refuge-and-generating-bodhicitta)
-    - [ The Four Immeasurable](#the-four-immeasurable)
+    - [The Four Immeasurable](#the-four-immeasurable)
     - [Supplication to Vajradhara's Lineage](#supplication-to-vajradhāras-lineage)
     - [Seven Limb Prayer](#seven-limb-prayer)
     - [The Sanskrit Vowels and Consonants](#the-sanskrit-vowels-and-consonants)
