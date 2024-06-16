@@ -32,7 +32,7 @@ If you are unable to complete 100,000 recitations of the mantra by October 5, yo
 For accumulation of Guru Yoga use of this text:  
 *[A Practice of the Preliminaries of the Fivefold Mahamudra](.src/PaiYin_Ngondro-Sadhana_V26.17_藏英中_20231101-1.pdf)*
 
-Pages 1 - 24 [Opening Prayers](#opening) ([First session of each day only](#opening))  
+Pages 1 - 24 [Opening Prayers](#opening) (First session of each day only)  
 Pages 35 - 41 [Vajrasattva Ngondro Practice](#the-excellent-path-to-enlightenment-a-practice-of-the-preliminaries-of-the-fivefold-path-of-mahāmudrā)  
 Pages 77 - 98 [Closing Prayers](#closing) (Last session of each day only)  
 
