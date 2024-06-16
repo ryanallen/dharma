@@ -230,6 +230,7 @@ mahāsamayasattva
 <sup>Great samayasattva,</sup>  
 āḥ  
 <sup>I am one with you.</sup>  
+*audio [src](https://www.youtube.com/watch?v=uKy3zIoleCs), english [src](https://www.bodhicittasangha.org/100-syllable-mantra/)*
 
 ### Multiplying Mantras and Mala (Blessing) Mantra
 
@@ -539,12 +540,41 @@ Having supplicated thus, a stream of bodhicitta nectar emerges from the seed syl
 
 (*Recite the Hundred-Syllable Mantra.*)
 
-om̆̇ vajrasattva samaya | manupālaya | vajrasattva tvenopa  
-tiṣṭha dṛiḍho me bhava | sutokyo me bhava | supokyo me bhava  
-| anurakto me bhava | sarva siddhimme prayaccha | sarva  
-karmasu came | cittaṃ śreyaḥ kuru hūm̆̇ | ha ha ha ha hoḥ  
-bhagāvan sarva tathāgata vajra māme muñca vajrī bhava mahā  
-samaya sattva āḥ || 
+oṃ     
+<sup>Om is the supreme expression of praise.</sup>  
+vajrasattva samaya manupālaya vajrasattva  
+<sup>Vajrasattva, ensure your samaya remains intact.</sup>  
+tvenopatiṣṭha dṛḍho me bhava  
+<sup>Be steadfast in your care of me.</sup>   
+sutoṣyo me bhava  
+<sup>Grant me unqualified contentment.</sup>  
+supoṣyo me bhava  
+<sup>Enhance everything that is noble within me.</sup>  
+anurakto me bhava  
+<sup>Look after me.</sup>  
+sarvasiddhiṃ me prayaccha  
+<sup>Grant me all accomplishments,</sup>  
+sarvakarmasu ca me  
+<sup>And in everything I do</sup>  
+cittaṃ śreyaḥ kuru  
+<sup>Ensure my mind is virtuous.</sup>  
+hūṃ  
+<sup>The hūṃ syllable is Vajrasattva’s wisdom mind.</sup>  
+ha ha ha ha  
+<sup>These represent the four immeasurables, the four empowerments, the four joys, and the four kāyās.</sup>  
+hoḥ  
+<sup>What joy!</sup>  
+bhagavan sarvatathāgatavajra  
+<sup>Blessed One, who embodies all the tathāgatas, Vajra(sattva),</sup>  
+mā me muñca  
+<sup>Never abandon me!</sup>  
+vajrī bhava  
+<sup>Grant me the realization of vajra nature!</sup>  
+mahāsamayasattva  
+<sup>Great samayasattva,</sup>  
+āḥ  
+<sup>I am one with you.</sup>  
+*audio [src](https://www.youtube.com/watch?v=uKy3zIoleCs), english [src](https://www.bodhicittasangha.org/100-syllable-mantra/)*
 
 In the darkness of ignorance, I have gone astray and breached samaya. Guru, protector, please give me refuge! Chief vajra holder, nature of great compassion, lord of all beings, I take refuge in you!
 
