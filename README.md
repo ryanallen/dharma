@@ -108,7 +108,7 @@ Chenrezig King of Space
     - [3.3 Third, Cultivating Bodhicitta](#33-third-cultivating-bodhicitta)
 
 - [Closing](#closing)
-    - [The Sanskrit Vowels and Consonants and The Essence of Dependency](#the-sanskrit-vowels-and-consonants)
+    - [The Sanskrit Vowels and Consonants and The Essence of Dependency](#the-sanskrit-vowels-and-consonants-and-the-essence-of-dependency)
     - [Ye Dharma Mantra (The Essence of the Dependent Origination Mantra)](#ye-dharma-mantra-the-essence-of-the-dependent-origination-mantra-1)
     - [The Hundred Syllable Mantra](#the-hundred-syllable-mantra-1)
     - [Concluding Multiplying Mantras](#concluding-multiplying-mantras)
