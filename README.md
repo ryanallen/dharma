@@ -461,34 +461,35 @@ From today until this time tomorrow, I will apply my body, speech, and mind to v
 
 ## 1. The Four Common, Outer Preliminaries
 ### 1.1 The Difficulty of Finding a Precious Human Body
-<details> 
+
 Unless a true wish for liberation arises within you, your practice will not turn toward the Dharma. It will only turn toward the Dharma if you have a pure intention of renouncing saṃsāra. Therefore, reflect upon the freedoms and advantages of this precious human body that is so difficult to find, as an antidote to the deep-seated attachment to this life.
 
 Now that I have found this excellent support of freedom and advantage, which in the future, will be difficult to find again, I must practice to attain the state of unsurpassed awakening in order to fulfill the benefit of others.
-</details> 
+
 
 ### 1.2 Death and Impermanence
-<details> 
+
 As an antidote to sloth and laziness, reflect on the impermanence of life:
 
 Since the demonic Lord of Death is the enemy that hates my precious body, death is certain, but its timing is unknown. Therefore, I must recognize my own impermanence and that of others.
-</details> 
+
 
 ### 1.3 The Shortcomings of Samsara
-<details> 
+
 As an antidote to the belief that true happiness can be found within saṃsāric existence, reflect on the suffering of saṃsāra.
 
 Wherever I am born in the realms of saṃsāra, I have no chance at finding [true] wellbeing. Therefore, without concern for worldly pleasures, I enter the path of nirvāṇa.
-</details> 
+
 
 ### 1.4 Karma, Cause and Effect
-<details> 
+
 To make meaningful use of this body of freedom and advantage, reflect on karma, cause and effect.
 
 To make this life of freedom and advantage meaningful, I renounce the three poisonous emotions and unwholesome deeds. I will exert myself in virtuous actions and will protect the samaya and vows of the three doors.
 
 ![alt text](.imgs/offering-2.png)
-</details> 
+
+[**Go to Vjarasattva practice -->**](#22-the-practice-of-vajrasattva-the-method-for-purifying-negativities-and-obscurations)  
 
 ## 2. The Four Uncommon, Inner Preliminaries
 <details> 
@@ -583,6 +584,8 @@ To this supplication, Vajrasattva responds, “O child of noble family, all your
 into me indivisibly. 
 
 Having contemplated thus, even the notion of a deity dissolves into a state of luminous, natural awareness. Rest briefly in this state of beholding Vajrasattva’s actual face: the empty awareness, in which all concepts of something to be purified and someone who purifies lack inherent existence.
+
+[**Go to closing practice -->**](#closing-1)
 
 ### 2.3 The Mandala Offering: the Method for Gathering the Two Accumulations
 <details>
@@ -900,6 +903,8 @@ Empty, spacious, openess, speech, in-between-breaths
 Union of openess and clarity, mind, exhale</sup>  
 commentary [src](https://www.youtube.com/watch?v=WaAbelZnEtM), audio [src](https://www.youtube.com/watch?v=BA7LXjESK2I)  
 
+[**Go to Dedication -->**](#dedication-prayers) (All but the last daily practice)  
+
 ### The Short Prayer to be Reborn in Blissful Land of Amitabha
 
 Emaho! In the center is the wondrous Buddha Amitābha of Boundless Light. To his right is Chenrezig, the Lord of Great Compassion, and to his left is Vajrapāṇi, the Bodhisattva of Great Power. They are surrounded by buddhas and bodhisattvas, inconceivable in number—limitless peace and happiness is the pure land of Great Bliss. As soon as I and others pass from this life, may we—unhindered by another saṃsāric birth—be born there and see the face of Amitābha, Boundless Light! May the buddhas and bodhisattvas of the ten directions bless this aspiration that it may be accomplished without hindrance!
@@ -910,12 +915,11 @@ tadyathā pañcandriya āwa bodhanāye svāhā
 
 May bodhicitta, the precious and supreme mind, arise in whom it has not yet arisen! Where it has arisen, may it not decline, but ever increase higher and higher!
 
-By this merit may I obtain omniscience or [at least] defeat the enemies—my wrongdoings—may I liberate all beings who are tossed in the ocean of saṃsāra by the waves of birth, old age, sickness, and death!
+*(1st)* By this merit may I obtain omniscience or [at least] defeat the enemies—my wrongdoings—may I liberate all beings who are tossed in the ocean of saṃsāra by the waves of birth, old age, sickness, and death!
 
-Just as the hero Mañjushrī realized things as they are and as did Samantabhadra too, I will follow in their path by perfectly dedicating all of these virtues!
+*(2nd)* Just as the hero Mañjushrī realized things as they are and as did Samantabhadra too, I will follow in their path by perfectly dedicating all of these virtues!
 
-By the blessing of the buddhas who attained the three kāyas, by the blessing of the truth of the unchanging nature of
-reality, and by the blessing of the undivided Sangha community, may my aspirations be fulfilled according to this dedication prayer!
+*(3rd)* By the blessing of the buddhas who attained the three kāyas, by the blessing of the truth of the unchanging nature of reality, and by the blessing of the undivided Sangha community, may my aspirations be fulfilled according to this dedication prayer!
 
 By the virtues collected in the three times by myself and all beings in saṃsāra and nirvāṇa, and by the intrinsic root of virtue, may I and all sentient beings quickly attain unsurpassed, perfect, complete, and precious awakening!
 
