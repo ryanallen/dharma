@@ -584,20 +584,25 @@ into me indivisibly.
 
 Having contemplated thus, even the notion of a deity dissolves into a state of luminous, natural awareness. Rest briefly in this state of beholding Vajrasattva’s actual face: the empty awareness, in which all concepts of something to be purified and someone who purifies lack inherent existence.
 
-<details>
-
 ### 2.3 The Mandala Offering: the Method for Gathering the Two Accumulations
+<details>
 
 A sūtra says, “As long as one has not truly completed the two accumulations, one will not truly realize emptiness.” Furthermore, “The ultimate, innate wisdom is the mark that testifies to one having gathered the accumulations and purified obscurations.” Thus, it is crucial to gather the accumulations. While there are many methods for gathering the accumulations, the maṇḍala offering is supreme. A tantra says, “Through offering the entire billionfold universe, adorned with various desirable qualities, to all the buddhas in their pure realms, buddha wisdom is accomplished.” Thus, be diligent in the maṇḍala offering.
 
 ![alt text](.imgs/tree.jpg)
+</details>
 
 #### 2.3.1 Visualizing the Field of Accumulation
+<details>
+
 In the space before me, in the center of a wish-granting tree that emerges from a lake, on a precious throne that sits beneath a lotus and moon, is Great Vajradhāra—the presiding master of all buddha families—surrounded by the ocean of accomplished Kagyü masters. In front is the Blessed Lord Chakrasaṃvara together with a host of yidam deities of the four and six classes of tantra. To his right are the buddhas of the three times, endowed with the major and minor marks, together with the thousand buddhas of this Fortunate Eon. Behind is the Great Mother of Transcendent Wisdom and volumes of sūtras and tantras, naturally echoing the sound of Dharma. To his left are the bodhisattva-protectors of the three families surrounded by the noble Sangha of Bodhisattvas. Surrounding everything are oceans of oath-bound protectors, gathering like billowing clouds.
 
 In the presence of this visualized merit-field, think that you offer yourself, everything you own, the universe and all beings, and all the glories and riches of gods and humans.
+</details>
 
 #### 2.3.2 The Thirty-Sevenfold Maṇḍala Offering
+
+<details>
 
 ![alt text](.imgs/mandala.png)
 
@@ -628,9 +633,10 @@ To the assembly of gurus with three kāyas perfectly complete, I make outer, inn
 
 At the end of this recitation, the field of accumulation dissolves into you. The fundamental nature of the one who offers, the recipient of the offering, and the offering itself transcend all names and characteristics. Rest briefly within this unaltered state of mahāmudrā—
 the ultimate maṇḍala, which is the natural state.
-
+</details>
 
 ### 2.4 The Practice of Guru Yoga to Instill Blessings in the Mind
+<details>
 
 The only way to realize the natural state of Mahamudra is through a devotion that sees the guru as the Buddha and from the power of blessings received from that guru. In a sūtra it says, “The ultimate truth is realized through faith.” In a tantra it says, “Better than meditating on a hundred-thousand deities for ten million eons is to think of the guru for a single moment.” Lord Jigten Sumgön said, “Unless the sun of devotion shines upon the snow mountain of the guru’s four kāyas, the stream of blessings will not emerge. Therefore, apply your mind assiduously in the practice of devotion.” As mentioned here and in various other sources, one should be diligent in the practice of Guru Yoga, as it causes the guru’s blessings to enter one’s mind.
 
@@ -648,21 +654,27 @@ Root guru, who embodies all the buddhas, I pray to you with a single-minded, lon
 empowerments; the four obscurations are purified, one by one; and I actualize the four kāyas. Then, the guru dissolves into me, and I evenly rest in an inseparable state.
 
 Thus, having merged your mind indivisibly with the guru’s mind, rest within a non-referential state. In all circumstances throughout the post-meditative state, it is important to sustain recognition that the nature of your own mindful awareness is the guru. Je Götsangpa said, “Guru Yoga is to recognize your own mind. The nature of supplication is to sustain undistracted mindfulness. The guru is nowhere outside, but rather, he is indivisible from your own mind. Practice Guru Yoga in this way.” Thus, recognize that, ultimately, the actual guru is indivisibly united with your own mind.
+</details>
 
 ## 3. The Special Preliminaries: Cultivating Love, Compassion and Bodhicitta
 ### 3.1 First, Cultivating Love
+<details>
 
 The enjoyment of bliss and happiness of all mother sentient beings, limitless as space, is caused by a wish to benefit others. Therefore, may the minds of all be filled with love!
 
 Having recited this, think about your mother, who cared for you with great kindness in four different ways, such as looking after you affectionately. Then consider how all other sentient beings have cared for you with just such kindness when they were your mothers in previous lives. Reflect upon this thought until you have developed love—the uncontrived mind that wishes that all sentient beings may have happiness and the cause of happiness, which is love.
+</details>
 
 ### 3.2 Second, Cultivating Compassion
+<details>
 
 The intolerable suffering that torments mother sentient beings, who are limitless as space, in the six realms of saṃsāra, is caused by the ignorance of grasping at a self. May it be fully pacified, and may all beings care for others with altruistic compassion!
 
 Having recited this, bring to mind the intense suffering of sentient beings, imagining them as your own mother. A feeling of unbearable compassion will certainly arise. Then, consider that even though they are not your mothers in this present life, they all have surely been your mothers in previous lives. So, thinking that all these sentient beings that are tormented by suffering have been your mothers, exert yourself in cultivating great compassion—the wish that they all be free from suffering and the cause of suffering, which is self-grasping
+</details>
 
 ### 3.3 Third, Cultivating Bodhicitta
+<details>
 
 Committing to the result is aspiring bodhicitta, and committing to the cause is engaging bodhicitta. Whether one takes the vows of aspiring and engaging bodhicitta according to the elaborate system of the Great Awakening of Bodhicitta or the concise ritual of taking them oneself, it is essential to understand the training that is to be undertaken.
 
@@ -671,7 +683,6 @@ For countless lifetimes, mother sentient beings have been tormented by great evi
 Repeat this many times and gain an actual experience of compassion and bodhicitta within your mind. In all your daily activities, never separate from the wish to do whatever you can to bring benefit and happiness to all sentient beings. Within such practice, all precepts of the bodhisattva vow are included, and everything you do will become a practice of the six pāramitās. The benefits of bodhicitta are endless. The Avataṃsaka Sūtra states, “All the buddhas of the three times ultimately arise from the excellent, pure mind of bodhicitta—the treasure trove of merit. All the happiness of worldly beings arises from it. All goodness extolled by the victorious ones arises from it. It consumes the obscurations of all worlds. Without a doubt, it is through bodhicitta that one will become foremost among the victorious ones.” Furthermore, Lord Jigten Sumgön says in the Gongchik, “The Buddha is an embodiment of bodhicitta.” If bodhicitta is present, one cannot help but attain awakening. If it is absent, no matter what other practices, generation and completion stages, and so forth, one engages in, they will amount to nothing more than a facade. Therefore, as the three special preliminaries are the essence of all paths, practice them sincerely until they have taken birth within your mind-stream.
 
 Thinking that it would benefit many devoted and dedicated disciples to have a Ngöndro Sādhana of appropriate length, Dorzin Könchok Döndrup requested His Eminence Garchen Rinpoche to compose this text, supporting his request by offering a white katak scarf with the auspicious symbols printed on it and a hundred dollars. Moreover, several devotees from inside Tibet requested the composition of this text with great insistence. Thinking that it might be of benefit to his Dharma friends, who can see gold in a clod of dirt [humbly referring to Himself], the 8th Garchen Rinpoche, Könchok Gyaltsen, compiled this text in accordance with the structure of Dharmakīrti’s Oral Instructions on the Preliminaries of the Fivefold Path [of Mahāmudrā], while also including some lines taken from the instructions of other learned and accomplished masters of the past. This text was completed at the Garchen Buddhist Institute in the United States. The disciple Thubten Nima assisted, acting as Rinpoche’s scribe.
-
 </details>
 
 ## Closing
