@@ -11,6 +11,8 @@ Principles and practices that uphold the natural and moral order of the universe
 
 ![Vajrasattva](.imgs/vajrasattva.jpg)
 
+<details>
+
 > The main obstacles that prevent all the extraordinary experiences and realizations of the profound path from arising are negative actions, obscurations, and habitual tendencies. Just as it is important to clean the surface of a mirror if forms are to be reflected in it, so too it is important to eliminate our obscurations so that realization can appear like a reflection in the mirror of the Ground of All. The Buddha taught countless methods of purification for this purpose, but the best of them all is meditation and recitation related to the teacher as Vajrasattva.   
 > 
 > ~ Patrul Rinpoche (1808-87)
@@ -41,12 +43,14 @@ Opening:
 [2nd, 3rd and 4th Sessions of the Day](#generating-bodhicitta) - Pages 16 - 24  
 
 Practice:  
-Vajrasattva Ngondro Practice - Pages 35 - 41  
+[Vajrasattva Ngondro Practice](#the-excellent-path-to-enlightenment-a-practice-of-the-preliminaries-of-the-fivefold-path-of-mahāmudrā) - Pages 35 - 41  
 
 Closing:  
-Closing Prayers for Mid-Day Sessions - Pages 77 - 80  
-Dedication Prayer for Mid-Day Sessions - Choose either page 85 or 86 or 87  
-Last Session of the Day - Pages 77 - 98  
+[Closing Prayers for Mid-Day Sessions](#closing) - Pages 77 - 80  
+[Dedication Prayer for Mid-Day Sessions](#dedication-prayers) - Choose either page 85 or 86 or 87  
+[Last Session of the Day](#closing) - Pages 77 - 98  
+
+</details>
 
 # A PRACTICE OF THE PRELIMINARIES OF THE FIVEFOLD MAHAMUDRA
 
