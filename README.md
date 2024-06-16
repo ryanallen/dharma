@@ -544,23 +544,25 @@ Having supplicated thus, a stream of bodhicitta nectar emerges from the seed syl
 
 (*Recite the Hundred-Syllable Mantra.*)
 
+(*Using · between syllables for easier recitation*)
+
 oṃ     
 <sup>Om is the supreme expression of praise.</sup>  
-vajrasattva samaya manupālaya vajrasattva  
+va·jra·satt·va sa·ma·ya ma·nu·pā·la·ya va·jra·satt·va  
 <sup>Vajrasattva, ensure your samaya remains intact.</sup>  
-tvenopatiṣṭha dṛḍho me bhava  
+tven·o·pa·tiṣ·ṭha dṛḍ·ho me bha·va  
 <sup>Be steadfast in your care of me.</sup>   
-sutoṣyo me bhava  
+su·to·ṣyo me bha·va  
 <sup>Grant me unqualified contentment.</sup>  
-supoṣyo me bhava  
+su·po·ṣyo me bha·va  
 <sup>Enhance everything that is noble within me.</sup>  
-anurakto me bhava  
+nur·ak·to me bha·va  
 <sup>Look after me.</sup>  
-sarvasiddhiṃ me prayaccha  
+sar·va·sidd·hiṃ me pray·acch·a  
 <sup>Grant me all accomplishments,</sup>  
-sarvakarmasu ca me  
+sar·va·kar·ma·su ca me  
 <sup>And in everything I do</sup>  
-cittaṃ śreyaḥ kuru  
+citt·aṃ śrey·aḥ ku·ru  
 <sup>Ensure my mind is virtuous.</sup>  
 hūṃ  
 <sup>The hūṃ syllable is Vajrasattva’s wisdom mind.</sup>  
@@ -568,13 +570,13 @@ ha ha ha ha
 <sup>These represent the four immeasurables, the four empowerments, the four joys, and the four kāyās.</sup>  
 hoḥ  
 <sup>What joy!</sup>  
-bhagavan sarvatathāgatavajra  
+bha·ga·van sar·va·tath·ā·ga·ta·va·jra  
 <sup>Blessed One, who embodies all the tathāgatas, Vajra(sattva),</sup>  
-mā me muñca  
+mā me muñ·ca  
 <sup>Never abandon me!</sup>  
-vajrī bhava  
+va·jrī bha·va  
 <sup>Grant me the realization of vajra nature!</sup>  
-mahāsamayasattva  
+ma·hā·sa·ma·ya·satt·va  
 <sup>Great samayasattva,</sup>  
 āḥ  
 <sup>I am one with you.</sup>  
