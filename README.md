@@ -454,6 +454,8 @@ Until death, I will apply my body, speech, and mind to virtue.
 
 From today until this time tomorrow, I will apply my body, speech, and mind to virtue.
 
+<details>
+
 ## 1. The Four Common, Outer Preliminaries
 ### 1.1 The Difficulty of Finding a Precious Human Body
 <details> 
@@ -514,12 +516,13 @@ Through your blessings, may the minds of myself and all sentient beings, limitle
 
 By supplicating thus with intense devotion, the field of accumulation melts into the nature of five-colored lights, which then dissolve into you. Thus, imagine that your mind-stream is blessed, and rest for a while in the natural state without reference point
 </details> 
+</details><br>
 
 ### 2.2 The Practice of Vajrasattva: the Method for Purifying Negativities and Obscurations
 <details> 
 Negativities, obscurations, and karmic imprints hinder the realization of the profound meaning of Dharma. Therefore, it is necessary to purify one’s obscurations, just as it is necessary to wipe a mirror in order for a reflection to appear. It is said, “Though negativities themselves have no good qualities, the benefit of negativities is that they can be purified if confessed.” Thus, no matter how grave your negativities and obscurations are, if you confess them properly, they must become purified. Although there are many ways to confess, the supreme method is the meditation and recitation of Vajrasattva. The Stainless Confession Tantra says, “Vajrasattva himself has promised that the negativities and obscurations of someone who recites the Hundred Syllable Mantra, which is the essence of all the sugatas of the three times, will become completely purified.” Therefore,
 engage in the practice properly.
-</details> 
+</details><br> 
 
 ![alt text](.imgs/vajrasattva.png)
 
