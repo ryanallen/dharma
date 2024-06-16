@@ -168,32 +168,34 @@ ya ra la va | śa ṣa sa ha kṣaḥ svāhā ||
 
 (*Recite three times.*) 
 
-om̆̇ ye dharmā hetu prabhavā  
+(*Using · between syllables for easier recitation*)
+
+om̆̇ ye dhar·mā he·tu pra·bha·vā  
 <sup>All dharmas originate from causes</sup>  
-hetuṃ teṣāṃ tathāgato hyavadat   
+he·tuṃ te·ṣāṃ ta·thā·ga·ta hy·a·va·dat   
 <sup>the tathagata has taught these causes,</sup>  
-teṣāṃ ca yo nirodha  
+te·ṣāṃ ca yo ni·ro·dha  
 <sup>and also that which puts a stop to these causes</sup>  
-evaṃ vādī mahā śramaṇaḥ svāhā  
+ev·aṃ vā·dī ma·hā śra·ma·ṇaḥ svā·hā  
 <sup>this too has been taught by the Great Shramana.</sup>  
 
-om̆̇ ye dharmā hetu prabhavā  
+om̆̇ ye dhar·mā he·tu pra·bha·vā  
 <sup>All dharmas originate from causes</sup>  
-hetuṃ teṣāṃ tathāgato hyavadat   
+he·tuṃ te·ṣāṃ ta·thā·ga·ta hy·a·va·dat   
 <sup>the tathagata has taught these causes,</sup>  
-teṣāṃ ca yo nirodha  
+te·ṣāṃ ca yo ni·ro·dha  
 <sup>and also that which puts a stop to these causes</sup>  
-evaṃ vādī mahā śramaṇaḥ svāhā  
-<sup>this too has been taught by the Great Shramana.</sup>  
+ev·aṃ vā·dī ma·hā śra·ma·ṇaḥ svā·hā  
+<sup>this too has been taught by the Great Shramana.</sup> 
 
-om̆̇ ye dharmā hetu prabhavā  
+om̆̇ ye dhar·mā he·tu pra·bha·vā  
 <sup>All dharmas originate from causes</sup>  
-hetuṃ teṣāṃ tathāgato hyavadat   
+he·tuṃ te·ṣāṃ ta·thā·ga·ta hy·a·va·dat   
 <sup>the tathagata has taught these causes,</sup>  
-teṣāṃ ca yo nirodha  
+te·ṣāṃ ca yo ni·ro·dha  
 <sup>and also that which puts a stop to these causes</sup>  
-evaṃ vādī mahā śramaṇaḥ svāhā  
-<sup>this too has been taught by the Great Shramana.</sup>  
+ev·aṃ vā·dī ma·hā śra·ma·ṇaḥ svā·hā  
+<sup>this too has been taught by the Great Shramana.</sup> 
 audio [src](https://www.youtube.com/watch?v=Pr7lZlDkRjQ), commentary [src](https://www.youtube.com/watch?v=iZ_VJ0bdc94)  
 
 ![alt text](.imgs/offering.png)
@@ -704,33 +706,35 @@ kṣaḥ svāhā ||
 
 (*Recite three times.*) 
 
-om̆̇ ye dharmā hetu prabhavā  
+(*Using · between syllables for easier recitation*)
+
+om̆̇ ye dhar·mā he·tu pra·bha·vā  
 <sup>All dharmas originate from causes</sup>  
-hetuṃ teṣāṃ tathāgato hyavadat   
+he·tuṃ te·ṣāṃ ta·thā·ga·ta hy·a·va·dat   
 <sup>the tathagata has taught these causes,</sup>  
-teṣāṃ ca yo nirodha  
+te·ṣāṃ ca yo ni·ro·dha  
 <sup>and also that which puts a stop to these causes</sup>  
-evaṃ vādī mahā śramaṇaḥ svāhā  
+ev·aṃ vā·dī ma·hā śra·ma·ṇaḥ svā·hā  
 <sup>this too has been taught by the Great Shramana.</sup>  
 
-om̆̇ ye dharmā hetu prabhavā  
+om̆̇ ye dhar·mā he·tu pra·bha·vā  
 <sup>All dharmas originate from causes</sup>  
-hetuṃ teṣāṃ tathāgato hyavadat   
+he·tuṃ te·ṣāṃ ta·thā·ga·ta hy·a·va·dat   
 <sup>the tathagata has taught these causes,</sup>  
-teṣāṃ ca yo nirodha  
+te·ṣāṃ ca yo ni·ro·dha  
 <sup>and also that which puts a stop to these causes</sup>  
-evaṃ vādī mahā śramaṇaḥ svāhā  
-<sup>this too has been taught by the Great Shramana.</sup>  
+ev·aṃ vā·dī ma·hā śra·ma·ṇaḥ svā·hā  
+<sup>this too has been taught by the Great Shramana.</sup> 
 
-om̆̇ ye dharmā hetu prabhavā  
+om̆̇ ye dhar·mā he·tu pra·bha·vā  
 <sup>All dharmas originate from causes</sup>  
-hetuṃ teṣāṃ tathāgato hyavadat   
+he·tuṃ te·ṣāṃ ta·thā·ga·ta hy·a·va·dat   
 <sup>the tathagata has taught these causes,</sup>  
-teṣāṃ ca yo nirodha  
+te·ṣāṃ ca yo ni·ro·dha  
 <sup>and also that which puts a stop to these causes</sup>  
-evaṃ vādī mahā śramaṇaḥ svāhā  
-<sup>this too has been taught by the Great Shramana.</sup>  
-audio [src](https://www.youtube.com/watch?v=Pr7lZlDkRjQ), commentary [src](https://www.youtube.com/watch?v=iZ_VJ0bdc94)  
+ev·aṃ vā·dī ma·hā śra·ma·ṇaḥ svā·hā  
+<sup>this too has been taught by the Great Shramana.</sup> 
+audio [src](https://www.youtube.com/watch?v=Pr7lZlDkRjQ), commentary [src](https://www.youtube.com/watch?v=iZ_VJ0bdc94) 
 
 
 ### The Hundred Syllable Mantra<sup>*</sup>
