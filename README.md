@@ -903,7 +903,7 @@ Empty, spacious, openess, speech, in-between-breaths
 Union of openess and clarity, mind, exhale</sup>  
 commentary [src](https://www.youtube.com/watch?v=WaAbelZnEtM), audio [src](https://www.youtube.com/watch?v=BA7LXjESK2I)  
 
-[**Go to Dedication -->**](#dedication-prayers) (All but the last daily practice)  
+[**Go to Dedication - all daily practices except the last -->**](#dedication-prayers)
 
 ### The Short Prayer to be Reborn in Blissful Land of Amitabha
 
