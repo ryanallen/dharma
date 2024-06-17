@@ -50,6 +50,15 @@ Pages 77 - 98 [Closing Prayers](#closing-1) (Last session of each day only)
 [Dedication Prayer for Mid-Day Sessions](#dedication-prayers) - Choose either page 85 or 86 or 87  
 [Last Session of the Day](#closing-1) - Pages 77 - 98  
 
+---
+
+
+[Click here](https://www.youtube.com/live/OCSaBdCS_H8) for recorded livestream session on June 16 - week 1
+
+[Click here](https://www.youtube.com/watch?v=eEnf0TM6J1s) for video 1 - week 1
+
+Look into [reading this book](https://www.amnyitrulchung.org/teachings/materials/pdf/Gampopa%20-%20Jewel%20Ornament%20of%20Liberation%20-%20Complete.pdf)
+
 </details>
 
 # A PRACTICE OF THE PRELIMINARIES OF THE FIVEFOLD MAHAMUDRA
