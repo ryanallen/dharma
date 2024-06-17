@@ -668,7 +668,6 @@ the ultimate maṇḍala, which is the natural state.
 </details>
 
 ### 2.4 The Practice of Guru Yoga to Instill Blessings in the Mind
-<details>
 
 The only way to realize the natural state of Mahamudra is through a devotion that sees the guru as the Buddha and from the power of blessings received from that guru. In a sūtra it says, “The ultimate truth is realized through faith.” In a tantra it says, “Better than meditating on a hundred-thousand deities for ten million eons is to think of the guru for a single moment.” Lord Jigten Sumgön said, “Unless the sun of devotion shines upon the snow mountain of the guru’s four kāyas, the stream of blessings will not emerge. Therefore, apply your mind assiduously in the practice of devotion.” As mentioned here and in various other sources, one should be diligent in the practice of Guru Yoga, as it causes the guru’s blessings to enter one’s mind.
 
@@ -686,7 +685,6 @@ Root guru, who embodies all the buddhas, I pray to you with a single-minded, lon
 empowerments; the four obscurations are purified, one by one; and I actualize the four kāyas. Then, the guru dissolves into me, and I evenly rest in an inseparable state.
 
 Thus, having merged your mind indivisibly with the guru’s mind, rest within a non-referential state. In all circumstances throughout the post-meditative state, it is important to sustain recognition that the nature of your own mindful awareness is the guru. Je Götsangpa said, “Guru Yoga is to recognize your own mind. The nature of supplication is to sustain undistracted mindfulness. The guru is nowhere outside, but rather, he is indivisible from your own mind. Practice Guru Yoga in this way.” Thus, recognize that, ultimately, the actual guru is indivisibly united with your own mind.
-</details>
 
 ## 3. The Special Preliminaries: Cultivating Love, Compassion and Bodhicitta
 ### 3.1 First, Cultivating Love
