@@ -775,7 +775,7 @@ ev·aṃ vā·dī ma·hā śra·ma·ṇaḥ svā·hā
 
 ### The Hundred Syllable Mantra<sup>*</sup>
 
-(*Recite twenty times.*) 
+(*Recite twenty five times.*) 
 
 <sup>* "Since this is a Vajrasattva practice, the 100,000 accumulation will be for the Hundred Syllable Mantra." - MW</sup>
 
