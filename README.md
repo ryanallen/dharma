@@ -131,7 +131,7 @@ Chenrezig King of Space
 
 ## Opening
 
-(Start of 1st session (<a href="https://www.dropbox.com/scl/fi/vdundow5orish1x12djs3/Preliminaries-Daily-1.mp3?rlkey=t7yzfh7y1dpdnks5euyv4wrhq&dl=0" target="_blank">audio</a>))
+(Start of 1st session (<a href="https://www.dropbox.com/scl/fi/vdundow5orish1x12djs3/Preliminaries-Daily-1.mp3?rlkey=t7yzfh7y1dpdnks5euyv4wrhq&dl=0" target="_blank">short</a> and <a href="https://www.dropbox.com/scl/fi/jk9y6izrbwn65esb6zbfd/Preliminaries-Daily-1-long.mp3?rlkey=9gwev2vkfdwn38fec53spoozm&dl=0" target="_blank">long</a>))
 
 ### Taking Refuge and Generating Bodhicitta
 
