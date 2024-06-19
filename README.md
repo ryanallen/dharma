@@ -8,39 +8,27 @@ Principles and practices that uphold the natural and moral order of the universe
 [Contents](#contents)
 
 oṃ     
-va·jra·satt·va  
-sa·ma·ya  
+va·jra·satt·va sa·ma·ya  
 ma·nu·pā·la·ya  
-va·jra·satt·va  
-tven·o·pa·tiṣ·ṭha  
-dṛḍ·ho  
-me bha·va  
+va·jra·satt·va tven·o·pa·  
+tiṣ·ṭha dṛḍ·ho me bha·va  
 su·to·ṣyo  
-me  
-bha·va  
+me bha·va  
 su·po·ṣyo  
-me  
-bha·va  
+me bha·va  
 nur·ak·to  
-me  
-bha·va  
+me bha·va  
 sar·va·sidd·hiṃ  
-me  
-pray·acch·a  
-sar·va·kar·ma·su  
-ca  
-me   
-citt·aṃ  
-śrey·aḥ  
-ku·ru  
-hūṃ  
-ha ha ha ha  
-hoḥ  
+me pray·acch·a  
+sar·va·kar·ma·  
+su ca me   
+citt·aṃ śrey·aḥ  
+ku·ru hūṃ  
+ha ha ha ha hoḥ  
 bha·ga·van  
-sar·va·tath·ā·ga·ta·va·jra  
-mā  
-me  
-muñ·ca  
+sar·va·tath·ā·ga·ta·  
+va·jra  
+mā me muñ·ca  
 va·jrī  
 bha·va  
 ma·hā·  
