@@ -7,6 +7,47 @@ Principles and practices that uphold the natural and moral order of the universe
 [2nd, 3rd and 4th Sessions of the Day](#generating-bodhicitta)
 [Contents](#contents)
 
+oṃ     
+va·jra·satt·va  
+sa·ma·ya  
+ma·nu·pā·la·ya  
+va·jra·satt·va  
+tven·o·pa·tiṣ·ṭha  
+dṛḍ·ho  
+me bha·va  
+su·to·ṣyo  
+me  
+bha·va  
+su·po·ṣyo  
+me  
+bha·va  
+nur·ak·to  
+me  
+bha·va  
+sar·va·sidd·hiṃ  
+me  
+pray·acch·a  
+sar·va·kar·ma·su  
+ca  
+me   
+citt·aṃ  
+śrey·aḥ  
+ku·ru  
+hūṃ  
+ha ha ha ha  
+hoḥ  
+bha·ga·van  
+sar·va·tath·ā·ga·ta·va·jra  
+mā  
+me  
+muñ·ca  
+va·jrī  
+bha·va  
+ma·hā·  
+sa·ma·ya·  
+satt·va  
+āḥ  
+
 ## with Venerable Khenpo Tenzin
 
 ![Vajrasattva](.imgs/vajrasattva.jpg)
@@ -567,7 +608,7 @@ O Glorious Vajrasattva—myself and all limitless sentient beings, please purify
 
 Having supplicated thus, a stream of bodhicitta nectar emerges from the seed syllable and mantra garland at Vajrasattva’s heart. [The nectar] fills up his entire body, enters the Brahma opening at my crown, and purifies all my negativities and obscurations.
 
-(*Recite the Hundred-Syllable Mantra.*)
+(*Recite the Hundred-Syllable Mantra 250 times.*)
 
 (*Using · between syllables for easier recitation*)
 
@@ -774,10 +815,6 @@ ev·aṃ vā·dī ma·hā śra·ma·ṇaḥ svā·hā
 
 
 ### The Hundred Syllable Mantra<sup>*</sup>
-
-(*Recite twenty five times.*) 
-
-<sup>* "Since this is a Vajrasattva practice, the 100,000 accumulation will be for the Hundred Syllable Mantra." - MW</sup>
 
 (*Using · between syllables for easier recitation*)
 
