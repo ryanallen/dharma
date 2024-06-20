@@ -150,7 +150,7 @@ Chenrezig King of Space
 
 ## Opening
 
-(Start of 1st session (<a href="https://www.dropbox.com/scl/fi/vdundow5orish1x12djs3/Preliminaries-Daily-1.mp3?rlkey=t7yzfh7y1dpdnks5euyv4wrhq&dl=0" target="_blank">short</a> and <a href="https://www.dropbox.com/scl/fi/jk9y6izrbwn65esb6zbfd/Preliminaries-Daily-1-long.mp3?rlkey=9gwev2vkfdwn38fec53spoozm&dl=0" target="_blank">long</a>))
+(Start of <a href="https://www.dropbox.com/scl/fi/vdundow5orish1x12djs3/Preliminaries-Daily-1.mp3?rlkey=t7yzfh7y1dpdnks5euyv4wrhq&dl=0" target="_blank">1st session</a>)
 
 ### Taking Refuge and Generating Bodhicitta
 
@@ -487,7 +487,7 @@ Alas! Sentient beings, like myself, marred by sins and evil karma...
 
 ### Generating Bodhicitta
 
-(Start of sessions 2 (<a href="https://www.dropbox.com/scl/fi/8i6bongn6beclg8senou5/Preliminaries-Daily-2.mp3?rlkey=8r5y0vyjuhdzk9l02lk0ubn2q&dl=0" target="_blank">short</a> and <a href="https://www.dropbox.com/scl/fi/72756wnkgeu2687ct7v6n/Preliminaries-Daily-2-Long.mp3?rlkey=rkqolh482fwu9worfz48rb6su&dl=0">long</a>, 3 <a href="https://www.dropbox.com/scl/fi/dor2b88b022n3jbrgyomv/Preliminaries-Daily-3.mp3?rlkey=6s1fo6mhzl2rpxhv30iv0af0x&dl=0" target="_blank">short</a> and <a href="https://www.dropbox.com/scl/fi/5jqjz6r3qmvl12rd01l22/Preliminaries-Daily-3-Long.mp3?rlkey=3xccbghg4qw3u00zf8mqijf52&dl=0">long</a>, and 4 <a href="https://www.dropbox.com/scl/fi/wk3oj36et7ld2el21edfy/Preliminaries-Daily-4.mp3?rlkey=dybeta9n6ckuowyh3o8f03nmb&dl=0" target="_blank">short</a> and <a href="https://www.dropbox.com/scl/fi/zhw37jpj1u1c6e10ktr9n/Preliminaries-Daily-4-Long.mp3?rlkey=kbf3a7h1ntvoi99a1uf6bpcsq&dl=0">long</a>.))
+(Start of sessions <a href="https://www.dropbox.com/scl/fi/8i6bongn6beclg8senou5/Preliminaries-Daily-2.mp3?rlkey=8r5y0vyjuhdzk9l02lk0ubn2q&dl=0" target="_blank">2</a>, <a href="https://www.dropbox.com/scl/fi/dor2b88b022n3jbrgyomv/Preliminaries-Daily-3.mp3?rlkey=6s1fo6mhzl2rpxhv30iv0af0x&dl=0" target="_blank">3</a>, and <a href="https://www.dropbox.com/scl/fi/wk3oj36et7ld2el21edfy/Preliminaries-Daily-4.mp3?rlkey=dybeta9n6ckuowyh3o8f03nmb&dl=0" target="_blank">4</a>)
 
 (*Recite three times*)
 
