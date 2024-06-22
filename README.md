@@ -14,15 +14,15 @@ va·jra·satt·va tven·o·pa·
 tiṣ·ṭha dṛḍ·ho me bha·va  
 su·to·ṣyo me bha·va  
 su·po·ṣyo me bha·va  
-nur·ak·to me bha·va  
+anur·ak·to me bha·va  
 sar·va·sidd·hiṃ me pray·acch·a  
 sar·va·kar·ma·su ca me   
 citt·aṃ śrey·aḥ ku·ru hūṃ  
 ha ha ha ha hoḥ  
 bha·ga·van  
 sar·va·tath·ā·ga·ta·va·jra  
-mā me muñ·ca va·jrī bha·va  
-ma·hā·sa·ma·ya·satt·va  
+mā me muñ·ca va·jrī  
+bha·va ma·hā·sa·ma·ya·satt·va  
 āḥ  
 
 ## with Venerable Khenpo Tenzin
