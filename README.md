@@ -255,7 +255,7 @@ su·to·ṣyo me bha·va
 <sup>Grant me unqualified contentment.</sup>  
 su·po·ṣyo me bha·va  
 <sup>Enhance everything that is noble within me.</sup>  
-nur·ak·to me bha·va  
+anur·ak·to me bha·va  
 <sup>Look after me.</sup>  
 sar·va·sidd·hiṃ me pray·acch·a  
 <sup>Grant me all accomplishments,</sup>  
@@ -805,7 +805,7 @@ su·to·ṣyo me bha·va
 <sup>Grant me unqualified contentment.</sup>  
 su·po·ṣyo me bha·va  
 <sup>Enhance everything that is noble within me.</sup>  
-nur·ak·to me bha·va  
+anur·ak·to me bha·va  
 <sup>Look after me.</sup>  
 sar·va·sidd·hiṃ me pray·acch·a  
 <sup>Grant me all accomplishments,</sup>  
