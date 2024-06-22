@@ -20,11 +20,10 @@ sar·va·kar·ma·su ca me
 citt·aṃ śrey·aḥ ku·ru hūṃ  
 ha ha ha ha hoḥ  
 bha·ga·van  
-sar·va·tath·ā·ga·ta·  
-va·jra mā me muñ·ca  
-va·jrī bha·va  
-ma·hā·sa·ma·ya·  
-satt·va āḥ  
+sar·va·tath·ā·ga·ta·va·jra  
+mā me muñ·ca va·jrī bha·va  
+ma·hā·sa·ma·ya·satt·va  
+āḥ  
 
 ## with Venerable Khenpo Tenzin
 
