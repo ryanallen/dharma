@@ -77,6 +77,7 @@ Pages 77 - 98 [Closing Prayers](#closing-1) (Last session of each day only)
 [Click here](https://www.youtube.com/live/AQXKvY7Z_F8) for video 2 - week 2  
 [Click here](https://www.youtube.com/watch?v=uMAIHd2goRw) for video 3 - week 3  
 [Click here](https://www.youtube.com/watch?v=f5dJot9Nzn4) for video 4 - week 4  
+[Click here](https://www.youtube.com/watch?v=g2HpYkr3J30) for video 5 - week 5  
 
 Look into [reading this book](https://www.amnyitrulchung.org/teachings/materials/pdf/Gampopa%20-%20Jewel%20Ornament%20of%20Liberation%20-%20Complete.pdf)
 
