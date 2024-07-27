@@ -22,4 +22,4 @@ Hand copied Dharma books made available digitally for the first time for study, 
 - Sending and receiving / Tonglen  
 - [Insight / Vipassana](https://openmindapp.org/) (external)  
 - [Kagyupa Vajrayana refuge from afar](https://garchen.net/refuge-from-afar/) (external)  
-- DO NOT ACCESS WITHOUT PERMISSION [-](/docs/Ngondro%20Online%20Vajrasattva%20Retreat.md) [Secret Ngondro Online Vajrasattva Retreat](.imgs\vajrasattva-retreat.jpg)  
+- DO NOT ACCESS WITHOUT PERMISSION [-](/docs/v.md) [Secret Ngondro Online Vajrasattva Retreat](.imgs\vajrasattva-retreat.jpg)  

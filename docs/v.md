@@ -1,5 +1,7 @@
 [Dharma](/README.md) > 
 
+# DO NOT ACCESS WITHOUT PERMISSION
+
 # Ngondro Online Vajrasattva Retreat
 
 <details><summary>Announcement</summary>
@@ -71,7 +73,7 @@ bha·va ma·hā·sa·ma·ya·satt·va
 
 ## with Venerable Khenpo Tenzin
 
-![Vajrasattva](.imgs/vajrasattva.jpg)
+![Vajrasattva](../.imgs/vajrasattva.jpg)
 
 <details>
 
@@ -134,13 +136,13 @@ Look into [reading this book](https://www.amnyitrulchung.org/teachings/materials
 
 # A PRACTICE OF THE PRELIMINARIES OF THE FIVEFOLD MAHAMUDRA
 
-![alt text](.imgs/garchen.png)
+![alt text](../.imgs/garchen.png)
 
 By The Garchen Buddhist Institute
 
 ---
 
-![alt text](.imgs/chenrezig.png)
+![alt text](../.imgs/chenrezig.png)
 
 Chenrezig King of Space
 
@@ -231,7 +233,7 @@ May all mother sentient beings limitless as space have happiness and the causes 
 
 To Great Vajradhāra, Tilopa, Nāropa, Marpa, Milarepa, Gampopa, Phagmo Drupa, and Lord Jigten Sumgön; to the feet of the root guru of threefold kindness; to all the  root and lineage gurus, the yidams, and Dharma protectors, I pray: please bless my mind-stream!  
 
-![alt text](.imgs/flower.png)
+![alt text](../.imgs/flower.png)
 
 ### Seven-Limb Prayer
 
@@ -292,7 +294,7 @@ ev·aṃ vā·dī ma·hā śra·ma·ṇaḥ svā·hā
 <sup>this too has been taught by the Great Shramana.</sup>  
 <sub>audio [src](https://www.youtube.com/watch?v=Pr7lZlDkRjQ), commentary [src](https://www.youtube.com/watch?v=iZ_VJ0bdc94)</sub>  
 
-![alt text](.imgs/offering.png)
+![alt text](../.imgs/offering.png)
 
 ### The Hundred Syllable Mantra
 
@@ -549,7 +551,7 @@ All mother sentient beings, limitless as space—especially those enemies who ha
 
 All mother sentient beings, limitless as space—especially those enemies who hate me, obstructers who harm me, and those who create obstacles on my path to liberation and omniscience—may they experience happiness; be free from suffering; and swiftly may they attain precious, unsurpassed perfectly complete enlightenment!  
 
-![alt text](.imgs/offering-2.png)
+![alt text](../.imgs/offering-2.png)
 
 For that purpose, until I attain buddhahood, I will apply my body, speech, and mind to virtue. 
 
@@ -585,7 +587,7 @@ To make meaningful use of this body of freedom and advantage, reflect on karma, 
 
 To make this life of freedom and advantage meaningful, I renounce the three poisonous emotions and unwholesome deeds. I will exert myself in virtuous actions and will protect the samaya and vows of the three doors.
 
-![alt text](.imgs/offering-2.png)
+![alt text](../.imgs/offering-2.png)
 
 [**Go to Vjarasattva practice -->**](#22-the-practice-of-vajrasattva-the-method-for-purifying-negativities-and-obscurations)  
 
@@ -595,7 +597,7 @@ Of the four uncommon preliminaries, first, in order to be taken under the protec
 
 ---
 
-![alt text](.imgs/tree.jpg)
+![alt text](../.imgs/tree.jpg)
 
 ---
 </details> 
@@ -625,9 +627,9 @@ Negativities, obscurations, and karmic imprints hinder the realization of the pr
 engage in the practice properly.
 </details><br> 
 
-![alt text](.imgs/vajrasattva.png)
+![alt text](../.imgs/vajrasattva.png)
 
-![alt text](.imgs/hum.png)
+![alt text](../.imgs/hum.png)
 
 Above the crown of my head, on a seat of lotus and moon, is a brilliant white hūm̆̇ . The hūm̆̇ emanates rays of light into the ten directions and makes delightful offerings to the buddhas and
 bodhisattvas, and having gathered their wisdom, love, and power, the light dissolves back into the hūm̆̇. Again, the hūm̆̇ emanates rays of light to the abodes of the six classes of beings, purifying
@@ -692,7 +694,7 @@ Having contemplated thus, even the notion of a deity dissolves into a state of l
 
 A sūtra says, “As long as one has not truly completed the two accumulations, one will not truly realize emptiness.” Furthermore, “The ultimate, innate wisdom is the mark that testifies to one having gathered the accumulations and purified obscurations.” Thus, it is crucial to gather the accumulations. While there are many methods for gathering the accumulations, the maṇḍala offering is supreme. A tantra says, “Through offering the entire billionfold universe, adorned with various desirable qualities, to all the buddhas in their pure realms, buddha wisdom is accomplished.” Thus, be diligent in the maṇḍala offering.
 
-![alt text](.imgs/tree.jpg)
+![alt text](../.imgs/tree.jpg)
 </details>
 
 #### 2.3.1 Visualizing the Field of Accumulation
@@ -707,7 +709,7 @@ In the presence of this visualized merit-field, think that you offer yourself, e
 
 <details>
 
-![alt text](.imgs/mandala.png)
+![alt text](../.imgs/mandala.png)
 
 Om̆̇ vajra bhumi ā hūm̆̇. The completely pure base is a golden ground<sup>[4](#4)</sup> full of power. Om̆̇ vajra reke ā hūm̆̇. It is surrounded by a circle of iron mountains. At its center is hūm̆̇, the king of mountains, Sumeru. In the east is Excellent Body<sup>[5](#5)</sup>; in the south, the land of the Jambu Tree<sup>[6](#6)</sup>; in the west, Wish-Fulfilling Cattle<sup>[7](#7)</sup>; in the north, Voice of Doom<sup>[8](#8)</sup>; toward<sup>[9](#9)</sup> the east, Body and Noble Body; toward the south, Tail Fan and Minor Tail Fan; toward the west, Tremulous and Great Destiny; toward the north, Voice of Doom and Satellite of Voice of Doom. There is also the mountain of jewels, the wish-granting tree, the wish-granting cow, the harvest that needs no toil, the precious wheel, the precious gem, the precious queen, the precious minister, the precious elephant, the precious supreme steed, the precious general, the great treasure vase, the goddess of beauty, the goddess of garlands, the goddess of song, the goddess of dance, the goddess of flowers, the goddess of incense, the goddess of light, the goddess of perfume, the sun, the moon, a precious parasol, and a banner of universal victory. In the center are the most exalted glories and riches of gods and humans, without exception. I offer this field of utter purity to the gurus, yidams, buddhas, bodhisattvas, ḍākas, ḍākinīs, and Dharma protectors. Please accept it with compassion for the benefit of beings. Having accepted it, please grant your blessings!
 
@@ -724,13 +726,13 @@ om̆̇ guru deva ḍākinī ratna maṇḍala pratīccha svāhā
 
 Thus offer.
 
-![alt text](.imgs/mandala.png)
+![alt text](../.imgs/mandala.png)
 
 All owned and unowned things of the infinite, billionfold universe in its totality, my own body, enjoyments, and all my possessions, I offer—holding nothing back—to the ocean of the rare and precious ones. May the self-grasping of all beings be thereby fully pacified! May all beings be endowed with bodhicitta, and may they instantly attain the state of buddhahood! 
 
 This verse is to be accumulated.
 
-![alt text](.imgs/tree.jpg)
+![alt text](../.imgs/tree.jpg)
 
 To the assembly of gurus with three kāyas perfectly complete, I make outer, inner, secret, and suchness offerings. Please accept this offering of my body, wealth, and all appearance and existence, and bestow the unsurpassed, supreme accomplishment!
 
@@ -1067,7 +1069,7 @@ May the teaching of the great Drikungpa Ratnaśhrī—Master of Interdependence,
 
 May the Doctrine, only remedy for suffering, The source of every bliss and happiness, Be nurtured and upheld with reverence, And throughout a vast continuance of time, endure!
 
-![alt text](.imgs/white-tara.png)
+![alt text](../.imgs/white-tara.png)
 
 Noble Lady White Tārā
 
@@ -1076,7 +1078,7 @@ puṇye puṣṭīṃ kuru svāhā
 Om̆̇ , O Tara, swift liberator from suffering, make my  
 lifespan, wisdom and merit increase, svāhā  
 
-![alt text](.imgs/wheel.png)
+![alt text](../.imgs/wheel.png)
 
 Garchen Buddhist Institute  
 P.O. Box 4318  
