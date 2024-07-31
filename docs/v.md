@@ -126,6 +126,7 @@ Pages 77 - 98 [Closing Prayers](#closing-1) (Last session of each day only)
 [Click here](https://www.youtube.com/watch?v=g2HpYkr3J30) for video 5 - week 5  
 [Click here](https://www.youtube.com/watch?v=15RcjtRHRWA) for recorded live-stream session on July 20  
 [Click here](https://www.youtube.com/watch?v=vSk9XyixOeQ) for video 6 - week 6  
+[Click here](https://www.youtube.com/watch?v=crf3t4G2uRQ) for video 7 - week 7  
 
 
 
