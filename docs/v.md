@@ -128,6 +128,7 @@ Pages 77 - 98 [Closing Prayers](#closing-1) (Last session of each day only)
 [Click here](https://www.youtube.com/watch?v=vSk9XyixOeQ) for video 6 - week 6  
 [Click here](https://www.youtube.com/watch?v=crf3t4G2uRQ) for video 7 - week 7  
 [Click here](https://www.youtube.com/watch?v=Fvlppm3MlAk) for video 8 - week 8  
+[Click here](https://www.youtube.com/watch?v=geaAnUQ8XqA) for video 9 - week 9  
 
 
 
