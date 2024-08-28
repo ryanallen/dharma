@@ -124,12 +124,14 @@ Pages 77 - 98 [Closing Prayers](#closing-1) (Last session of each day only)
 [Click here](https://www.youtube.com/watch?v=uMAIHd2goRw) for video 3 - week 3  
 [Click here](https://www.youtube.com/watch?v=f5dJot9Nzn4) for video 4 - week 4  
 [Click here](https://www.youtube.com/watch?v=g2HpYkr3J30) for video 5 - week 5  
-[Click here](https://www.youtube.com/watch?v=15RcjtRHRWA) for recorded live-stream session on July 20  
+[Click here](https://www.youtube.com/watch?v=15RcjtRHRWA) for recorded live-stream session on July 20 - week 6
 [Click here](https://www.youtube.com/watch?v=vSk9XyixOeQ) for video 6 - week 6  
 [Click here](https://www.youtube.com/watch?v=crf3t4G2uRQ) for video 7 - week 7  
 [Click here](https://www.youtube.com/watch?v=Fvlppm3MlAk) for video 8 - week 8  
 [Click here](https://www.youtube.com/watch?v=geaAnUQ8XqA) for video 9 - week 9  
 [Click here](https://www.youtube.com/watch?v=aRC2xtz7i6w) for video 10 - week 10  
+[Click here](https://www.youtube.com/watch?v=SyMR_jE01sY) for recorded livestream session on August 24 - week 11  
+[Click here](https://www.youtube.com/watch?v=KGMLiXkJqAI) for video 11 - week 11  
 
 
 
