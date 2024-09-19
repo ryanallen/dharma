@@ -133,6 +133,8 @@ Pages 77 - 98 [Closing Prayers](#closing-1) (Last session of each day only)
 [Click here](https://www.youtube.com/watch?v=SyMR_jE01sY) for recorded livestream session on August 24 - week 11  
 [Click here](https://www.youtube.com/watch?v=KGMLiXkJqAI) for video 11 - week 11  
 [Click here](https://www.youtube.com/watch?v=ec1FliFQ-fM) for video 12 - week 12  
+[Click here](https://www.youtube.com/watch?v=TwZuiT-pP9M) for video 13 - week 13  
+[Click here](https://www.youtube.com/watch?v=8W74BmNemVU) for video 14 - week 14  
 
 
 
