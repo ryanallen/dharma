@@ -124,19 +124,20 @@ Pages 77 - 98 [Closing Prayers](#closing-1) (Last session of each day only)
 [Click here](https://www.youtube.com/watch?v=uMAIHd2goRw) for video 3 - week 3  
 [Click here](https://www.youtube.com/watch?v=f5dJot9Nzn4) for video 4 - week 4  
 [Click here](https://www.youtube.com/watch?v=g2HpYkr3J30) for video 5 - week 5  
-[Click here](https://www.youtube.com/watch?v=15RcjtRHRWA) for recorded live-stream session on July 20 - week 6
 [Click here](https://www.youtube.com/watch?v=vSk9XyixOeQ) for video 6 - week 6  
+[Click here](https://www.youtube.com/watch?v=15RcjtRHRWA) for recorded live-stream session on July 20 - week 6  
 [Click here](https://www.youtube.com/watch?v=crf3t4G2uRQ) for video 7 - week 7  
 [Click here](https://www.youtube.com/watch?v=Fvlppm3MlAk) for video 8 - week 8  
 [Click here](https://www.youtube.com/watch?v=geaAnUQ8XqA) for video 9 - week 9  
 [Click here](https://www.youtube.com/watch?v=aRC2xtz7i6w) for video 10 - week 10  
-[Click here](https://www.youtube.com/watch?v=SyMR_jE01sY) for recorded livestream session on August 24 - week 11  
 [Click here](https://www.youtube.com/watch?v=KGMLiXkJqAI) for video 11 - week 11  
+[Click here](https://www.youtube.com/watch?v=SyMR_jE01sY) for recorded livestream session on August 24 - week 11  
 [Click here](https://www.youtube.com/watch?v=ec1FliFQ-fM) for video 12 - week 12  
 [Click here](https://www.youtube.com/watch?v=TwZuiT-pP9M) for video 13 - week 13  
 [Click here](https://www.youtube.com/watch?v=8W74BmNemVU) for video 14 - week 14  
 [Click here](https://www.youtube.com/watch?v=0F2Lw8Kj4S0) for video 15 - week 15  
 [Click here](https://www.youtube.com/watch?v=bJuARZVtyk4) for video 16 - week 16  
+[Click here](https://www.youtube.com/watch?v=Yl6Cl_9PqPQ) for recorded livestream session on October 4 - Closing and Q&A - week 16  
 
 
 Look into [reading this book](https://www.amnyitrulchung.org/teachings/materials/pdf/Gampopa%20-%20Jewel%20Ornament%20of%20Liberation%20-%20Complete.pdf)
