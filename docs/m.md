@@ -21,8 +21,8 @@ On a weekly basis, participants must commit to watching a pre-recorded video. Th
 
 VIDEO SESSIONS  
 
-Click here for recorded livestream session on October 13 - week 1  
-Click here for video 1 - week 1  
+<a href="https://www.youtube.com/watch?v=ra1llgn-Qh0">Click here</a> for recorded livestream session on October 13 - week 1  
+<a href="https://www.youtube.com/watch?v=qnooKaksIuk">Click here</a> for video 1 - week 1  
 
 FURTHER SUPPORT  
 
