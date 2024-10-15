@@ -1,6 +1,6 @@
 # Ron Swanson’s Guided Meditation (Based on the Buddhist 7-Branch Practice)  
 
-<b><a href="https://www.dropbox.com/scl/fi/djwcvy7vjm3ecqe3eb4kr/Ron-s-Guided-Meditation.mp3?rlkey=piljzqcb6y42ykz1g8tal37fs&dl=0">Listen Now</a></b>  
+<b><a href="https://www.dropbox.com/scl/fi/djwcvy7vjm3ecqe3eb4kr/Ron-s-Guided-Meditation.mp3?rlkey=piljzqcb6y42ykz1g8tal37fs&dl=0">Listen Now --></a></b>  
 
 > Hello, I’m Ron Swanson, and this is your guided meditation. Sit down. Or stand. Frankly, I don’t care. Just be still, quiet, and resist the urge to fiddle with anything. Here we go.  
 
