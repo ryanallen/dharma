@@ -22,4 +22,5 @@ Hand copied Dharma books made available digitally for the first time for study, 
 - Sending and receiving / Tonglen  
 - [Insight / Vipassana](https://openmindapp.org/) (external)  
 - [Kagyupa Vajrayana refuge from afar](https://garchen.net/refuge-from-afar/) (external)  
+- [Ron Swanson’s Guided Meditation](docs/ron.md)
 - <details><summary>etc</summary><a href="https://www.garchen.store">Secret</a> <a href="https://garchen.net/lib-table-of-contents/">Ngondro</a> <a href="https://garchen.net/">Online</a> <a href="https://garchen.net/personal-retreats/">Retreats</a><br><details><summary>DO NOT ACCESS WITHOUT PERMISSION</summary>1, <a href="docs\v.md">2</a>, <a href="docs\m.md">3</a>, 4.</details></details>    
