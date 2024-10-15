@@ -70,7 +70,7 @@ Last Session of the Day - Pages 77 - 98</details>
 
 ## Opening
 
-(Start of <a href="https://www.dropbox.com/scl/fi/vdundow5orish1x12djs3/Preliminaries-Daily-1.mp3?rlkey=t7yzfh7y1dpdnks5euyv4wrhq&dl=0" target="_blank">1st session</a>)
+(Start of <a href="https://www.dropbox.com/scl/fi/5wdbejh23d9x2kxcyi2rc/Mandalla-Offerings-Daily-1.mp3?rlkey=ojgglxmdtwqjpqtaggkimpgsr&dl=0" target="_blank">1st session</a>)
 
 ### Taking Refuge and Generating Bodhicitta
 
