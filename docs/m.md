@@ -23,6 +23,7 @@ VIDEO SESSIONS
 
 <a href="https://www.youtube.com/watch?v=ra1llgn-Qh0">Click here</a> for recorded livestream session on October 13 - week 1  
 <a href="https://www.youtube.com/watch?v=qnooKaksIuk">Click here</a> for video 1 - week 1  
+<a href="https://www.youtube.com/watch?v=NqZeTHpcUv0">Click here for</a> video 2 - week 2  
 
 FURTHER SUPPORT  
 
@@ -456,24 +457,23 @@ To make this life of freedom and advantage meaningful, I renounce the three pois
 ![alt text](../.imgs/offering-2.png)
 
 ### 2.3 The Mandala Offering: the Method for Gathering the Two Accumulations
-<details>
+
 
 A sūtra says, “As long as one has not truly completed the two accumulations, one will not truly realize emptiness.” Furthermore, “The ultimate, innate wisdom is the mark that testifies to one having gathered the accumulations and purified obscurations.” Thus, it is crucial to gather the accumulations. While there are many methods for gathering the accumulations, the maṇḍala offering is supreme. A tantra says, “Through offering the entire billionfold universe, adorned with various desirable qualities, to all the buddhas in their pure realms, buddha wisdom is accomplished.” Thus, be diligent in the maṇḍala offering.
 
 ![alt text](../.imgs/tree.jpg)
-</details>
+
 
 #### 2.3.1 Visualizing the Field of Accumulation
-<details>
+
 
 In the space before me, in the center of a wish-granting tree that emerges from a lake, on a precious throne that sits beneath a lotus and moon, is Great Vajradhāra—the presiding master of all buddha families—surrounded by the ocean of accomplished Kagyü masters. In front is the Blessed Lord Chakrasaṃvara together with a host of yidam deities of the four and six classes of tantra. To his right are the buddhas of the three times, endowed with the major and minor marks, together with the thousand buddhas of this Fortunate Eon. Behind is the Great Mother of Transcendent Wisdom and volumes of sūtras and tantras, naturally echoing the sound of Dharma. To his left are the bodhisattva-protectors of the three families surrounded by the noble Sangha of Bodhisattvas. Surrounding everything are oceans of oath-bound protectors, gathering like billowing clouds.
 
 In the presence of this visualized merit-field, think that you offer yourself, everything you own, the universe and all beings, and all the glories and riches of gods and humans.
-</details>
+
 
 #### 2.3.2 The Thirty-Sevenfold Maṇḍala Offering
 
-<details>
 
 ![alt text](../.imgs/mandala.png)
 
@@ -504,7 +504,7 @@ To the assembly of gurus with three kāyas perfectly complete, I make outer, inn
 
 At the end of this recitation, the field of accumulation dissolves into you. The fundamental nature of the one who offers, the recipient of the offering, and the offering itself transcend all names and characteristics. Rest briefly within this unaltered state of mahāmudrā—
 the ultimate maṇḍala, which is the natural state.
-</details>
+
 
 ## Closing
 ### The Sanskrit Vowels and Consonants and The Essence of Dependency
