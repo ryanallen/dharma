@@ -24,6 +24,8 @@ VIDEO SESSIONS
 <a href="https://www.youtube.com/watch?v=ra1llgn-Qh0">Click here</a> for recorded livestream session on October 13 - week 1  
 <a href="https://www.youtube.com/watch?v=qnooKaksIuk">Click here</a> for video 1 - week 1  
 <a href="https://www.youtube.com/watch?v=NqZeTHpcUv0">Click here for</a> video 2 - week 2  
+<a href="https://www.youtube.com/watch?v=RtWOZJpJ6fo">Click here</a> for video 3 - week 3  
+<a href="https://www.youtube.com/watch?v=RtWOZJpJ6fo">Click here</a> for video 4 - week 4  
 
 FURTHER SUPPORT  
 
