@@ -28,6 +28,7 @@ VIDEO SESSIONS
 <a href="https://www.youtube.com/watch?v=RtWOZJpJ6fo">Click here</a> for video 4 - week 4  
 <a href="https://www.youtube.com/watch?v=wDBXbpo0MWE">Click here</a> for recorded livestream session on November 9 - week 5  
 <a href="https://www.youtube.com/watch?v=eWuc_tSS81Y">Click here</a> for video 5 - week 5  
+<a href="https://www.youtube.com/watch?v=gx0FPWx74mw">Click here</a> for video 6 - week 6  
 
 FURTHER SUPPORT  
 
