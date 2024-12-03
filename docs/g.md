@@ -61,7 +61,7 @@ Last evening session - page 77 - 98</details>
 
 ## Opening
 
-(Start of <a href="#" target="_blank">1st session</a>)
+<a href="<audio controls src="https://www.dropbox.com/scl/fi/kmgon8mf895sfz1nwxvit/guru-yoga.mp3?rlkey=b9juf9makfir7zhd58ycx0d4d&dl=0" title="#"></audio>" target="_blank">Guided meditation</a>
 
 ### Taking Refuge and Generating Bodhicitta
 
