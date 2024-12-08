@@ -16,7 +16,12 @@ Please do not share any links or zoom credentials with other practitioners who h
 
 VIDEO SESSIONS  
 
-<a href="https://www.youtube.com/watch?v=PRL1biAHYV8">Click here</a> for recorded livestream session from November 30 - week 1  
+<a href="https://www.youtube.com/watch?v=PRL1biAHYV8">Click here</a> for recorded livestream session from November 30 - week 1<br>
+<a href"https://www.youtube.com/watch?v=YRj-GyESqIs">Click here</a> for recorded livestream from December 7 - week 2
+
+
+
+
 
 The remaining sessions will be from 9 am to 11 am MST on the following dates:  
 
