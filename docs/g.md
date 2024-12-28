@@ -2,7 +2,7 @@
 
 # DO NOT ACCESS WITHOUT PERMISSION
 
-# Mandala Offerings Ngondro Online Retreat
+# Guru Yoga Online nGONDRO Retreat
 
 <details><summary>Announcement</summary>
 <br>
@@ -17,7 +17,10 @@ Please do not share any links or zoom credentials with other practitioners who h
 VIDEO SESSIONS  
 
 <a href="https://www.youtube.com/watch?v=PRL1biAHYV8">Click here</a> for recorded livestream session from November 30 - week 1<br>
-<a href"https://www.youtube.com/watch?v=YRj-GyESqIs">Click here</a> for recorded livestream from December 7 - week 2
+<a href"https://www.youtube.com/watch?v=YRj-GyESqIs">Click here</a> for recorded livestream from December 7 - week 2<br>
+<a href"https://www.youtube.com/watch?v=nt-PuposO8s">Click here</a> for recorded livestream from December 14 - week 3<br>
+<a href"https://www.youtube.com/watch?v=vqizRY3zC5Q">Click here</a> for recorded livestream from December 21 - week 4<br>
+<a href"https://www.youtube.com/watch?v=55sAYzkrQzc">Click here</a> for recorded livestream from December 28 - week 5<br>
 
 
 
