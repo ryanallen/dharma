@@ -70,6 +70,8 @@ Last evening session - page 77 - 98</details>
 ## Opening
 
 <a href="https://www.dropbox.com/scl/fi/kmgon8mf895sfz1nwxvit/guru-yoga.mp3" target="_blank">Guided meditation</a>
+</br>
+<a href="https://www.dropbox.com/scl/fi/pzijp1cv1ehzz898sezzu/guru-yoga-100-thousand.mp3?rlkey=2sbr9i624o74sj8o0dh86dpu9&st=ysyj9ec0&dl=0" target="_blank">100,000 repetitions</a>
 
 ### Taking Refuge and Generating Bodhicitta
 
