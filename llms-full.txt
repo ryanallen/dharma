@@ -1,0 +1,40 @@
+# empty.guru — full page index
+
+> Teachings (Dharma). Every canonical page, its human URL, its raw Markdown source, and a short description. Fetch the .md URLs for clean, JS-free text.
+
+## Teachings (Dharma) EG
+- Page: https://empty.guru/
+- Markdown: https://empty.guru/README.md
+- Summary: 1. 84k = 84000: Translating the Words of the Buddha. License: CC BY-NC-ND 4.0. (Modernized for readability and neutrality) 2. EG = the GitHub source for this empty.guru site.
+
+## Glossary
+- Page: https://empty.guru/GLOSSARY.md
+- Markdown: https://empty.guru/GLOSSARY.md
+- Summary: “All phenomena that arise from causes, The Tathāgata has taught their cause, And that which is their cessation; Thus has proclaimed the Great Renunciant. src
+
+## Diamond Vehicle (Vajrayāna)
+- Page: https://empty.guru/docs/
+- Markdown: https://empty.guru/docs/README.md
+
+## Book 1: Words of the Buddha (Kangyur)
+- Page: https://empty.guru/docs/#/book-1-words-of-the-buddha--kangyur/README
+- Markdown: https://empty.guru/docs/book-1-words-of-the-buddha--kangyur/README.md
+
+## Discipline (Vinayavastu)
+- Page: https://empty.guru/docs/#/book-1-words-of-the-buddha--kangyur/discipline--vinayavastu/README
+- Markdown: https://empty.guru/docs/book-1-words-of-the-buddha--kangyur/discipline--vinayavastu/README.md
+- Summary: Homage to them who severed the bonds, Destroyed the whole host of tīrthikas, Vanquished the armies of Māra, And thus discovered this awakening.
+
+## Going Forth (Pravrajyāvastu)
+- Page: https://empty.guru/docs/#/book-1-words-of-the-buddha--kangyur/discipline--vinayavastu/chapter-1-going-forth--pravrajyavastu/README
+- Markdown: https://empty.guru/docs/book-1-words-of-the-buddha--kangyur/discipline--vinayavastu/chapter-1-going-forth--pravrajyavastu/README.md
+- Summary: 1. Rupasari's Son 1. Tīrthikas 1. Two Novices 1. Scaring Away a Crow 1. Killing an Arhat 1. Persons whose hands have been cut off 1. Appendix
+
+## Rite Of Restoration (Posadhavastu)
+- Page: https://empty.guru/docs/#/book-1-words-of-the-buddha--kangyur/discipline--vinayavastu/chapter-2-rite-of-restoration--posadhavastu/README
+- Markdown: https://empty.guru/docs/book-1-words-of-the-buddha--kangyur/discipline--vinayavastu/chapter-2-rite-of-restoration--posadhavastu/README.md
+
+## Book 2: Commentarial Treatises (Tengyur)
+- Page: https://empty.guru/docs/#/book-2-commentarial-treatises--tengyur/README
+- Markdown: https://empty.guru/docs/book-2-commentarial-treatises--tengyur/README.md
+- Summary: 1. Commentaries (Tengyur) - Tibetan Translation of Indian Commentaries and Śāstras 1. Treatises (Śāstras) 1. Middle Way Commentaries (Mādhyamika) 1. Consciousness Only Commentaries (Yogācāra) 1. Hi...

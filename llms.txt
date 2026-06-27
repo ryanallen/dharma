@@ -1,0 +1,14 @@
+# empty.guru
+
+> Teachings (Dharma): the Words of the Buddha and commentarial treatises, translated and modernized for readability. Source Markdown for every page is linked below.
+
+## Pages
+
+- [Teachings (Dharma) EG](https://empty.guru/README.md)
+- [Glossary](https://empty.guru/GLOSSARY.md)
+- [Diamond Vehicle (Vajrayāna)](https://empty.guru/docs/README.md)
+- [Book 1: Words of the Buddha (Kangyur)](https://empty.guru/docs/book-1-words-of-the-buddha--kangyur/README.md)
+- [Discipline (Vinayavastu)](https://empty.guru/docs/book-1-words-of-the-buddha--kangyur/discipline--vinayavastu/README.md)
+- [Going Forth (Pravrajyāvastu)](https://empty.guru/docs/book-1-words-of-the-buddha--kangyur/discipline--vinayavastu/chapter-1-going-forth--pravrajyavastu/README.md)
+- [Rite Of Restoration (Posadhavastu)](https://empty.guru/docs/book-1-words-of-the-buddha--kangyur/discipline--vinayavastu/chapter-2-rite-of-restoration--posadhavastu/README.md)
+- [Book 2: Commentarial Treatises (Tengyur)](https://empty.guru/docs/book-2-commentarial-treatises--tengyur/README.md)

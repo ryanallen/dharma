@@ -1,0 +1,692 @@
+# <div align="center">Going Forth </br>(Pravrajyāvastu)</div>
+`Toh. 1-1` [`84k`](https://84000.co/translation/toh1-1)
+
+1. [Rupasari's Son](#rupasaris-son-śāriputra)
+1. [Tīrthikas](#tīrthikas)
+1. [Two Novices](#two-novices)
+1. [Scaring Away a Crow](#scaring-away-a-crow)
+1. [Killing an Arhat](#killing-an-arhat)
+1. [Persons whose hands have been cut off](#persons-whose-hands-have-been-cut-off)
+1. [Appendix](#appendix)
+
+## Rupasari's Son</br> (Śāriputra)
+### Śāriputra
+
+While the [Bodhisattva](../../../../GLOSSARY.md#bodhisattva) was dwelling in the [Abode of Tuṣita](../../../../GLOSSARY.md#tuṣita-heaven), the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) ruled over the lands of [Aṅga](../../../../GLOSSARY.md#aṅga). Under his rule, the kingdom prospered and thrived, crops were bountiful and the land teemed with animals and people. Meanwhile, King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) ruled over the lands of [Magadha](../../../../GLOSSARY.md#magadha). Under his rule, the kingdom prospered and thrived, crops were bountiful and the land teemed with animals and people. At times, the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) and his armies were dominant. At other times, King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) and his armies were dominant.
+
+At a time when the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) and his armies were dominant, he called up the four branches of his armed forces‍—the elephant corps, the cavalry, the charioteer corps, and the infantry‍—and laid waste to all of [Magadha](../../../../GLOSSARY.md#magadha), save [Rājagṛha](../../../../GLOSSARY.md#rājagṛha), before returning.
+
+At a time when King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) and his armies were dominant, he too called up the four branches of his armed forces‍—the elephant corps, the cavalry, the charioteer corps, and the infantry‍—and laid waste to all of [Aṅga](../../../../GLOSSARY.md#aṅga), save [Campā](../../../../GLOSSARY.md#campā), before returning. 
+
+At yet another time when the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) and his armies were dominant, he again called up the four branches of his armed forces‍—the elephant corps, the cavalry, the charioteer corps, and the infantry‍—and began again to lay waste to the land of [Magadha](../../../../GLOSSARY.md#magadha), prompting the people of [Magadha](../../../../GLOSSARY.md#magadha) to send a message to King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma), saying, “[Your Majesty](../../../../GLOSSARY.md#your-majesty), the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) has called up the four branches of his armed forces‍—the elephant corps, the cavalry, the charioteer corps, and the infantry‍—and is laying waste to the lands of [Magadha](../../../../GLOSSARY.md#magadha).”
+
+When King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) heard this, he too called up the four branches of his armed forces‍—the elephant corps, the cavalry, the charioteer corps, and the infantry‍—and rode out to meet the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) in battle. 
+
+The [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) captured King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma)’s entire elephant corps and proceeded to capture the whole of his cavalry, charioteer corps, and infantry. Defeated and frightened, destroyed and conquered, King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) retreated. Entering [Rājagṛha](../../../../GLOSSARY.md#rājagṛha), he closed the gates and shut himself up within the walls of his fortress.
+
+The [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) sent an envoy to King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) with the message, “It would be good were you to come out. If you do not surrender, and instead take flight into the sky above, I will fell you with a volley of arrows. Tunnel beneath the earth and I will yank you up as if with a hook. Flee to the mountaintops, and even there you shall find no escape.”
+
+King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) was unsettled by the message he heard. Head in hands, he sat and sat, absorbed in [thought](../../../../GLOSSARY.md#thought). Then he said to his ministers, “Gentlemen, this [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) is belligerent, ruthless, and his military might is great. If he gives an order, how can we not obey?”
+
+They spoke in verse: 
+
+> “When land and life are threatened,  
+> Seek always to protect life.  
+> When the wise look at both, they see  
+> Land, but not life, can be found again.”
+
+They then implored him, “[Your Majesty](../../../../GLOSSARY.md#your-majesty), any way you look at it, you must go out!” 
+
+King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) hung his sword from his neck in surrender and went out, where the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) imposed an annual tribute and tax upon him.
+
+While the blessed [Bodhisattva](../../../../GLOSSARY.md#bodhisattva) was dwelling in the [Abode of Tuṣita](../../../../GLOSSARY.md#abode-of-tuṣita), he saw five sights[^2] and thrice gave notice to the six classes of [gods](../../../../GLOSSARY.md#gods) who revel in the desire [realm](../../../../GLOSSARY.md#realm). Assuming an elephant’s appearance, he entered his mother’s womb as the earth shook and this world and all others too were bathed in a vast light more luminous than the glow of the [gods](../../../../GLOSSARY.md#gods) of the [Thirty-Three](../../../../GLOSSARY.md#thirty-three). So great was this miraculous manifestation, it was as if the sun and moon shone in the gulf between worlds[^1]. So great was its strength that darkness everywhere, even the pitch-black darkness of dark places dark from never knowing the light of the sun and moon, was filled with a vast light. Beings born in those places had never even seen so far as their outstretched hands, yet by this light these beings saw one another and exclaimed, “You there! There are others who have been born here! There are others who have been born here!”
+
+At the same time as the blessed [Bodhisattva](../../../../GLOSSARY.md#bodhisattva) was born, sons were also born to [four great kings](../../../../GLOSSARY.md#four-great-kings) in four great city-states. In [Rājagṛha](../../../../GLOSSARY.md#rājagṛha) the son of King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) was born. In [Śrāvastī](../../../../GLOSSARY.md#śrāvastī) the son of King [Arāḍa Brahmadatta](../../../../GLOSSARY.md#arāḍa-brahmadatta) was born. In [Ujjayinī](../../../../GLOSSARY.md#ujjayinī) the son of King [Anantanemi](../../../../GLOSSARY.md#anantanemi) was born. In [Kauśāmbī](../../../../GLOSSARY.md#kauśāmbī) the son of King [Śatānīka](../../../../GLOSSARY.md#śatānīka) was born.
+
+When the blessed [Bodhisattva](../../../../GLOSSARY.md#bodhisattva) was born, the entire universe was bathed in a vast light more luminous than the glow of the [gods](../../../../GLOSSARY.md#gods) of the [Thirty-Three](../../../../GLOSSARY.md#thirty-three). So great was this miraculous manifestation, it was as if the sun and moon shone in the gulf between worlds. So great was its strength that darkness everywhere, even the pitch-black darkness of dark places dark from never knowing the light of the sun and moon, was filled with a vast light. Beings born in those places had never even seen so far as their outstretched hands, yet by this light these beings saw one another and exclaimed, “You there! There are others who have been born here! There are others who have been born here!”
+
+King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) [thought](../../../../GLOSSARY.md#thought), “When my son was born, the world was lit as if by the gold of the rising sun. And as he is the son of Queen [Bimbī](../../../../GLOSSARY.md#bimbī) (Goldie), I shall name this prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) ([Essence](../../../../GLOSSARY.md#essence) of Gold).” And so the boy was named [Bimbisāra](../../../../GLOSSARY.md#bimbisāra). 
+
+King [Arāḍa Brahmadatta](../../../../GLOSSARY.md#arāḍa-brahmadatta) [thought](../../../../GLOSSARY.md#thought), “When my son was born, the world was lit as if by the light of lights, so I shall name this prince [Prasenajit](../../../../GLOSSARY.md#prasenajit) (Supreme Light).” And so the boy was named [Prasenajit](../../../../GLOSSARY.md#prasenajit). 
+
+King [Śatānīka](../../../../GLOSSARY.md#śatānīka) [thought](../../../../GLOSSARY.md#thought), “When my son was born, the world was lit as if by the rising sun, so I shall name this prince [Udayana](../../../../GLOSSARY.md#udayana) (Rising).” And so the boy was named [Udayana](../../../../GLOSSARY.md#udayana). 
+
+King [Anantanemi](../../../../GLOSSARY.md#anantanemi) [thought](../../../../GLOSSARY.md#thought), “When my son was born, the world was lit by a brilliant light, so I shall name this prince [Pradyota](../../../../GLOSSARY.md#pradyota) (Brilliant Light).” And so the boy was named [Pradyota](../../../../GLOSSARY.md#pradyota).
+
+And so each king attributed the light to the birth of his own son. Though each attributed it to his own son, it was not so. For all that occurred, occurred because of the [Bodhisattva](../../../../GLOSSARY.md#bodhisattva).
+
+On the very same day that Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) was born, five hundred sons of five hundred ministers were also born and were given names appropriate to their patrilineage.
+
+Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) was entrusted to eight nursemaids:[^3] two to cuddle him, two to breastfeed him, two to change his diapers, and two to play with him.[^4] Fortified with milk, curd, butter, [ghee](../../../../GLOSSARY.md#ghee), cream, and other nourishing foods, he grew quickly, shooting up like a lotus in a pond. When he was old enough, he was introduced to letters, number names, calculation, counting by hand, [expenditures](../../../../GLOSSARY.md#expenditures), [revenues](../../../../GLOSSARY.md#revenues), and [deposits](../../../../GLOSSARY.md#deposits).[^5] After he finished letters, he became skilled in exegesis, recitation, knowledge, proper conduct,[^6] and the way to assess gems, sites, fabrics, woods, elephants, horses, women, and men.
+
+He trained in and mastered the different fields of arts and skills of anointed [kṣatriya](../../../../GLOSSARY.md#kṣatriya) kings, or a ruler of the [realm](../../../../GLOSSARY.md#realm) endowed with the might and vigor to conquer the wide face of the earth, such as riding on the neck of an elephant, riding horseback, charioteering, swordsmanship, archery, advancing, yielding, wielding a hook, throwing a lasso, casting a spear, and how to hold a weapon, march, tie a topknot,[^7] slash, quarter, pierce, and strike in five ways‍—striking from a distance, striking a target using acoustic location, striking a fatal blow, striking without hesitation, and striking forcefully. 
+
+These arts and skills were also mastered by the five hundred sons of the five hundred ministers.
+
+[Bimbisāra](../../../../GLOSSARY.md#bimbisāra)’s father enrolled him in the eighteen guilds, due to which he was named and became known as [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) of the Guilds.[^8]
+
+Later Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) set out astride an elephant where he saw the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga)’s [officer](../../../../GLOSSARY.md#officer)s collecting tributes and taxes, prompting him to inquire of his men, “Gentlemen, for whom are these tributes and taxes being collected?” 
+
+“[Your Majesty](../../../../GLOSSARY.md#your-majesty)! For the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga).”
+
+“What? Will we be offered tribute?” 
+
+“No, [Your Majesty](../../../../GLOSSARY.md#your-majesty), we are the ones to offer the tribute.” 
+
+“Gentlemen, summon those [officer](../../../../GLOSSARY.md#officer)s.”
+
+When the [officer](../../../../GLOSSARY.md#officer)s were summoned, he said, “Gentlemen, the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) is crowned and an anointed [kṣatriya](../../../../GLOSSARY.md#kṣatriya) king. If I too am crowned and an anointed a [kṣatriya](../../../../GLOSSARY.md#kṣatriya) king, why is it you are collecting tributes and taxes here? I forbid you to collect tributes and taxes from this day forth.”
+
+“The prince fails to appreciate the situation,” they [thought](../../../../GLOSSARY.md#thought). “Let us go submit the matter to King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma).”
+
+They went to King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) and said, “[Your Majesty](../../../../GLOSSARY.md#your-majesty), when we [officer](../../../../GLOSSARY.md#officer)s of the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) were collecting tributes and taxes, Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) stopped us from doing so. Shall we collect them or not?” 
+
+“Gentlemen, the prince doesn’t understand the situation. Continue to collect tributes and taxes as you have done before.”
+
+They had begun their collection again when Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) spotted them on their way back and said, “Gentlemen, have I not already prohibited you from collecting tributes and taxes? Why are you collecting them again? You are to desist. Fail to desist and I shall close the borders.”
+
+Frightened, they [thought](../../../../GLOSSARY.md#thought), “The prince is dangerous and ruthless. In time he may pose a serious risk to us. We must go warn the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga).”
+
+They went before the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) and said, “[Your Majesty](../../../../GLOSSARY.md#your-majesty), as [officer](../../../../GLOSSARY.md#officer)s of the court, we were collecting tributes and taxes on your behalf when King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma)’s son, Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra), stopped us. If [Your Majesty](../../../../GLOSSARY.md#your-majesty) ignores the prince’s actions, he may, in time, pose a serious risk to us.”
+
+Then they spoke in verse: 
+
+> “When a tree is small,  
+> Fingernails may fell it.  
+> Yet when the tree is large,  
+> Even a hundred axes may fail.”
+
+The [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) sent a letter to King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma): “Send Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) with his sword hung from his neck‍—or prepare your pyre and shroud, for I myself will come!”
+
+King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) heard this letter read and was troubled. Head in hands, he sat and sat, absorbed in [thought](../../../../GLOSSARY.md#thought). Then he summoned Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) and said, “Son, why did you stop the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga)’s [officer](../../../../GLOSSARY.md#officer)s from collecting tributes and taxes? They have sent me a letter expressing their anger.”
+
+“[Your Majesty](../../../../GLOSSARY.md#your-majesty), why do we pay tribute and taxes to him?” 
+
+“Son, we are tributaries.”
+
+“If the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) is an anointed a [kṣatriya](../../../../GLOSSARY.md#kṣatriya) king and we too are anointed [kṣatriya](../../../../GLOSSARY.md#kṣatriya) kings, why do we offer tribute and taxes to him? Give me an army of just four divisions, [Your Majesty](../../../../GLOSSARY.md#your-majesty), and I will meet the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) in battle.”
+
+King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) then sent a message to the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga), saying, “You had best hope all the power, forces, will, and authority you possess do not fail you!” 
+
+The [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) found this message intolerable and commanded his ministers, “Gentlemen, lay waste to those lands! [Call up](../../../../GLOSSARY.md#call-up) the four branches of the armed forces.”
+
+Having called up the four branches of the armed forces‍—the elephant corps, the cavalry, the charioteer corps, and the infantry‍—they began to lay waste to the land of [Magadha](../../../../GLOSSARY.md#magadha). The people of [Magadha](../../../../GLOSSARY.md#magadha) sent a message to King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma), saying, “[Your Majesty](../../../../GLOSSARY.md#your-majesty), the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) has called up the four branches of his armed forces‍—the elephant corps, the cavalry, the charioteer corps, and the infantry‍—and is laying waste to the lands of [Magadha](../../../../GLOSSARY.md#magadha).”
+
+King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) was troubled by this news and, head in hands, sat and sat, absorbed in [thought](../../../../GLOSSARY.md#thought). He summoned Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) and gave him charge over the four branches of the armed forces. Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) gathered the five hundred ministers’ sons and said, “Gentlemen, what if I were to meet the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) in battle? What would you do?”
+
+“Prince, your struggle shall be our struggle!” they responded.
+
+Then they said in verse: 
+
+> “In whose house dwells glory,  
+> It is he we should protect.  
+> If he falls, then all fall,  
+> As spokes at a hub’s collapse.”
+
+Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) said, “Now you must do all you can to protect me.” 
+
+“Whatever [Your Majesty](../../../../GLOSSARY.md#your-majesty)’s plight may be, that too shall be ours. Wherever [Your Majesty](../../../../GLOSSARY.md#your-majesty)’s foot may fall, there shall we bow our heads.”
+
+The four branches of the armed forces were then called up and they set out from [Rājagṛha](../../../../GLOSSARY.md#rājagṛha). When King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma), who sat shut up in his upper citadel surrounded by his council, saw them depart, he asked his ministers, “Gentlemen, whose army is this?”
+
+“[Your Majesty](../../../../GLOSSARY.md#your-majesty), it is Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra)’s.” 
+
+“Gentlemen! It is awesome to behold!” 
+
+Hence, the prince was named and became known as [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) of the Army. Some knew him as [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) of the Guilds while some knew him as [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) of the Army.
+
+Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) said to the five hundred sons of the ministers, “Gentlemen, this [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) is belligerent, ruthless, and his military might is great so we cannot meet him in battle. Therefore, we will sneak in, overrun his exposed camp, and kill him while their guard is down and their armor off.”
+
+They overran the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga)’s exposed camp while their guard was down and their armor off, sneaking up and killing him. The four branches of the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga)’s armed forces scattered to the four [directions](../../../../GLOSSARY.md#directions). Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) sent mounted emissaries in the four [directions](../../../../GLOSSARY.md#directions) with the message, “Gentlemen, you are anointed [kṣatriya](../../../../GLOSSARY.md#kṣatriya) kings, and I too am an anointed [kṣatriya](../../../../GLOSSARY.md#kṣatriya) king, so return! Gentlemen, I will support you!”
+
+He whom the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) left to defend the city of [Campā](../../../../GLOSSARY.md#campā) heard how the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) had been killed, prompting him to close the gates and take cover within the walls of the fortress. When at last Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) reached [Campā](../../../../GLOSSARY.md#campā), the prince fixed the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga)’s head onto a long pole and displayed it, saying, “It is I who has brought your lord to this state. Come out immediately and I shall look favorably upon you. Fail to appear and you too will soon find yourself in this state.”
+
+It distressed the steward of [Campā](../../../../GLOSSARY.md#campā) to hear this, and he [thought](../../../../GLOSSARY.md#thought) of this verse: 
+
+> “When land and life are threatened,  
+> Seek always to protect life.  
+> When the wise look at both, they see  
+> Land, but not life, can be found again.”
+
+With that [thought](../../../../GLOSSARY.md#thought) he hung his sword from his neck in surrender and came out. 
+
+With the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) slain, [Campā](../../../../GLOSSARY.md#campā) fell into Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra)’s hands, at which point he sent a message to King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma), saying, “[Your Majesty](../../../../GLOSSARY.md#your-majesty), I have slain the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) and [Campā](../../../../GLOSSARY.md#campā) is now in my hands. [Your Majesty](../../../../GLOSSARY.md#your-majesty), tell me what else needs to be done and I shall see to it.”
+
+Pleased, King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) sent Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) a parasol, a turban, and a coronet with the message, “Son, you must take the reins of power there. I, for my part, will assume the reins of power here.”
+
+And so Prince [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) assumed the reins of power. Under him, the kingdom prospered and thrived, crops were bountiful and the land teemed with animals and people.
+
+Once King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma)’s time had come, the ministers of [Rājagṛha](../../../../GLOSSARY.md#rājagṛha) sent a message to King [Bimbisāra](../../../../GLOSSARY.md#bimbisāra), saying, “[Your Majesty](../../../../GLOSSARY.md#your-majesty), your father’s time has come.” In a great coronation ceremony, the ministers of [Rājagṛha](../../../../GLOSSARY.md#rājagṛha) and [Magadha](../../../../GLOSSARY.md#magadha) granted him sovereignty over the lands of [Aṅga](../../../../GLOSSARY.md#aṅga) and [Magadha](../../../../GLOSSARY.md#magadha).
+
+Under King [Bimbisāra](../../../../GLOSSARY.md#bimbisāra)’s rule, the kingdoms of [Aṅga](../../../../GLOSSARY.md#aṅga) and [Magadha](../../../../GLOSSARY.md#magadha) prospered and thrived, crops were bountiful and the land teemed with animals and people. He completely pacified conflict, aggressors, and enemies from without as well as disturbances from within. He rid the land of brigands, thieves, famine, and illness, and brought a wealth of [rice](../../../../GLOSSARY.md#rice), sugar cane, cattle, and buffalo; thus the just [Dharma](../../../../GLOSSARY.md#dharma) king established a just kingdom.
+
+There was a young [brahmin](../../../../GLOSSARY.md#brahmin) who, desiring and in search of esoteric instruction, left the [Middle Country](../../../../GLOSSARY.md#middle-country) and went to the South, where there was a [brahmin](../../../../GLOSSARY.md#brahmin) to whom the Vedas and the limbs of the Vedas had been entrusted, who had been a teacher to [brahmin](../../../../GLOSSARY.md#brahmin)s living in a country to the south.[^9]
+
+The young [brahmin](../../../../GLOSSARY.md#brahmin) went to see this teacher of [brahmin](../../../../GLOSSARY.md#brahmin)s. Serene, the young [brahmin](../../../../GLOSSARY.md#brahmin) bowed his head calmly and sat off to one side. The [brahmin](../../../../GLOSSARY.md#brahmin) teacher warmly greeted him with words of [welcome](../../../../GLOSSARY.md#welcome), and asked, “Young [brahmin](../../../../GLOSSARY.md#brahmin), where have you come from and what do you desire?”
+
+
+
+“I hail from the [Middle Country](../../../../GLOSSARY.md#middle-country) and I seek to serve at the feet of a [preceptor](../../../../GLOSSARY.md#preceptor).” 
+
+“Why?” 
+
+“So that I may [study](../../../../GLOSSARY.md#study) the Vedas.”
+
+“Excellent, my son. You should do just that, for that is a [brahmin](../../../../GLOSSARY.md#brahmin)’s duty.” 
+
+And so, the young [brahmin](../../../../GLOSSARY.md#brahmin) began to [study](../../../../GLOSSARY.md#study) the Vedas with the teacher of [brahmin](../../../../GLOSSARY.md#brahmin)s.
+
+The [brahmin](../../../../GLOSSARY.md#brahmin)s’ students were in the habit, when not occupied with their studies, of going to the riverbank to bathe, visiting the city, or collecting wood for use in fire pūjas.
+
+Once, when not occupied with their studies, they went to collect wood for fire pūjas. On the way they had the following conversation. “Sons of Kutsa, sons of Vātsa, sons of Śāṇḍili, sons of Bhāradvāja, sons of the Five,[^10] sons of the Further Five. To begin with, let us share where we come from, from which land we hail.”
+
+“I am from the East,” one young [brahmin](../../../../GLOSSARY.md#brahmin) responded.
+
+“I am from the South,” said another.
+
+“I am from the West.” 
+
+“I am from the North.”
+
+The young [brahmin](../../../../GLOSSARY.md#brahmin) then said, “I am from the [Middle Country](../../../../GLOSSARY.md#middle-country).” 
+
+To him they said, “Sir! We have seen and heard of all those other countries, but have neither seen nor heard of the [Middle Country](../../../../GLOSSARY.md#middle-country).”
+
+And then they added this verse: 
+
+> “In the East they are wise,  
+> In the South they are cunning,  
+> In the West they stir division,  
+> In the North they speak roughly.”
+
+“Young [brahmin](../../../../GLOSSARY.md#brahmin),” they asked, “what is the [Middle Country](../../../../GLOSSARY.md#middle-country) like?” 
+
+“Gentlemen, the [Middle Country](../../../../GLOSSARY.md#middle-country) is the best of all lands, abounding in [rice](../../../../GLOSSARY.md#rice), sugar cane, cattle, and buffalo, thronging with hundreds of honest women and filled with upstanding men, devoid of foreign savages, and guided by learned men. The river Gaṅgā, bountiful, meritorious, auspicious, and clean, flows through this famed land, irrigating both shores. At one point, where sages are known to gather, the river flows through eighteen bends. There, sages seek to bodily rise to the heavens through their practice of austerities.”[^11]
+
+“Young [brahmin](../../../../GLOSSARY.md#brahmin), having met you, we have another question. Do you have men counted as learned in the [Middle Country](../../../../GLOSSARY.md#middle-country)?” 
+
+“Gentlemen, from the first did I not say, ‘Gentlemen, the [Middle Country](../../../../GLOSSARY.md#middle-country) is filled with upstanding men, devoid of foreign savages, and guided by learned men’?”
+
+“Young [brahmin](../../../../GLOSSARY.md#brahmin), you did say that. Young [brahmin](../../../../GLOSSARY.md#brahmin), are there any in the [Middle Country](../../../../GLOSSARY.md#middle-country) like our [preceptor](../../../../GLOSSARY.md#preceptor), a bull among teachers?” 
+
+“Gentlemen, in the [Middle Country](../../../../GLOSSARY.md#middle-country), the teachers are such that our teacher could not even look them in the face, so eloquently do they speak, so wise are they.”
+
+On hearing the young [brahmin](../../../../GLOSSARY.md#brahmin) speak so highly of the [Middle Country](../../../../GLOSSARY.md#middle-country), they were moved by the desire to visit it. The young [brahmin](../../../../GLOSSARY.md#brahmin)s then went off to collect wood for use in fire pūjas. Bearing their loads of wood, they came to the house in which the teacher of [brahmin](../../../../GLOSSARY.md#brahmin)s lived. On arriving, they set their loads of wood off to one side, went to him, and said, “[Preceptor](../../../../GLOSSARY.md#preceptor), please listen. The young [brahmin](../../../../GLOSSARY.md#brahmin) from the [Middle Country](../../../../GLOSSARY.md#middle-country) speaks so highly of it that we are moved by the desire to visit.”
+
+The [brahmin](../../../../GLOSSARY.md#brahmin) said, “Boys, would you visit every place of which you hear? Since you seem to derive so much pleasure from hearing of other countries, I would suggest you not visit those places you hear about.”
+
+“[Preceptor](../../../../GLOSSARY.md#preceptor), according to this young [brahmin](../../../../GLOSSARY.md#brahmin), in the [Middle Country](../../../../GLOSSARY.md#middle-country) the teachers are such that you, our teacher, could not even look them in the face, so eloquently do they speak, so wise are they.”
+
+“My sons, do I say I am the one and only teacher on this earth, that there are no other teachers? After all, since the earth contains many gems, its surface is covered with one beauty after another.”
+
+“We will see that country yet, [Preceptor](../../../../GLOSSARY.md#preceptor), if only for a short while. We will bathe on the banks of the river, we will serve the bull among teachers, we will [defeat](../../../../GLOSSARY.md#defeat) opponents, we will make a name for ourselves and find our fortune, too. We will go to the [Middle Country](../../../../GLOSSARY.md#middle-country).”
+
+As the [brahmin](../../../../GLOSSARY.md#brahmin) was attached to his students and his circle of students was small, he said to the young [brahmin](../../../../GLOSSARY.md#brahmin)s, “In that case, my sons, let us gather our hides, bast robes, staffs, water jugs, ladles, and [bowl](../../../../GLOSSARY.md#bowl)s and go to the [Middle Country](../../../../GLOSSARY.md#middle-country).”[^12]
+
+Having collected their things, the [brahmin](../../../../GLOSSARY.md#brahmin) set off with the young [brahmin](../../../../GLOSSARY.md#brahmin)s for the [Middle Country](../../../../GLOSSARY.md#middle-country). Along the way, he defeated an opponent in debate, and then bound him to his chariot. He poured ashes from a pot on another’s head. Another steered clear of him like a crow does an archery range. Another received him with parasols, victory banners, and standards. Another made a [pledge](../../../../GLOSSARY.md#pledge) to become his student. As he went, he vanquished one opponent after another in villages, cities, towns, marketplaces, and hamlets until he reached [Rājagṛha](../../../../GLOSSARY.md#rājagṛha).
+
+The [brahmin](../../../../GLOSSARY.md#brahmin) [thought](../../../../GLOSSARY.md#thought), “Why bother pulling off the branches, petals, and leaves while leaving the root? Since all worthy opponents and anyone counted as learned will be close to the king, it is the king I shall see.”
+
+With that, the [brahmin](../../../../GLOSSARY.md#brahmin) went to see King [Bimbisāra](../../../../GLOSSARY.md#bimbisāra). On arriving, he wished King [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) success and long life, took a place off to one side, and addressed him: “[Your Majesty](../../../../GLOSSARY.md#your-majesty), from my guru I have received a few teachings. And so I seek to settle a matter in debate with an opponent in [Your Majesty](../../../../GLOSSARY.md#your-majesty)’s presence.”
+
+The king asked his ministers, “Gentlemen, are there any opponents in my kingdom capable of settling a matter in debate with this [brahmin](../../../../GLOSSARY.md#brahmin)?”
+
+“[Your Majesty](../../../../GLOSSARY.md#your-majesty), in the village of [Nālada](../../../../GLOSSARY.md#nālada) there is a [brahmin](../../../../GLOSSARY.md#brahmin) known as [Māṭhara](../../../../GLOSSARY.md#māṭhara) who has been entrusted with the Vedas and the limbs of the Vedas. With blazing intelligence, this capable man illuminates his own assertions and smashes those of others. He has put together a work known as [Māṭhara](../../../../GLOSSARY.md#māṭhara)’s Treatise.”
+
+“Summon Master [Māṭhara](../../../../GLOSSARY.md#māṭhara).” 
+
+“As you wish, [Your Majesty](../../../../GLOSSARY.md#your-majesty).”
+
+[Māṭhara](../../../../GLOSSARY.md#māṭhara) received the summons and went to see King [Bimbisāra](../../../../GLOSSARY.md#bimbisāra). On arrival, he wished King [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) success and long life, then took a place off to one side. 
+
+The ministers said, “This is the [preceptor](../../../../GLOSSARY.md#preceptor), [Your Majesty](../../../../GLOSSARY.md#your-majesty).”
+
+The king greeted him with words of [welcome](../../../../GLOSSARY.md#welcome) and asked, “[Preceptor](../../../../GLOSSARY.md#preceptor), can you settle a matter in debate in my presence with this [brahmin](../../../../GLOSSARY.md#brahmin)?” 
+
+“I, as a capable man, shall do as the king pleases,” replied [Māṭhara](../../../../GLOSSARY.md#māṭhara).
+
+The king ordered the ministers, “Gentlemen, prepare the debate arena and assign the disputants their roles.”
+
+The ministers prepared the debate arena and assigned the disputants their roles. The ministers then prostrated at the king’s feet and asked, “[Your Majesty](../../../../GLOSSARY.md#your-majesty), who would you have defend a position first?” 
+
+“This [brahmin](../../../../GLOSSARY.md#brahmin) is a visitor so have him defend a position first.”
+
+Having been assigned to defend a position first, the [brahmin](../../../../GLOSSARY.md#brahmin) proceeded to recite five hundred lines. [Māṭhara](../../../../GLOSSARY.md#māṭhara) repeated them and then said, “This position of yours is devoid of logic. It is inconsistent and incoherent.” The [brahmin](../../../../GLOSSARY.md#brahmin) remained silent as [Māṭhara](../../../../GLOSSARY.md#māṭhara) pointed out the position’s flaws.
+
+That the [brahmin](../../../../GLOSSARY.md#brahmin) had no confidence to respond was damning and among the reasons he was vanquished. The king asked the ministers, “Gentlemen, who won?” 
+
+“[Māṭhara](../../../../GLOSSARY.md#māṭhara), [Your Majesty](../../../../GLOSSARY.md#your-majesty).”
+
+This pleased the king, who straightened up, extended his right arm, and declared, “It is a fine discovery for me to find this bull among teachers in my kingdom!”
+
+He saluted [Māṭhara](../../../../GLOSSARY.md#māṭhara) and asked, “[Preceptor](../../../../GLOSSARY.md#preceptor), where do you live?” 
+
+“[Your Majesty](../../../../GLOSSARY.md#your-majesty), in [Nālada](../../../../GLOSSARY.md#nālada).” 
+
+“Go, and let that village be your victor’s prize.”[^13]
+
+[Māṭhara](../../../../GLOSSARY.md#māṭhara) was thrilled, delighted, and overjoyed. Surrounded by learned men, he returned to his village. And since the world desires success and distrusts failure, several [brahmin](../../../../GLOSSARY.md#brahmin)s pressed their daughters on him in marriage. [Māṭhara](../../../../GLOSSARY.md#māṭhara) then took a wife of equal caste and together they played with, took pleasure in, and amused one another. The wife with whom he had played, taken pleasure, and amused himself gave birth to a son with an extraordinarily long torso. Three weeks or twenty-one days after the birth, relatives came and gathered to celebrate his birth in grand style, during which time they chose a name for the boy. The relatives said, “Since this boy has an extraordinarily long torso, he should be named [Koṣṭhila](../../../../GLOSSARY.md#koṣṭhila) (Long Torso).”
+
+The young [brahmin](../../../../GLOSSARY.md#brahmin) was entrusted to eight nursemaids: two to cuddle him, two to breastfeed him, two to change his diapers, and two to play with him.[^14] Fortified with milk, curd, butter, [ghee](../../../../GLOSSARY.md#ghee), cream, and other nourishing foods, he grew quickly, shooting up like a lotus in a pond. When he was old enough, he was introduced to letters, number names, calculation, counting by hand, how to exclude, to add, and to leave[^15] and to parse until he had mastered reciting. Then, he was instructed in the ways of [brahmin](../../../../GLOSSARY.md#brahmin)s: their conduct, ritual purity, and observances; the handling of ashes, the handling of ritual vases, and the handling of sites; hand gestures, turbans, offering praise, and salutations; the Ṛgveda, the Yajurveda, the Sāmaveda, and the Atharvaveda; and a [brahmin](../../../../GLOSSARY.md#brahmin)’s six duties‍—making [fire sacrifice](../../../../GLOSSARY.md#fire-sacrifice)s, officiating over [fire sacrifice](../../../../GLOSSARY.md#fire-sacrifice)s, studying, teaching, giving, and receiving. The Vedas the limbs of the Vedas were entrusted to him, and with his blazing intelligence he could illuminate his own assertions and vanquish those of others.
+
+His father made him [study](../../../../GLOSSARY.md#study) all fields of knowledge, and thus by the age of sixteen he had studied the Aindra school of grammar and could vanquish all opponents.
+
+At another time when he was reciting the Vedas with his father, he asked, “Father, what is the meaning of this statement?” 
+
+“Son, even I do not know the meaning of this statement. But these sacred [mantra](../../../../GLOSSARY.md#mantra) have been recited with praise, sung, and furnished by past sages. Nowadays [brahmin](../../../../GLOSSARY.md#brahmin)s simply recite and repeat them.”
+
+“Father, do you think there is no meaning to these sacred [mantra](../../../../GLOSSARY.md#mantra), which have been recited with praise, sung, and furnished by past sages, but nowadays are simply recited and repeated by [brahmin](../../../../GLOSSARY.md#brahmin)s? This is what such statements mean,” and he proceeded to explain.
+
+[Tiṣya](../../../../GLOSSARY.md#tiṣya) was delighted and in his delight [thought](../../../../GLOSSARY.md#thought), “This is what a son should do: he should carry on his father’s tradition or develop his insight even further. Were he to accomplish only this, this [brahmin](../../../../GLOSSARY.md#brahmin) boy’s insight would surpass my own.”
+
+He shared this insight with the five hundred young [brahmin](../../../../GLOSSARY.md#brahmin)s he was teaching to recite brahmanic [mantra](../../../../GLOSSARY.md#mantra)s and they too were delighted and happily turned to [Upatiṣya](../../../../GLOSSARY.md#upatiṣya). When the young [brahmin](../../../../GLOSSARY.md#brahmin) [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) taught the five hundred young [brahmin](../../../../GLOSSARY.md#brahmin)s to recite brahmanic [mantra](../../../../GLOSSARY.md#mantra)s, he summarized the longer Vedas, abridging their words and phrases, and expanded on the shorter Vedas, explaining their meaning and etymologies. 
+
+In the village of [Kāṣṭhavāṭa](../../../../GLOSSARY.md#kāṣṭhavāṭa), there lived a [royal priest](../../../../GLOSSARY.md#royal-priest) named [Potalaka](../../../../GLOSSARY.md#potalaka) who was wealthy with many riches and goods, with holdings both vast and extensive, with riches to rival [Vaiśravaṇa](../../../../GLOSSARY.md#vaiśravaṇa). He took a wife of equal caste and with her played, took pleasure, and amused himself. After their play, lovemaking, and the indulgence of all their desires resulted in no child, male or female, the childless couple, badly wanting a child, propitiated Śiva, Varuṇa, Kubera, Śakra, [Brahmā](../../../../GLOSSARY.md#brahmā), and others. Among the different [gods](../../../../GLOSSARY.md#gods) were [gods](../../../../GLOSSARY.md#gods) of [park](../../../../GLOSSARY.md#park) [shrine](../../../../GLOSSARY.md#shrine)s, [gods](../../../../GLOSSARY.md#gods) of the forest, [gods](../../../../GLOSSARY.md#gods) of crossroads, [gods](../../../../GLOSSARY.md#gods) of intersections, [gods](../../../../GLOSSARY.md#gods) who take votive offerings, [birth totem gods](../../../../GLOSSARY.md#birth-totem-gods), [gods](../../../../GLOSSARY.md#gods) who adhere to the [Dharma](../../../../GLOSSARY.md#dharma), and [gods](../../../../GLOSSARY.md#gods) who always shadow you.
+
+There is a saying, “Boys and girls are born in the world because they are prayed for.” But that is not so, for if it were, then each and every man would have a thousand sons, as do the kings of the world. Rather, boys and girls are born when three circumstances are present. What are those three? The mother and father feel desire and couple; it is the right time and the mother is ovulating; and a [gandharva](../../../../GLOSSARY.md#gandharva) is near and wants to be reborn. And so it is that boys and girls are born when those three circumstances are present.[^16]
+
+As [Potalaka](../../../../GLOSSARY.md#potalaka) sat engrossed in prayer, a being in search of his final rebirth, who had grasped the [essence](../../../../GLOSSARY.md#essence) of [liberation](../../../../GLOSSARY.md#liberation), who had turned to [nirvāṇa](../../../../GLOSSARY.md#nirvāṇa) and away from [saṃsāra](../../../../GLOSSARY.md#saṃsāra), who had seen that all births end in death, who did not seek to be reborn, and who was to take his last body, died and passed from the lofty heights of a god and entered his wife’s womb.
+
+Certain women, endowed with natural intelligence, have five unique qualities. What are the five? They know when a man feels desire and when he does not; they know when the time comes and when they are ovulating; they know when they have conceived; they know whence the conceived child came; and they know whether it is a boy or a girl. If it is a boy, he lies with his head to the right side of the womb. If it is a girl, she lies with her head to the left side of the womb.
+
+Delighted, [Potalaka](../../../../GLOSSARY.md#potalaka)’s wife joyfully told her husband, “[Son of a lord](../../../../GLOSSARY.md#son-of-a-lord)! I am with child! And as it lies with its head to the right side of my womb, it is sure to be a boy, so pray be happy!”
+
+[Potalaka](../../../../GLOSSARY.md#potalaka) too was delighted. He sat straight up, raised his right hand, and exclaimed with great joy, “At last, I shall look on the face of the son I have wanted for so long! May we get along and not disagree. May he carry on my work and, having been nurtured, nurture in return. May he enjoy his inheritance and ensure that my line lasts long. When our time comes and we die, may he make the appropriate offerings, neither too few nor too many. And may he dedicate the [merit](../../../../GLOSSARY.md#merit) he thus accrues to us by name, saying, ‘May this [merit](../../../../GLOSSARY.md#merit) follow the two of them wherever they be born, wherever they go.’ ”
+
+Knowing she was with child, to ensure she carried the child to term he installed his wife on the top story of their [mansion](../../../../GLOSSARY.md#mansion) where he saw that she was tended to and did not come to harm. When it was cold, she was given what she needed for the cold. When it was hot, she was given what she needed for the heat. On the doctor’s advice, her food was not to be too bitter, too sour, too salty, too sweet, too spicy, or too astringent; and so she was given food that was not bitter, sour, salty, sweet, spicy, or astringent. Her body was festooned in garlands, necklaces, and jewelry, like a goddess at play in a garden. She moved from bed to throne, from pedestal to pedestal, the soles of her feet never touching the floor, and she never heard anything even slightly unpleasant.
+
+After eight or nine months had passed, a boy was born, well proportioned, pleasing to the eye, handsome, radiant, with a golden complexion, a head shaped well like a parasol, long arms, a broad forehead, eyebrows that met, and a [prominent nose](../../../../GLOSSARY.md#prominent-nose). Three weeks or twenty-one days after the birth, relatives came and gathered to celebrate his birth in grand style, during which time they chose a name for the boy. As this boy had come to them from the lap of the [gods](../../../../GLOSSARY.md#gods), they [thought](../../../../GLOSSARY.md#thought) the young [brahmin](../../../../GLOSSARY.md#brahmin) should be named [Kolita](../../../../GLOSSARY.md#kolita) (Born from the Lap), and so he was named [Kolita](../../../../GLOSSARY.md#kolita).
+
+Also, because he was a descendent of Mudgala, they [thought](../../../../GLOSSARY.md#thought) the young [brahmin](../../../../GLOSSARY.md#brahmin) should be named [Maudgalyāyana](../../../../GLOSSARY.md#maudgalyāyana) (Son of Mudgala’s descendants), and so he was named [Maudgalyāyana](../../../../GLOSSARY.md#maudgalyāyana).
+
+Thus it was that some knew the young [brahmin](../../../../GLOSSARY.md#brahmin) as [Maudgalyāyana](../../../../GLOSSARY.md#maudgalyāyana) while others knew him as [Kolita](../../../../GLOSSARY.md#kolita).
+
+The young [brahmin](../../../../GLOSSARY.md#brahmin) [Kolita](../../../../GLOSSARY.md#kolita) was entrusted to eight nursemaids: two to cuddle him, two to breastfeed him, two to change his diapers, and two to play with him.[^17] Fortified with milk, curd, butter, [ghee](../../../../GLOSSARY.md#ghee), cream, and other nourishing foods, he grew quickly, shooting up like a lotus in a pond. When he was old enough, he was introduced to letters, number names, calculation, counting by hand, and how to exclude, to add, to leave, and to parse. Once he had finished letters, he was instructed in the ways of [brahmin](../../../../GLOSSARY.md#brahmin)s: their conduct, ritual purity, and observances; the handling of ashes, the handling of ritual vases, and the handling of sites; hand gestures, turbans, offering praise, and salutations; the Ṛgveda, the Yajurveda, the Sāmaveda, and the Atharvaveda; and a [brahmin](../../../../GLOSSARY.md#brahmin)’s six duties‍—making [fire sacrifice](../../../../GLOSSARY.md#fire-sacrifice)s, officiating over [fire sacrifice](../../../../GLOSSARY.md#fire-sacrifice)s, studying, teaching, giving, and receiving. He mastered and became learned in the Vedas and all branches of Vedic knowledge. The Vedas and the limbs of the Vedas were entrusted to him, and with his blazing intelligence, he could illuminate his own assertions and vanquish those of others.
+
+His father made him [study](../../../../GLOSSARY.md#study) all fields of knowledge. Once, when he was reciting the Vedas with his father, he asked, “Father, what does this statement mean?” 
+
+“Son, even I don’t know the meaning of this statement. Sages of the past recited with praise, sung, and furnished these sacred [mantra](../../../../GLOSSARY.md#mantra), but nowadays [brahmin](../../../../GLOSSARY.md#brahmin)s simply recite and repeat them.”
+
+“Father, do you think there is no meaning to these sacred [mantra](../../../../GLOSSARY.md#mantra), which have been recited with praise, sung, and furnished by past sages, but nowadays are simply recited and repeated by [brahmin](../../../../GLOSSARY.md#brahmin)s? This is what such statements mean,” and he proceeded to explain.
+
+[Potalaka](../../../../GLOSSARY.md#potalaka) was delighted and in his delight [thought](../../../../GLOSSARY.md#thought), “This is what a son should do: he should carry on his father’s tradition or develop his insight even further. Were he to accomplish only that, this [brahmin](../../../../GLOSSARY.md#brahmin) boy’s insight would surpass my own.”
+
+[Potalaka](../../../../GLOSSARY.md#potalaka) shared this insight with the five hundred young [brahmin](../../../../GLOSSARY.md#brahmin)s he was teaching to recite brahmanic [mantra](../../../../GLOSSARY.md#mantra)s and they too were delighted and happily turned to [Maudgalyāyana](../../../../GLOSSARY.md#maudgalyāyana). The young [brahmin](../../../../GLOSSARY.md#brahmin) [Maudgalyāyana](../../../../GLOSSARY.md#maudgalyāyana) then taught the five hundred young [brahmin](../../../../GLOSSARY.md#brahmin)s to recite the brahmanic [mantra](../../../../GLOSSARY.md#mantra)s.
+
+The five hundred young [brahmin](../../../../GLOSSARY.md#brahmin)s were in the habit, when not occupied with their studies, of going to the riverbank to bathe, visiting the city, or collecting wood for use in fire pūjas.
+
+Once, when not occupied with their studies, the students of the young [brahmin](../../../../GLOSSARY.md#brahmin) [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) walked, reciting [mantra](../../../../GLOSSARY.md#mantra)s on their way to the city. Meanwhile, trailing behind, the students of the young [brahmin](../../../../GLOSSARY.md#brahmin) [Maudgalyāyana](../../../../GLOSSARY.md#maudgalyāyana) walked, reciting [mantra](../../../../GLOSSARY.md#mantra)s on their way to the city. When the students of the young [brahmin](../../../../GLOSSARY.md#brahmin) [Maudgalyāyana](../../../../GLOSSARY.md#maudgalyāyana) heard the students of the young [brahmin](../../../../GLOSSARY.md#brahmin) [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) reciting the sacred [mantra](../../../../GLOSSARY.md#mantra), they asked, “Why do you recite the sacred [mantra](../../../../GLOSSARY.md#mantra) in such a debased way?”
+
+“How should they be recited?” 
+
+“The sacred [mantra](../../../../GLOSSARY.md#mantra) should be recited as we do.”
+
+“From whom did you learn these sacred [mantra](../../../../GLOSSARY.md#mantra)?” 
+
+“Not to know him is not to know the sun or the moon. In the village of [Nālada](../../../../GLOSSARY.md#nālada) lives the [brahmin](../../../../GLOSSARY.md#brahmin) [Tiṣya](../../../../GLOSSARY.md#tiṣya). We have learned them from his son, the young [brahmin](../../../../GLOSSARY.md#brahmin) [Upatiṣya](../../../../GLOSSARY.md#upatiṣya). And from whom did you learn these sacred [mantra](../../../../GLOSSARY.md#mantra)?”
+
+“Not to know him is not to know the sun or the moon. In the village of [Kāṣṭhavāṭa](../../../../GLOSSARY.md#kāṣṭhavāṭa), there lives a [royal priest](../../../../GLOSSARY.md#royal-priest) named [Potalaka](../../../../GLOSSARY.md#potalaka). We have learned them from his son, the young [brahmin](../../../../GLOSSARY.md#brahmin) [Kolita](../../../../GLOSSARY.md#kolita).”
+
+With that, the young [brahmin](../../../../GLOSSARY.md#brahmin) students of [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) became dispirited, upset, and daunted. They went to [Upatiṣya](../../../../GLOSSARY.md#upatiṣya), who saw them off in the distance and asked, “What troubles you, young [brahmin](../../../../GLOSSARY.md#brahmin)s? Your [preceptor](../../../../GLOSSARY.md#preceptor) is never wrong.”
+
+Then he spoke in verse:
+
+> “Those things you feel from within  
+>  Are clearly seen from without.  
+>  You cannot mask your voice,  
+>  Your complexion, or your mien.
+
+“Young [brahmin](../../../../GLOSSARY.md#brahmin)s, clearly something troubles you.” 
+
+After they explained the situation at length, [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) said, “Young [brahmin](../../../../GLOSSARY.md#brahmin)s, allow me to explain. Although the sacred [mantra](../../../../GLOSSARY.md#mantra) should be recited in the manner those young [brahmin](../../../../GLOSSARY.md#brahmin)s recite them, I have summarized the longer Vedas, abridging their words and phrases, and expanded on the shorter Vedas, explaining their meaning and etymologies.”
+
+The students of [Kolita](../../../../GLOSSARY.md#kolita) had also become dispirited, upset, and daunted. They went to [Kolita](../../../../GLOSSARY.md#kolita), who too, on seeing them off in the distance, asked, “What troubles you, young [brahmin](../../../../GLOSSARY.md#brahmin)s? Your [preceptor](../../../../GLOSSARY.md#preceptor) is never wrong.”
+
+He too then spoke the verse: 
+
+> “Those things you feel from within  
+> Are clearly seen from without.  
+> You cannot mask your voice,  
+> Your complexion, or your mien.
+
+“Young [brahmin](../../../../GLOSSARY.md#brahmin)s, clearly something troubles you.” 
+
+After they explained the situation at length, he said, “Young [brahmin](../../../../GLOSSARY.md#brahmin)s, allow me to explain. Although the sacred [mantra](../../../../GLOSSARY.md#mantra) should be recited in the manner we have recited them, that young [brahmin](../../../../GLOSSARY.md#brahmin) [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) is wise for he has summarized the longer Vedas, abridging their words and phrases, and expanded on the shorter Vedas, explaining their meaning and etymologies.”
+
+On hearing of the other, both [Kolita](../../../../GLOSSARY.md#kolita) and [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) formed a singular desire to meet the other. [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) went to his father and said, “Father, I wish to visit the village of [Kāṣṭhavāṭa](../../../../GLOSSARY.md#kāṣṭhavāṭa), for there lives a [royal priest](../../../../GLOSSARY.md#royal-priest) named [Potalaka](../../../../GLOSSARY.md#potalaka) whose son is called [Kolita](../../../../GLOSSARY.md#kolita). I shall go to see him.”
+
+“Son, is he wiser than you?” 
+
+“Father, he is not wiser than I. It is rather that he is wealthier.”
+
+His father replied: 
+
+> “Some are greater due to pedigree,  
+> Others because of age or riches.  
+> But they all seek to sit  
+> At the doorstep of the learned.
+
+“Son, if he should come here you should share your learning but you mustn’t go to him.”
+
+[Kolita](../../../../GLOSSARY.md#kolita) also went to his father and said, “Father, I wish to visit the village of [Nālada](../../../../GLOSSARY.md#nālada), for there lives a [brahmin](../../../../GLOSSARY.md#brahmin) [Tiṣya](../../../../GLOSSARY.md#tiṣya) whose son is called [Upatiṣya](../../../../GLOSSARY.md#upatiṣya). I shall go to see him.”
+
+“Son, is he wealthier than you?” 
+
+“Father, he is not wealthier than I. It is rather that he is wiser.”
+
+His father replied: 
+
+> “Some are greater due to pedigree,  
+> Others because of age or learning.  
+> But they all sit subservient  
+> At the doorstep of the rich.
+
+“Son, if he should come here you should share your riches but you mustn’t go to him.”
+
+Some time later, in [Rājagṛha](../../../../GLOSSARY.md#rājagṛha), the feast day of the [nāga](../../../../GLOSSARY.md#nāga) kings Giri and Valguka approached. As the day neared, King [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) wondered whether he should join in the festivities himself, as was his wont, or send Prince [Ajātaśatru](../../../../GLOSSARY.md#ajātaśatru) in his stead.
+
+A short time later, a small task came up, prompting King [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) to say to Prince [Ajātaśatru](../../../../GLOSSARY.md#ajātaśatru), “Son, go and join in the festivities for the [nāga](../../../../GLOSSARY.md#nāga) kings Giri and Valguka.”
+
+When the [brahmin](../../../../GLOSSARY.md#brahmin) [Potalaka](../../../../GLOSSARY.md#potalaka) heard that King [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) had sent Prince [Ajātaśatru](../../../../GLOSSARY.md#ajātaśatru) to join in the festivities for the [nāga](../../../../GLOSSARY.md#nāga) kings Giri and Valguka, he [thought](../../../../GLOSSARY.md#thought), “Prince [Ajātaśatru](../../../../GLOSSARY.md#ajātaśatru) will become king once his father dies and [Kolita](../../../../GLOSSARY.md#kolita) will become [royal priest](../../../../GLOSSARY.md#royal-priest) when I die. Thus their acquaintance will in time bear fruit.”
+
+He said to [Kolita](../../../../GLOSSARY.md#kolita), “Son, go join the festivities for the [nāga](../../../../GLOSSARY.md#nāga) kings Giri and Valguka. There, they will have arranged four seats, one for the king, one for the [royal priest](../../../../GLOSSARY.md#royal-priest), one for the challenger, and one for the reigning champion. Leave the king’s seat be, and take your place in the [royal priest](../../../../GLOSSARY.md#royal-priest)’s seat.” 
+
+On arriving, he left the king’s seat be and sat on the [royal priest](../../../../GLOSSARY.md#royal-priest)’s seat.
+
+When the [brahmin](../../../../GLOSSARY.md#brahmin) [Tiṣya](../../../../GLOSSARY.md#tiṣya) heard that King [Bimbisāra](../../../../GLOSSARY.md#bimbisāra) had sent Prince [Ajātaśatru](../../../../GLOSSARY.md#ajātaśatru) to join in the festivities for the [nāga](../../../../GLOSSARY.md#nāga) kings Giri and Valguka, he too said to [Upatiṣya](../../../../GLOSSARY.md#upatiṣya), “Son, go join the festivities for the [nāga](../../../../GLOSSARY.md#nāga) kings Giri and Valguka. There, they will have arranged four seats, one for the king, one for the [royal priest](../../../../GLOSSARY.md#royal-priest), one for the challenger, and one for the reigning champion. Leave the king’s seat and the [royal priest](../../../../GLOSSARY.md#royal-priest)’s seat be, but place a small stick and vase on the reigning champion’s seat before sitting down on the challenger’s seat. From the time the sun rises to the time it sets, there shall be no challenger to equal you.”
+
+When [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) arrived, he passed the king’s and the [royal priest](../../../../GLOSSARY.md#royal-priest)’s seats, placed a small stick and vase on the seat for the reigning champion, and sat down on the challenger’s seat. When the music began, the dancers sang in Toṭaka meter. The people began to dance and sing, while the two young [brahmin](../../../../GLOSSARY.md#brahmin)s sat in repose. When the great crowd of people saw this, they exclaimed, “Either those two young [brahmin](../../../../GLOSSARY.md#brahmin)s are fools or they’re unflappable!”
+
+As the music wound down and the people went off dancing and singing, [Kolita](../../../../GLOSSARY.md#kolita) asked [Upatiṣya](../../../../GLOSSARY.md#upatiṣya), “Did it seem to you that the dances were well danced, the songs well sung, and the music well played?” 
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) replied, “It seemed so to those who saw and heard them.”
+
+“If it is true that those who withdraw into repose do not see, how then do they not hear?” asked [Kolita](../../../../GLOSSARY.md#kolita).
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) replied in verse: 
+
+[Kolita](../../../../GLOSSARY.md#kolita) asked, “Are you [Upatiṣya](../../../../GLOSSARY.md#upatiṣya)?” 
+
+“People know me thus.” 
+
+“And you?” [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) asked [Kolita](../../../../GLOSSARY.md#kolita). “Did it seem to you that the dances were well danced, the songs well sung, and the music well played?”[^18]
+
+> “In a crowd of people destined for death,  
+> Who laugh and flirt  
+> Though their dead skin and dead flesh will die,  
+> What wise man would not be vigilant?”
+
+“It seemed so to those who saw and heard them.” 
+
+“If it is true that those who withdraw into repose do not see, how then do they not hear?”
+
+[Kolita](../../../../GLOSSARY.md#kolita) replied in verse: 
+
+> “All adornment is a weight,  
+> All dance a competition.  
+> All songs nonsense,  
+> And all bodies but impermanent.”
+
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) asked, “Are you [Kolita](../../../../GLOSSARY.md#kolita)?” 
+
+“People know me thus.” 
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) said to [Kolita](../../../../GLOSSARY.md#kolita), “Come. Let us [go forth](../../../../GLOSSARY.md#go-forth) from home into homelessness so that we may rely solely on what is correct.”
+
+“Young [brahmin](../../../../GLOSSARY.md#brahmin),” replied [Kolita](../../../../GLOSSARY.md#kolita), “the royal priesthood, for which I have made offerings to the [gods](../../../../GLOSSARY.md#gods), performed fire pūja, and suffered through austerities, is within reach. Having been born into a caste borne about by elephants, why would I renounce it?”
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) recited a verse: 
+
+> “When a tree rots,  
+> What use has it for blossoms and boughs?  
+> When a person dies,  
+> What use has he for possessions?”
+
+He enjoined [Kolita](../../../../GLOSSARY.md#kolita) again, “Come. Let us [go forth](../../../../GLOSSARY.md#go-forth) from home into homelessness so that we may rely solely on what is correct.” 
+
+“I must first consult my parents,” replied [Kolita](../../../../GLOSSARY.md#kolita). 
+
+The young [brahmin](../../../../GLOSSARY.md#brahmin) [Kolita](../../../../GLOSSARY.md#kolita) went to his parents and said, “Father, Mother, please listen. As I have faith in only what is perfect, I shall [go forth](../../../../GLOSSARY.md#go-forth) from home into homelessness.”
+
+“Son, the royal priesthood, for which you have made offerings to the [gods](../../../../GLOSSARY.md#gods), performed fire pūja, and suffered through austerities, is within reach. Having been born into a caste borne about by elephants, why would you renounce it?”
+
+> [Kolita](../../../../GLOSSARY.md#kolita) spoke in verse:  
+> “To live in the forest,  
+> Clad in [bark](../../../../GLOSSARY.md#bark) or grass,  
+> Eating roots and fruit  
+> Among beasts, is best.  
+> Fearing the future,  
+> The wise refuse  
+> To kill, imprison, or torture  
+> For temporal power.”
+
+His parents replied, “Son, you are our only boy, beloved, handsome, patient, and agreeable to the eye. Even if you were to die, we would fight to keep you with us. Why, then, do you think we’d let you go while you’re still alive?”
+
+“Father, Mother, it is best you let me go. For if you do not, from this day forth, I shall neither eat your food nor honor you.” 
+
+“Dear boy, we will not let you leave. So long as we live, you will remain within sight. Do not think of disobeying!”
+
+[Kolita](../../../../GLOSSARY.md#kolita) refused food for one day, then for a second, and for a third until the sixth day. At that point [Kolita](../../../../GLOSSARY.md#kolita)’s parents went to him and said, “Dear boy, please listen. You are very young and have lived a life of leisure, and you do not know what it is to suffer. It is hard to live the [holy life](../../../../GLOSSARY.md#holy-life). It is hard to live in solitude. It is hard to be happy all on your own. It is hard to make your bed in distant forests, at the foot of mountains, and in remote places. Living alone in the wilderness is very trying. You will have to spend the rest of your life living among wild animals. You will have to spend the rest of your life living on others’ handouts. You will have to spend the rest of your life away from human pleasures. You will have to spend the rest of your life away from the fun and games of ordinary people. Dear boy! [Kolita](../../../../GLOSSARY.md#kolita)! Come home. There is pleasure to be had while living here, too. Here, too, you may give generously. Here, too, you may [act](../../../../GLOSSARY.md#act) meritoriously.”
+
+Despite their pleading, [Kolita](../../../../GLOSSARY.md#kolita) remained silent. [Kolita](../../../../GLOSSARY.md#kolita)’s parents again entreated him, a second and a third time, saying each time, “Dear boy, please listen. You are very young and have lived a life of leisure, and you do not know what it is to suffer. It is hard to live the [holy life](../../../../GLOSSARY.md#holy-life). It is hard to live in solitude. It is hard to be happy all on your own. It is hard to make your bed in distant forests, at the foot of mountains, and in remote places. Living alone in the wilderness is very trying. You will have to spend the rest of your life living among wild animals. You will have to spend the rest of your life living on others’ handouts. You will have to spend the rest of your life away from human pleasures. You will have to spend the rest of your life away from the fun and games of ordinary people. Dear boy! [Kolita](../../../../GLOSSARY.md#kolita)! Come home. There is pleasure to be had while living here, too. Here, too, you may give generously. Here, too, you may [act](../../../../GLOSSARY.md#act) meritoriously.”
+
+Yet though they thus entreated him a second and a third time, [Kolita](../../../../GLOSSARY.md#kolita) remained silent. 
+
+[Kolita](../../../../GLOSSARY.md#kolita)’s parents then enjoined his relatives, “Family! Come! Talk sense into our dear boy [Kolita](../../../../GLOSSARY.md#kolita).”
+
+At this, [Kolita](../../../../GLOSSARY.md#kolita)’s relatives went to him and said, “Dear boy, please listen. You are very young and have lived a life of leisure and don’t know what it is to suffer. It is hard to live the [holy life](../../../../GLOSSARY.md#holy-life). It is hard to live in solitude. It is hard to be happy all on your own. It is hard to make your bed in distant forests, at the foot of mountains, and in remote places. Living alone in the wilderness is very trying. You will have to spend the rest of your life living among wild animals. You will have to spend the rest of your life living on others’ handouts. You will have to spend the rest of your life away from human pleasures. You will have to spend the rest of your life away from the fun and games of ordinary people. Dear boy, [Kolita](../../../../GLOSSARY.md#kolita), come home! Among your relatives, there is pleasure to be had while living there too. There too you may give generously. There too you may [act](../../../../GLOSSARY.md#act) meritoriously.”
+
+Despite their pleading, [Kolita](../../../../GLOSSARY.md#kolita) did not say a thing. [Kolita](../../../../GLOSSARY.md#kolita)’s relatives again entreated him, a second and a third time, saying each time, “Dear boy, please listen. You are very young and have lived a life of leisure, and you do not know what it is to suffer. It is hard to live the [holy life](../../../../GLOSSARY.md#holy-life). It is hard to live in solitude. It is hard to be happy all on your own. It is hard to make your bed in distant forests, at the foot of mountains, and in remote places. Living alone in the wilderness is very trying. You will have to spend the rest of your life living among wild animals. You will have to spend the rest of your life living on others’ handouts. You will have to spend the rest of your life away from human pleasures. You will have to spend the rest of your life away from the fun and games of ordinary people. Dear boy! [Kolita](../../../../GLOSSARY.md#kolita)! Come home. Among your relatives, there is pleasure to be had while living there, too. There, too, you may give generously. There, too, you may [act](../../../../GLOSSARY.md#act) meritoriously.”
+
+Yet though they thus pleaded with him a second time and a third time, [Kolita](../../../../GLOSSARY.md#kolita) still remained silent. 
+
+[Kolita](../../../../GLOSSARY.md#kolita)’s parents then enjoined his childhood friends, “You must come! Talk sense into our dear boy [Kolita](../../../../GLOSSARY.md#kolita).”
+
+At this, the young [brahmin](../../../../GLOSSARY.md#brahmin) [Kolita](../../../../GLOSSARY.md#kolita)’s childhood friends went to him and said, “Dear boy, listen. You are very young and have lived a life of leisure and do not know what it is to suffer. It is hard to live the [holy life](../../../../GLOSSARY.md#holy-life). It is hard to live in solitude. It is hard to be happy all on your own. It is hard to make your bed in distant forests, at the foot of mountains, and in remote places. Living alone in the wilderness is very trying. You will have to spend the rest of your life living among wild animals. You will have to spend the rest of your life living on others’ handouts. You will have to spend the rest of your life away from human pleasures. You will have to spend the rest of your life away from the fun and games of ordinary people. Dear boy! [Kolita](../../../../GLOSSARY.md#kolita)! Come home. There is also pleasure to be had while living among your relatives. There too you may give generously. There too you may [act](../../../../GLOSSARY.md#act) meritoriously.”
+
+Yet though they thus entreated him, [Kolita](../../../../GLOSSARY.md#kolita) remained silent. His childhood friends again entreated [Kolita](../../../../GLOSSARY.md#kolita) a second and a third time, saying each time, “Dear boy, please listen. You are very young and have lived a life of leisure, and you do not know what it is to suffer. It is hard to live the [holy life](../../../../GLOSSARY.md#holy-life). It is hard to live in solitude. It is hard to be happy all on your own. It is hard to make your bed in distant forests, at the foot of mountains, and in remote places. Living alone in the wilderness is very trying. You will have to spend the rest of your life living among wild animals. You will have to spend the rest of your life living on others’ handouts. You will have to spend the rest of your life away from human pleasures. You will have to spend the rest of your life away from the fun and games of ordinary people. Dear boy! [Kolita](../../../../GLOSSARY.md#kolita)! Come home. Among your relatives, there is pleasure to be had while living there, too. There, too, you may give generously. There, too, you may [act](../../../../GLOSSARY.md#act) meritoriously.”
+
+Yet though they thus entreated him a second and a third time, [Kolita](../../../../GLOSSARY.md#kolita) still remained silent. [Kolita](../../../../GLOSSARY.md#kolita)’s childhood friends then went to his parents and said, “Father, Mother, please listen. What good can come from the death of the serene youth [Kolita](../../../../GLOSSARY.md#kolita)? The wise have praised going forth, so if going forth makes him happy, then at least you will see him alive. If he isn’t happy, he can always give up the life of a sage. And since he will have no home but yours, it is better that you let him [go forth](../../../../GLOSSARY.md#go-forth).”
+
+[Kolita](../../../../GLOSSARY.md#kolita)’s parents then asked [Kolita](../../../../GLOSSARY.md#kolita), “Dear boy, [Kolita](../../../../GLOSSARY.md#kolita), do you think it better to [go forth](../../../../GLOSSARY.md#go-forth) than to remain at home?” 
+
+“Father, Mother, it is not good for me to live at home. It is good for me to [go forth](../../../../GLOSSARY.md#go-forth).”
+
+“Well then, dear boy, [Kolita](../../../../GLOSSARY.md#kolita), know that the time for such a change has come.” 
+
+Having obtained his parents’ [consent](../../../../GLOSSARY.md#consent), the young [brahmin](../../../../GLOSSARY.md#brahmin) [Kolita](../../../../GLOSSARY.md#kolita) slowly regained his strength, vigor, and determination by drinking [rice](../../../../GLOSSARY.md#rice) [gruel](../../../../GLOSSARY.md#gruel). He left the village of [Kāṣṭhavāṭa](../../../../GLOSSARY.md#kāṣṭhavāṭa) and set out for the village of [Nālada](../../../../GLOSSARY.md#nālada).
+
+As the young [brahmin](../../../../GLOSSARY.md#brahmin) [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) enjoyed solitude, he had gone to live in the forest, where he gave instruction to five hundred young [brahmin](../../../../GLOSSARY.md#brahmin)s in the reciting of [mantra](../../../../GLOSSARY.md#mantra)s. In time, the young [brahmin](../../../../GLOSSARY.md#brahmin) [Kolita](../../../../GLOSSARY.md#kolita) reached the village of [Nālada](../../../../GLOSSARY.md#nālada) and asked [Upatiṣya](../../../../GLOSSARY.md#upatiṣya)’s parents, “Father, Mother, where is [Upatiṣya](../../../../GLOSSARY.md#upatiṣya)?”
+
+They replied, “[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) enjoys solitude so he has gone to live in the forest, where he instructs five hundred young [brahmin](../../../../GLOSSARY.md#brahmin)s in the reciting of [mantra](../../../../GLOSSARY.md#mantra)s.”
+
+[Kolita](../../../../GLOSSARY.md#kolita) went to [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and said, “Come, [Upatiṣya](../../../../GLOSSARY.md#upatiṣya). We shall [go forth](../../../../GLOSSARY.md#go-forth) from home into homelessness so that we may rely solely on what is correct.”
+
+“Did your parents give their [consent](../../../../GLOSSARY.md#consent)?” 
+
+“They did.” 
+
+“Young [brahmin](../../../../GLOSSARY.md#brahmin), please stay until I have asked my parents.”
+
+“[Upatiṣya](../../../../GLOSSARY.md#upatiṣya), it took a long time for my parents to give their [consent](../../../../GLOSSARY.md#consent). How long will it be until you have [consent](../../../../GLOSSARY.md#consent)?” 
+
+“Young [brahmin](../../../../GLOSSARY.md#brahmin), I will see that they give their [consent](../../../../GLOSSARY.md#consent) right away and return.”
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) went to his parents and said, “Father, Mother, please listen. I shall [go forth](../../../../GLOSSARY.md#go-forth) from home into homelessness so that I may rely solely on what is correct.” 
+
+“Son, is it good for you to [go forth](../../../../GLOSSARY.md#go-forth)?”
+
+“Father, Mother, it is good for me to [go forth](../../../../GLOSSARY.md#go-forth).” 
+
+“Then [go forth](../../../../GLOSSARY.md#go-forth), son.”
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) went to [Kolita](../../../../GLOSSARY.md#kolita) and said, “Come, [Kolita](../../../../GLOSSARY.md#kolita). We shall [go forth](../../../../GLOSSARY.md#go-forth) from home into homelessness so that we may rely solely on what is correct.” 
+
+“Did your parents give their [consent](../../../../GLOSSARY.md#consent)?” 
+
+“They did.”
+
+“[Upatiṣya](../../../../GLOSSARY.md#upatiṣya), it took a long time for my parents to give their [consent](../../../../GLOSSARY.md#consent). How did you get the [consent](../../../../GLOSSARY.md#consent) of yours so quickly?” 
+
+“Allow me to explain. You were hindered by heavy bindings, tight, [secure](../../../../GLOSSARY.md#secure), and imperishable, while I was hindered by light bindings, powerless, weak, and perishable.”
+
+The venerable [Śāriputra](../../../../GLOSSARY.md#śāriputra) had gone forth in five hundred previous lives because he had made this prayer:
+
+> “May I be born, not in a wealthy house  
+> Nor in one that is poor;  
+> Let it be rather in a house of moderate [means](../../../../GLOSSARY.md#means)  
+> And always among many [renunciant](../../../../GLOSSARY.md#renunciant)s.”
+
+[Kolita](../../../../GLOSSARY.md#kolita) said to [Upatiṣya](../../../../GLOSSARY.md#upatiṣya), “Young [brahmin](../../../../GLOSSARY.md#brahmin), as we are well-known [brahmin](../../../../GLOSSARY.md#brahmin)s, we cannot join just any [renunciant](../../../../GLOSSARY.md#renunciant) order. We must properly scrutinize the different [renunciant](../../../../GLOSSARY.md#renunciant) orders and only then join one.” 
+
+With that they made their way to [Rājagṛha](../../../../GLOSSARY.md#rājagṛha).
+
+Meanwhile there were six [tīrthika](../../../../GLOSSARY.md#tīrthika) teachers living in [Rājagṛha](../../../../GLOSSARY.md#rājagṛha) who entertained the conceit of omniscience although they were not omniscient: [Pūraṇa Kāśyapa](../../../../GLOSSARY.md#pūraṇa-kāśyapa); [Gośālīputra](../../../../GLOSSARY.md#gośālīputra), the [wandering mendicant](../../../../GLOSSARY.md#wandering-mendicant); [Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher), son of Vairaṭṭī; [Ajita of the hair shawl](../../../../GLOSSARY.md#ajita-of-the-hair-shawl); Kakuda, a descendant of [Kātyāyana](../../../../GLOSSARY.md#kātyāyana); and [Jñātiputra, the Nirgrantha](../../../../GLOSSARY.md#jñātiputra-the-nirgrantha).
+
+The young [brahmin](../../../../GLOSSARY.md#brahmin)s [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and [Kolita](../../../../GLOSSARY.md#kolita) went to [Pūraṇa Kāśyapa](../../../../GLOSSARY.md#pūraṇa-kāśyapa) and asked him, “Sir, what is your approach to the [Dharma](../../../../GLOSSARY.md#dharma)? What instructions do you give to your students? What is the result of living a [holy life](../../../../GLOSSARY.md#holy-life)? What are its benefits?”
+
+“Young [brahmin](../../../../GLOSSARY.md#brahmin)s,” replied [Pūraṇa](../../../../GLOSSARY.md#pūraṇa), “this is how I see it and this is my philosophy: There is nothing to [alms](../../../../GLOSSARY.md#alms), oblations, [fire sacrifice](../../../../GLOSSARY.md#fire-sacrifice)s, good deeds, or bad deeds. There are no results or fruitions from performing good deeds or bad deeds. There is no present life. There is no afterlife. There is no mother. There is no father. Sentient beings are not born miraculously.[^19] In the world there are no [arhat](../../../../GLOSSARY.md#arhat)s who have reached perfection, who have entered perfection, who can knowingly say that through their heightened insight they have seen this and future lives, and proclaim, ‘We have overcome birth. We have lived the [holy life](../../../../GLOSSARY.md#holy-life). We have done what needed to be done. We will know no life other than this.’ One’s life-force persists for the duration of this life but is annihilated after that. It will perish and after death will not arise again. A person’s body is forged from the four great elements, for once its time is up, the body’s solid structures recede[^20] into earth, the body’s fluids recede into water, the body’s heat recedes into fire, and the body’s vital energies recede into [wind](../../../../GLOSSARY.md#wind). The senses fade into space. A person’s corpse is borne on a bier carried by four men and taken to the charnel ground where it is burned, never to be seen again. What burns turns to ash. The bones turn a pigeon-like grey. Those who are confused about these things counsel giving [alms](../../../../GLOSSARY.md#alms), while the wise counsel receiving them. Those who argue that such things exist are all vainly debating what is empty and hollow. Both the childish and the wise will cease to be. They will perish and after death will not live again.”
+
+The young [brahmin](../../../../GLOSSARY.md#brahmin)s [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and [Kolita](../../../../GLOSSARY.md#kolita) [thought](../../../../GLOSSARY.md#thought), “This noble teacher has strayed onto a spurious [path](../../../../GLOSSARY.md#path). He pursues fully a ruinous [path](../../../../GLOSSARY.md#path). This is exactly the kind of dangerous [path](../../../../GLOSSARY.md#path) the wise say must be rejected.”
+
+Knowing this, they spoke in verse: 
+
+> “He who teaches a wrong and ruinous [path](../../../../GLOSSARY.md#path)  
+> Is known to be an inferior teacher.  
+> If this is his [Dharma](../../../../GLOSSARY.md#dharma),  
+> What, for him, is antithetical to [Dharma](../../../../GLOSSARY.md#dharma)?”
+
+[Pūraṇa](../../../../GLOSSARY.md#pūraṇa)’s teaching heard, they cast it aside like an empty bottle and moved on. 
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and [Kolita](../../../../GLOSSARY.md#kolita) then went to [Gośālīputra](../../../../GLOSSARY.md#gośālīputra) the [wandering mendicant](../../../../GLOSSARY.md#wandering-mendicant) and asked, “Sir, what is your approach to the [Dharma](../../../../GLOSSARY.md#dharma)? What instructions do you give to your students? What is the result of living the [holy life](../../../../GLOSSARY.md#holy-life)? What are its benefits?”
+
+“Young [brahmin](../../../../GLOSSARY.md#brahmin)s,” replied the [wandering mendicant](../../../../GLOSSARY.md#wandering-mendicant), “this is how I see it and this is my philosophy: That sentient beings are afflicted has nothing to do with causes and conditions.[^21] The affliction of sentient beings has nothing to do with causes and conditions. That sentient beings are purified has nothing to do with causes and conditions. The purification of sentient beings occurs randomly and by chance. That sentient beings lack understanding and insight has nothing to do with causes and conditions. Their lack of understanding and insight occurs randomly and by chance. That sentient beings acquire understanding and insight has nothing to do with causes and conditions. Their acquisition of understanding and insight occurs randomly and by chance. It is not due to vigor. It is not due to determination. It is not due to a combination of vigor and determination. It is not due to a person’s skill. It is not due to his overpowering ability. It is not due to a combination of a person’s skill and overpowering ability. It is not due to one’s own skill. It is not due to another’s skill. It is not due to a combination of one’s own skill and another’s skill. All beings, all living things, and all elements are powerless. They lack strength, influence, determination, and the ability to overcome. [S.10.a] A being’s life is predetermined. That is why we experience the unique pleasures and pains of each of the six [realm](../../../../GLOSSARY.md#realm)s.”
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and [Kolita](../../../../GLOSSARY.md#kolita) [thought](../../../../GLOSSARY.md#thought), “This noble teacher too has strayed onto a spurious [path](../../../../GLOSSARY.md#path). He pursues fully a ruinous [path](../../../../GLOSSARY.md#path). This is exactly the kind of dangerous [path](../../../../GLOSSARY.md#path) the wise say must be rejected.” 
+
+Knowing this, they spoke in verse:
+
+> “He who teaches a wrong and ruinous [path](../../../../GLOSSARY.md#path)  
+> Is known to be an inferior teacher.  
+> If this is his [Dharma](../../../../GLOSSARY.md#dharma),  
+> What, for him, is antithetical to [Dharma](../../../../GLOSSARY.md#dharma)?”
+
+[Gośālīputra](../../../../GLOSSARY.md#gośālīputra)’s teaching heard, they cast it aside like an empty bottle and moved on. [B3] 
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and [Kolita](../../../../GLOSSARY.md#kolita) then went to [Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher), son of Vairaṭṭī, and asked, “Sir, what is your approach to the [Dharma](../../../../GLOSSARY.md#dharma)? What instructions do you give to your students? What is the result of living the [holy life](../../../../GLOSSARY.md#holy-life)? What are its benefits?”
+
+“Young [brahmin](../../../../GLOSSARY.md#brahmin)s,” replied [Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher), “this is how I see it and this is my philosophy: A person may [act](../../../../GLOSSARY.md#act) or make another person [act](../../../../GLOSSARY.md#act), maim or make another person maim, burn or make another person burn, flog or make another person flog, endanger life, take what has not been given, engage wrongfully in [act](../../../../GLOSSARY.md#act)s of desire, knowingly speak falsehoods, imbibe intoxicating drinks, break into a house, pick a lock[^22], rob at knifepoint, block a road and lie in wait, sack a town, sack a city, sack a region, or slaughter, dismember, flog, and tear apart every last being on this earth with the edge of a cakra blade,[^23] and then, having cut up, dismembered, flogged, and torn apart all beings, lay all the flesh out on a single plane, in a single mound, in a single pile, or a single heap. In having laid all the flesh out on a single plane, in a single mound, in a single pile, or a single heap, and having done all those things, there would be no sin in that nor would any sin come from it. One could walk along the south bank of the river Gaṅgā and slaughter, dismember, flog, and tear apart everything, or walk along the north bank of the river Gaṅgā and give [alms](../../../../GLOSSARY.md#alms) and oblations, and there would be no sin or [merit](../../../../GLOSSARY.md#merit) in either, nor would sin or [merit](../../../../GLOSSARY.md#merit) come from either. Even if one practices [generosity](../../../../GLOSSARY.md#generosity), discipline, perfect restraint, and [act](../../../../GLOSSARY.md#act)s with purpose and integrity, one still does not gain [merit](../../../../GLOSSARY.md#merit).”
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and [Kolita](../../../../GLOSSARY.md#kolita) [thought](../../../../GLOSSARY.md#thought), “This noble teacher too has strayed onto a spurious [path](../../../../GLOSSARY.md#path). He pursues fully a ruinous [path](../../../../GLOSSARY.md#path). This is exactly the kind of dangerous [path](../../../../GLOSSARY.md#path) the wise say must be rejected.” 
+
+Knowing this, they spoke in verse:
+
+> “He who teaches a wrong and ruinous [path](../../../../GLOSSARY.md#path)  
+> Is known to be an inferior teacher.  
+> If this is his [Dharma](../../../../GLOSSARY.md#dharma),  
+> What, for him, is antithetical to [Dharma](../../../../GLOSSARY.md#dharma)?”
+
+[Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher)’s teaching heard, they cast it aside like an empty bottle and moved on. 
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and [Kolita](../../../../GLOSSARY.md#kolita) then went to [Ajita of the hair shawl](../../../../GLOSSARY.md#ajita-of-the-hair-shawl) and asked, “Sir, what is your approach to the [Dharma](../../../../GLOSSARY.md#dharma)? What instructions do you give to your students? What is the result of living the [holy life](../../../../GLOSSARY.md#holy-life)? What are its benefits?”
+
+“Young [brahmin](../../../../GLOSSARY.md#brahmin)s,” replied [Ajita](../../../../GLOSSARY.md#ajita), “this is how I see it and this is my philosophy: Seven bodies are not products, they are not by-products, they are not apparitions, they are not by-products of apparitions, they are not subject to harm, they are everlasting, and they are still and solid like a pillar. What are the seven? The seven are thus: the body of earth, the body of water, the body of fire, the body of [wind](../../../../GLOSSARY.md#wind), pleasure, pain, and the vitality of life. Those seven bodies are not products, are not by-products, are not apparitions, are not by-products of apparitions, are not subject to harm, are everlasting, and are still and solid like a pillar. Those seven are such that they do not waver, they do not change, nor do they harm one another, nor do they become [merit](../../../../GLOSSARY.md#merit), nor do they become sin, nor do they become both [merit](../../../../GLOSSARY.md#merit) and sin, nor do they become pleasure, nor do they become pain, nor do they become both pleasure and pain. Were one person to cut off the head of another person, even that would not influence the world nor would it cause the slightest harm to that which is still and solid, for the weapon would pass straight through the unbroken spaces in those seven bodies, leaving the life within them unharmed. There is absolutely no killing them, no making to kill them, no rousing them, no making to rouse them, no [awareness](../../../../GLOSSARY.md#awareness) of them, no making to be aware of them, no knowing them, and no making them known. Whether you be childish or wise, you are liberated from suffering after 8,400,000 eons; in the meantime, you are reborn in and cycle through 14,000 principal places of rebirth, 60,600 great eons, five types of actions, three types of actions, two types of actions, action, half-actions, sixty-two [path](../../../../GLOSSARY.md#path)s, sixty-two intermediate eons, thirty-six [hell](../../../../GLOSSARY.md#hell)s, one hundred and twenty senses, sixty-two constituent particles, 49,000 classes of [nāga](../../../../GLOSSARY.md#nāga) families, 49,000 classes of [garuḍa](../../../../GLOSSARY.md#garuḍa), 49,000 classes of [wandering mendicant](../../../../GLOSSARY.md#wandering-mendicant)s, 49,000 classes of ājivika, 49,000 classes of nirgrantha, seven [realm](../../../../GLOSSARY.md#realm)s with discerning [awareness](../../../../GLOSSARY.md#awareness), seven [realm](../../../../GLOSSARY.md#realm)s lacking discerning [awareness](../../../../GLOSSARY.md#awareness), seven nirgrantha [realm](../../../../GLOSSARY.md#realm)s, seven demi-god [realm](../../../../GLOSSARY.md#realm)s, seven demonic [realm](../../../../GLOSSARY.md#realm)s, seven godly [realm](../../../../GLOSSARY.md#realm)s, seven human [realm](../../../../GLOSSARY.md#realm)s, seven great oceans, seven hundred lakes, seven great dreams, seven hundred dreams, seven states of great diminishment, seven hundred states of diminishment, seven states of great increase, seven hundred states of increase, seven states of great depletion, seven hundred states of depletion, seven great abysses, seven hundred abysses, six noble clans, ten high-status rebirths, and the eight grounds of a great person. Thus, just as a ball of thread thrown in the air unravels into a long thread as it falls, everyone, be they childish or wise, is liberated from suffering after having been through the cycle of rebirth for 8,400,000 eons. No [ascetic](../../../../GLOSSARY.md#ascetic) or [brahmin](../../../../GLOSSARY.md#brahmin) can say, ‘By observing ethics, a vow, asceticism, or celibacy, I shall bring to fruition those [act](../../../../GLOSSARY.md#act)s that have not borne fruit, and in facing those [act](../../../../GLOSSARY.md#act)s that have borne fruit, purify them.’ Our pleasures and pains are predestined. It is impossible to extend or reduce them. As this is how things are and not otherwise, the rounds of existence are thus to be counted.”
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and [Kolita](../../../../GLOSSARY.md#kolita) [thought](../../../../GLOSSARY.md#thought), “This noble teacher too has strayed onto a spurious [path](../../../../GLOSSARY.md#path). He pursues fully a ruinous [path](../../../../GLOSSARY.md#path). This is exactly the kind of dangerous [path](../../../../GLOSSARY.md#path) the wise say must be rejected.” 
+
+Knowing this, they spoke in verse:
+
+> “He who teaches a wrong and ruinous [path](../../../../GLOSSARY.md#path)  
+> Is known to be an inferior teacher.  
+> If this is his [Dharma](../../../../GLOSSARY.md#dharma),  
+> What, for him, is antithetical to [Dharma](../../../../GLOSSARY.md#dharma)?”
+
+[Ajita](../../../../GLOSSARY.md#ajita)’s teaching heard, they cast it aside like an empty bottle and moved on. 
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and [Kolita](../../../../GLOSSARY.md#kolita) then went to [Kakuda Kātyāyana](../../../../GLOSSARY.md#kakuda-kātyāyana) and asked, “Sir, what is your approach to the [Dharma](../../../../GLOSSARY.md#dharma)? What instructions do you give to your students? What is the result of living the [holy life](../../../../GLOSSARY.md#holy-life)? What are its benefits?”
+
+“Young [brahmin](../../../../GLOSSARY.md#brahmin)s,” replied [Kakuda Kātyāyana](../../../../GLOSSARY.md#kakuda-kātyāyana), “this is how I see it and this is my philosophy: If someone comes to me and asks, ‘Is there an afterlife?’ I answer him by saying, ‘There is an afterlife.’ If he should ask, ‘Is there not an afterlife?’ I answer him by saying, ‘There is no afterlife.’ If he should ask, ‘Is there or is there not an afterlife?’ I answer him by saying, ‘There is and is not an afterlife.’ If he should ask, ‘Does an afterlife neither exist nor not exist?’ I answer him by saying, ‘An afterlife neither exists nor does it not exist.’ Likewise, if someone comes to me and asks, ‘Is the afterlife like or unlike this world?’ I answer him by saying, “The afterlife is like and unlike this world.’ If he should ask, ‘Is the afterlife different or not different?’ I answer by saying, ‘The afterlife is different and not different.’ If he should ask, ‘Is the afterlife not different or not not different?’ I answer him by saying, ‘The afterlife is not different and not not different.’ If he should ask, ‘Is the afterlife like that or not like that?’ I answer him by saying, ‘The afterlife is like that and not like that.’ ”
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and [Kolita](../../../../GLOSSARY.md#kolita) [thought](../../../../GLOSSARY.md#thought), “This noble teacher too has strayed onto a spurious [path](../../../../GLOSSARY.md#path). He pursues fully a ruinous [path](../../../../GLOSSARY.md#path). This is exactly the kind of dangerous [path](../../../../GLOSSARY.md#path) the wise say must be rejected.” 
+
+Knowing this, they spoke in verse:
+
+> “He who teaches a wrong and ruinous [path](../../../../GLOSSARY.md#path)  
+> Is known to be an inferior teacher.  
+> If this is his [Dharma](../../../../GLOSSARY.md#dharma),  
+> What, for him, is antithetical to [Dharma](../../../../GLOSSARY.md#dharma)?”
+
+[Kakuda Kātyāyana](../../../../GLOSSARY.md#kakuda-kātyāyana)’s teaching heard, they cast it aside like an empty bottle and moved on. 
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and [Kolita](../../../../GLOSSARY.md#kolita) then went to [Jñātiputra, the Nirgrantha](../../../../GLOSSARY.md#jñātiputra-the-nirgrantha), and asked, “Sir, what is your approach to the [Dharma](../../../../GLOSSARY.md#dharma)? What instructions do you give to your students? What is the result of living the [holy life](../../../../GLOSSARY.md#holy-life)? What are its benefits?”
+
+“Young [brahmin](../../../../GLOSSARY.md#brahmin)s,” replied the Nirgrantha, “this is how I see it and this is my philosophy: No matter what a person individually experiences, it all comes from causes sown in the past. Old actions are purified through austerities, while new actions are averted by the dam of inactivity. In this way one avoids future defilement. In the absence of defilement, actions are exhausted. When actions are exhausted, suffering is exhausted. When suffering is exhausted, one is freed from suffering.”
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and [Kolita](../../../../GLOSSARY.md#kolita) [thought](../../../../GLOSSARY.md#thought), “This noble teacher too has strayed onto a spurious [path](../../../../GLOSSARY.md#path). He pursues fully a ruinous [path](../../../../GLOSSARY.md#path). This is exactly the kind of dangerous [path](../../../../GLOSSARY.md#path) the wise say must be rejected.” 
+
+Knowing this, they spoke in verse:
+
+> “He who teaches a wrong and ruinous [path](../../../../GLOSSARY.md#path)  
+> Is known to be an inferior teacher.  
+> If this is his [Dharma](../../../../GLOSSARY.md#dharma),  
+> What, for him, is antithetical to [Dharma](../../../../GLOSSARY.md#dharma)?”
+
+The Nirgrantha’s teaching heard, they cast it aside like an empty bottle and moved on.
+
+1.252
+
+## Tīrthikas
+## Two Novices
+## Scaring Away a Crow
+## Killing an Arhat
+## Persons whose hands have been cut off
+## Appendix
+
+## Notes
+
+[^1]: The “gulf between worlds” refers to the cold [hell](../../../../GLOSSARY.md#hell)s said to exist between the four continents of ancient Indian cosmology
+
+[^2]: The [Buddha](../../../../GLOSSARY.md#buddha) saw an opportunity to be reborn in the right family, in the right land, at the right time, with the right patrilineage, and to the right woman.
+
+[^3]: The Sanskrit fragments of the Pravrajyāvastu recovered from Gilgit begin here. The first complete sentence in Sanskrit begins on the front or recto side of the second folio [S.2.a] (Vogel and Wille, 1992, 71).
+
+[^4]: Following S: *rtse ’grogs*, and HKC (Pedurma, 723): rtsed grogs (playmates), instead of D: rtsen grogs.
+
+[^5]: The exact meanings of the last three items in this list are obscure and do not appear in the Sanskrit [S.2.a.2] (Vogel and Wille, 1992, 71). A similar list does however appear in the Divyāvadāna’s “Story of Koṭikarṇa,” where Rotman translates these three as “debts, [deposits](../../../../GLOSSARY.md#deposits), and trusts” (Rotman, 2008, 42). Kalyāṇamitra explains that dbyung ba “refers to the ‘yield’ of materials such as bamboo and so forth” (Kalyāṇamitra, folio 184.b.3). In deference to these two sources, we have decided to translate dbyung ba, gzhug pa, gzhag pa here as “[expenditures](../../../../GLOSSARY.md#expenditures), [revenues](../../../../GLOSSARY.md#revenues), and [deposits](../../../../GLOSSARY.md#deposits),” terms which are fundamental to finance, a subject likely to figure in a king’s education. The same trope is encountered later in the text 1.143, where [Śāriputra](../../../../GLOSSARY.md#śāriputra)’s training in reciting the Vedas is described. In that case, we have chosen to follow Geshé Rinchen Ngödrup’s suggestion that these three skills refer to “the way words in Sanskrit are formed or constructed from verbal roots and parsed grammatically.” In that case, we have translated the three as “to exclude, to add, and to leave.”
+
+[^6]: Following YJKNCH: spyod pa (“conduct”) instead of D: skyod pa (“movement”) (Pedurma, 723).
+
+[^7]: According to Geshé Rinchen Ngödrup, this refers to the turbans warriors would wear into battle.
+
+[^8]: The eighteen guilds were merchants, potters, garland makers, alcohol sellers, cowherds, barbers, millers, smiths, carpenters, fortune-tellers, weavers, leatherworkers, fishermen, dyers, bamboo-weavers, butchers, hunters, and ox-cart makers (Kalyāṇamitra, folio 185.b.4–6). Guilds were an important factor in urban life, “both in organizing production and in shaping public opinion… Customary usage of the guild (śreṇi-dharma) had the force of law. That the guild also intervened in the private lives of its members is also clear” (Thapar, 1990, 109–10).
+
+[^9]: The four Vedas are the Ṛgveda, which contains sacred incantations or [mantra](../../../../GLOSSARY.md#mantra)s; the Sāmaveda, which rearranges the Ṛgveda’s verses into chants or songs; the Yajurveda, which supplements the Sāmaveda’s chants with prose for ritual use; and the Atharvaveda, which has incantations used for more mundane ends (Doniger, 2009, 123-124). The branches of Vedic learning are treatises on precepts, rituals, grammar, prosody, etymology, and astrology.
+
+[^10]: The first four are Vedic sages, ancestors of different [brahmin](../../../../GLOSSARY.md#brahmin) gotras (lineages). The last two may be references to the Pañca Gauḍa and Pañca Drāviḍa, the two main geographical groupings of [brahmin](../../../../GLOSSARY.md#brahmin)s, respectively to the north and south of the Vindhya hills, each of which comprises five subgroups.
+
+[^11]: On the goal of bodily ascent to heaven, in White (1996) see chapter three, “Embodied Ascent, Meditation & Yogic Suicide.”
+
+[^12]: The implements they carry distinguish them as [brahmin](../../../../GLOSSARY.md#brahmin). The water jugs and ladles they bring would have been used for pūja while the bast robes they wore were made of vālkam/valkala or [bark](../../../../GLOSSARY.md#bark). “Valkala was also manufactured from the fiber of the [bark](../../../../GLOSSARY.md#bark) of the trees and was usually worn by the saints. Another name for this was Druma Charma. Valkala cloth was forbidden to the Buddhist monks,” (Jain, 2003, 199). By the fourth century of the common era, the term vālkam was used to designate a certain class of textile that included, in addition to cloth made from tree [bark](../../../../GLOSSARY.md#bark), materials such as kṣauma, or [linen](../../../../GLOSSARY.md#linen) (Kumar, 2008, 60).
+
+[^13]: In this case, the victor’s prize was akin to an endowment, or a land grant (Skt. brahmadeya) that entitled the recipient to keep the taxes collected from that village. In Chakravarti (1987), see chapter three, “The Gahapati”.
+
+[^14]: Following S: rtse ’grogs, and YHKN (Pedurma, 725): rtse grogs (playmates) instead of D: rtsen grogs.
+
+[^15]: See note [^5].
+
+[^16]: S.6.b.10 ends here with ca pratyupasthito bhavati eṣāṃ trayāṇāṃ (Vogel and Wille, 1992, 81). The Tibetan contains just over one half of a folio of material (Degé folios 15.a.6-16.b.1) before the Sanskrit resumes on S.7.a with sā aṣṭānāṃ vā navānāṃ vā masānāṃ (Vogel and Wille, 1992, 302).
+
+[^17]: Following S: rtse ’grogs, YK: rtsed grogs, and NH (Pedurma, 728): rtse grogs (playmates) instead of D: rtsen grogs.
+
+[^18]: S.8.a.1-4 are missing from the Gilgit Manuscripts, (Vogel and Wille, 1984, 8)
+
+[^19]: As beings are said to be miraculously reborn in the [intermediate state](../../../../GLOSSARY.md#intermediate-state), this is taken to be a rejection of the [intermediate state](../../../../GLOSSARY.md#intermediate-state) (Kalyāṇamitra, folio 198.b.3–4).
+
+[^20]: Following K: bag la zhi [bar](../../../../GLOSSARY.md#bar) ’gyur (“recede”) instead of D: bag la zha [bar](../../../../GLOSSARY.md#bar) ’gyur (Pedurma, 730).
+
+[^21]: To [Gośālīputra](../../../../GLOSSARY.md#gośālīputra), “causes” refer to internal [act](../../../../GLOSSARY.md#act)s like meditation while “conditions” refer to external [act](../../../../GLOSSARY.md#act)s like listening to teachings (Kalyāṇamitra, folio 201.b.3–4).
+
+[^22]: Literally, “unties a knot,” as in “unties a rope to open a door” (Kalyāṇamitra, folio 204.a.7).
+
+[^23]: Most likely a reference to the sudarśana cakra, a circular saw-like weapon used by Viṣṇu as mentioned in the Mahābhārata (see Begley, 1973). The use of cakram, or circular throwing blades, in ancient Indian warfare is also well attested.
