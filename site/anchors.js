@@ -2,12 +2,14 @@
 // ---------------------------------------------------------------------------
 // Shared permalink decoration for the public site and /docs. It addresses every
 // anchorable content block with a hierarchical "locus" number (its position in
-// the document tree, e.g. 1.3.2), prints that number in the left gutter the way
-// a printed sutra prints paragraph numbers, and makes it the in-page link
-// target. This mirrors the desktop app's scheme in src/lib.rs, so a #locus
-// copied from one lands in the other.
+// the document tree, e.g. 1.3.2) and makes that the in-page link target, then
+// injects a GitHub-style permalink button (the chain glyph, revealed on hover)
+// for each block. This mirrors the desktop app's scheme in src/lib.rs, so a
+// #locus copied from one lands in the other.
 // ---------------------------------------------------------------------------
 
+const ANCHOR_LINK_ICON =
+  '<svg class="anchor-link-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/></svg>';
 // `pre:not(.mermaid)` deliberately excludes Mermaid diagram fences: a permalink
 // gutter link makes no sense on a diagram, and inserting one as the pre's first
 // child corrupts the source Mermaid reads from innerHTML (it then sees no
@@ -129,11 +131,7 @@ export function decorateAnchorLinks(root, label = 'Link to this section') {
     link.href = '#' + encodeURIComponent(locus);
     link.setAttribute('aria-label', label);
     link.title = label;
-    // Print the locus the way a sutra prints its paragraph number: "1.3.2".
-    const num = document.createElement('span');
-    num.className = 'anchor-num';
-    num.textContent = locus;
-    link.appendChild(num);
+    link.innerHTML = ANCHOR_LINK_ICON;
     // Clicking copies the full deep link to this block (the canonical citation)
     // without blocking the in-page jump, and a brief is-copied flash confirms it.
     link.addEventListener('click', () => {

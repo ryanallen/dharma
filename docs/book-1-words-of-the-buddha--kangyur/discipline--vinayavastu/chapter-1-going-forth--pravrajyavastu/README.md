@@ -723,7 +723,7 @@ Then he said, “[Upatiṣya](../../../../GLOSSARY.md#upatiṣya), join me in a 
 
 They made the [pledge](../../../../GLOSSARY.md#pledge) and set out into the [realm](../../../../GLOSSARY.md#realm).
 
-#### Going Forth
+### Going Forth
 
 When the blessed [Bodhisattva](../../../../GLOSSARY.md#bodhisattva) reached the age of twenty-nine, he ceased to revel in desires, for the sight of the elderly, the sick, and the dead had moved him deeply. He stole out in the middle of the night and fled into the forest, where he spent six years practicing austerities. But he came to see that those austerities would amount to nothing. He then breathed freely, in and out, and partook again of solid foods such as [rice](../../../../GLOSSARY.md#rice) and porridge. He rubbed [ghee](../../../../GLOSSARY.md#ghee) and oil into his skin and took refreshing baths in warm water. When he came to the village of [Senānī](../../../../GLOSSARY.md#senānī), the village headman’s daughters, [Nandā](../../../../GLOSSARY.md#nandā-1) and [Nandabalā](../../../../GLOSSARY.md#nandabalā), gave him milk that had been churned sixteen times and mixed with [honey](../../../../GLOSSARY.md#honey) to drink. He was lauded by the [nāga](../../../../GLOSSARY.md#nāga) king [Kālika](../../../../GLOSSARY.md#kālika), and he accepted a bundle of auspicious golden-colored kūśa grass from a grassmonger. From there he went to what would be the site of his awakening. He arrived and settled cross-legged into an unshakable absorption on an unshakable bed of kuśa grass. Sitting straight and erect, he settled his mind and said:
 
