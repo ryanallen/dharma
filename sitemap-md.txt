@@ -5,4 +5,5 @@ https://empty.guru/docs/book-1-words-of-the-buddha--kangyur/README.md
 https://empty.guru/docs/book-1-words-of-the-buddha--kangyur/discipline--vinayavastu/README.md
 https://empty.guru/docs/book-1-words-of-the-buddha--kangyur/discipline--vinayavastu/chapter-1-going-forth--pravrajyavastu/README.md
 https://empty.guru/docs/book-1-words-of-the-buddha--kangyur/discipline--vinayavastu/chapter-2-rite-of-restoration--posadhavastu/README.md
+https://empty.guru/docs/book-1-words-of-the-buddha--kangyur/scriptures--sutras/README.md
 https://empty.guru/docs/book-2-commentarial-treatises--tengyur/README.md

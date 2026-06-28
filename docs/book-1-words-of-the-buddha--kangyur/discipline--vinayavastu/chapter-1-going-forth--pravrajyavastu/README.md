@@ -487,7 +487,7 @@ At this, the young [brahmin](../../../../GLOSSARY.md#brahmin) [Kolita](../../../
 
 Yet though they thus entreated him, [Kolita](../../../../GLOSSARY.md#kolita) remained silent. His childhood friends again entreated [Kolita](../../../../GLOSSARY.md#kolita) a second and a third time, saying each time, “Dear boy, please listen. You are very young and have lived a life of leisure, and you do not know what it is to suffer. It is hard to live the [holy life](../../../../GLOSSARY.md#holy-life). It is hard to live in solitude. It is hard to be happy all on your own. It is hard to make your bed in distant forests, at the foot of mountains, and in remote places. Living alone in the wilderness is very trying. You will have to spend the rest of your life living among wild animals. You will have to spend the rest of your life living on others’ handouts. You will have to spend the rest of your life away from human pleasures. You will have to spend the rest of your life away from the fun and games of ordinary people. Dear boy! [Kolita](../../../../GLOSSARY.md#kolita)! Come home. Among your relatives, there is pleasure to be had while living there, too. There, too, you may give generously. There, too, you may [act](../../../../GLOSSARY.md#act) meritoriously.”
 
-Yet though they thus entreated him a second and a third time, [Kolita](../../../../GLOSSARY.md#kolita) still remained silent. [Kolita](../../../../GLOSSARY.md#kolita)’s childhood friends then went to his parents and said, “Father, Mother, please listen. What good can come from the death of the serene youth [Kolita](../../../../GLOSSARY.md#kolita)? The wise have praised going forth, so if going forth makes him happy, then at least you will see him alive. If he isn’t happy, he can always give up the life of a sage. And since he will have no home but yours, it is better that you let him [go forth](../../../../GLOSSARY.md#go-forth).”
+Yet though they thus entreated him a second and a third time, [Kolita](../../../../GLOSSARY.md#kolita) still remained silent. [Kolita](../../../../GLOSSARY.md#kolita)’s childhood friends then went to his parents and said, “Father, Mother, please listen. What good can come from the death of the serene youth [Kolita](../../../../GLOSSARY.md#kolita)? The wise have praised [going forth](#going-forth), so if [going forth](#going-forth) makes him happy, then at least you will see him alive. If he isn’t happy, he can always give up the life of a sage. And since he will have no home but yours, it is better that you let him [go forth](../../../../GLOSSARY.md#go-forth).”
 
 [Kolita](../../../../GLOSSARY.md#kolita)’s parents then asked [Kolita](../../../../GLOSSARY.md#kolita), “Dear boy, [Kolita](../../../../GLOSSARY.md#kolita), do you think it better to [go forth](../../../../GLOSSARY.md#go-forth) than to remain at home?” 
 
@@ -634,7 +634,110 @@ Knowing this, they spoke in verse:
 
 The Nirgrantha’s teaching heard, they cast it aside like an empty bottle and moved on.
 
-1.252
+Not long before, word had spread about a [tīrthika](../../../../GLOSSARY.md#tīrthika) named [Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher). The young [brahmin](../../../../GLOSSARY.md#brahmin)s [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and [Kolita](../../../../GLOSSARY.md#kolita) went to where the teacher [Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher) lived and asked, “Gentlemen, where is the teacher [Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher)?” 
+
+“He has withdrawn into [seclusion](../../../../GLOSSARY.md#seclusion).” 
+
+“Oh! This is the first time we’ve heard the phrase ‘withdrawn into [seclusion](../../../../GLOSSARY.md#seclusion)’ in such a long time!” 
+
+They [thought](../../../../GLOSSARY.md#thought), “It would not be right to disturb the teacher’s withdrawal into [seclusion](../../../../GLOSSARY.md#seclusion). We will approach him once he has risen from this state.” And with that they sat off to one side.
+
+The teacher [Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher) emerged from [seclusion](../../../../GLOSSARY.md#seclusion). The states of absorption he had experienced had invigorated his senses. [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and [Kolita](../../../../GLOSSARY.md#kolita) [thought](../../../../GLOSSARY.md#thought), “Whoever has such a face must have qualities to match.” They approached him and asked, “Sir [Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher), what is your approach to the [Dharma](../../../../GLOSSARY.md#dharma)? What instructions do you give to your students? What is the result of living the [holy life](../../../../GLOSSARY.md#holy-life)? What are its benefits?” 
+
+[Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher) replied, “Young [brahmin](../../../../GLOSSARY.md#brahmin)s, this is how I see it and this is my philosophy: The [Dharma](../../../../GLOSSARY.md#dharma) is truth and nonviolence. The peaceful, ageless, immortal, and unwaning state is Brahman.”
+
+The two replied, “[Preceptor](../../../../GLOSSARY.md#preceptor), what is the meaning of what you have said?” 
+
+“As for truth, renunciation is born of true [thought](../../../../GLOSSARY.md#thought)s. As for nonviolence, all [dharma](../../../../GLOSSARY.md#dharma)s spring from the ground of nonviolence. The peaceful, ageless, immortal, and unwaning state are other names by which [nirvāṇa](../../../../GLOSSARY.md#nirvāṇa) may be known. That state is called [Brahmā](../../../../GLOSSARY.md#brahmā), for if some were to achieve [nirvāṇa](../../../../GLOSSARY.md#nirvāṇa) in this very life, all would be well. But even if they did not achieve it, they would still draw near to the world of [Brahmā](../../../../GLOSSARY.md#brahmā). Even so, [brahmin](../../../../GLOSSARY.md#brahmin)s will be reborn in the world of [Brahmā](../../../../GLOSSARY.md#brahmā), will alight into the world of [Brahmā](../../../../GLOSSARY.md#brahmā), will have alighted into the world of [Brahmā](../../../../GLOSSARY.md#brahmā). And how is the world of [Brahmā](../../../../GLOSSARY.md#brahmā)? Gaining the fortune for the world of [Brahmā](../../../../GLOSSARY.md#brahmā) is akin to entering [nirvāṇa](../../../../GLOSSARY.md#nirvāṇa).”
+
+“[Preceptor](../../../../GLOSSARY.md#preceptor), allow us to [go forth](../../../../GLOSSARY.md#go-forth). We [pledge](../../../../GLOSSARY.md#pledge) to live the [holy life](../../../../GLOSSARY.md#holy-life) under your guidance.” And with that the two became [renunciant](../../../../GLOSSARY.md#renunciant)s in [Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher)’s order. 
+
+After the teacher [Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher) allowed [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and [Kolita](../../../../GLOSSARY.md#kolita)’s [going forth](#going-forth), the news of their acceptance spread everywhere and [Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher) was lauded with many accolades and much praise. He [thought](../../../../GLOSSARY.md#thought), “If I was a member of the Śāṇḍilya clan before and am still a member now, what has caused such abundant accolades and praise to come to me now?”
+
+[Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher) [thought](../../../../GLOSSARY.md#thought), “It is not due to my own sway. Rather, it is the sway of these two young [brahmin](../../../../GLOSSARY.md#brahmin)s.” 
+
+Thus when he accepted five hundred young [brahmin](../../../../GLOSSARY.md#brahmin)s for instruction in how to recite brahmanic [mantra](../../../../GLOSSARY.md#mantra)s, he assigned two hundred and fifty to [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) and two hundred and fifty to [Kolita](../../../../GLOSSARY.md#kolita).
+
+At one point, after the teacher [Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher) had fallen ill, [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) asked [Kolita](../../../../GLOSSARY.md#kolita), “[Kolita](../../../../GLOSSARY.md#kolita), will you attend the [preceptor](../../../../GLOSSARY.md#preceptor) or will you seek out medicine for him?” 
+
+[Kolita](../../../../GLOSSARY.md#kolita) [thought](../../../../GLOSSARY.md#thought), “[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) is intelligent. I would have him attend the [preceptor](../../../../GLOSSARY.md#preceptor) while I go in search of medicine,” and said, “Please attend the [preceptor](../../../../GLOSSARY.md#preceptor) and I will seek medicine.”
+
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) began to attend the [preceptor](../../../../GLOSSARY.md#preceptor) and [Kolita](../../../../GLOSSARY.md#kolita) went off in search of medicine. Though [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) ministered to the [preceptor](../../../../GLOSSARY.md#preceptor) with [medicinal roots](../../../../GLOSSARY.md#medicinal-roots), stalks, leaves, flowers, and fruit, the illness would not subside. Though weak, the [preceptor](../../../../GLOSSARY.md#preceptor) smiled, prompting [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) to ask, “[Preceptor](../../../../GLOSSARY.md#preceptor), given that great people like you do not smile for no reason, what causes you to smile? What prompts it?”
+
+“[Upatiṣya](../../../../GLOSSARY.md#upatiṣya),” replied [Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher), “allow me to explain. Great beings like me do not smile without cause or condition. I was thinking about the wife of King [Suvarṇapati](../../../../GLOSSARY.md#suvarṇapati) of [Suvarṇadvīpa](../../../../GLOSSARY.md#suvarṇadvīpa). When her husband’s time had come, she leapt onto his funeral pyre. I was thinking how the impulse to desire, the very things desired, and the pursuit of desire are what cause these sentient beings to suffer.”
+
+“When was this, [preceptor](../../../../GLOSSARY.md#preceptor)?” 
+
+“At such and such a time, a long time ago.” 
+
+“In what month?” 
+
+“In such and such a month long ago.” 
+
+“On what day?” 
+
+“On such and such a day long ago.”
+
+[Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher) recorded this conversation on a board and set it down. 
+
+“[Preceptor](../../../../GLOSSARY.md#preceptor),” [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) urged, “if the whole of what little renunciation we have is for [ambrosia](../../../../GLOSSARY.md#ambrosia) and the search for [ambrosia](../../../../GLOSSARY.md#ambrosia), and if you, [preceptor](../../../../GLOSSARY.md#preceptor), have found some small measure of that [ambrosia](../../../../GLOSSARY.md#ambrosia) then please share it with us!”
+
+“Son, the whole of what little renunciation I have is for [ambrosia](../../../../GLOSSARY.md#ambrosia) and the search for [ambrosia](../../../../GLOSSARY.md#ambrosia) but neither have I discovered even a small measure of that [ambrosia](../../../../GLOSSARY.md#ambrosia). Allow me to explain. On the fifteenth, a day of fast, I heard the [gods](../../../../GLOSSARY.md#gods), who were passing through the heavens above, say, ‘At the foot of the snow mountains, on the banks of the river [Bhāgīrathī](../../../../GLOSSARY.md#bhāgīrathī), not far from the sage Kapila’s hermitage, a youth from the Śākya clan has appeared. [Brahmin](../../../../GLOSSARY.md#brahmin)s skilled in interpreting omens and signs made this prophecy: ‘The youth installed in the palace will either become king of the world, with his reign extending over the four [directions](../../../../GLOSSARY.md#directions), or he will become a king of [Dharma](../../../../GLOSSARY.md#dharma). He will be endowed with the [Dharma](../../../../GLOSSARY.md#dharma) or the seven precious emblems. The seven precious emblems he will possess are as follows: a precious [wheel](../../../../GLOSSARY.md#wheel), a precious elephant, a precious horse, a precious jewel, a precious woman, a precious steward, and a precious general. He will have a full one thousand sons, heroic, brave, and of ideal build who will destroy enemy forces. Under him, the whole earth, from sea to sea, will be free from the threat of harm and violence, and will be a [realm](../../../../GLOSSARY.md#realm) without punishment or armed expulsion, where rule is impartial and in harmony with the [Dharma](../../../../GLOSSARY.md#dharma). But if he, with perfect faith, should cut his hair, shave his beard, don the saffron robes, and [go forth](../../../../GLOSSARY.md#go-forth) from home into homelessness, then he shall become a [tathāgata](../../../../GLOSSARY.md#tathāgata), an [arhat](../../../../GLOSSARY.md#arhat), a perfectly awakened [buddha](../../../../GLOSSARY.md#buddha), famed all over the world.’
+
+“ ‘You two should [go forth](../../../../GLOSSARY.md#go-forth) into his teachings. Having gone forth, you should not proclaim your caste, you should not proclaim your clan, you should not proclaim your being a young [brahmin](../../../../GLOSSARY.md#brahmin). Once you have overcome conceit and pride, you should live the [holy life](../../../../GLOSSARY.md#holy-life) under his guidance and then you will receive a great [ambrosia](../../../../GLOSSARY.md#ambrosia).” 
+
+Then he said,
+
+> “All accumulation ends in depletion;  
+> The lofty in the end will fall;  
+> All meetings end in separation;  
+> All life ends in death.”
+
+On saying that, he went the way of all temporal phenomena. After decorating the sides of his bier with blue, yellow, red, and white cloth, they carried his corpse to the charnel ground and cremated him. In time, their grief subsided. 
+
+In time, a young [brahmin](../../../../GLOSSARY.md#brahmin) named [Suvarṇajaṭa](../../../../GLOSSARY.md#suvarṇajaṭa) from [Suvarṇadvīpa](../../../../GLOSSARY.md#suvarṇadvīpa) arrived in [Rājagṛha](../../../../GLOSSARY.md#rājagṛha). When he entered their dwelling, [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) asked, “Young [brahmin](../../../../GLOSSARY.md#brahmin), where have you come from?” 
+
+“From [Suvarṇadvīpa](../../../../GLOSSARY.md#suvarṇadvīpa),” he replied.
+
+“Young [brahmin](../../../../GLOSSARY.md#brahmin), did you see anything at all amazing or remarkable in [Suvarṇadvīpa](../../../../GLOSSARY.md#suvarṇadvīpa)?” 
+
+“I didn’t see anything truly amazing or remarkable,” he replied, “but I did see something somewhat amazing and remarkable so listen as you please. The wife of King [Suvarṇapati](../../../../GLOSSARY.md#suvarṇapati) of [Suvarṇadvīpa](../../../../GLOSSARY.md#suvarṇadvīpa) leapt onto his funeral pyre when her husband’s time had come.”
+
+“When was this?” 
+
+“At such and such a time, a long time ago.”
+
+“In what month?” 
+
+“In such and such a month long ago.”
+
+“On what day?” 
+
+“On such and such a day long ago.”
+
+When [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) looked at the conversation recorded on the board, he saw that everything was exactly as [Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher) had said, at which point he said to [Kolita](../../../../GLOSSARY.md#kolita), “Our [preceptor](../../../../GLOSSARY.md#preceptor) [Sañjayin](../../../../GLOSSARY.md#sañjayin-the-teacher) concealed his learning from us. If he had found such rare [ambrosia](../../../../GLOSSARY.md#ambrosia), he did not share it with us. For if he himself saw forms in other lands with the divine eye and heard pleasant sounds with the divine ear, then his claim to have found no [ambrosia](../../../../GLOSSARY.md#ambrosia) is not true.”
+
+[Kolita](../../../../GLOSSARY.md#kolita) [thought](../../../../GLOSSARY.md#thought), “[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) is intelligent. Were he to find such [ambrosia](../../../../GLOSSARY.md#ambrosia) he may not tell me and a situation such as this might happen again.” 
+
+Then he said, “[Upatiṣya](../../../../GLOSSARY.md#upatiṣya), join me in a [pledge](../../../../GLOSSARY.md#pledge). Whoever finds such [ambrosia](../../../../GLOSSARY.md#ambrosia) first, he shall share it with the other.” 
+
+They made the [pledge](../../../../GLOSSARY.md#pledge) and set out into the [realm](../../../../GLOSSARY.md#realm).
+
+#### Going Forth
+
+When the blessed [Bodhisattva](../../../../GLOSSARY.md#bodhisattva) reached the age of twenty-nine, he ceased to revel in desires, for the sight of the elderly, the sick, and the dead had moved him deeply. He stole out in the middle of the night and fled into the forest, where he spent six years practicing austerities. But he came to see that those austerities would amount to nothing. He then breathed freely, in and out, and partook again of solid foods such as [rice](../../../../GLOSSARY.md#rice) and porridge. He rubbed [ghee](../../../../GLOSSARY.md#ghee) and oil into his skin and took refreshing baths in warm water. When he came to the village of [Senānī](../../../../GLOSSARY.md#senānī), the village headman’s daughters, [Nandā](../../../../GLOSSARY.md#nandā-1) and [Nandabalā](../../../../GLOSSARY.md#nandabalā), gave him milk that had been churned sixteen times and mixed with [honey](../../../../GLOSSARY.md#honey) to drink. He was lauded by the [nāga](../../../../GLOSSARY.md#nāga) king [Kālika](../../../../GLOSSARY.md#kālika), and he accepted a bundle of auspicious golden-colored kūśa grass from a grassmonger. From there he went to what would be the site of his awakening. He arrived and settled cross-legged into an unshakable absorption on an unshakable bed of kuśa grass. Sitting straight and erect, he settled his mind and said:
+
+> “I shall not uncross my legs  
+> Until I have achieved the undefiled state.”
+
+His intention pledged, he said:
+
+> “So long as I have not found an undefiled state,  
+> I shall not uncross my legs.”
+
+During the midnight hours, through the power of his loving kindness the Blessed One subdued [Māra](../../../../GLOSSARY.md#māra) and his retinue of 360 million demonic spirits, and unsurpassed [wisdom](../../../../GLOSSARY.md#wisdom) arose within him. At [Brahmā](../../../../GLOSSARY.md#brahmā)’s request, he went to [Vārāṇasī](../../../../GLOSSARY.md#vārāṇasī) and turned the [wheel of Dharma](../../../../GLOSSARY.md#wheel-of-dharma), revealing in three phases a teaching with twelve aspects.[^24] During that time, he converted the group of five, the five friends,[^25] and fifty high-born village [brahmin](../../../../GLOSSARY.md#brahmin) youths, who then went forth and received full ordination.
+
+1.276
 
 ## Tīrthikas
 ## Two Novices
@@ -690,3 +793,7 @@ The Nirgrantha’s teaching heard, they cast it aside like an empty bottle and m
 [^22]: Literally, “unties a knot,” as in “unties a rope to open a door” (Kalyāṇamitra, folio 204.a.7).
 
 [^23]: Most likely a reference to the sudarśana cakra, a circular saw-like weapon used by Viṣṇu as mentioned in the Mahābhārata (see Begley, 1973). The use of cakram, or circular throwing blades, in ancient Indian warfare is also well attested.
+
+[^24]: The three phases refer to the three stages of (1) identifying the four truths, (2) understanding how to relate to each of the four truths, and (3) knowing that the respective goals of the four truths have been accomplished; when these three stages are applied to each of the four truths, there are twelve aspects in all. The events around the [Buddha](../../../../GLOSSARY.md#buddha)’s awakening and teaching that these brief references summarize here, simply as chronological landmarks, are related in much more extensive detail in The Chapter on Schism in the [Saṅgha](../../../../GLOSSARY.md#saṅgha) (Toh 1, ch. 17). For this episode of the [Buddha](../../../../GLOSSARY.md#buddha)’s first teaching of the Four Truths, see The [Sūtra](../../../../GLOSSARY.md#sūtra) of the [Wheel of Dharma](../../../../GLOSSARY.md#wheel-of-dharma) (Dharmachakra Translation Committee, 2018), which is itself an extract from ch. 17.
+
+[^25]: The text of this summarized version here is simply lnga pa dang / nye lnga dag, but from the many more expansive accounts it can be surmised that the “group of five” (lnga pa, more often lnga sde, Skt. pañcaka, q.v. in Edgerton, also often called the pañcavargika) refers to the [Buddha](../../../../GLOSSARY.md#buddha)’s five former companions in [ascetic](../../../../GLOSSARY.md#ascetic) practice‍—[Kauṇḍinya](../../../../GLOSSARY.md#kauṇḍinya), [Aśvajit](../../../../GLOSSARY.md#aśvajit), [Vāṣpa](../../../../GLOSSARY.md#vāṣpa), [Mahānāman](../../../../GLOSSARY.md#mahānāman), and [Bhadrika](../../../../GLOSSARY.md#bhadrika)‍—who received his first teaching and became his first followers; while the “five friends” (nye lnga, elsewhere nye lnga’i sde, see Tāranātha II, folio 28.b et seq.) refers to the five wealthy young [Vārāṇasī](../../../../GLOSSARY.md#vārāṇasī) merchants’ sons, first [Yaśas](../../../../GLOSSARY.md#yaśas) and, following his lead, [Pūrṇa](../../../../GLOSSARY.md#pūrṇa), [Vimala](../../../../GLOSSARY.md#vimala), Gavāṃpati, and [Subāhu](../../../../GLOSSARY.md#subāhu), all of whom constituted the first ten bhikṣus to receive ordination.
