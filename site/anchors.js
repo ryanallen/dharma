@@ -26,6 +26,32 @@ function uniqueAnchorBlockId(seen, base) {
   return candidate;
 }
 
+// Copy text via the async clipboard API, falling back to a hidden textarea +
+// execCommand where the async API is unavailable (e.g. a non-secure context).
+function copyAnchorLink(text) {
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(text).catch(() => legacyCopyAnchor(text));
+    return;
+  }
+  legacyCopyAnchor(text);
+}
+function legacyCopyAnchor(text) {
+  const area = document.createElement('textarea');
+  area.value = text;
+  area.setAttribute('aria-hidden', 'true');
+  area.style.position = 'fixed';
+  area.style.top = '-1000px';
+  area.style.opacity = '0';
+  document.body.appendChild(area);
+  area.select();
+  try {
+    document.execCommand('copy');
+  } catch (error) {
+    /* clipboard unavailable; the fragment jump still happens */
+  }
+  document.body.removeChild(area);
+}
+
 // Address every anchor-addressable block with a hierarchical "legal" locus
 // number — its canonical position in the document tree, e.g. 1.3.2 = the second
 // block of the third sub-section of the first section. Headings open and nest
@@ -108,6 +134,15 @@ export function decorateAnchorLinks(root, label = 'Link to this section') {
     num.className = 'anchor-num';
     num.textContent = locus;
     link.appendChild(num);
+    // Clicking copies the full deep link to this block (the canonical citation)
+    // without blocking the in-page jump, and a brief is-copied flash confirms it.
+    link.addEventListener('click', () => {
+      const url = location.origin + location.pathname + location.search + '#' + encodeURIComponent(locus);
+      copyAnchorLink(url);
+      link.classList.add('is-copied');
+      window.clearTimeout(link.__copiedTimer);
+      link.__copiedTimer = window.setTimeout(() => link.classList.remove('is-copied'), 900);
+    });
     target.classList.add('has-anchor-link');
     target.insertBefore(link, target.firstChild);
   });

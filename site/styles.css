@@ -672,6 +672,13 @@ body {
   background: var(--action-hover-bg);
   text-decoration: none;
 }
+/* Brief confirmation that a click copied the deep link: hold the gutter number
+   lit for the timeout decorateAnchorLinks sets, even after the jump scrolls. */
+.markdown-body .anchor-link.is-copied {
+  opacity: 1;
+  color: var(--action-hover-fg);
+  background: var(--action-hover-bg);
+}
 .anchor-link-icon {
   width: 22px;
   height: 22px;
