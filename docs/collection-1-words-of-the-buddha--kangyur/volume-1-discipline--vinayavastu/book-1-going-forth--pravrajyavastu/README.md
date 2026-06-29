@@ -598,20 +598,20 @@ As the music wound down and the people went off dancing and singing, [Kolita](..
 
 “If it is true that those who withdraw into repose do not see, how then do they not hear?” asked [Kolita](../../../../GLOSSARY.md#kolita).
 
-[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) replied in verse: 
-
-[Kolita](../../../../GLOSSARY.md#kolita) asked, “Are you [Upatiṣya](../../../../GLOSSARY.md#upatiṣya)?” 
-
-“People know me thus.” 
-
-“And you?” [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) asked [Kolita](../../../../GLOSSARY.md#kolita). “Did it seem to you that the dances were well danced, the songs well sung, and the music well played?”[^25]
+[Upatiṣya](../../../../GLOSSARY.md#upatiṣya) replied in verse:
 
 > “In a crowd of people destined for death,  
 > Who laugh and flirt  
 > Though their dead skin and dead flesh will die,  
 > What wise man would not be vigilant?”
 
-“It seemed so to those who saw and heard them.” 
+[Kolita](../../../../GLOSSARY.md#kolita) asked, “Are you [Upatiṣya](../../../../GLOSSARY.md#upatiṣya)?”
+
+“People know me thus.”
+
+“And you?” [Upatiṣya](../../../../GLOSSARY.md#upatiṣya) asked [Kolita](../../../../GLOSSARY.md#kolita). “Did it seem to you that the dances were well danced, the songs well sung, and the music well played?”[^25]
+
+“It seemed so to those who saw and heard them.”
 
 “If it is true that those who withdraw into repose do not see, how then do they not hear?”
 
@@ -1252,6 +1252,6 @@ Some time later, the [brahmin](../../../../GLOSSARY.md#brahmin) [Māṭhara](../
 
 [^38]: The somewhat free translation of the second half of this verse follows Kalyāṇamitra’s tentative interpretation of it: that people meant to insult [Śāriputra](../../../../GLOSSARY.md#śāriputra) and [Maudgalyāyana](../../../../GLOSSARY.md#maudgalyāyana)’s followers by suggesting the [Buddha](../../../../GLOSSARY.md#buddha) only accepted them because they were the only people left who had not yet converted (Kalyāṇamitra, folio 223.b.5). The verse in the original seems less directed at those monks in particular and more expressive of a sense of general bereavement and grievance directed towards the [Buddha](../../../../GLOSSARY.md#buddha) himself, which the monks, by way of identifying with their new teacher, might have taken personally. Perhaps what is more important than the correctness of either interpretation is the suggestion that underlies them both, that the [Buddha](../../../../GLOSSARY.md#buddha)’s order had become the preeminent [ascetic](../../../../GLOSSARY.md#ascetic) (or śramaṇa) order in [Rājagṛha](../../../../GLOSSARY.md#rājagṛha).
 
-[^39]: See
+[^39]: Koṣṭhila vowed not to cut his fingernails for as long as he upheld the Lokāyata philosophy, so they grew very long; hence his name Dīrghanakha, meaning "He Who Has Long Fingernails." See also 1.134.
 
 [^40]: According to the commentary, [Dīrghanakha](../../../../GLOSSARY.md#dīrghanakha) argued that the self does not endure beyond this life because neither valid perception nor valid inference sees a self as persisting into a future life. Perception cannot see it because objects of perception must be “right in front of us,” which a future self, separated in time and space, cannot be. Nor can inference see it because objects of inference must be abstractions, not “things” like the self. The [Buddha](../../../../GLOSSARY.md#buddha)’s response suggests that [Dīrghanakha](../../../../GLOSSARY.md#dīrghanakha)’s [view](../../../../GLOSSARY.md#view) is nihilistic, for it holds that the self begins at birth and ends at death, thereby denying continuity from life to life (Kalyāṇamitra, folio 224.a.4–6).
