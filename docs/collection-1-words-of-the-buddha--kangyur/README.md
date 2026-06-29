@@ -1,0 +1,2 @@
+# <div align="center">Words of the Buddha</br> (Kangyur)</div>
+## <div align="center">[Discipline](volume-1-discipline--vinayavastu/README.md)<br> [(Vinayavastu)](volume-2-discipline--vinayavastu/README.md)</div>

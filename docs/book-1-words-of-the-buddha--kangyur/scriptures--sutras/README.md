@@ -1,1 +1,0 @@
-# <div align="center">Scriptures</br>(Sūtras)</div>

@@ -16,8 +16,9 @@ Three vehicles to guide your way.
 ---
 ## Structure
 - Collection: Kangyur
-- Section: General Sutra Section (mdo sde)
-- Book: The Lotus Sutra
+- Volume: Sutras
+- Section: General Sutras
+- Book: Wheel of Dharma Sutra
 
 
 ## Sāvakayāna</br>(Vehicle of the Disciples)
