@@ -13,6 +13,13 @@ Three vehicles to guide your way.
 1. `Sūtra`, `Nikāya`, `Āgama`, `Piṭaka`, `Śāstra` = discourse, collection, parallel collection, basket, and treatise/commentary
 1. `84k` = Source: 84000: Translating the Words of the Buddha. License: CC BY-NC-ND 4.0. Link: https://84000.co/
 
+---
+## Structure
+- Collection: Kangyur
+- Section: General Sutra Section (mdo sde)
+- Book: The Lotus Sutra
+
+
 ## Sāvakayāna</br>(Vehicle of the Disciples)
 
 1. Three Baskets (Tipiṭaka)
