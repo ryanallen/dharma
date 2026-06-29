@@ -1,4 +1,4 @@
-# <div align="center">Going Forth </br>(Pravrajyāvastu)</div>
+# <div align="center">Going Forth </br><sub>(Pravrajyāvastu)</sub></div>
 `Toh. 1-1` [`84k`](https://84000.co/translation/toh1-1)
 
 1. [Rupasari's Son](#rupasaris-son-śāriputra)
@@ -9,7 +9,7 @@
 1. [Persons whose hands have been cut off](#persons-whose-hands-have-been-cut-off)
 1. [Appendix](#appendix)
 
-## Rupasari's Son</br> (Śāriputra)
+## Rupasari's Son</br> <sub>(Śāriputra)</sub>
 ### Śāriputra
 
 While the [Bodhisattva](../../../../GLOSSARY.md#bodhisattva) was dwelling in the [Abode of Tuṣita](../../../../GLOSSARY.md#tuṣita-heaven), the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) ruled over the lands of [Aṅga](../../../../GLOSSARY.md#aṅga). Under his rule, the kingdom prospered and thrived, crops were bountiful and the land teemed with animals and people. Meanwhile, King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) ruled over the lands of [Magadha](../../../../GLOSSARY.md#magadha). Under his rule, the kingdom prospered and thrived, crops were bountiful and the land teemed with animals and people. At times, the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) and his armies were dominant. At other times, King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) and his armies were dominant.

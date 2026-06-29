@@ -1,4 +1,4 @@
-# <div align="center">[Teachings](docs/README.md)</br> [(Dharma)](docs/README.md) </br><sub>[`EG`](https://github.com/ryanallen/dharma)</sub></div>
+# <div align="center">[Helpful Teachings](docs/README.md) </br><sub>[(Dharma)](docs/README.md) </br>[`EG`](https://github.com/ryanallen/dharma)</sub></div>
 
 ## Sources
 
