@@ -42,6 +42,10 @@
 - Page: https://empty.guru/docs/#/collection-1-words-of-the-buddha--kangyur/volume-2-scriptures--sutras/section-5-many-scriptures/README
 - Markdown: https://empty.guru/docs/collection-1-words-of-the-buddha--kangyur/volume-2-scriptures--sutras/section-5-many-scriptures/README.md
 
+## Dependent Arising Pratītya­samutpāda­sūtra
+- Page: https://empty.guru/docs/#/collection-1-words-of-the-buddha--kangyur/volume-2-scriptures--sutras/section-5-many-scriptures/book-122-dependent-arising/README
+- Markdown: https://empty.guru/docs/collection-1-words-of-the-buddha--kangyur/volume-2-scriptures--sutras/section-5-many-scriptures/book-122-dependent-arising/README.md
+
 ## Wheel of Dharma Dharmacakrasūtra
 - Page: https://empty.guru/docs/#/collection-1-words-of-the-buddha--kangyur/volume-2-scriptures--sutras/section-5-many-scriptures/book-244-wheel-of-dharma/README
 - Markdown: https://empty.guru/docs/collection-1-words-of-the-buddha--kangyur/volume-2-scriptures--sutras/section-5-many-scriptures/book-244-wheel-of-dharma/README.md
