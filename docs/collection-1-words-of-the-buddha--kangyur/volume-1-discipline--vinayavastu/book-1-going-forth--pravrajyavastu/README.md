@@ -2067,13 +2067,13 @@ This was the inquiry into [impediments](../../../../GLOSSARY.md#impediments) in 
 
 After that, the monk [officiant](../../../../GLOSSARY.md#officiant) makes a [motion](../../../../GLOSSARY.md#motion) to the saṃgha. While seated, he says:
 
-"Venerable saṃgha, please listen. The ordinand [ordinand's name] has sought [consent](../../../../GLOSSARY.md#consent) from the saṃgha to receive ordination from the [preceptor](../../../../GLOSSARY.md#preceptor) [preceptor's name]. He has asked the saṃgha to give [consent](../../../../GLOSSARY.md#consent) for the [preceptor](../../../../GLOSSARY.md#preceptor) [preceptor's name] to grant ordination to the ordinand [ordinand's name]. He is a male, has male organs, has reached twenty years of age, and has all [three robes](../../../../GLOSSARY.md#three-robes) and a begging [bowl](../../../../GLOSSARY.md#bowl). He has attested that he is without [impediments](../../../../GLOSSARY.md#impediments). If the saṃgha gives [consent](../../../../GLOSSARY.md#consent) for the [preceptor](../../../../GLOSSARY.md#preceptor) [preceptor's name] to grant ordination to the ordinand [ordinand's name], and if the time is right and the saṃgha can accept it, I ask that the saṃgha give [consent](../../../../GLOSSARY.md#consent)."
+"Venerable saṃgha, please listen. The ordinand [ordinand's name] has sought [consent](../../../../GLOSSARY.md#consent) from the saṃgha to receive ordination from the [preceptor](../../../../GLOSSARY.md#preceptor) [preceptor's name]. He has asked the saṃgha to give [consent](../../../../GLOSSARY.md#consent) for the [preceptor](../../../../GLOSSARY.md#preceptor) [preceptor's name] to grant ordination to the ordinand [ordinand's name]. He is a male, has male organs, has reached [twenty years](#twenty-years) of age, and has all [three robes](../../../../GLOSSARY.md#three-robes) and a begging [bowl](../../../../GLOSSARY.md#bowl). He has attested that he is without [impediments](../../../../GLOSSARY.md#impediments). If the saṃgha gives [consent](../../../../GLOSSARY.md#consent) for the [preceptor](../../../../GLOSSARY.md#preceptor) [preceptor's name] to grant ordination to the ordinand [ordinand's name], and if the time is right and the saṃgha can accept it, I ask that the saṃgha give [consent](../../../../GLOSSARY.md#consent)."
 
 ###### The Motion to Act
 
 This is how the [motion to act](../../../../GLOSSARY.md#motion-to-act) should be made:
 
-"Venerable saṃgha, please listen. The ordinand [ordinand's name] has sought [consent](../../../../GLOSSARY.md#consent) from the saṃgha to receive ordination from the [preceptor](../../../../GLOSSARY.md#preceptor) [preceptor's name]. He has asked the saṃgha to give [consent](../../../../GLOSSARY.md#consent) for the [preceptor](../../../../GLOSSARY.md#preceptor) [preceptor's name] to grant ordination to the ordinand [ordinand's name]. He is a male, has male organs, has reached twenty years of age, and has all [three robes](../../../../GLOSSARY.md#three-robes) and a begging [bowl](../../../../GLOSSARY.md#bowl). He has attested that he is without [impediments](../../../../GLOSSARY.md#impediments). The saṃgha gives [consent](../../../../GLOSSARY.md#consent) for the [preceptor](../../../../GLOSSARY.md#preceptor) [preceptor's name] to grant ordination to the ordinand [ordinand's name]. Therefore, if the saṃgha grants [consent](../../../../GLOSSARY.md#consent) for the [preceptor](../../../../GLOSSARY.md#preceptor) [preceptor's name] to grant ordination to ordinand [ordinand's name], then venerables, those who can accept the [preceptor](../../../../GLOSSARY.md#preceptor) [preceptor's name] [granting ordination](#granting-ordination) to the ordinand [ordinand's name] remain silent. I ask that any who cannot accept it speak up."
+"Venerable saṃgha, please listen. The ordinand [ordinand's name] has sought [consent](../../../../GLOSSARY.md#consent) from the saṃgha to receive ordination from the [preceptor](../../../../GLOSSARY.md#preceptor) [preceptor's name]. He has asked the saṃgha to give [consent](../../../../GLOSSARY.md#consent) for the [preceptor](../../../../GLOSSARY.md#preceptor) [preceptor's name] to grant ordination to the ordinand [ordinand's name]. He is a male, has male organs, has reached [twenty years](#twenty-years) of age, and has all [three robes](../../../../GLOSSARY.md#three-robes) and a begging [bowl](../../../../GLOSSARY.md#bowl). He has attested that he is without [impediments](../../../../GLOSSARY.md#impediments). The saṃgha gives [consent](../../../../GLOSSARY.md#consent) for the [preceptor](../../../../GLOSSARY.md#preceptor) [preceptor's name] to grant ordination to the ordinand [ordinand's name]. Therefore, if the saṃgha grants [consent](../../../../GLOSSARY.md#consent) for the [preceptor](../../../../GLOSSARY.md#preceptor) [preceptor's name] to grant ordination to ordinand [ordinand's name], then venerables, those who can accept the [preceptor](../../../../GLOSSARY.md#preceptor) [preceptor's name] [granting ordination](#granting-ordination) to the ordinand [ordinand's name] remain silent. I ask that any who cannot accept it speak up."
 
 This is the first [motion to act](../../../../GLOSSARY.md#motion-to-act). This is repeated a second and a third time. The saṃgha acknowledges its acceptance and gives its [consent](../../../../GLOSSARY.md#consent) to the [preceptor](../../../../GLOSSARY.md#preceptor) to grant ordination to the ordinand by remaining silent.
 
@@ -2447,6 +2447,107 @@ An intervening summary:
 This concludes the [section](../../../../GLOSSARY.md#section) on [refuge](../../../../GLOSSARY.md#refuge).
 
 ## Tīrthikas
+
+1. [Tīrthikas](#tīrthikas-1)
+1. [Twenty Years](#twenty-years)
+1. [Novices Not Yet Fifteen](#novices-not-yet-fifteen)
+
+### Tīrthikas
+
+The Blessed [Buddha](../../../../GLOSSARY.md#buddha) was staying in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī), in [Jetavana, Anāthapiṇḍada's Park](../../../../GLOSSARY.md#jetavana-anāthapiṇḍadas-park), when an [elder](../../../../GLOSSARY.md#elder) who was immature, dense, dim-witted, and unskilled allowed a follower of another [tīrthika](../../../../GLOSSARY.md#tīrthika) tradition to [go forth](../../../../GLOSSARY.md#go-forth). The [elder](../../../../GLOSSARY.md#elder) granted the [tīrthika](../../../../GLOSSARY.md#tīrthika) ordination, sparking a number of disputes between monks. After the [tīrthika](../../../../GLOSSARY.md#tīrthika) had offered back his training and returned to his community of [tīrthikas](../../../../GLOSSARY.md#tīrthikas), the monks asked the Blessed One about it. This is how he responded: "Monks, look at how that benighted man has turned his back on such a fine and well-proclaimed [Dharma](../../../../GLOSSARY.md#dharma) and [Vinaya](../../../../GLOSSARY.md#vinaya) and returned to his community of [tīrthikas](../../../../GLOSSARY.md#tīrthikas). Monks, it seems to me he is behaving like a dog, wracked by hunger, but refusing fine food and fare and eating excrement instead. Monks, this is how a benighted man acts who turns his back on such a fine and well-proclaimed [Dharma](../../../../GLOSSARY.md#dharma) and [Vinaya](../../../../GLOSSARY.md#vinaya) and returns to his former community of [tīrthikas](../../../../GLOSSARY.md#tīrthikas)."
+
+Then the Blessed One declared, "Monks, apart from our Śākya kin and [dreadlocked fire-worshipper](../../../../GLOSSARY.md#dreadlocked-fire-worshipper)s,[^94] the [going forth](#going-forth) of [tīrthikas](../../../../GLOSSARY.md#tīrthikas) who do not have a [sense of reverence](../../../../GLOSSARY.md#sense-of-reverence) should not be allowed nor should they be ordained. If perchance a Śākya kin should come under a [tīrthika](../../../../GLOSSARY.md#tīrthika) banner, and if perchance he should want [monkhood](../../../../GLOSSARY.md#monkhood), to [go forth](../../../../GLOSSARY.md#go-forth) and be ordained in the well-proclaimed [Dharma](../../../../GLOSSARY.md#dharma) and [Vinaya](../../../../GLOSSARY.md#vinaya), then, monks, his [going forth](#going-forth) should be allowed and he should be ordained. Why is that? Because, monks, I give kin exceptions to kin. If perchance a [wandering mendicant](../../../../GLOSSARY.md#wandering-mendicant) from another [tīrthika](../../../../GLOSSARY.md#tīrthika) order should come, and he should want [monkhood](../../../../GLOSSARY.md#monkhood), to [go forth](../../../../GLOSSARY.md#go-forth) and be ordained in the well-proclaimed [Dharma](../../../../GLOSSARY.md#dharma) and [Vinaya](../../../../GLOSSARY.md#vinaya), then, monks, understand that he should be allowed to live in robes provided by a [preceptor](../../../../GLOSSARY.md#preceptor) for four months. Monks, if, after having submitted to his station, the follower of another [tīrthika](../../../../GLOSSARY.md#tīrthika) order has a [sense of reverence](../../../../GLOSSARY.md#sense-of-reverence), his [going forth](#going-forth) should be allowed and he should be ordained."
+
+When the Blessed One said that followers of other [tīrthika](../../../../GLOSSARY.md#tīrthika) orders should be allowed to live in robes provided by a [preceptor](../../../../GLOSSARY.md#preceptor) for four months, the monks were in a quandary, not knowing how such robes should be given. "Monks," instructed the Blessed One, "if a follower of another [tīrthika](../../../../GLOSSARY.md#tīrthika) order wishing to [go forth](../../../../GLOSSARY.md#go-forth) approaches any one of you, you should ascertain through questioning him whether he has any [impediments](../../../../GLOSSARY.md#impediments). Once you have ascertained this, have him take the threefold [refuge](../../../../GLOSSARY.md#refuge) and, after he commits himself to living as a [lay vow holder](../../../../GLOSSARY.md#lay-vow-holder), give him the [lay vow holder](../../../../GLOSSARY.md#lay-vow-holder) vows. Then, as the entire [saṅgha](../../../../GLOSSARY.md#saṅgha) sits in concord, have him prostrate to them in order of seniority before sitting in a squatting position. Pressing his palms together, he should say, 'Reverend [saṅgha](../../../../GLOSSARY.md#saṅgha), please heed me. I, the [tīrthika](../../../../GLOSSARY.md#tīrthika) [tīrthika's name], wish to renounce this identity and [go forth](../../../../GLOSSARY.md#go-forth). I, the [tīrthika](../../../../GLOSSARY.md#tīrthika) [tīrthika's name], petition the [saṅgha](../../../../GLOSSARY.md#saṅgha) to allow me to live in robes provided by a [preceptor](../../../../GLOSSARY.md#preceptor) for four months. I, the [tīrthika](../../../../GLOSSARY.md#tīrthika) [tīrthika's name], ask that the reverend and compassionate [saṅgha](../../../../GLOSSARY.md#saṅgha), out of your compassion, might allow me to live in robes provided by a [preceptor](../../../../GLOSSARY.md#preceptor) for four months.'
+
+"This should be repeated a second and a third time, after which a monk moves the [motion](../../../../GLOSSARY.md#motion) be acted upon. This is how the request is made: while seated, the monk says, 'Reverend [saṅgha](../../../../GLOSSARY.md#saṅgha), please heed me. This [tīrthika](../../../../GLOSSARY.md#tīrthika) [tīrthika's name] wishes to renounce this identity and [go forth](../../../../GLOSSARY.md#go-forth). This [tīrthika](../../../../GLOSSARY.md#tīrthika) has asked the [saṅgha](../../../../GLOSSARY.md#saṅgha) to allow him to live in robes provided by a [preceptor](../../../../GLOSSARY.md#preceptor) for four months. If the reverend [saṅgha](../../../../GLOSSARY.md#saṅgha) can accept it, I ask the [saṅgha](../../../../GLOSSARY.md#saṅgha) to give its [consent](../../../../GLOSSARY.md#consent) and allow this [tīrthika](../../../../GLOSSARY.md#tīrthika) to live in robes provided by a [preceptor](../../../../GLOSSARY.md#preceptor) for four months.'
+
+"The [motion](../../../../GLOSSARY.md#motion) is acted upon thus: 'Reverend [saṅgha](../../../../GLOSSARY.md#saṅgha), please heed me. This [tīrthika](../../../../GLOSSARY.md#tīrthika) [tīrthika's name] wishes to renounce this identity and [go forth](../../../../GLOSSARY.md#go-forth). Therefore, I ask the [saṅgha](../../../../GLOSSARY.md#saṅgha) that you allow him to live in robes provided by a [preceptor](../../../../GLOSSARY.md#preceptor) for four months. If the [saṅgha](../../../../GLOSSARY.md#saṅgha) were to permit this action, I would ask the venerables who can accept it to please remain silent. Those who cannot accept it, please speak up.'
+
+"That is the first [motion to act](../../../../GLOSSARY.md#motion-to-act). This should be repeated a second and a third time. The [saṅgha](../../../../GLOSSARY.md#saṅgha), by remaining silent, acknowledges its acceptance and gives its [consent](../../../../GLOSSARY.md#consent) for the [tīrthika](../../../../GLOSSARY.md#tīrthika) [tīrthika's name] to live in robes provided by a [preceptor](../../../../GLOSSARY.md#preceptor) for four months.
+
+"For any [tīrthika](../../../../GLOSSARY.md#tīrthika) to whom the [saṅgha](../../../../GLOSSARY.md#saṅgha) gives its permission to live in robes provided by a [preceptor](../../../../GLOSSARY.md#preceptor) for four months, his food is the [saṅgha](../../../../GLOSSARY.md#saṅgha)'s responsibility. His robes are the [preceptor](../../../../GLOSSARY.md#preceptor)'s responsibility. His duties are akin to those in the [novice](../../../../GLOSSARY.md#novice) ranks."
+
+[Upāli](../../../../GLOSSARY.md#upāli) asked the Blessed [Buddha](../../../../GLOSSARY.md#buddha), "Reverend, the Blessed One has said, 'If, after having submitted to his station, the follower of another [tīrthika](../../../../GLOSSARY.md#tīrthika) order has a [sense of reverence](../../../../GLOSSARY.md#sense-of-reverence), his [going forth](#going-forth) should be allowed and he should be ordained.' If so, then reverend, by what measure may we say that a follower of another [tīrthika](../../../../GLOSSARY.md#tīrthika) order has a [sense of reverence](../../../../GLOSSARY.md#sense-of-reverence)?"
+
+"[Upāli](../../../../GLOSSARY.md#upāli), in the presence of the follower of another [tīrthika](../../../../GLOSSARY.md#tīrthika) order, speak the [Buddha](../../../../GLOSSARY.md#buddha)'s praises perfectly. Speak too the praises of the [Dharma](../../../../GLOSSARY.md#dharma) and the [Saṅgha](../../../../GLOSSARY.md#saṅgha), and speak them perfectly. Speak perfectly of the tīrthikas' unworthiness. [Upāli](../../../../GLOSSARY.md#upāli), when you speak of these things perfectly, if the follower of this other order becomes upset, disturbed, or angry, or if he sits withdrawn or seethes with anger, it can be said that the follower does not have a [sense of reverence](../../../../GLOSSARY.md#sense-of-reverence).
+
+"But, [Upāli](../../../../GLOSSARY.md#upāli), when you speak perfectly the praises of the [Buddha](../../../../GLOSSARY.md#buddha), the [Dharma](../../../../GLOSSARY.md#dharma), and the [Saṅgha](../../../../GLOSSARY.md#saṅgha), and also speak perfectly of the tīrthikas' unworthiness, if the follower of this other [tīrthika](../../../../GLOSSARY.md#tīrthika) order does not become upset, disturbed, or angry, if he does not sit withdrawn or seethe with anger, then, [Upāli](../../../../GLOSSARY.md#upāli), by that measure we may say the [tīrthika](../../../../GLOSSARY.md#tīrthika) has a [sense of reverence](../../../../GLOSSARY.md#sense-of-reverence).
+
+"Monks, the [going forth](#going-forth) of [dreadlocked fire-worshipper](../../../../GLOSSARY.md#dreadlocked-fire-worshipper)s should be allowed and they should be ordained. Why? It is because, monks, they argue for [karma](../../../../GLOSSARY.md#karma), they argue for action, they argue for causes, and they argue for diligence. Therefore, monks, you too should train so that you come to argue for [karma](../../../../GLOSSARY.md#karma), for actions, for causes, and for diligence. Monks, that is how you should train."
+
+### Twenty Years
+
+The Blessed [Buddha](../../../../GLOSSARY.md#buddha) was staying in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī), in the [Jetavana, Anāthapiṇḍada's Park](../../../../GLOSSARY.md#jetavana-anāthapiṇḍadas-park), when Mahāmaudgalyāyana allowed the [going forth](#going-forth) of [Upāli](../../../../GLOSSARY.md#upāli) and a band of seventeen healthy new youths, and ordained them. Come twilight, reduced and wracked by hunger as they were, they would cry out and the Blessed One would hear these great many cries from within the monastery's grounds.
+
+Though they hear, blessed [buddha](../../../../GLOSSARY.md#buddha)s may inquire about what they already know. Though they already know, they may inquire—or, even though they know, they may not inquire. They inquire when the time is right, not when the time has passed. Their inquiries are meaningful, not meaningless. In this way blessed [buddha](../../../../GLOSSARY.md#buddha)s dam the flow of meaningless inquiries.
+
+As blessed [buddha](../../../../GLOSSARY.md#buddha)s know the time for a meaningful inquiry, the Blessed [Buddha](../../../../GLOSSARY.md#buddha) asked the venerable [Ānanda](../../../../GLOSSARY.md#ānanda), "Who are these great many young boys who cry within the monastery's grounds at twilight?"
+
+"Reverend, it is [Upāli](../../../../GLOSSARY.md#upāli) and a band of seventeen healthy new youths whom Mahāmaudgalyāyana allowed to [go forth](../../../../GLOSSARY.md#go-forth), and has ordained. At twilight it is they who, reduced and wracked by hunger, cry out."
+
+"[Ānanda](../../../../GLOSSARY.md#ānanda), do monks grant ordination into the [monkhood](../../../../GLOSSARY.md#monkhood) to persons who have not yet reached [twenty years](#twenty-years)?"
+
+"Reverend, they do."
+
+"[Ānanda](../../../../GLOSSARY.md#ānanda), ones so young should not be ordained. Persons who are not yet [twenty years](#twenty-years) of age cannot accept all they may be subjected to—the cold, the heat, the hunger, the thirst, the blowflies, the gadflies, the gnats, the [wind](../../../../GLOSSARY.md#wind), the sun, the snakes, the abuse hurled at them, the bad that befalls them, or the physical pains that are intolerable, oppressive, intense, dreadful, and life-threatening. Their nature is such that they cannot abide or withstand their longing for [defilements](../../../../GLOSSARY.md#defilements).
+
+"Persons who have reached [twenty years](#twenty-years) of age, on the other hand, can accept all they may be subjected to—the cold, the heat, the hunger, the thirst, the blowflies, the gadflies, the gnats, the [wind](../../../../GLOSSARY.md#wind), the sun, the snakes, the abuse hurled at them, the bad that befalls them, or the physical pains that are intolerable, oppressive, intense, dreadful, and life-threatening. Their nature is such that they can abide and withstand their longing for [defilements](../../../../GLOSSARY.md#defilements)."
+
+The Blessed One [thought](../../../../GLOSSARY.md#thought), "All those shortcomings ensue from monks [granting ordination](#granting-ordination) into the [monkhood](../../../../GLOSSARY.md#monkhood) to persons who have not yet reached [twenty years](#twenty-years)."
+
+Then he decreed, "In light of this, monks should not grant ordination into the [monkhood](../../../../GLOSSARY.md#monkhood) to persons who have not yet reached [twenty years](#twenty-years). If someone wishing to be ordained approaches any of you, ask him if he has reached [twenty years](#twenty-years). If you grant ordination without asking this, a breach occurs."
+
+### Novices Not Yet Fifteen
+
+The Blessed [Buddha](../../../../GLOSSARY.md#buddha) was staying in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī), in the [Jetavana, Anāthapiṇḍada's Park](../../../../GLOSSARY.md#jetavana-anāthapiṇḍadas-park), when a householder living in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī) took a wife of equal caste and together they played with, took pleasure in, and amused one another. The wife with whom he had played, taken pleasure, and amused himself gave birth to a son who was nurtured and grew until he was big.
+
+At a certain point, the householder's kin had dwindled, his riches had dwindled, and his possessions had dwindled, prompting the [thought](../../../../GLOSSARY.md#thought), "As I am grown old and cannot gain more riches, I shall [go forth](../../../../GLOSSARY.md#go-forth)."
+
+He then said this to his son, who replied, "Father, if you are to [go forth](../../../../GLOSSARY.md#go-forth), then I too shall [go forth](../../../../GLOSSARY.md#go-forth)."
+
+"Son, let us do just that!" said the householder.
+
+He took his son and went to [Jetavana](../../../../GLOSSARY.md#jetavana), where they approached a monk and he said, "Noble one, I want to [go forth](../../../../GLOSSARY.md#go-forth)."
+
+The monk replied, "Who is this lad with you?"
+
+"He is my son."
+
+"Is he to [go forth](../../../../GLOSSARY.md#go-forth) as well?"
+
+"Yes, noble one, he is."
+
+As the monk had taken a liking to them, he allowed their [going forth](#going-forth). For the next two or three days he trained them in their regular duties, and then said, "Gentlemen, game does not eat other game. The whole of [Śrāvastī](../../../../GLOSSARY.md#śrāvastī) is your field and fatherland, so seek out [alms](../../../../GLOSSARY.md#alms) and live on them."
+
+Early the next morning, the father put on his [under robe](../../../../GLOSSARY.md#under-robe), picked up his begging [bowl](../../../../GLOSSARY.md#bowl) and robes, and went to beg [alms](../../../../GLOSSARY.md#alms) in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī) with his [novice](../../../../GLOSSARY.md#novice) son. Seeing a burnt piece of bread in the market, the [novice](../../../../GLOSSARY.md#novice) said, "Father, ask the shopkeeper to give me the bread."
+
+"Sir, please give this [novice](../../../../GLOSSARY.md#novice) bread," said the father.
+
+The shopkeeper replied, "Noble one, no one eats for free. So I would ask a few [coin](../../../../GLOSSARY.md#coin)s in return."
+
+"Sir, we are [renunciant](../../../../GLOSSARY.md#renunciant)s. How could we have a few [coin](../../../../GLOSSARY.md#coin)s?"
+
+"Noble one, did you raise this [novice](../../../../GLOSSARY.md#novice) while a [renunciant](../../../../GLOSSARY.md#renunciant) or householder?"
+
+"A householder."
+
+"Then give him what you earned while a householder."
+
+"This [novice](../../../../GLOSSARY.md#novice) is but one of many who beg. Come! Let us go!"
+
+Saying this, the father grabbed out for his son's hand, but his son jumped back, fell down, and began to cry.
+
+A great crowd of people saw the two and asked, "Gentlemen, to whom does this [novice](../../../../GLOSSARY.md#novice) belong?"
+
+"He is my son," his father said.
+
+"Why did you make the fruit of your loins [go forth](../../../../GLOSSARY.md#go-forth)?" they asked.
+
+Since the bystanders denounced, disparaged, and insulted him, the monks asked the Blessed One about it, and the Blessed One [thought](../../../../GLOSSARY.md#thought), "All those shortcomings ensue from monks allowing persons who have not yet reached fifteen years to [go forth](../../../../GLOSSARY.md#go-forth)."
+
+Then he decreed, "That being the case, monks should not allow persons under fifteen years old to [go forth](../../../../GLOSSARY.md#go-forth). If someone wishing to [go forth](../../../../GLOSSARY.md#go-forth) approaches any of you, ask him if he has reached fifteen years. If you allow [going forth](#going-forth) without so asking, a breach occurs."
+
 ## Two Novices
 ## Scaring Away a Crow
 ## Killing an Arhat
@@ -2640,3 +2741,5 @@ This concludes the [section](../../../../GLOSSARY.md#section) on [refuge](../../
 [^92]: "Knowledge of the three" (tisṛṇāṃ vidyā, Tib. rig pa gsum) refers to the three higher knowledges (tisro vidyāḥ) of an [arhat](../../../../GLOSSARY.md#arhat): recollection of previous lives, divine eye, and exhaustion of the [defilements](../../../../GLOSSARY.md#defilements)—the three knowledges attained upon awakening.
 
 [^93]: "Three stains" (trīṇi kleśāḥ, Tib. dri ma gsum) refers to the three root [defilements](../../../../GLOSSARY.md#defilements) of desire (rāga), aversion (dveṣa), and confusion (moha), which constitute the fundamental sources of suffering in [saṃsāra](../../../../GLOSSARY.md#saṃsāra).
+
+[^94]: Dreadlocked fire-worshippers, or Jaṭilas, were early converts of the [Buddha](../../../../GLOSSARY.md#buddha). Many were said to have converted en masse after the [Buddha](../../../../GLOSSARY.md#buddha) delivered the "Fire Sermon" (Pali Ādittapariyāya Sutta) to [Kāśyapa](../../../../GLOSSARY.md#kāśyapa) and his followers at [Uruvilvā](../../../../GLOSSARY.md#uruvilvā). See the Saṅghabhedavastu (Tib. dge 'dun dbyen gyi gzhi) for the Mūlasarvāstivādin account of their conversion.
