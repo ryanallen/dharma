@@ -10,6 +10,24 @@
 1. [Appendix](#appendix)
 
 ## Rupasari's Son</br> <sub>(Śāriputra)</sub>
+
+1. [Śāriputra](#śāriputra)
+1. [Going Forth](#going-forth)
+1. [Granting Ordination](#granting-ordination)
+   1. [The Early Rite](#the-early-rite)
+      1. [The Postulant's Request](#the-postulants-request)
+      1. [The Monk's Request](#the-monks-request)
+      1. [Acting on the Motion](#acting-on-the-motion)
+   1. [Preceptors and Instructors](#preceptors-and-instructors)
+   1. [The Present Day Ordination Rite](#the-present-day-ordination-rite)
+      1. [Giving the Layperson's Vows and Refuge Precepts](#giving-the-laypersons-vows-and-refuge-precepts)
+         1. [How to Give the Layperson's Vows](#how-to-give-the-laypersons-vows)
+         1. [Pledging to Keep the Precepts](#pledging-to-keep-the-precepts)
+      1. [Going Forth](#going-forth-1)
+      1. [Becoming a Novice](#becoming-a-novice)
+      1. [Granting Ordination](#granting-ordination-1)
+1. [Querying Upasena](#querying-upasena)
+
 ### Śāriputra
 
 While the [Bodhisattva](../../../../GLOSSARY.md#bodhisattva) was dwelling in the [Abode of Tuṣita](../../../../GLOSSARY.md#tuṣita-heaven), the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) ruled over the lands of [Aṅga](../../../../GLOSSARY.md#aṅga). Under his rule, the kingdom prospered and thrived, crops were bountiful and the land teemed with animals and people. Meanwhile, King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) ruled over the lands of [Magadha](../../../../GLOSSARY.md#magadha). Under his rule, the kingdom prospered and thrived, crops were bountiful and the land teemed with animals and people. At times, the [King of Aṅga](../../../../GLOSSARY.md#king-of-aṅga) and his armies were dominant. At other times, King [Mahāpadma](../../../../GLOSSARY.md#mahāpadma) and his armies were dominant.
