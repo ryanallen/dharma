@@ -2549,6 +2549,282 @@ Since the bystanders denounced, disparaged, and insulted him, the monks asked th
 Then he decreed, "That being the case, monks should not allow persons under fifteen years old to [go forth](../../../../GLOSSARY.md#go-forth). If someone wishing to [go forth](../../../../GLOSSARY.md#go-forth) approaches any of you, ask him if he has reached fifteen years. If you allow [going forth](#going-forth) without so asking, a breach occurs."
 
 ## Two Novices
+
+1. [Two Novices](#two-novices-1)
+1. [Those in Servitude](#those-in-servitude)
+1. [Debtors](#debtors)
+1. [Those Without Consent](#those-without-consent)
+1. [Without Consultation](#without-consultation)
+1. [Ill Persons](#ill-persons)
+1. [Śākyas](#śākyas)
+
+### Two Novices
+
+The Blessed [Buddha](../../../../GLOSSARY.md#buddha) was staying in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī), in the [Jetavana, Anāthapiṇḍada's Park](../../../../GLOSSARY.md#jetavana-anāthapiṇḍadas-park), when two of [Upananda](../../../../GLOSSARY.md#upananda)'s [novice](../../../../GLOSSARY.md#novice)s, [Kaṇṭaka](../../../../GLOSSARY.md#kaṇṭaka) and [Mahaka](../../../../GLOSSARY.md#mahaka), flirted with, groped, and tickled one another. They acted as a man does with a woman, or as a woman does with a man. Once, when they were behaving like this, the monks asked the Blessed One about it, and the Blessed One [thought](../../../../GLOSSARY.md#thought), "All those shortcomings ensue from monks placing two [novice](../../../../GLOSSARY.md#novice)s together."
+
+He then decreed, "In light of this, monks should not place two [novice](../../../../GLOSSARY.md#novice)s together. If you do so, a breach occurs."
+
+After the Blessed One had so decreed, sure enough, two brothers turned up, saying, "We two shall [go forth](../../../../GLOSSARY.md#go-forth) together, at the same time." When that occurred, the monks did not allow their [going forth](#going-forth) so the two of them left without [going forth](#going-forth).
+
+When that proved to be an impediment to [monkhood](../../../../GLOSSARY.md#monkhood)—the state of having gone forth and been ordained in the well-proclaimed [Dharma](../../../../GLOSSARY.md#dharma) and [Vinaya](../../../../GLOSSARY.md#vinaya)—the monks asked the Blessed One about it, and the Blessed One decreed, "If two brothers turn up as they are sure to, saying, 'We two shall [go forth](../../../../GLOSSARY.md#go-forth) together, at the same time,' their [going forth](#going-forth) should be allowed. Once they have gone forth, they should be ordained if they have reached [twenty years](#twenty-years). If one should have reached [twenty years](#twenty-years), then he should be ordained while the other should be left a [novice](../../../../GLOSSARY.md#novice). If neither has reached [twenty years](#twenty-years), then you should take charge of one while entrusting the other to a monk friend of yours."
+
+The one he is entrusted to shall [ordain](../../../../GLOSSARY.md#ordain) him, for the Blessed One decreed, "Whoever that may be, it is he that should grant ordination." If ordination was not given, the Blessed One decreed, "Induce him to grant what was not given."
+
+### Those in Servitude
+
+While the Blessed [Buddha](../../../../GLOSSARY.md#buddha) was staying in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī), in the [Jetavana, Anāthapiṇḍada's Park](../../../../GLOSSARY.md#jetavana-anāthapiṇḍadas-park), there was a householder living in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī) with a clever servant who was industrious, assured in his work, and the first to any task, no matter how small. At a certain point the householder insulted his servant, prompting the servant to think, "This householder is hard to please and I cannot guard my mind against his abuse. I ought to run away. But leaving one's own land behind is hard, so instead I shall [go forth](../../../../GLOSSARY.md#go-forth) among the [ascetic](../../../../GLOSSARY.md#ascetic) sons of the Śākya, for they have [secured from the king the liberty of a prince](../../../../GLOSSARY.md#secured-from-the-king-the-liberty-of-a-prince)."
+
+With that he went to [Jetavana](../../../../GLOSSARY.md#jetavana), where he approached a monk and said, "Noble one, I want to [go forth](../../../../GLOSSARY.md#go-forth)."
+
+After allowing his [going forth](#going-forth) and ordaining him, the monk gave him instructions. To these, the former servant applied himself with diligence, [energy](../../../../GLOSSARY.md#energy), and exertion so that he abandoned all disturbing [emotions](../../../../GLOSSARY.md#emotions) and actualized arhatship, [becoming](../../../../GLOSSARY.md#becoming) an [arhat](../../../../GLOSSARY.md#arhat) free of attachment to the three [realm](../../../../GLOSSARY.md#realm)s, for whom filth was equal to gold, for whom space was equal to the palm of his hand,[^95] whose [emotions](../../../../GLOSSARY.md#emotions) had been cooled as if treated by a balm of sandalwood,[^96] and whose knowledge had rent open the shell. He attained knowledge, clairvoyance, and discerning [wisdom](../../../../GLOSSARY.md#wisdom). He turned his back on worldly gain, desires, and esteem, and was venerated, honored, and saluted by [Indra](../../../../GLOSSARY.md#indra) and the [gods](../../../../GLOSSARY.md#gods) who attend him.
+
+The householder, meanwhile, was feeling regret: "If my servant was first to all of my tasks, no matter how small, why did I insult him? If I see him now, I will beg his forgiveness." With that he sat down at the gates to [Śrāvastī](../../../../GLOSSARY.md#śrāvastī).
+
+The next morning, the monk put on his [under robe](../../../../GLOSSARY.md#under-robe), picked up his begging [bowl](../../../../GLOSSARY.md#bowl) and robes, and was preparing to beg [alms](../../../../GLOSSARY.md#alms) in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī) when the householder saw him and said, "Sir, if you have gone forth, who will attend me? Come back!" As the householder reached out to grab at him, the monk, like a kingly swan taken to wing, flew up into the sky above, blazing and brilliant, as a miraculous show of rain and thunder began.
+
+Because ordinary beings are quick to heed a miracle, the householder dropped like a felled tree at the monk's feet and asked, "Noble one, have you found such a store of qualities?"
+
+"I have."
+
+The householder provided the monk with all the provisions he would need, and word spread everywhere that the servant of this householder had gone forth and attained a store of qualities. When [Prasenajit](../../../../GLOSSARY.md#prasenajit), the King of Kosala, heard that this servant had gone forth and attained a store of qualities, he summoned his ministers and said, "Gentlemen, as the ruler of all anointed [kṣatriya](../../../../GLOSSARY.md#kṣatriya) kings, I declare that henceforth any servant who should wish to [go forth](../../../../GLOSSARY.md#go-forth) shall not be prevented from doing so."
+
+In [Śrāvastī](../../../../GLOSSARY.md#śrāvastī) there lived a different householder with a clever servant who was industrious, assured in his work, and first to any task, no matter how small. At a certain point the householder insulted his servant, prompting the servant to think, "This householder is hard to please and I cannot guard my mind against his abuse. I ought to run away. But leaving one's own land behind is hard, so instead I shall [go forth](../../../../GLOSSARY.md#go-forth) among the [ascetic](../../../../GLOSSARY.md#ascetic) sons of the Śākya, for they have [secured from the king the liberty of a prince](../../../../GLOSSARY.md#secured-from-the-king-the-liberty-of-a-prince)."
+
+With that he went to [Jetavana](../../../../GLOSSARY.md#jetavana), where he approached a monk and said, "Noble one, I want to [go forth](../../../../GLOSSARY.md#go-forth)."
+
+After allowing his [going forth](#going-forth) and ordaining him, the monk trained him for the next two or three days in his regular duties, and then said, "Sir, game does not eat other game. The whole of [Śrāvastī](../../../../GLOSSARY.md#śrāvastī) is your field and fatherland, so seek out [alms](../../../../GLOSSARY.md#alms) and live on them."
+
+The householder, meanwhile, was feeling regret: "If he was first to all of my tasks, no matter how small, why did I insult him? If I see him now, I will beg his forgiveness." With that he sat down at the gates to [Śrāvastī](../../../../GLOSSARY.md#śrāvastī).
+
+The next morning, the monk put on his [under robe](../../../../GLOSSARY.md#under-robe), picked up his begging [bowl](../../../../GLOSSARY.md#bowl) and robes, and was preparing to beg [alms](../../../../GLOSSARY.md#alms) in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī) when the householder saw him and said, "Sir, if you have gone forth, who will attend me? Come back!" As the householder reached out to grab at him, the monk said, "The king has given us a prince's liberty. If you touch me, I shall cut your hand off at the wrist!"
+
+As such words put to flame the virtuous ways of the [ascetic](../../../../GLOSSARY.md#ascetic) sons of the Śākya, and put to flame the ways of [brahmin](../../../../GLOSSARY.md#brahmin)s, the allowing of this servant's [going forth](#going-forth) was denounced, disparaged, and criticized. The monks then asked the Blessed One about it, and he [thought](../../../../GLOSSARY.md#thought), "All those shortcomings ensue from monks allowing the [going forth](#going-forth) of servants."
+
+Then he decreed, "That being the case, monks should not allow the [going forth](#going-forth) of servants. If someone wishing to [go forth](../../../../GLOSSARY.md#go-forth) approaches any of you, ask him, 'You are not a servant, are you?' If you allow [going forth](#going-forth) without asking this, a breach occurs."
+
+### Debtors
+
+While the Blessed [Buddha](../../../../GLOSSARY.md#buddha) was staying in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī), in the [Jetavana, Anāthapiṇḍada's Park](../../../../GLOSSARY.md#jetavana-anāthapiṇḍadas-park), a debtor was repaying the principle and interest of a debt in timely fashion to a householder living in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī).
+
+At a certain point, the householder unexpectedly accosted the debtor, saying, "I demand you repay the principle and interest in their entirety all at once." After agreeing to a short window for repayment, he released the debtor, who [thought](../../../../GLOSSARY.md#thought), "This householder is hard to please and I cannot repay the principle and interest all at once. I ought to run away. But leaving one's own land behind is hard, so instead I shall [go forth](../../../../GLOSSARY.md#go-forth) among the [ascetic](../../../../GLOSSARY.md#ascetic) sons of the Śākya, for they have [secured from the king the liberty of a prince](../../../../GLOSSARY.md#secured-from-the-king-the-liberty-of-a-prince)."
+
+With that he went to [Jetavana](../../../../GLOSSARY.md#jetavana), where he approached a monk and said, "Noble one, I want to [go forth](../../../../GLOSSARY.md#go-forth)."
+
+After allowing the debtor's [going forth](#going-forth) and ordaining him, the monk gave him instructions. To these, he applied himself with diligence, [energy](../../../../GLOSSARY.md#energy), and exertion so that he abandoned all disturbing [emotions](../../../../GLOSSARY.md#emotions) and actualized arhatship, [becoming](../../../../GLOSSARY.md#becoming) an [arhat](../../../../GLOSSARY.md#arhat) free of attachment to the three [realm](../../../../GLOSSARY.md#realm)s, for whom filth was equal to gold, for whom space was equal to the palm of his hand, whose [emotions](../../../../GLOSSARY.md#emotions) had been cooled as if treated by a balm of sandalwood, and whose knowledge had rent open the shell. He attained knowledge, clairvoyance, and discerning [wisdom](../../../../GLOSSARY.md#wisdom). He turned his back on worldly gain, desires, and esteem, and was venerated, honored, and saluted by [Indra](../../../../GLOSSARY.md#indra) and the [gods](../../../../GLOSSARY.md#gods) who attend him.
+
+The householder, meanwhile, was feeling regret: "If he was giving me the principle and interest in a timely fashion, why did I accost him? If I see him now, I will beg his forgiveness." With that he sat down at the gates to [Śrāvastī](../../../../GLOSSARY.md#śrāvastī).
+
+The next morning, the monk put on his [under robe](../../../../GLOSSARY.md#under-robe), picked up his begging [bowl](../../../../GLOSSARY.md#bowl) and robes, and was preparing to beg [alms](../../../../GLOSSARY.md#alms) in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī) when the householder saw him and said, "Sir, if you have gone forth, who will repay the principle and interest in a timely fashion? Come back!" As the householder reached out to grab at him, the monk, like a kingly swan taken to wing, flew up into the sky above, blazing and brilliant, as a miraculous show of rain and thunder began.
+
+As ordinary beings are quick to heed a miracle, the householder dropped like a felled tree at the monk's feet and asked, "Noble one, have you found such a store of qualities?"
+
+"I have attained them."
+
+The householder provided the monk with all the provisions he would need, and word spread everywhere that the debtor of this householder had gone forth and attained a store of qualities. When [Prasenajit](../../../../GLOSSARY.md#prasenajit), the King of Kosala, heard this debtor had gone forth and attained a store of qualities, he summoned his ministers and said, "Gentlemen, as the ruler of all anointed [kṣatriya](../../../../GLOSSARY.md#kṣatriya) kings, I declare that henceforth any debtor who should wish to [go forth](../../../../GLOSSARY.md#go-forth) shall not be prevented from doing so."
+
+In [Śrāvastī](../../../../GLOSSARY.md#śrāvastī), a different debtor was repaying the principle and interest of a debt in timely fashion to a householder. At a certain point, the householder unexpectedly accosted the debtor, saying, "I demand you repay the principle and interest in their entirety all at once." After agreeing to a short window for repayment, he released the debtor, who [thought](../../../../GLOSSARY.md#thought), "As this householder is hard to please and I cannot repay the principle and interest all at once, I ought to run away. But leaving one's own land behind is hard, so instead I shall [go forth](../../../../GLOSSARY.md#go-forth) among the [ascetic](../../../../GLOSSARY.md#ascetic) sons of the Śākya, for they have [secured from the king the liberty of a prince](../../../../GLOSSARY.md#secured-from-the-king-the-liberty-of-a-prince)."
+
+With that he went to [Jetavana](../../../../GLOSSARY.md#jetavana), where he approached a monk and said, "Noble one, I want to [go forth](../../../../GLOSSARY.md#go-forth)."
+
+After allowing his [going forth](#going-forth) and ordaining him, for the next two or three days he trained him in his regular duties, and then said, "Sir, game does not eat other game. The whole of [Śrāvastī](../../../../GLOSSARY.md#śrāvastī) is your field and fatherland, so seek out [alms](../../../../GLOSSARY.md#alms) and live on them."
+
+Meanwhile, the householder was feeling regret and [thought](../../../../GLOSSARY.md#thought), "If he was repaying the principle and interest in timely fashion, why did I accost him? If I see him now, I will beg his forgiveness." With that he sat down at the gates to [Śrāvastī](../../../../GLOSSARY.md#śrāvastī).
+
+The next morning, the monk put on his [under robe](../../../../GLOSSARY.md#under-robe), picked up his begging [bowl](../../../../GLOSSARY.md#bowl) and robes, and was preparing to beg [alms](../../../../GLOSSARY.md#alms) in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī) when the householder saw him and said, "Sir, if you have gone forth, who will repay the principle and interest in timely fashion? Come back!" As the householder reached out to grab at him, the monk said, "The king has given us a prince's liberty. If you touch me, I shall cut your hand off at the wrist!"
+
+As such words put to flame the virtuous ways of the [ascetic](../../../../GLOSSARY.md#ascetic) sons of the Śākya, and put to flame the ways of [brahmin](../../../../GLOSSARY.md#brahmin)s, the allowing of this debtor's [going forth](#going-forth) was denounced, disparaged, and criticized. The monks asked the Blessed One about it, and the Blessed One [thought](../../../../GLOSSARY.md#thought), "All those shortcomings ensue from monks allowing the debtor's [going forth](#going-forth)."
+
+Then the Blessed One decreed, "In light of this, monks should not allow debtors' [going forth](#going-forth). If someone wishing to be allowed to [go forth](../../../../GLOSSARY.md#go-forth) approaches any of you, ask him, 'You aren't a debtor, are you?' If you allow [going forth](#going-forth) without asking this, a breach occurs."
+
+### Those Without Consent
+
+The Blessed [Buddha](../../../../GLOSSARY.md#buddha) was staying in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī), in the [Jetavana, Anāthapiṇḍada's Park](../../../../GLOSSARY.md#jetavana-anāthapiṇḍadas-park), when a householder living in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī) took a wife of equal caste and together they played with, took pleasure in, and amused one another. The wife with whom he had played, taken pleasure, and amused himself then gave birth to a son who was nurtured and grew until he was big.
+
+At a certain point, the householder insulted his son, prompting his son to think, "This father of mine is hard to please and I cannot guard my mind against his abuse. I ought to run away. But leaving one's own land behind is hard, so instead I shall [go forth](../../../../GLOSSARY.md#go-forth) among the [ascetic](../../../../GLOSSARY.md#ascetic) sons of the Śākya, for they have [secured from the king the liberty of a prince](../../../../GLOSSARY.md#secured-from-the-king-the-liberty-of-a-prince)."
+
+With that he went to [Jetavana](../../../../GLOSSARY.md#jetavana), where he approached a monk and said, "Noble one, I want to [go forth](../../../../GLOSSARY.md#go-forth)."
+
+After the monk gave him [refuge](../../../../GLOSSARY.md#refuge) and the precepts, the son requested him to serve as his [monk petitioner](../../../../GLOSSARY.md#monk-petitioner), as the monk who cuts his hair and beard, as the monk who oversees bathing, and as the monk who inducts him into the novitiate. Then, after his [going forth](#going-forth) was allowed, he again requested him, this time to serve as the monk [officiant](../../../../GLOSSARY.md#officiant). His final request to him was to serve as the monk [privy advisor](../../../../GLOSSARY.md#privy-advisor).
+
+After the son had appealed to the monk to serve in all of these capacities, the householder who was the ordinand's father arrived during the ordination ceremony, and asked the monk, "Noble one, have you seen a lad fitting the description of my son?"[^97]
+
+The monk replied, "I asked on his behalf, I cut his hair and beard, I oversaw his bath, I inducted him into the novitiate, and I ordained him."
+
+After the son was ordained, they measured the shadows and noted the time of day and the hour. They made sure he knew the foundations, what things brought about offenses, what constituted spiritual practice, how to attain perfect fulfillment of his greatest desire, and how to practice the equally applicable ethical code. They enjoined him to bond with his [role model in the renunciant life](../../../../GLOSSARY.md#role-model-in-the-renunciant-life), to dwell in tranquility, to carry out his obligations, to do what he must do to fully understand his unspoken commitments, to heed what he reveres, and told him:
+
+"You have been ordained  
+Into the teachings of the most wise.  
+To find leisure and opportunity is rare,  
+So heed them perfectly.  
+Knowing all, the Perfectly Awakened One,  
+Whose name denotes truth, proclaimed  
+That [going forth](#going-forth) is for the beautiful  
+And ordination for the pure."
+
+And they enjoined him in what he must practice and how.
+
+As the newly ordained monk committed to these things, his father the householder arrived and asked, "Noble one, why are you just sitting there with a razor in your hand? If he has lost faith in me, that will be an impediment to his living the [holy life](../../../../GLOSSARY.md#holy-life). Goodness! Where is the harm in waiting seven or eight days?"
+
+The monks then asked the Blessed One about it, and the Blessed One [thought](../../../../GLOSSARY.md#thought), "All those shortcomings ensue from monks not waiting seven or eight days for [consent](../../../../GLOSSARY.md#consent) from the parents of one wishing to [go forth](../../../../GLOSSARY.md#go-forth)."
+
+Then he decreed, "In the light of this, if someone approaches any of you, wishing to [go forth](../../../../GLOSSARY.md#go-forth), who has parents who are alive but have not granted him [consent](../../../../GLOSSARY.md#consent), wait seven or eight days."
+
+But later, after the Blessed One had said, "If someone approaches you, wishing to [go forth](../../../../GLOSSARY.md#go-forth), wait seven or eight days," others arrived, wishing to [go forth](../../../../GLOSSARY.md#go-forth), whose parents had granted them [consent](../../../../GLOSSARY.md#consent), as did others coming from afar whose parents could not be consulted. When this occurred, the monks made them, too, wait seven or eight days, and so some left without having been allowed to [go forth](../../../../GLOSSARY.md#go-forth).
+
+When that proved to be an impediment to [monkhood](../../../../GLOSSARY.md#monkhood), the state of having gone forth and been ordained in the well-proclaimed [Dharma](../../../../GLOSSARY.md#dharma) and [Vinaya](../../../../GLOSSARY.md#vinaya), the monks asked the Blessed One about it, and the Blessed One decreed, "Whoever comes with his parents' [consent](../../../../GLOSSARY.md#consent), and whoever comes from so far away that his parents cannot be consulted, their [going forth](#going-forth) should be allowed. This you need not regret."
+
+### Without Consultation
+
+The Blessed [Buddha](../../../../GLOSSARY.md#buddha) was staying in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī), in the [Jetavana, Anāthapiṇḍada's Park](../../../../GLOSSARY.md#jetavana-anāthapiṇḍadas-park), when a householder living in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī) took a wife of equal caste and together they played with, took pleasure in, and amused one another. The wife with whom he had played, taken pleasure, and amused himself then gave birth to a son, upon which occasion the householder said, "Mistress, as we must repay our debts and build our wealth, I shall go to trade in another land."
+
+"[Son of a lord](../../../../GLOSSARY.md#son-of-a-lord), do as you wish."
+
+With that, he set out for another land to trade, and in this land he suffered misfortune. His wife gave guardianship of their son to relatives while supporting and providing for him through her own industry. Once he had grown, she placed him under the tutelage of a court scribe. While other boys of the lad's age had already learned their letters and had begun to [study](../../../../GLOSSARY.md#study) the grammar treatises, he was still struggling to learn his letters. His mother went to the court scribe and said, "Lord, whatever the other boys of the lad's age may offer you, I too will give you. Those boys have already learned their letters and have begun to [study](../../../../GLOSSARY.md#study) the grammar treatises, while this lad is still learning his letters."
+
+The court scribe replied, "There are two factors in honing one's intelligence. The first is a sense of modesty, which pertains to oneself; another is a sense of propriety, which pertains to others. This lad has no modesty nor does he have any sense of propriety. For this, you too are at fault, for you object when I strike him."
+
+"I am guilty of that, as you say," she responded, "and I do object to your striking him."
+
+Another time, the court scribe struck him and the lad went off crying to his mother. His mother asked him, "Son, why are you crying?"
+
+"Mother, the court scribe struck me."
+
+His mother then struck him too, prompting the lad to think, "Both are at fault. Before I was only struck in one place. Now I am struck in both. I cannot bear being hurt in both places so I will run away."
+
+With that, he set out for [Jetavana](../../../../GLOSSARY.md#jetavana), where he saw a [novice](../../../../GLOSSARY.md#novice) picking flowers and said, "Noble one, you look so happy. Why?"
+
+"It is because I have gone forth. Why don't you [go forth](../../../../GLOSSARY.md#go-forth)?"
+
+"Noble one, who can allow my [going forth](#going-forth)?"
+
+The [novice](../../../../GLOSSARY.md#novice) said, "Come, let us go before a [preceptor](../../../../GLOSSARY.md#preceptor)," and led him away. When they arrived before a [preceptor](../../../../GLOSSARY.md#preceptor), the [novice](../../../../GLOSSARY.md#novice) said, "[Preceptor](../../../../GLOSSARY.md#preceptor), this son of noble family wants to [go forth](../../../../GLOSSARY.md#go-forth). I ask that you allow his [going forth](#going-forth)." And with that, the [preceptor](../../../../GLOSSARY.md#preceptor) allowed his [going forth](#going-forth).
+
+His mother went to the court scribe, who asked, "Where is the lad? Today I struck him."
+
+"I too struck him today," she replied.
+
+"He has run away," the court scribe said. "You should go and look for him."
+
+She went searching for the boy, asking for word from the [ascetic](../../../../GLOSSARY.md#ascetic)s in the forest, among the [tīrthika](../../../../GLOSSARY.md#tīrthika) communities, and in other places; but wherever she asked, no one had heard any word of him. She went to [Śrāvastī](../../../../GLOSSARY.md#śrāvastī) and waited at the gate. In the morning, the [novice](../../../../GLOSSARY.md#novice) put on his [under robe](../../../../GLOSSARY.md#under-robe), picked up his begging [bowl](../../../../GLOSSARY.md#bowl) and robes, and was preparing to beg [alms](../../../../GLOSSARY.md#alms) in [Śrāvastī](../../../../GLOSSARY.md#śrāvastī) with the [ascetic follower](../../../../GLOSSARY.md#ascetic-follower) [novice](../../../../GLOSSARY.md#novice) in tow. When she saw her son, she beat her fists on his chest and cried, "Son! I went searching for you among the [ascetic](../../../../GLOSSARY.md#ascetic)s in the forest, among the [tīrthika](../../../../GLOSSARY.md#tīrthika) communities, and in other places but everywhere I looked, no one had heard any word of you. Why have you gone forth among these thieving sons of the Śākya? Come back!"
+
+Grabbing him with both hands, she dragged him home. When that proved to be an impediment to [monkhood](../../../../GLOSSARY.md#monkhood), the state of having gone forth and been ordained in the well-proclaimed [Dharma](../../../../GLOSSARY.md#dharma) and [Vinaya](../../../../GLOSSARY.md#vinaya), the monks appealed to the Blessed One.
+
+The Blessed One [thought](../../../../GLOSSARY.md#thought), "All those shortcomings ensue from monks allowing [going forth](#going-forth) without consulting the [saṅgha](../../../../GLOSSARY.md#saṅgha). That being the case, monks should not allow [going forth](#going-forth) without consulting the [saṅgha](../../../../GLOSSARY.md#saṅgha). If someone wishing to [go forth](../../../../GLOSSARY.md#go-forth) approaches any of you, have him ask the [saṅgha](../../../../GLOSSARY.md#saṅgha). If you allow [going forth](#going-forth) without consulting them, a breach occurs."
+
+### Ill Persons
+
+The Blessed [Buddha](../../../../GLOSSARY.md#buddha) was staying at the [Kalandakanivāpa](../../../../GLOSSARY.md#kalandakanivāpa) in the [Bamboo Park](../../../../GLOSSARY.md#bamboo-park) near [Rājagṛha](../../../../GLOSSARY.md#rājagṛha) when a [brahmin](../../../../GLOSSARY.md#brahmin) living in [Rājagṛha](../../../../GLOSSARY.md#rājagṛha) took a wife of equal caste and together they played with, took pleasure in, and amused one another. The wife with whom he had played, taken pleasure, and amused himself later gave birth to a son who was nurtured and grew until he was big.
+
+At a certain point, he fell ill, and when every doctor had given up hope, his mother said to him, "Son, the physician [Kumārabhṛta](../../../../GLOSSARY.md#kumārabhṛta-the-physician) is the unsurpassed king of doctors. To him you must go."
+
+He went before the physician and pleaded, "Physician, please cure me."
+
+"Sir," replied the physician, "your condition is hard to cure. Neither I nor anyone else can cure you, and I am physician to the Blessed [Buddha](../../../../GLOSSARY.md#buddha) and his community of [disciple](../../../../GLOSSARY.md#disciple)s as well as to the king, the queen, and their court."
+
+He went to his mother, who asked, "Son, did you go to the physician?"
+
+"Mother, I went to the physician, who told me my condition is hard to cure. He said neither he nor anyone else could cure me, and that he is physician to the Blessed [Buddha](../../../../GLOSSARY.md#buddha) and his community of [disciple](../../../../GLOSSARY.md#disciple)s as well as to the king, the queen, and their court."
+
+"In that case, son, [go forth](../../../../GLOSSARY.md#go-forth)."
+
+"Mother, as I am of the highest caste, how could I [go forth](../../../../GLOSSARY.md#go-forth) into the mixed caste order of the [ascetic](../../../../GLOSSARY.md#ascetic) sons of the Śākya?"
+
+"Son, has your brain turned to hay? Or are you just babbling?"
+
+He went to the [Bamboo Park](../../../../GLOSSARY.md#bamboo-park), where he approached a monk and said, "Noble one, I want to [go forth](../../../../GLOSSARY.md#go-forth)."
+
+As soon as the monk allowed his [going forth](#going-forth), he sat down, moaning. The monk asked him, "Why do you sit and moan?"
+
+"[Preceptor](../../../../GLOSSARY.md#preceptor), I am unwell."
+
+"Sir, why have you fallen ill upon [going forth](#going-forth)?" he asked.
+
+"[Preceptor](../../../../GLOSSARY.md#preceptor), I have not fallen ill upon [going forth](#going-forth). I was already unwell when I went forth."
+
+"Why did you not tell me?"
+
+"[Preceptor](../../../../GLOSSARY.md#preceptor)," he replied, "what would you have said to me?"
+
+The [preceptor](../../../../GLOSSARY.md#preceptor) was seated, unhappy, when his monk [apprentice](../../../../GLOSSARY.md#apprentice)s and monk journeymen happened by and asked, "[Preceptor](../../../../GLOSSARY.md#preceptor), why do you sit here thus, so unhappy?"
+
+"Boys, I have allowed the [going forth](#going-forth) of an ill son of noble family, so I will have to place him in the infirmary."
+
+"[Preceptor](../../../../GLOSSARY.md#preceptor)," they replied, "the Blessed One has said there are two types of saints, those who do not assume burdens they do not bear and those who carry through to the end those burdens they bear. You must carry through to the end this burden you bear."
+
+As they stood discussing the matter among themselves, the physician passed by and they inquired of him, "Physician [Kumārabhṛta](../../../../GLOSSARY.md#kumārabhṛta-the-physician)! What illness is this? Please have a look."
+
+"It is a grave illness," he replied. "Have the king provide all that is required and I shall try to cure him. But he will only recover quickly if you noble ones nurse him."
+
+The physician then treated the ill person and he was cured.
+
+The newly cured monk said, "[Preceptor](../../../../GLOSSARY.md#preceptor), I have achieved the aim I had in [going forth](#going-forth)."
+
+"Son, have you actualized arhatship?" he asked.
+
+"No, [preceptor](../../../../GLOSSARY.md#preceptor), I have not."
+
+"Well then, have you actualized a non-returner's fruition? A once-returner's fruition? A stream enterer's fruition?"
+
+"No, [preceptor](../../../../GLOSSARY.md#preceptor), I have not. But I was unwell. Then I went forth and now am cured."
+
+He asked, "Son, where will you go?"
+
+"I will return home, [preceptor](../../../../GLOSSARY.md#preceptor)."
+
+"Sir," the [preceptor](../../../../GLOSSARY.md#preceptor) said, "having gone forth in the well-proclaimed [Dharma](../../../../GLOSSARY.md#dharma) and [Vinaya](../../../../GLOSSARY.md#vinaya), you have not attained any of the four fruitions of spiritual practice for which it was taught. Do you want to squander the offerings of the faithful and invite misfortune?"
+
+Dismissing his [preceptor](../../../../GLOSSARY.md#preceptor)'s words, the monk departed. Knowing what had been done for him, he gave the physician sprigs, flowers, fruits, and sticks of neem.
+
+"Sir, what would you like from me?" asked the physician.
+
+He replied, "I want nothing in return. I have sought you out in order to give you these offerings."
+
+"Sir, what did I do for you?" he asked.
+
+"You cured me when I was unwell."
+
+"I don't recall that," replied the physician.
+
+"I will refresh your memory," he said, and reminded him. At this point the physician said, "Sir, having gone forth in the well-proclaimed [Dharma](../../../../GLOSSARY.md#dharma) and [Vinaya](../../../../GLOSSARY.md#vinaya), you have not attained any of the four fruitions of spiritual practice for which it was taught. Do you want to squander the offerings of the faithful and invite misfortune?"
+
+Then the physician [thought](../../../../GLOSSARY.md#thought) to himself, "This is my responsibility and my responsibility alone, so I must go see the Blessed One."
+
+The physician [Kumārabhṛta](../../../../GLOSSARY.md#kumārabhṛta-the-physician) went to see the Blessed One and on arriving, bowed his head at the Blessed One's feet before taking a seat off to one side. As he sat off to one side, the physician requested the Blessed One, "Reverend, the noble monks' allowing the [going forth](#going-forth) of ill sons of noble families and their ordination will, at some point, cause even the king's treasury and stores to dwindle, diminish, and come to an end. It will cause even my body to flag, and the virtuous endeavors of noble beings to wane. O Blessed One! It would be good if you, in your compassion, would give some consideration to prohibiting the noble ones from allowing the [going forth](#going-forth) of ill sons of noble families and ordaining them."
+
+By keeping silent, the Blessed One assented to the physician's request. Understanding the Blessed One's silence to be assent, the physician bowed his head at the Blessed One's feet and took his leave.
+
+The Blessed One [thought](../../../../GLOSSARY.md#thought), "All those shortcomings ensue from monks allowing the [going forth](#going-forth) of [ill persons](#ill-persons)." Then he decreed, "That being the case, monks should not allow the [going forth](#going-forth) of [ill persons](#ill-persons). If someone wishing to [go forth](../../../../GLOSSARY.md#go-forth) approaches any of you, ask him, 'You are not an ill person, are you?' If you allow [going forth](#going-forth) without asking this, a breach occurs."
+
+### Śākyas
+
+While the Blessed [Buddha](../../../../GLOSSARY.md#buddha) was staying at the [Banyan Park](../../../../GLOSSARY.md#banyan-park) near [Kapilavastu](../../../../GLOSSARY.md#kapilavastu), he allowed the [going forth](#going-forth) of members from each Śākya family in [Kapilavastu](../../../../GLOSSARY.md#kapilavastu). Their relatives came to see the newly ordained, who taught the [Dharma](../../../../GLOSSARY.md#dharma) to their assembled family members, and they in turn, upon hearing the [Dharma](../../../../GLOSSARY.md#dharma), sought to [go forth](../../../../GLOSSARY.md#go-forth) on the spot. Among those who, upon hearing the [Dharma](../../../../GLOSSARY.md#dharma), were allowed to [go forth](../../../../GLOSSARY.md#go-forth) on the spot were the fathers of some Śākya women, their brothers-in-law, their husbands, brothers, and sons. Overwhelmed by grief, the Śākya women cried out in misery in the twilight.
+
+In the twilight, King [Śuddhodana](../../../../GLOSSARY.md#śuddhodana) heard the sound of a great many Śākya women crying out in misery. Hearing their cries, he asked the Śākyas, "Gentlemen, why do so many Śākya women cry out in misery in the twilight?"
+
+"[Your Majesty](../../../../GLOSSARY.md#your-majesty)," they replied, "the [going forth](#going-forth) of certain noble ones and sons of noble families has been allowed, and they have been ordained without the [consent](../../../../GLOSSARY.md#consent) of their parents. The [going forth](#going-forth) of the fathers, brothers-in-law, husbands, brothers, and sons of some Śākya women has also been allowed. Thus, overwhelmed by grief, the Śākya women cry out in misery in the twilight."
+
+"This is my responsibility and my responsibility alone," [thought](../../../../GLOSSARY.md#thought) King [Śuddhodana](../../../../GLOSSARY.md#śuddhodana), "so I must go to see the Blessed One." King [Śuddhodana](../../../../GLOSSARY.md#śuddhodana) went to see the Blessed One and on arriving, bowed his head at the Blessed One's feet before taking a seat off to one side. The king then said to the Blessed One, "Blessed One, I have a worthy [suit](../../../../GLOSSARY.md#suit). [Tathāgata](../../../../GLOSSARY.md#tathāgata), I have a worthy [suit](../../../../GLOSSARY.md#suit)."
+
+"Great king, if you insist on passing up the boons of the [tathāgata](../../../../GLOSSARY.md#tathāgata)s, [arhat](../../../../GLOSSARY.md#arhat)s, and perfectly complete [buddha](../../../../GLOSSARY.md#buddha)s, tell me, what favor could I grant you?"
+
+"One that noble beings would find easy."
+
+"If I find it easy, I shall grant it."
+
+"Reverend, when the Blessed One was born, the Blessed One was destined to become king of the world. I even [thought](../../../../GLOSSARY.md#thought) I would soar through the sky and see the four continents, my delight and pleasure being not inconsiderable.
+
+"Reverend, when the Blessed One became a [renunciant](../../../../GLOSSARY.md#renunciant), what hopes I had for you to become king of the world were dashed. So instead, I went on to think that the prince [Sundarananda](../../../../GLOSSARY.md#sundarananda) would conquer and become king of the world. When those hopes were shown to be just that, and the prince [Sundarananda](../../../../GLOSSARY.md#sundarananda) became a [renunciant](../../../../GLOSSARY.md#renunciant), the hopes I had for conquering and for [becoming](../../../../GLOSSARY.md#becoming) king of the world were dashed too. So instead, I then went on to think that the prince [Rāhulabhadra](../../../../GLOSSARY.md#rāhulabhadra) would become a king of real command. When those hopes were shown to be just that, and the prince [Rāhulabhadra](../../../../GLOSSARY.md#rāhulabhadra) became a [renunciant](../../../../GLOSSARY.md#renunciant), what hopes I had for [becoming](../../../../GLOSSARY.md#becoming) a king of real command were completely and utterly dashed too.
+
+"Reverend, if only it were otherwise and your parents could have found satisfaction in you! Reverend, these noble monks are allowing the [going forth](#going-forth) of sons of noble families and ordaining them without their parents' [consent](../../../../GLOSSARY.md#consent). O Blessed One! It would be good if, in your compassion, you were to give some consideration to prohibiting the noble ones from allowing the [going forth](#going-forth) of sons of noble families and their ordination without their parents' [consent](../../../../GLOSSARY.md#consent)."
+
+By keeping silent, the Blessed One assented to King [Śuddhodana](../../../../GLOSSARY.md#śuddhodana). Understanding the Blessed One's silence to be assent, King [Śuddhodana](../../../../GLOSSARY.md#śuddhodana) bowed his head at the Blessed One's feet and took his leave.
+
+The Blessed One [thought](../../../../GLOSSARY.md#thought), "All those shortcomings ensue from monks allowing the [going forth](#going-forth) of sons of noble families and their ordination without their parents' [consent](../../../../GLOSSARY.md#consent)." He then decreed, "In light of this, monks should not allow the [going forth](#going-forth) of sons of noble families or [ordain](../../../../GLOSSARY.md#ordain) them without their parents' [consent](../../../../GLOSSARY.md#consent). If someone approaches any of you wishing to [go forth](../../../../GLOSSARY.md#go-forth), ask him, 'Have your parents given their [consent](../../../../GLOSSARY.md#consent)?' If you allow [going forth](#going-forth) without asking this, a breach occurs."
+
+After the Blessed One had decreed, "A monk should not allow the [going forth](#going-forth) of sons of noble families or [ordain](../../../../GLOSSARY.md#ordain) them without their parents' [consent](../../../../GLOSSARY.md#consent)," the monks did not allow others to [go forth](../../../../GLOSSARY.md#go-forth) who came, without their parents' [consent](../../../../GLOSSARY.md#consent), from faraway lands where their parents could not be consulted. Thus, their [going forth](#going-forth) not allowed, the hopefuls turned back.
+
+When that proved to be an impediment to [monkhood](../../../../GLOSSARY.md#monkhood), the state of having gone forth and been ordained in the well-proclaimed [Dharma](../../../../GLOSSARY.md#dharma) and [Vinaya](../../../../GLOSSARY.md#vinaya), the monks asked the Blessed One about it, and he decreed, "Those who come without their parents' [consent](../../../../GLOSSARY.md#consent) from faraway lands where their parents cannot be consulted should be allowed to [go forth](../../../../GLOSSARY.md#go-forth). This you need not regret."
+
 ## Scaring Away a Crow
 ## Killing an Arhat
 ## Persons whose hands have been cut off
@@ -2742,4 +3018,10 @@ Then he decreed, "That being the case, monks should not allow persons under fift
 
 [^93]: "Three stains" (trīṇi kleśāḥ, Tib. dri ma gsum) refers to the three root [defilements](../../../../GLOSSARY.md#defilements) of desire (rāga), aversion (dveṣa), and confusion (moha), which constitute the fundamental sources of suffering in [saṃsāra](../../../../GLOSSARY.md#saṃsāra).
 
-[^94]: Dreadlocked fire-worshippers, or Jaṭilas, were early converts of the [Buddha](../../../../GLOSSARY.md#buddha). Many were said to have converted en masse after the [Buddha](../../../../GLOSSARY.md#buddha) delivered the "Fire Sermon" (Pali Ādittapariyāya Sutta) to [Kāśyapa](../../../../GLOSSARY.md#kāśyapa) and his followers at [Uruvilvā](../../../../GLOSSARY.md#uruvilvā). See the Saṅghabhedavastu (Tib. dge 'dun dbyen gyi gzhi) for the Mūlasarvāstivādin account of their conversion.
+[^94]: [Dreadlocked fire-worshipper](../../../../GLOSSARY.md#dreadlocked-fire-worshipper)s, or Jaṭilas, were early converts of the [Buddha](../../../../GLOSSARY.md#buddha). Many were said to have converted en masse after the [Buddha](../../../../GLOSSARY.md#buddha) delivered the "Fire Sermon" (Pali Ādittapariyāya Sutta) to [Kāśyapa](../../../../GLOSSARY.md#kāśyapa) and his followers at [Uruvilvā](../../../../GLOSSARY.md#uruvilvā). See the Saṅghabhedavastu (Tib. dge 'dun dbyen gyi gzhi) for the Mūlasarvāstivādin account of their conversion.
+
+[^95]: Meaning such a person feels "no attachment to me or mine" (Kalyāṇamitra folio 283.a.1).
+
+[^96]: Following N: tsan dan bzhag pa lta bu (as if sandalwood had been applied) instead of D: tsan dan dang ste'ur mnyam pa lta bu (for whom sandalwood is equal to an axe / medical needle) (Pedurma, 747). This reading is supported by Kalyāṇamitra's commentary (Kalyāṇamitra folio 283.a.2) and a similar passage later in the text that reads: tsan dan zhag lon par bzhag pa lta bur (Degé, folio 77.b.7). The commentary explains the analogy: "Just as sandalwood cools when rubbed on and left overnight, his disturbing [emotions](../../../../GLOSSARY.md#emotions) have cooled, and hence it is as if sandalwood had been applied" (Kalyāṇamitra, folio 283.a.2).
+
+[^97]: Kalyāṇamitra's commentary contains no mention of the monk's response to this question. Instead it moves directly on to the second question about razors. The monk's response may be a later interpolation, which would explain why the father's appearance is announced twice in the Degé edition of the source text.
