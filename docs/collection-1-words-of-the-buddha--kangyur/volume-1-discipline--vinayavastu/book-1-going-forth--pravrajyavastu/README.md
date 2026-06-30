@@ -1167,6 +1167,1267 @@ Some time later, the [brahmin](../../../../GLOSSARY.md#brahmin) [Māṭhara](../
 
 [Koṣṭhila](../../../../GLOSSARY.md#koṣṭhila), who had taken the name [Dīrghanakha](../../../../GLOSSARY.md#dīrghanakha) when he became a [wandering mendicant](../../../../GLOSSARY.md#wandering-mendicant),[^39] went to see the Blessed One. When he arrived, he and the Blessed One were clearly overjoyed to see one another and exchanged warm words of goodwill before [Dīrghanakha](../../../../GLOSSARY.md#dīrghanakha) sat off to one side. As he sat there off to one side, [Dīrghanakha](../../../../GLOSSARY.md#dīrghanakha) said to the Blessed One, “O Gautama, for me, no [view](../../../../GLOSSARY.md#view) is acceptable.”[^40]
 
+"Scion of Agniveya's line, then even that view in which no view is acceptable to you would be unacceptable to you."
+
+"Agreed, O Gautama," replied Dīrghanakha, "even that view which views all forms of self as unable to endure does not itself endure."
+
+"Scion of Agniveya's line, well then, if you understand and see it like that, then that view too will be abandoned, discarded, and cease to be. Other views too will not be entertained, embraced, or arise."
+
+"O Gautama, if I understood and saw it like that, then that view too will be abandoned, discarded, and cease to be."
+
+The Blessed One replied at length, "scion of Agniveya's line, you are like and akin to most people, for most people also view things thus and say such things, and in that you are just like them. Scion of Agniveya's line, in this world those ascetics and brahmins who discard this view, and those ascetics and brahmins who do not embrace other views, are said to be the fewest of the few.
+
+"Scion of Agniveya's line, there are three positions regarding the view. What are those three positions? Scion of Agniveya's line, regarding this point, some maintain that all views are acceptable to them. Others maintain that no view is acceptable to them, while still others maintain that some views are acceptable to them and others are not.[^new]--These three positions correspond to the classical positions of (1) absolute affirmation, (2) absolute negation, and (3) partial acceptance discussed in the Pali Dīghanakhasutta (MN 74) and elsewhere in the Nikāyas.--
+
+"Scion of Agniveya's line, in those for whom all views are acceptable, attachment will arise and attachment will not disappear; aversion will arise and aversion will not disappear; confusion will arise and confusion will not disappear; accumulation will occur and accumulation will not disappear; fetters will occur and fetters will not disappear; and defilement will arise and purification will not occur. In those for whom all views are acceptable, eager anticipation, pursuit, and excessive attachment will arise.
+
+"Scion of Agniveya's line, in those for whom no view is acceptable, attachment will disappear and attachment will not arise; aversion will disappear and aversion will not arise; confusion will disappear and confusion will not arise; accumulation will disappear and accumulation will not occur; one will be free of fetters and fetters will not occur; and purification will occur and defilement will disappear. In those for whom no view is acceptable, there will be no eager anticipation, no pursuit, and excessive attachment will disappear.
+
+"Scion of Agniveya's line, in those for whom no view is acceptable, attachment will arise and attachment will not disappear; aversion will arise and aversion will not disappear; confusion will arise and confusion will not disappear; accumulation will occur and accumulation will not disappear; fetters will occur and fetters will not disappear; and defilement will arise and purification will not occur. With this view that holds that some selves endure, eager anticipation, pursuit, and excessive attachment will arise. At the same time, in holding that some selves do not endure, attachment will disappear and attachment will not arise; aversion will disappear and aversion will not arise; confusion will disappear and confusion will not arise; accumulation will disappear and accumulation will not occur; one will be free of fetters and fetters will not occur; and purification will occur and defilement will disappear. In those for whom some views are acceptable, there will be no eager anticipation, no pursuit, and excessive attachment will disappear.
+
+"Learned noble disciples scrutinize in this way: if one maintains that all views are acceptable to them, he will be in conflict and fight with one who maintains that no view is acceptable to them and one who maintains that some views are acceptable to them while others are not. If they are in conflict, they will fight, and if they fight there will be harm. Having correctly seen this, one in conflict, fight, and harm will, having discarded even this view, will not take up another.
+
+"Learned noble disciples scrutinize in this way: if one maintains that no view is acceptable to them, he will be in conflict and fight with one who maintains that all views are acceptable to them and one who maintains that some views are acceptable to them while others are not. If they are in conflict, they will fight, and if they fight there will be harm. Having correctly seen this, one in conflict, fight, and harm will, having discarded even this view, will not take up another.
+
+"Learned noble disciples scrutinize the second position in this way: if one holds the view and argues that no self endures, then the view and argument that all selves endure and the view and argument that some selves endure while other selves do not endure would counter and undermine the self; if it counters, it would undermine, and if it undermines, it would debunk the self.
+
+"And thus, they will think, 'I will abandon, discard, and get rid of this view. I shall not entertain, embrace, or give rise to another.'
+
+"Learned noble disciples scrutinize in this way: if one maintains that some views are acceptable to them while others are not, he will be in conflict and fight with one who maintains that no view is acceptable to them and one who maintains that all views are acceptable to them.[^new]--Kalyāṇamitra notes that this passage highlights how all three positions lead to conflict, the very opposite of the liberating insight the Buddha advocates.-- If they are in conflict, they will fight, and if they fight there will be harm. Having correctly seen this, one in conflict, fight, and harm will, having discarded even this view, will not take up another.
+
+"And thus, they will think, 'I will abandon, discard, and get rid of this view. I shall not entertain, embrace, or give rise to another.'
+
+"Scion of Agniveya's line, as this body is composed of gross form and arises from the four great elements, noble disciples observe and dwell on its repeated arising and destruction. If noble disciples observe and dwell on its repeated arising and destruction, whatever aspirations, attachment, craving, obsessions, preoccupations, or excessive attachment may arise towards the body will be confronted and will not remain.
+
+"Scion of Agniveya's line, there are three feelings. What are these three? Pleasure, pain, and that which is neither pleasant nor painful. Scion of Agniveya's line, when noble disciples experience feelings of pleasure, then feelings of pain and feelings which are neither pleasant nor painful come to a halt. At that time noble disciples experience only feelings of pleasure yet feelings of pleasure too are subject to impermanence, suffering, and cessation.
+
+"When noble disciples experience feelings of pain, then feelings of pleasure and feelings which are neither pleasant nor painful come to a halt. At that time, noble disciples experience only feelings of pain yet feelings of pain too are subject to impermanence, suffering, and cessation.
+
+"When noble disciples experience feelings which are neither pleasant nor painful, then feelings of pleasure and pain come to a halt. At that time, noble disciples experience only feelings that are neither pleasant nor painful yet feelings that are neither pleasant nor painful too are subject to impermanence, suffering, and cessation.
+
+"Thus they think, 'What is the basis for these feelings? What are their origins? What types of things are compatible with them? What has produced their arising?' On reflection, the basis for these feelings is contact, their origins lie in contact, they are compatible with contact, what has produced them is contact. Thus contact of different types occurs, prompting feelings of different types to arise. Contact of different types cease, prompting feelings of different types to cease, to calm, to cool off, to fade away. Thus when they experience feelings that are pleasant, painful or neither pleasant nor painful, they thoroughly and precisely understand their origins, their fading, their flavor, their shortcomings, and their perfect renunciation.
+
+"When they thoroughly and precisely understand their origins, their fading, their flavor, their shortcomings, and their perfect renunciation, they view and rest in the impermanence of any feeling that arises, they view its dwindling, they view its disintegration, they view it free of desirous attachment, they view its cessation, and view and rest in its utter abandonment.
+
+"When they view and rest in the impermanence of any feeling that arises while viewing its dwindling, viewing its disintegration, viewing it free of desirous attachment, viewing its cessation, and viewing and resting in its utter abandonment, they are not taken in, even in the slightest, by the world. If they are not taken in, there will be no torment. If there is no torment, they will understand that their births have come to an end, that they have lived the holy life, that they have done what needed doing, and that they will know no lives after this one. Thus they themselves will altogether transcend misery. When they experience the body's most basic feelings,[^new]--Tib. lus kyi tshor ba chen po. The "body's most basic feelings" (Skt. mahābhautika vedanā) refers to sensations arising from the gross physical elements, as distinguished from those of the life-force.-- they thoroughly and precisely understand them with the thought, 'I am experiencing the body's most basic feelings.' When they experience the life-force's most basic feeling,[^new]--Tib. srog gi tshor ba. The "life-force's most basic feeling" (Skt. jīvitindriya vedanā) refers to the final basic sensation of the life-force, which ceases at death.-- they thoroughly and precisely understand it with the thought, 'I am experiencing the life-force's most basic feeling.'
+
+"Since the life-force comes to an end after the body has perished, all of that life's feelings, every last one of them, come to a halt, every last one of them fades away, every last one of them dwindles away, and every last one of them comes to an end. Thus they think, 'When I experience feelings of pleasure, if the body should perish, that will be the end of suffering. When I experience feelings of pain and feelings that are neither pleasant nor painful, if the body should perish, that will be the end of suffering.'
+
+"Thus when they experience the feeling of pleasure, it is unaccompanied, it is not accompanied by experiences.[^new]--Tib. ma grogs pa. "Unaccompanied" means the feeling arises without accompanying defilements such as desire, aversion, or confusion, having been freed from them by insight.-- When they experience the feeling of pain or a feeling that is neither pleasant nor painful, it is unaccompanied, it is not accompanied by experiences.
+
+"What does not accompany their death? It is not accompanied by desire, aversion, or confusion. It is not accompanied by birth, aging, illness, death, mourning, cries of misery, pain, unease, or disturbance. It is not, I argue, accompanied by suffering."
+
+During this talk, the venerable Śāriputra, who had been ordained two weeks earlier, sat, fanning the Blessed One. Śāriputra then had this thought: "The Blessed One has praised the abandonment of such phenomena along with the freedom from, the cessation of, and the utter abandonment of desire. I, too, should observe and abide by the abandonment of such phenomena, and should observe freedom from desire. I, too, should observe and abide by the abandonment of such phenomena, and its cessation. I, too, should observe and abide by its utter abandonment."
+
+Śāriputra then observed and abided by the abandonment of such phenomena. He proceeded to observe freedom from desire, observe its cessation, and observe and abide by its utter abandonment. As he observed and abided by the abandonment of such phenomena and proceeded to observe freedom from desire, observe its cessation, and observe and abide by its utter abandonment, his mind, in the absence of grasping, was freed from defilements.
+
+The wandering mendicant Dīrghanakha, too, came to see phenomena through the unclouded and pristine eyes of Dharma. Dīrghanakha saw the Dharma, heard the Dharma, knew the Dharma, plumbed the depths of the Dharma, overcame his skepticism, transcended doubt, could not be swayed by others, and could not be led astray by others.
+
+With his new-found fearless confidence in the Dharma taught by the Teacher, he stood up from his seat, pulled his shawl from one shoulder, bowed to the Blessed One with his palms pressed together, and made the following request to the Blessed One: "If it is permitted, reverend, I would receive the going forth, ordination, and monkhood in the well-proclaimed Dharma and Vinaya. I would live the holy life in the Blessed One's presence."
+
+The Blessed One allowed goings forth by saying the phrase, "Come, monk," and so as soon as he said, "Come, monks, live the holy life," his hair fell out and he was clad in robes. With but a week's growth of hair and beard, begging bowls and water jars in hand, having completed his approach to monkhood, he stood with the deportment of a monk who had been ordained for one hundred years.
+
+Again it is stated:
+
+> "Hair tonsured and body clad in robes  
+> By the Tathāgata's call to come forth,  
+> That moment, his senses were perfectly stilled  
+> And body swathed in the Buddha's mind."  
+
+With this going forth, Dīrghanakha went to live alone in solitude, diligent and persevering, devoted to his resolve. While living alone in solitude, diligent and persevering, devoted to his resolve, he perceived that he had, in that very life, actualized the unsurpassed aim of the holy life for which the sons of noble families, with perfect faith, cut their hair, shave their beards, don the saffron robes, and go forth from home into homelessness. With his achievement, he understood, "My births have come to an end, I have lived the holy life, I have done what needed doing, I will know no lives after this one." Thus the venerable one achieved the all-knowing state[^new]--Tib. thams cad mkhyen pa. "All-knowing state" renders the Tibetan compound referring to arhatship, the complete exhaustion of all defilements.-- of an arhat whose mind had been utterly freed.
+
+An intervening summary:
+
+> "All selves do not endure";  
+> "You who view things thus,  
+> You are just like them";  
+> Worldly persons, ascetics, and brahmins,  
+> And their three positions on the view;  
+> Learned noble disciples;  
+> Body, feelings, and the cessation of the basis for feelings;  
+> Understanding their origin and the like;  
+> Transcending misery, the most basic of body and life-force;  
+> Life ends unaccompanied,  
+> With the perishing of the body,  
+> And the end of suffering;  
+> And, lastly, Śāriputra.  
+
+The Blessed One said to the monks, "Monks, among my monk disciples who have gained the knowledge of perfect discernment, the monk Koṣṭhila is supreme."[^new]--Parallel to the Pali Canon's Aṅguttara Nikāya (AN 1.188), where the Buddha declares Sāriputta foremost among those with great wisdom (mahāpaññā).--
+
+In doubt, the monks went to him who severs all doubts, the Blessed Buddha, and asked, "Reverend, what is it that the venerable Śāriputra has done, that the ripened fruit of that action has made his intellect sharper, finer, and more incisive?"
+
+"Monks," replied the Blessed One, "Śāriputra himself discovered the store of action, mastered conditions, tended to them as one does an irrigation channel, and emerged without indecision. As he himself acted and accumulated thus, no one else experiences the results of actions and accumulations as Śāriputra has done. Monks, actions committed and accumulated do not ripen in the external element of earth. Neither do they ripen in the element of water, nor the element of fire, nor the element of wind. Actions committed and accumulated, whether virtuous or non-virtuous, ripen only into the appropriated aggregates, constituent elements, and seats of the senses.
+
+> "Actions never waste away,  
+> Not even after one hundred eons.  
+> When the time and the conditions  
+> Are right, they alight upon embodied beings.  
+
+"Monks, long ago a brahmin who lived in a remote mountain range took a wife of equal caste and together they played with, took pleasure in, and amused one another. From their play, pleasure, and amusement, there came a boy whom they named Śūrpa. Again, they played with, took pleasure in, and amused one another, producing a girl, whom they named Sūkṣmā. After a while, their brahmin father's time came, as did his wife's. The young brahmin Śūrpa, because he loved solitude, took his sister to live in a remote forest.
+
+"At a certain point, his sister Sūkṣmā grew into a woman and at the time, beset by disturbing emotions, said, 'Brother, I cannot be sustained by the medicinal plants in this forest. Let us go to the outskirts of town.'
+
+"So Śūrpa took his sister to the outskirts of town, and as they approached a house to beg alms, a brahmin sitting in his home heard the voice of a man speaking to a woman. On hearing this, the brahmin came out and asked, 'What is a sage doing traveling with a wife?'
+
+" 'This is not my wife. This is my younger sister. Would you give us a little something to eat?'
+
+" 'I will not. And if I refuse, would you give me your sister?'
+
+" 'That would be a sin and I reject such ignoble principles.'
+
+"Sūkṣmā said, 'Brother, the medicinal plants in this forest do not sustain me, so it was I who suggested we go to the edge of town. Why did I suggest it? Incapacitated as I am by emotions, I trusted you would know what to do.'
+
+" 'I will give a large dowry and take her as my bride,' said the brahmin.
+
+" 'Brother, let us leave,' said Sūkṣmā, and together they stepped away.
+
+"Śūrpa said, 'It is because I do not pursue desires that I have gone to remote places.'
+
+" 'Then, brother, should you attain even the slightest store of qualities, you must come share them with me.'
+
+"Śūrpa went off into the wilds and, without a preceptor or instructor, gave rise to the thirty-seven qualities conducive to awakening[^new]--The thirty-seven qualities conducive to awakening (Skt. bodhipakṣadharma, Tib. byang phyogs sum cu rtsa bdun) comprise four bases of mindfulness, four right efforts, four legs of miraculous ability, five faculties, five powers, seven branches of awakening, and the noble eightfold path.-- and actualized his own awakening.[^new]--Here "actualized his own awakening" means he became a pratyekabuddha—one who attains awakening independently, without relying on a teacher, and does not teach the Dharma widely.-- He then thought, 'I promised to share any such attainment with my sister, so I must do so.'
+
+"Great persons teach the Dharma through their actions and not their words. So, out of the great love and compassion Śūrpa felt, like a swan spreading its wings, he flew up into the sky above and began to miraculously invoke flashes and bursts of light, clouds and lightning. Now, because ordinary beings are swift to pay heed to miracles, Sūkṣmā dropped like a felled tree at the pratyekabuddha's feet and said, 'Noble one! Have you found such a store of qualities?'
+
+" 'I have.'
+
+" 'Noble one, accept these alms. I seek merit, so please stay here and let me provide you all the provisions you need.'
+
+" 'Sister, first ask your husband.'
+
+"She went to the brahmin, her husband, and said, 'Son of a lord, my brother has gone forth, accomplished his vow, and become a great being. Please allow him to stay and I will offer him all the provisions he needs.'
+
+"Her husband replied, 'If I give to laymen without being asked, why would I not give to a renunciant who has lived up to his vows and become a saint? Go, do as you please and offer him all the provisions he needs.'
+
+"After three months, during which she offered the pratyekabuddha all the provisions he needed, she offered him a piece of cotton cloth large enough to be worn as a robe, a needle, a razor, and thread. He accepted the cotton cloth, needle, razor, and thread, and began to cut the cloth in front of her. As he sharpened the razor's blade, Sūkṣmā prostrated at his feet and said this prayer: 'Just as this razor's blade becomes sharper and sharper, may these roots of virtue sharpen my intellect.'
+
+"The pratyekabuddha began to poke holes with the needle and as the needle made finer and finer holes, Sūkṣmā prostrated at his feet and said this prayer: 'Just as this needle pokes finer and finer holes, may these roots of virtue refine my intellect.'
+
+"The pratyekabuddha began to sew with the thread and as the thread passed through the cloth unhindered, Sūkṣmā prostrated at his feet and said this prayer: 'Just as this thread passes unhindered through cloth, may these roots of virtue help me develop an incisive intellect.'
+
+"Monks, at that time the monk Śāriputra was the brahmin's daughter Sūkṣmā. That action of making offerings and prayers to the pratyekabuddha ripened so that now his intellect is sharp, fine, and incisive.
+
+"Monks, the ripened fruits of wholly negative actions are wholly negative, and the ripened fruits of mixed actions are mixed, but the ripened fruits of wholly positive actions are wholly positive.
+
+"Monks, therefore abandon wholly negative and mixed actions and seek wholly positive actions. Monks, this is how you should train."
+
+Still in doubt, the monks questioned him who severs all doubts, the Blessed Buddha, "Reverend, what has the venerable Śāriputra done that the ripened fruit of his action has led to his birth into a family that is neither extremely rich nor extremely poor, but into a family of moderate means with many renunciants?"
+
+The Blessed One replied, "Monks, Śāriputra himself discovered the store of action, mastered conditions, tended to them as one does an irrigation channel, and emerged without indecision. He himself acted and accumulated this store, and so no one else experiences Śāriputra's actions and accumulations for themselves. Monks, actions and accumulations do not ripen upon the external elements. They do not ripen upon the element of water, upon the element of fire, nor upon the element of wind. Virtuous and nonvirtuous actions performed and accumulated come to ripen upon the aggregates, elements, and seats of the senses of the one who performed them:
+
+> "Actions never waste away,  
+> Not even after one hundred eons.  
+> When the time and the conditions  
+> Are right, they alight upon embodied beings.  
+
+"Monks, long ago a king who lived in a remote mountain range took a wife of equal caste and together they played with, took pleasure in, and amused one another. From their play, pleasure, and amusement, there came a boy, whom they nurtured and raised until he grew into a man. Seeing that his father ruled in ways compatible with the principles of justice, the boy thought, 'When my father passes, I will become king. If I exercise my royal authority in ways compatible with the principles of justice, in a later life I will go to hell.'
+
+"He went to the king and said, 'Father, grant me leave. I wish to go forth in the well-proclaimed Dharma and Vinaya.'
+
+"The king replied, 'Son, the royal authority, for which you have made offerings to the gods, performed fire pūjā, and suffered through austerities, is within reach. Having been born into a caste borne about by elephants, why would you renounce it?'
+
+"And with that his father refused to let him go forth.
+
+"Some time later, the boy set out, riding astride the neck of an elephant, when he saw a poor man on his begging rounds holding a staff and a broken beggar's bowl. The prince went to him and said, 'Householder, because I was born into a wealthy family, I could not get consent to go forth. You are poor, so why have you not joined such an order?'
+
+" 'Prince,' he replied, 'how could I go forth if I don't have a begging bowl or robes?'
+
+" 'Good man, come,' said the prince. 'I will give you a begging bowl and robes.'
+
+"The prince then took him to the sanctuary of a sage endowed with the five types of heightened awareness.[^new]--The five types of heightened awareness (Skt. pañcābhijñā, Tib. mngon par shes pa lnga) are: miraculous abilities, divine ear, knowledge of others' minds, recollection of previous lives, and divine eye for the death and rebirth of beings.-- The prince got down from his perch atop the elephant's neck and said calmly, 'Sir, this noble son wishes to go forth. Allow him to do so, and I shall provide his begging bowl and robes.'
+
+"So the sage allowed the beggar to go forth. The prince then washed a begging bowl and had robes cut, sewn, and dyed. He handed them over to the former beggar and said, 'Noble one, should you attain even the slightest store of qualities, you must tell me.'
+
+"He promised the prince he would do so and went off into the wilds. Without a preceptor or instructor, he gave rise to the thirty-seven qualities conducive to awakening and actualized his own awakening.[^new]--As with n.49, the pratyekabuddha attains full awakening independently, without a teacher in this life, having accumulated merit and wisdom over countless past lives.-- He then thought, 'This small store of qualities I have attained, I have attained with the help of the prince. I promised to share any such attainment with him, so I must do so.'
+
+"Great persons teach the Dharma through their actions and not their words. So out of the great love and compassion he felt, like a swan spreading its wings, he flew up into the sky above and miraculously invoked flashes and bursts of light, clouds and lightning. Now, because ordinary beings are swift to pay heed to miracles, the prince dropped like a felled tree at the pratyekabuddha's feet and said, 'Noble one! Have you found such a store of qualities?'
+
+" 'I have.'
+
+"The prince thought, 'If the small store of qualities this noble being has attained, he has attained with my help, then this noble being's failure to get consent to go forth was due to his birth into a lowly family like his. My own failure to get consent to go forth was due to my birth into a high family such as mine.'
+
+"With that thought, he prostrated at the pratyekabuddha's feet and made this prayer:
+
+> " 'By these roots of virtue,  
+> May I be born, not in a wealthy house  
+> Nor in one that is poor;  
+> Let it be rather in a house of moderate means  
+> And always among many renunciants.'  
+
+"Monks, the monk Śāriputra was at that time the prince. That action of making offerings and prayers to the pratyekabuddha ripened so that now he was not born into too rich a family, nor into too poor a family, but rather into a family of moderate means in which there were many renunciants.
+
+"Monks, thus the ripened fruits of wholly negative actions are wholly negative while the ripened fruits of wholly positive actions are wholly positive and the ripened fruits of mixed actions are mixed.
+
+"Monks, therefore abandon wholly negative and mixed actions and seek wholly positive actions. Monks, this is how you should train."
+
+Still in doubt, the monks questioned him who severs all doubts, the Blessed Buddha, "Reverend, what has the venerable Śāriputra done that the ripened fruit of his action has led him to be singled out by the Blessed One as the foremost of those with great wisdom and the foremost of those with great confident eloquence?"
+
+The Blessed One replied, "It is the prayers he made. What did he pray for? Monks, long ago during this fortunate eon, when the lifespan of beings was twenty thousand years, the blessed Buddha Kāśyapa appeared in the world, a teacher, a tathāgata, an arhat, a perfectly awakened buddha, a knowledgeable and venerable one, a sugata, one who knew the world, an unsurpassed guide who tamed beings, a teacher to gods and men, who lived and dwelt in the Ṛṣipatana Deer Park near Vārāṇasī.
+
+"A monk, he who would later become Śāriputra, went forth into Kāśyapa's teachings and was singled out by the tathāgata, the arhat, the perfectly awakened Buddha Kāśyapa as the foremost of those with great wisdom and the foremost of those with great confident eloquence.
+
+"He lived the holy life for the rest of his days, but he did not attain any store of qualities. Later, as he was dying, he made this prayer: 'Although I have spent my entire life living the holy life under Kāśyapa, an arhat, a blessed tathāgata, a perfectly awakened buddha and unsurpassed object of veneration, I have not attained any store of qualities. May the roots of virtue, accumulated through living the holy life for my entire lifetime, ensure that I may go forth into the teachings of Buddha Śākyamuni, about whom the arhat[^new]--"Arhat" here refers to the Buddha Kāśyapa, the buddha of the preceding world-age, from whom Śākyamuni received a prediction (vyākaraṇa) of future Buddhahood.-- and blessed tathāgata and perfectly awakened Buddha Kāśyapa has prophesied to the young brahmin Uttara, saying, "Young brahmin, in the future, when the lifespan of beings is one hundred years, you will become the tathāgata, the arhat, the perfectly awakened Buddha, the knowledgeable and venerable one, the sugata, the one who knows the world, the unsurpassed guide who tames beings, the teacher to gods and men known as the Blessed Buddha Śākyamuni," and that I may go on to abandon all disturbing emotions and actualize arhatship. And just as I, this preceptor, was singled out by the tathāgata, the arhat, and perfectly awakened Buddha Kāśyapa as the wisest of the wise and the most confident of the confident, may I too be singled out by the blessed sage of the Śākyas, lion of the Śākyas, king of the Śākyas, as the foremost of those with great wisdom and the foremost of those with great confident eloquence.'
+
+"Because of that prayer, Śāriputra has now been singled out by the Tathāgata as the foremost of those with great wisdom and the foremost of those with great confident eloquence."[^new]--The story of Śāriputra's past life as the brahmin's daughter Sūkṣmā is one of several karmavācanā narratives explaining the exceptional qualities of the Buddha's foremost disciples. Cf. Divyāvadāna, "Śārdūlakarṇāvadāna."--
+
+"Reverend, what has the venerable, the great Maudgalyāyana done that the ripened fruit of his action has led to him being the most powerful and the greatest miracle worker?"
+
+The Blessed One replied, "Monks, Maudgalyāyana himself discovered the store of action, mastered conditions, tended to them as one does an irrigation channel, and emerged without indecision. He himself acted and accumulated thus, so no one else experiences Maudgalyāyana's actions and accumulations for themselves. Monks, actions and accumulations do not ripen upon the external elements, the element of water, the element of fire, nor upon the element of wind. The virtuous and nonvirtuous actions performed and accumulated come to ripen upon the aggregates, elements and seats of the senses of the one who performed them:
+
+> "Actions never waste away,  
+> Not even after one hundred eons.  
+> When the time and the conditions  
+> Are right, they alight upon embodied beings.  
+
+"Monks, long ago, in a sanctuary not very far from the city of Vārāṇasī, there lived a sage who personified loving kindness. Endowed with compassion, he was kind to all sentient beings. One day, a poor man arrived at the sanctuary carrying a bundle of wood. The sage saw him put down his bundle of wood before sitting down to rest. Feeling compassion for him, he thought, 'He has been born a human, but because of faults committed in the past, this afflicted man must struggle very hard to make a living. I shall allow his going forth.'
+
+"The sage called out, 'Son, who are you?'
+
+" 'Noble one, I am a poor man who makes his living from wood.'
+
+" 'Well then, why do you not go forth?'
+
+" 'Noble one, if I am a poor man who must work very hard to forge a living by selling wood, who would allow me to go forth?'
+
+"Because the sage was the very personification of loving kindness, he felt tremendous compassion for the man and asked, 'Son, do you wish to go forth?'
+
+" 'Noble one, I want to go forth, so I ask that you, out of compassion, allow me.'
+
+"The sage allowed him to go forth, then washed a begging bowl and dyed robes and gave them to him, saying, 'Good man, should you attain even the slightest store of qualities, you must tell me.'
+
+"The man promised to do so and he went off into the wilds. Without a preceptor or instructor, he gave rise to the thirty-seven qualities conducive to awakening and actualized his own awakening. Then he thought, 'I promised to share any such attainment with that sage, so I must do so.'
+
+"Great persons teach the Dharma through their actions and not their words. So out of the great love and compassion he felt, like a swan spreading its wings, he flew up into the sky above and miraculously invoked flashes and bursts of light, clouds and lightning. As ordinary beings are swift to pay heed to miracles, the sage dropped like a felled tree at the pratyekabuddha's feet and said, 'Noble one! Have you found such a store of qualities?'
+
+" 'I have.'
+
+"The sage thought, 'The small store of qualities this noble being has attained, he has attained with my help,' and with that he prostrated at the pratyekabuddha's feet and made this prayer, 'Just as this noble being is powerful and a great miracle worker, through these roots of virtue may I too become powerful and a great miracle worker.'
+
+"The ripened fruits of wholly negative actions are wholly negative, while the ripened fruits of wholly positive actions are wholly positive, and the ripened fruits of mixed actions are mixed.
+
+"Monks, therefore abandon wholly negative and mixed actions and seek wholly positive actions. Monks, this is how you should train."
+
+In doubt, the monks questioned him who severs all doubts, the Blessed Buddha, "Reverend, what is it that the venerable, the great Maudgalyāyana has done, that the ripened fruit of his action has led the Blessed One to declare him to be the foremost of great miracle workers and of those with great power?"
+
+The Blessed One replied, "It is the prayers he made. What did he pray for? Monks, long ago during this fortunate eon, when the lifespan of beings was twenty thousand years, the blessed Buddha Kāśyapa appeared in the world, a teacher, a tathāgata, an arhat, a perfectly awakened buddha, a knowledgeable and venerable one, a sugata, one who knew the world, an unsurpassed guide who tamed beings, a teacher to gods and men, who lived and dwelt in the Ṛṣipatana Deer Park near Vārāṇasī.
+
+"A monk, he who would later become Maudgalyāyana, went forth into Buddha Kāśyapa's teachings and was singled out by the tathāgata, the arhat, the perfectly awakened Buddha Kāśyapa as the foremost of great miracle workers and of those with great power.
+
+"He lived the holy life for the rest of his days, but he did not attain any store of qualities. Later, as he was dying, he made this prayer: 'I have spent my entire life living the holy life under Kāśyapa, the blessed tathāgata, the arhat, and perfectly awakened Buddha and unsurpassed object of veneration, but I have not attained any store of qualities. May the roots of virtue accumulated through living the holy life for my entire lifetime ensure that I may go forth into the teachings of Buddha Śākyamuni, about whom the blessed tathāgata and perfectly awakened Buddha Kāśyapa has prophesied to the young brahmin Uttara, saying "Young brahmin, in the future, when the lifespan of beings is one hundred years, you will become the tathāgata, the arhat, the perfectly awakened buddha, the knowledgeable and venerable one, the sugata, the one who knows the world, the unsurpassed guide who tames beings, the teacher to gods and men known as the Blessed Buddha Śākyamuni," and that I may go on to abandon all disturbing emotions and actualize arhatship. And just as I, this preceptor, was singled out by the tathāgata, the arhat, and perfectly awakened Buddha Kāśyapa as the most powerful of the powerful and the greatest of miracle workers, may I too be singled out by the blessed sage of the Śākyas, lion of the Śākyas, king of the Śākyas, as the foremost of great miracle workers and the foremost of those with great power.'
+
+"Because of that prayer, Maudgalyāyana has now been singled out by the Tathāgata as the foremost of great miracle workers and the foremost of those with great power."
+
+Still in doubt, the monks questioned him who severs all doubts, the Blessed Buddha, "Reverend, what is it that the venerable Koṣṭhila has done, that the ripened fruit of his action has led him to be singled out by the Blessed One as the foremost among those who have attained discerning wisdom?"
+
+The Blessed One replied, "It is the prayers he made. What did he pray for? Monks, long ago during this fortunate eon, when the lifespan of beings was twenty thousand years, the blessed Buddha Kāśyapa appeared in the world, a teacher, a tathāgata, an arhat, a perfectly awakened buddha, a knowledgeable and venerable one, a sugata, one who knew the world, an unsurpassed guide who tamed beings, a teacher to gods and men, who lived and dwelt in the Ṛṣipatana Deer Park near Vārāṇasī.
+
+"A monk, he who would later become Koṣṭhila, went forth into Buddha Kāśyapa's teachings and was singled out by the tathāgata, the arhat, the perfectly awakened Buddha Kāśyapa as foremost among those who have attained discerning wisdom.
+
+"He lived the holy life for the rest of his days, but he did not attain any store of qualities. Later, as he was dying, he made this prayer: 'I have spent my entire life living the holy life under Kāśyapa, the blessed tathāgata, the arhat, and perfectly awakened Buddha, and unsurpassed object of veneration, but I have not attained any store of qualities. May the roots of virtue accumulated through living the holy life for my entire lifetime ensure that I may go forth into the teachings of Buddha Śākyamuni, about whom the blessed tathāgata, the arhat, and perfectly awakened Buddha Kāśyapa has prophesied to the young brahmin Uttara, saying, "Young brahmin, in the future, when the lifespan of beings is one hundred years, you will become the tathāgata, the arhat, the perfectly awakened Buddha, the knowledgeable and venerable one, the sugata, the one who knows the world, the unsurpassed guide who tames beings, the teacher to gods and men known as the blessed Buddha Śākyamuni," and that I may go on to abandon all disturbing emotions and actualize arhatship. And just as this preceptor was singled out by the tathāgata and perfectly awakened Buddha Kāśyapa as foremost among those who have attained discerning wisdom, may I too be singled out by the blessed sage of the Śākyas, lion of the Śākyas, king of the Śākyas, as foremost among those who have attained discerning wisdom.'
+
+"Because of that prayer, he has now been singled out by the Tathāgata as foremost among those who have attained discerning wisdom."
+
+### Granting Ordination
+
+In the time of the Blessed Buddha, one received the going forth, ordination, and monkhood in the well-proclaimed Dharma and Vinaya in the following way: the Blessed Buddha allowed the postulants' going forth and ordained them with the words, "Come, monk." Thus when a person approached a monk with the wish to go forth, the postulant was led before the Blessed One, knowing that when the Blessed One said, "Come, monk," he received the going forth, ordination, and monkhood in the well-proclaimed Dharma and Vinaya.[^new]--This describes the early "ehi-bhikṣu" (Skt. ehi bhikṣu, "Come, monk") ordination rite, which the Buddha himself administered in person. As the saṃgha grew, this personal ordination gave way to the formal ten-monk quorum procedure described later in this chapter.--
+
+However, there came a case in which one postulant, while coming to see the Blessed One, died on the way and thus was prevented from receiving the going forth, ordination, and monkhood in the well-proclaimed Dharma and Vinaya. When the monks asked the Blessed One about it, he thought, "Alas! For those disciples who live a great distance away, the journey can be arduous." He then said, "In light of what has happened, from this day forward, I permit the saṃgha to allow going forth and grant ordination."
+
+#### The Early Rite
+
+Although the Blessed One had decreed, "The saṃgha should allow going forth and grant ordination," they did not know how to do that. So the monks asked the Blessed One about it, and he said, "If a person approaches a monk wishing to go forth, the monk should accept him. Once this is done and the entire saṃgha has assembled, the postulant should don the robes and prostrate to his seniors. The postulant should then kneel with palms joined and ask the saṃgha three times, after which the monk petitioner makes a motion to ratify the motion. The postulant's going forth is allowed and he is ordained the moment this very act whose fourth member is a motion is accepted."
+
+##### The Postulant's Request
+
+The postulant would make the following request:
+
+"Revered saṃgha, please listen. I, [postulant's name], ask the saṃgha to allow my going forth and grant ordination into the monkhood. I ask that the compassionate and reverend saṃgha, out of compassion, allow my going forth and confer ordination on me."
+
+This would be repeated a second and a third time.
+
+##### The Monk's Request
+
+After that, one monk would act on the request. While seated he would say the following:
+
+"Revered saṃgha, please listen. [Postulant's name] has asked the saṃgha to allow his going forth and grant ordination into the monkhood. If the time is right and the saṃgha can accept it, I ask that the saṃgha grant their consent. I ask that the saṃgha allow [postulant's name] to go forth and grant him ordination."
+
+##### Acting on the Motion
+
+The request would be acted on in the following way:
+
+"Revered saṃgha, please listen. [Postulant's name] has asked the saṃgha to allow his going forth and grant ordination into the monkhood. If the saṃgha allows his going forth and grants ordination, then I ask that any who can allow the going forth of the venerable [postulant's name] and his ordination remain silent. I ask that any who cannot accept it speak up."
+
+After the first motion to act, the motion would be repeated a second and a third time. The saṃgha would acknowledge its acceptance and give its consent that the going forth of such and such a monk be allowed and that he be granted ordination by remaining silent.
+
+Thus went the Early Rite.
+
+#### Preceptors and Instructors
+
+Because those whose going forth was allowed and who were ordained under the Early Rite had no preceptor or instructor, they would go to the homes of brahmins and householders without being well washed or well dressed, while speaking shrilly and in loud voices, and behaving wildly. While there, they would beg for food, implore others to beg for food, grovel for soup, implore others to grovel for soup, and do still more that went against the teachings.
+
+This prompted tīrthikas, knowledgeable men, and others to criticize, disparage, and slander them. They would say, "Since these ascetic sons of the Śākyas have no preceptor and no instructor, they go to the houses of brahmins and householders without being well washed or well dressed, while speaking shrilly and in loud voices, and behaving wildly. While there, they beg for food, implore others to beg for food, grovel for soup, and implore others to grovel for soup. Who would give these shaven-headed ascetics alms or think to help them?"
+
+One sick monk even died for lack of someone to nurse him. When that occurred, the monks asked the Blessed One about it, and the Blessed One thought, "I should permit my disciples to act as preceptors and instructors, so that they may allow others to go forth and care for the sick among them."
+
+The Blessed One proclaimed, "After considering the matter, I permit preceptors and instructors to allow going forth and grant ordination."
+
+When the Blessed One had permitted preceptors and instructors to allow going forth and grant ordination, the monks found themselves in a quandary, for they did not know what serving as a preceptor or instructor entailed.
+
+So the Blessed One proclaimed, "There are five types of instructors and two types of preceptors. What are these five types of instructors? They are instructors of novices, privy advisors, officiants, givers of instruction,[^new]--Tib. skyabs su 'gro ba ston pa. The exact function of this role, the "giver of instruction," appears to differ across Vinaya traditions. The present text clarifies below that this is "one in whose presence you stay even for a single day."-- and recitation instructors. What is an instructor of novices? He is one who grants refuge and the foundations of the training.[^new]--These are the three refuges (Buddha, Dharma, Saṃgha) and the five, eight, or ten training rules (śikṣāpada), depending on the level of ordination.-- What is a privy advisor? He is one who inquires into private matters. What is an officiant? He is one who moves to act upon an act whose fourth member is a motion. What is a giver of refuge? He is one in whose presence you stay even for a single day. What is a recitation instructor? He is one who recites even a single verse of four lines three times, which you then repeat. What are the two types of preceptor? They are those who allow going forth and those who grant ordination."
+
+#### The Present Day Ordination Rite
+
+When the Blessed One permitted preceptors and instructors to allow going forth and grant ordination, the monks found themselves in a quandary, for they did not know how to do that. So the Blessed One proclaimed, "If someone approaches you with the wish to go forth, you should ascertain whether he has any impediments by questioning him. Having ascertained this, he should be given the layperson's vows by having him go for refuge to the Three Jewels and promise to live as a lay brother."
+
+##### Giving the Layperson's Vows and Refuge Precepts
+
+###### How to Give the Layperson's Vows
+
+This is how to give the layperson's vows. First, the postulant should prostrate to the Teacher.[^new]--Prostrating to the Teacher means prostrating in the direction of the Teacher, since the Buddha would typically not be physically present at ordinations conducted by the saṃgha on his behalf.-- Then, once he has been made to prostrate, have him kneel before the instructor, join his palms together, and say:
+
+"Reverend, heed me. I, [postulant's name], will henceforth, for as long as I live, seek refuge in the Buddha, supreme among men; I will seek refuge in the Dharma, supreme among all that is free from attachment; I will seek refuge in the Saṃgha, supreme among communities. For as long as I live, I ask that you, reverend, accept me as a lay brother."
+
+The postulant repeats this a second and a third time, but in the third recitation, should say "instructor."[^new]--The three-fold repetition is a standard formulaic element in Vinaya proceedings; substituting "instructor" (ācārya) for "preceptor" (upādhyāya) in the third repetition marks the shift from novice-level taking of refuge to the formal ordination ceremony.-- The instructor then says:
+
+"This is the method."
+
+At which point the lay vow holder says:
+
+"It is excellent."
+
+That is the giving of the layperson's vows.
+
+###### Pledging to Keep the Precepts
+
+The postulant then expresses his commitment to the precepts with the following words:
+
+"Instructor, heed me. Just as noble arhats renounced killing and swore to refrain from killing for as long as they lived, so do I, [postulant's name], henceforth, for as long as I live, renounce killing and swear to refrain from killing. With this first branch, I pledge to train in, practice, and act upon the precepts of those noble arhats. Furthermore, noble arhats renounced and swore to refrain from stealing, sexual misconduct, lying, and intoxicating substances like grain alcohol and its by-products, which leave one uninhibited. Just so do I, [postulant's name], too, for as long as I live, renounce and swear to refrain from stealing, sexual misconduct, lying, and intoxicating substances like grain alcohol and its by-products, which leave one uninhibited. With this, the fifth branch, I pledge to train in, practice, and act upon the precepts of those noble arhats."
+
+The instructor then says:
+
+"This is the method."
+
+At which point the lay vow holder says:
+
+"It is excellent."
+
+This completes the layperson's induction rite.
+
+##### Going Forth
+
+###### Informing the Saṃgha of the Wish to Go Forth
+
+The postulant should then be directed to the monk petitioner. The monk petitioner asks the preceptor:
+
+"Have you inquired into the private matters?"
+
+A breach occurs if he makes a petition without inquiring. The monk petitioner then petitions the saṃgha in the following way. Having laid out sitting mats, he strikes the gaṇḍī beam. Once he has informed the monks with a response to their queries, the entire saṃgha sits; either together in consensus or each in his own dwelling. The postulant is then made to prostrate to the seniormost in the saṃgha before taking his place in a kneeling position, with palms pressed together. The monk petitioner then addresses the saṃgha with these words:
+
+"I ask you, reverend saṃgha, to listen. The postulant [postulant's name] has asked the preceptor [preceptor's name] to allow his going forth. He wants to leave the householder's life, with its white clothes and unshaven head and face, and go forth in the well-proclaimed Dharma and Vinaya. [Postulant's name] wants to go forth and, having shaven head and face, to don the saffron robes. He wants to go forth from home into homelessness under the guidance of this preceptor [preceptor's name] so that he may rely solely on what is right. And if indeed he too is without impediments, should he be allowed to go forth?"
+
+The whole saṃgha should reply:
+
+"If he is without impediment, he should be allowed."
+
+If they say that, then all is well. A breach occurs if they do not.
+
+That is how one informs the saṃgha of the wish to go forth.
+
+###### Requesting the Preceptor
+
+Next, a request is made to the preceptor. The request should be made in the following way. The postulant is made to prostrate to and then kneel before the preceptor. With palms pressed together, he should say:
+
+"Instructor, heed me. I, [postulant's name], ask you, instructor, to serve as preceptor. Instructor, please act as my preceptor. Instructor, as preceptor, please allow my going forth."
+
+He repeats this a second and a third time, but the third time he should say "preceptor" in place of "instructor." The preceptor then says:
+
+"This is the method."
+
+To which the person wishing to go forth says:
+
+"It is excellent."
+
+That is the request to the preceptor.
+
+The postulant should then be entrusted to a monk who will shave the postulant's hair and beard. The Blessed One decreed, "Do not shave off all of his hair but rather leave a tuft of hair at his crown." So, after shaving off nearly all the postulant's hair, the monk should ask the postulant:
+
+"Shall I cut this tuft?"
+
+If he answers "No, do not cut it," then tell him to go. But if he answers "Yes, I am happy for you to do so," then cut it. The postulant is then made to bathe. If the weather is cold, he may bathe with warm water. If the weather is warm, he should bathe with cold water. The preceptor should then give him a begging bowl and saffron robes, which he accepts after bowing at the preceptor's feet. The preceptor should then dress the postulant, checking to ensure he is not a person without genitalia, a person with two sets of genitalia, or a person with a fistula.[^new]--These three conditions—being without genitalia (paṇḍaka), having two sets of genitalia (ubhatovyañjanaka), and having a fistula (vyādhi)—are among the physical conditions that disqualify a candidate from full ordination in the Mūlasarvāstivāda Vinaya.--
+
+The Blessed One decreed that postulants should be examined, but the embarrassment that the monks' examination caused to the naked and exposed postulants prompted the Blessed One to decree, "Do not examine him while naked. Examine him without his knowing, while he is putting on the under robe."
+
+That is how the first part of the ceremony should be performed.
+
+###### Allowing the Postulant's Going Forth
+
+Then the postulant should be inducted as a renunciant by first going for refuge. This is how he should be inducted.
+
+The postulant is first made to prostrate to the Teacher. Then he is made to prostrate to the preceptor and kneel before him. Having pressed his palms together, he should say:
+
+"Preceptor, heed me. I, [postulant's name], will henceforth, for as long as I live, seek refuge in the Buddha, supreme among men; I will seek refuge in the Dharma, supreme among all that is free from attachment; I will seek refuge in the Saṃgha, supreme among communities. Following the example of going forth set by the Blessed One, the tathāgata, the arhat, the perfectly complete Buddha Śākyamuni, the lion of the Śākyas, the king of the Śākyas, I, in going forth, renounce the tokens of the householder life and embrace the tokens of the renunciant life."
+
+He repeats this a second and a third time. The preceptor then says:
+
+"This is the method."
+
+At which point the renunciant says:
+
+"It is excellent."
+
+That is the induction as a renunciant.
+
+##### Becoming a Novice
+
+###### Inducting the Postulant into the Novitiate
+
+The postulant is then directed to the monk who will induct him into the novitiate. He again asks the preceptor whether the postulant is without impediments, and if, upon asking, he is, he should be inducted into the novitiate by going for refuge and promising to live as a novice.
+
+The postulant should be inducted into the novitiate in the following way. The postulant is first made to prostrate to the Teacher. Then he is made to prostrate to and kneel before the instructor. Then, with his palms pressed together, he should say:
+
+"Reverend, heed me. I, [postulant's name], will henceforth, for as long as I live, seek refuge in the Buddha, supreme among men; I will seek refuge in the Dharma, supreme among pure doctrines; I will seek refuge in the Saṃgha, supreme among communities. I ask that you, reverend, accept me as a novice for as long as I live."
+
+The postulant repeats this a second and a third time, but the third time he says "instructor" in place of "reverend." The instructor then says:
+
+"This is the method."
+
+At which point the novice says:
+
+"It is excellent."
+
+That is the giving of the novice vow.
+
+###### Marking the Time
+
+Then, any monk other than the instructor should consult the sundial and announce the gnomon, the root, the time of day or night, and the season.
+
+###### The Novice Investiture
+
+The novice should then promise to keep the precepts by reciting them. This should be done in the following way:
+
+"Instructor, heed me. Just as noble arhats renounced and swore off killing for as long as they lived, so do I, [novice's name], henceforth, for as long as I live, renounce and swear to refrain from killing. With this first branch, I pledge to train in, practice, and act upon the precepts of those noble arhats. Furthermore, noble arhats renounced stealing, sexual misconduct, lying, intoxicating substances like grain alcohol and its by-products which leave one uninhibited, singing, dancing, music, garlands, perfumes, jewelry, cosmetics, tall seating, grand seating, untimely eating, and accepting gold and silver, and thus ceased accepting gold and silver. Just so, henceforth, for as long as I live, so too do I, [novice's name], renounce stealing, sexual misconduct, lying, intoxicating substances like grain alcohol and its by-products which leave one uninhibited, singing, dancing, music, garlands, perfumes, jewelry, cosmetics, tall seating, grand seating, untimely eating, and accepting gold and silver; thus will I cease to accept gold and silver. With these ten branches, I too pledge to train in, practice, and act upon the precepts of those noble arhats."
+
+The instructor then says:
+
+"This is the method."
+
+At which point the novice says:
+
+"It is excellent."
+
+That marks the end of the rite of induction into the novitiate.
+
+##### Granting Ordination
+
+###### The Opening Occasion
+
+Then, if the novice has reached the age of twenty, the preceptor should give him his begging bowl and robes and request the presence of a monk officiant. The preceptor should also request the presence of the monk who will serve as privy advisor, and that of any other monk who will enter the ceremony site.
+
+When the monks are seated and have a quorum, they should each individually investigate whether they have incurred any faults in the past half a month that need to be restrained, confessed, or excused.[^new]--The three categories of fault correspond to the three primary remedial measures of the Vinaya: restraint (saṃvara) for future prevention, confession (deśanā) for past transgressions, and formal acts of excusing for communal breaches.-- Recognizing those faults, they should make amends by resolving to restrain themselves, confessing them, or having them excused before taking their places.
+
+All of the saṃgha then take their places in concord or in an inner circle.[^new]--Tib. thun mong pa dang nang du chud pa. "Concord" (sāmagrī) is when the whole saṃgha acts as one; an "inner circle" (antarbhūmi) is when a subset of those present forms a quorum for the formal act, with the remainder implicitly consenting.-- In the Middle Country, a quorum of ten monks is needed. In outlying areas, if there are no other monks, then a Vinaya master and a quorum of five will suffice. The ordinand should first prostrate to the Teacher, then prostrate three times to each monk. Either of the two types of prostration—bowing prostrate with all four limbs and head, or a kneeling bow—is permissible.
+
+This is how the opening occasion is conducted.
+
+###### Requesting the Preceptor
+
+Then, a request should be made to the preceptor. The request is made in the following way. The ordinand should be made to prostrate to the preceptor and then squat before him, with his two heels pressed to a grass mat on bricks so as to relieve pressure on the nerves. Pressing his palms together, he should say, employing whichever address is appropriate—"Preceptor" if addressing the preceptor, "Instructor" if addressing the instructor, or "Reverend" if addressing a monk:
+
+"Reverend, heed me. I, [ordinand's name], ask you, reverend, to serve as preceptor. Reverend, please act as my preceptor. Reverend, please grant me ordination."
+
+This is repeated a second and a third time, but the third time he says "preceptor" in place of "instructor" or "reverend." The preceptor then says:
+
+"This is the method."
+
+At which point the ordinand says:
+
+"It is excellent."
+
+That is the request to the preceptor.
+
+###### Taking Possession of Robes That Have Already Been Cut and Sewn
+
+The preceptor himself should then take possession of the three robes for the ordinand. It is best if the ordinand has a set of robes already cut and sewn, in which case they are sanctioned as follows. Each of the three robes are folded and laid over the ordinand's left shoulder, after which both preceptor and ordinand rise. They both take the robe called the "mantle" in their hands, and the novice says:
+
+"Preceptor, heed me. This is my, [ordinand's name]'s, robe, woven, good, right, and fit to wear. I take possession of this robe as a mantle."
+
+The ordinand repeats this a second and a third time. The preceptor should then say:
+
+"This is the method."
+
+At which point the ordinand says:
+
+"It is excellent."
+
+After that, he takes the upper robe in his hands and says:
+
+"Preceptor, heed me. This is my, [ordinand's name]'s, robe, woven, good, right, and fit to wear. I take possession of this robe as an upper robe."
+
+This is repeated a second and a third time. The preceptor should then say:
+
+"This is the method."
+
+At which point the ordinand says:
+
+"It is excellent."
+
+Next, he takes the lower robe in his hands and says:
+
+"Preceptor, heed me. This is my, [ordinand's name]'s, robe, woven, good, right, and fit to wear. I take possession of this robe as a lower robe."
+
+This is repeated a second and a third time. The preceptor should then say:
+
+"This is the method."
+
+At which point the student says:
+
+"It is excellent."
+
+After that, the ordinand should put the robes on, along with the mantle if there is one, and prostrate to the saṃgha that has assembled to ordain him. That is how the ordinand should take possession of robes that have already been cut and sewn.
+
+###### Taking Possession of Robes That Have Not Already Been Cut and Sewn
+
+If the ordinand's robes have not already been cut and sewn, the ordinand should take possession of the materials in the following way. The materials for the three robes should be folded separately and laid on the student's left shoulder, after which the ordinand and the preceptor both rise. They both take the material for the robe called the mantle in their hands, and the ordinand should say:
+
+"Preceptor, heed me. I take possession of this, my, [ordinand's name]'s, Dharma robe, as a mantle. If you wish, I will divide it into nine or more patches and those into sections of two and a half and more. If not prevented from doing so, I will wash them, lay them out, cut them, piece them together, stitch them, sew them together, and dye them. Or, I will patch additional pieces onto this. As circumstances allow, this robe will be right and fit to wear."
+
+This is repeated a second and a third time. The preceptor should then say:
+
+"This is the method."
+
+At which point the student says:
+
+"It is excellent."
+
+After that, they both take the material for the upper robe in their hands, and the ordinand should say:
+
+"Preceptor, heed me. I take possession of this, my, [ordinand's name]'s, robe, as an upper robe. If you please, I will divide it into seven patches and those into sections of two and a half. If not prevented from doing so, I will wash them, lay them out, cut them, piece them together, stitch them, sew them together, and dye them. Or, I will patch additional pieces onto this. As circumstance allows, this robe will be right and fit to wear."
+
+This is repeated a second and a third time. The preceptor should then say:
+
+"This is the method."
+
+At which point the student says:
+
+"It is excellent."
+
+Next, they both take the material for the lower robe in their hands, and the ordinand should say:
+
+"Preceptor, heed me. I take possession of this, my, [ordinand's name]'s, robe, as a lower robe. If you please, I will divide it into five patches and those into sections of two and a half. If not prevented from doing so, I will wash them, lay them out, cut them, piece them together, stitch them, sew them together, and dye them. Or, I will patch additional pieces onto this. As circumstances allow, this Dharma robe will be right and fit to wear."
+
+This is repeated a second and a third time. The preceptor should then say:
+
+"This is the method."
+
+At which point the student says:
+
+"It is excellent."
+
+That is the taking possession of robes that have not already been cut and sewn.
+
+###### Displaying the Begging Bowl
+
+Then the begging bowl should be shown. It should be shown in the following way. One monk places the begging bowl in his left hand and covers it with his right hand, then bows to each of the monks, starting with the seniormost, and as he stands before them, he should ask the following question:
+
+"Reverend or venerable, heed me. Venerable [monk's name], is this begging bowl too small, too large, or too pale?"
+
+If all the monks agree the begging bowl is none of those, they should each say:
+
+"The begging bowl is fine."
+
+If they should say that, then all is well. A breach occurs if they do not say that.
+
+That is the showing of the begging bowl.
+
+###### Taking Possession of the Begging Bowl
+
+Then, the preceptor himself should take possession of the begging bowl for the ordinand. He should do so in the following way. Both rise, and the ordinand places the begging bowl in his left hand while he covers it with his right hand and says the following:
+
+"Preceptor, heed me. This is my, [ordinand's name]'s, begging bowl, fit to eat from. I take possession of this sage's bowl as a container for alms begged."
+
+This is repeated a second and a third time. The preceptor then says:
+
+"This is the method."
+
+At which point the student says:
+
+"It is excellent."
+
+That is the taking possession of the begging bowl.
+
+###### The Privy Advisor's Expression of Willingness
+
+He is made to join his palms and stand facing the assembly. The monk officiant should then ask the monk who will serve as privy advisor:
+
+"Who has the preceptor [preceptor's name] asked to serve as privy advisor to this ordinand [ordinand's name]?"
+
+Whoever was named privy advisor responds:
+
+"It is I, [privy advisor's name]."
+
+The monk officiant should then ask the monk who will serve as privy advisor:
+
+"Are you, [inquistor's name], willing to inquire into the private matters of this ordinand [ordinand's name] at the behest of the preceptor [preceptor's name]?"
+
+He should respond by saying:
+
+"I am willing to do so."
+
+That is the privy advisor's expression of willingness.
+
+###### The Motion to Act as Privy Advisor
+
+The monk officiant next makes an act of motion alone so that the monk who will serve as privy advisor may question the student about impediments.
+
+This is how that is done. While seated, he should say the following:
+
+"Reverend saṃgha, please listen. This monk, [privy advisor's name], is willing to serve as privy advisor to the ordinand [ordinand's name], at the behest of the preceptor [preceptor's name]. If that is so, and the time is right and the saṃgha can accept it, I ask that the saṃgha grant their permission. This monk, [privy advisor's name], shall act as privy advisor to the ordinand [ordinand's name] at the behest of the preceptor [preceptor's name]."
+
+This is the motion. That is the act that moves to appoint the privy advisor.
+
+###### The Inquiry into Private Matters
+
+The monk who is serving as privy advisor then leaves the inner circle. The ordinand is made to prostrate to and then kneel before him. When he has joined his palms, the privy advisor should say:
+
+"Listen, venerable. It is time for you to be truthful. It is time for you to be forthcoming. I shall ask you a few questions. Do not be apprehensive. Answer simply by saying what is so is so, and what is not is not. Are you a male?"
+
+The postulant responds:
+
+"I am a male."
+
+The privy advisor asks:
+
+"Do you have male organs?"
+
+The postulant responds:
+
+"I do."
+
+The privy advisor asks:
+
+"Have you reached the age of twenty?"
+
+The postulant responds:
+
+"I have reached that age."
+
+The privy advisor asks:
+
+"Do you have all three robes and a begging bowl?"
+
+The postulant responds:
+
+"I have them all."
+
+The privy advisor asks:
+
+"Are your parents still living?"
+
+If the ordinand says his parents are still living, he is then asked:
+
+"Have your parents given you leave?"
+
+The ordinand responds:
+
+"They have given me leave."
+
+If the ordinand says his parents are deceased, he is asked:
+
+"Are you a bondsman? Are you a captive? Are you a pledge? Are you a pawn? Are you an indentured servant? Are you an officer of the king? Are you a threat to the king? Have you worked to harm the king? Have you worked to harm the king or enlisted others to do so? Are you a known bandit or thief? Are you a person who has undergone castration? Are you a person labeled a paṇḍaka? Have you violated a nun? Are you an impostor? Are you duplicitous? Have you been ousted? Are you a tīrthika? Are you a convert to a tīrthika order? Are you a patricide? Are you a matricide? Have you killed an arhat? Have you caused a schism in the saṃgha? Have you maliciously drawn blood from a tathāgata? Are you a shape shifter? Are you an animal?"
+
+The ordinand responds:
+
+"No."
+
+If the ordinand responds that he is not these things, the privy advisor asks him:
+
+"Have you incurred some debts, be they large or small?"
+
+If the ordinand responds "I have incurred some," the privy advisor asks:
+
+"Are you able to repay them once you have been ordained?"
+
+If the ordinand responds "No, I am unable," the privy advisor tells him:
+
+"In that case, I ask you to leave."
+
+If the ordinand responds "I am able to repay them after I have been ordained," the privy advisor asks him:
+
+"Have you gone forth before?"
+
+If the ordinand responds "I have gone forth before," the privy advisor asks him:
+
+"Did you not transgress and incur one of the four defeats? Did you properly offer back your precepts when you stepped down?"
+
+If the ordinand responds "An offense occurred," the privy advisor tells him:
+
+"In that case, I ask you to leave."
+
+If the ordinand responds "No offense occurred," the privy advisor asks him:
+
+"Have you now gone forth?"[^new]--This interrogation ("Have you now gone forth?") is a formal confirmation that the novice ordination has been successfully completed before proceeding to the full ordination rite.--
+
+If the ordinand responds "I have gone forth," the privy advisor asks him:
+
+"Have you properly lived the holy life?"
+
+The ordinand responds:
+
+"I have lived it properly."
+
+If the ordinand says he has lived the holy life properly, the privy advisor asks him:
+
+"What is your name? What is your preceptor's name?"
+
+The ordinand responds:
+
+"My name is [ordinand's name] and my preceptor's name, who will speak on my behalf, is [preceptor's name]."
+
+The privy advisor asks him:
+
+"Venerable, please listen. Human bodies are subject to diseases that manifest on the body in these ways: as oozing pustules, large pustules, small pustules, exanthema, leprosy, oozing rashes, dry rashes, welts, scabs, consumption, pulmonary consumption, fits, anal fistula, fluid retention, elephantiasis, urethral fistula, a latent or raging fever, fevers which last a day, two day fevers, tertian fevers, quartan fevers, complexes, daily fevers, chronic fevers, dissipation, abscesses, vomiting and diarrhea, hiccoughs, coughs, asthma, carbuncles, pain in the extremities, tumors, blood disorders, jaundice, hemorrhoids, nausea, urinary retention, fatigue, pyrexia, arthritis, and bone pain.[^new]--This list of diseases is a standard formula in the Mūlasarvāstivāda Vinaya ordination interrogation, adapted from Āyurvedic medical lists of the period. The interrogation serves to confirm that the candidate is not incapacitated by illness.-- Do any of these physical conditions or others like them afflict your body?"
+
+The ordinand responds:
+
+"They do not."
+
+The privy advisor says to him:
+
+"Venerable, listen. The learned fellow brahmacārin will ask the same questions I have just now asked you but in front of the saṃgha community. Once there, do not be apprehensive. Answer simply by saying what is so is so, and what is not is not. Stay here until you are called."
+
+###### Reporting the Findings
+
+The monk who inquired into private matters then stands before the senior monks, bows, and says the following:
+
+"Venerable saṃgha, please listen. If the preceptor [preceptor's name] were to again ask the ordinand [ordinand's name] about the private matters regarding impediments I have inquired into, he too will find that the ordinand is utterly free of impediments. If that is indeed the case, and the ordinand is asked, 'Which of these do you have?' he will respond, 'I have none at all.' "
+
+If he says that, then all is well. A breach occurs if he does not say that.
+
+###### The Ordinand's Request for Ordination
+
+The ordinand is then brought into the inner circle and prostrates before the seniormost of those gathered. The monk officiant then prompts him to ask for ordination. The ordinand first prostrates to the Teacher, then before the seniormost monk. He then squats with his two heels pressed to a grass mat on bricks so as to relieve pressure on the nerves. Joining his palms, he says:
+
+"Venerable saṃgha, please listen. The preceptor, [preceptor's name], speaking on my, [ordinand's name], behalf, seeks consent from the saṃgha for ordination. If the saṃgha allows the motion of the preceptor [preceptor's name], who speaks on my, [ordinand's name], behalf, I ask that the venerable saṃgha grant me ordination. I ask that the venerable saṃgha guide me. I ask that the venerable saṃgha accept charge of me. I ask that the venerable saṃgha show me the way. I ask that the venerable and compassionate saṃgha, in their compassion, extend their compassion to me."
+
+That is repeated a second and a third time.
+
+###### The Motion to Ask about Impediments before the Saṃgha
+
+The monk officiant makes an act of motion alone so that the ordinand can be asked before the saṃgha about impediments. While seated, the monk officiant says:
+
+"Venerable saṃgha, please listen. The ordinand [ordinand's name] seeks consent from the saṃgha to receive ordination from the preceptor [preceptor's name]. If he has asked the saṃgha to give consent to the preceptor [preceptor's name] to grant ordination to the ordinand, and if the time is right and the saṃgha can accept it, I ask that the saṃgha grant their consent. Before the saṃgha, I shall ask about the impediments faced by the ordinand [ordinand's name] who is to be ordained by the preceptor [preceptor's name]."
+
+###### Inquiring into Impediments before the Saṃgha
+
+The monk officiant then inquires into impediments before the saṃgha. The ordinand prostrates to the officiant and then squats with his two heels pressed to a grass mat on bricks so as to relieve pressure on the nerves. The ordinand then joins his palms as the monk officiant inquires into impediments.
+
+"Listen, venerable. It is time for you to be truthful. It is time to come forth. I shall ask you a few questions. Do not be apprehensive. Answer simply by saying what is so is so, and what is not is not. Are you a male?"
+
+The postulant responds:
+
+"I am a male."
+
+The privy advisor asks:
+
+"Do you have male organs?"
+
+The postulant responds:
+
+"I do."
+
+The privy advisor asks:
+
+"Have you reached the age of twenty?"
+
+The postulant responds:
+
+"I have reached that age."
+
+The privy advisor asks:
+
+"Do you have all three robes and a begging bowl?"
+
+The postulant responds:
+
+"I have them all."
+
+The privy advisor asks:
+
+"Are your parents still living?"
+
+If the ordinand says his parents are still living, he is then asked:
+
+"Have your parents given you leave?"
+
+The ordinand responds:
+
+"They have given me leave."
+
+If the ordinand says his parents are deceased, he is asked:
+
+"Are you a bondsman? Are you a captive? Are you a pledge? Are you a pawn? Are you an indentured servant? Are you an officer of the king? Are you a threat to the king? Have you worked to harm the king? Have you worked to harm the king or enlisted others to do so? Are you a known bandit or thief? Are you a person who has undergone castration? Are you a person labeled a paṇḍaka? Have you violated a nun? Are you an impostor? Are you duplicitous? Have you been ousted? Are you a tīrthika? Are you a convert to a tīrthika order? Are you a patricide? Are you a matricide? Have you killed an arhat? Have you caused a schism in the saṃgha? Have you maliciously drawn blood from a tathāgata? Are you a shape shifter? Are you an animal?"
+
+The ordinand responds:
+
+"No."
+
+If the ordinand responds that he is not these things, the privy advisor should ask him:
+
+"Have you incurred some debts, be they large or small?"
+
+If the ordinand responds "I have incurred some," the privy advisor should ask him:
+
+"Are you able to repay them once you have been ordained?"
+
+If the ordinand responds "No, I am unable," the privy advisor should tell him:
+
+"In that case, I ask you to leave."
+
+If the ordinand responds "I am able to repay them after I have been ordained," the privy advisor should ask him:
+
+"Have you gone forth before?"
+
+If the ordinand responds "I have gone forth before," the privy advisor should ask him:
+
+"Have you incurred an offense of one of the four defeats? Did you properly offer back your precepts when you stepped down?"
+
+If the ordinand responds "An offense occurred," the privy advisor should tell him:
+
+"In that case, I ask you to leave."
+
+If the ordinand responds "No offense occurred," the privy advisor should ask him:
+
+"Have you now gone forth?"[^new]--This second appearance of the interrogation "Have you now gone forth?" occurs within the formal ordination sequence for the full monk, as opposed to the novice ordination described earlier in the chapter.--
+
+If the ordinand responds "I have gone forth," the privy advisor should ask him:
+
+"Have you properly lived the holy life?"
+
+The ordinand responds:
+
+"I have lived it properly."
+
+If the ordinand says he has lived the holy life properly, the privy advisor should ask him:
+
+"What is your name? What is your preceptor's name?"
+
+The ordinand responds:
+
+"My name is [ordinand's name] and my preceptor's name, who will speak on my behalf, is [preceptor's name]."
+
+The privy advisor should ask him:
+
+"Venerable, please listen. Human bodies are subject to diseases that manifest on the body in these ways: as oozing pustules, large pustules, small pustules, exanthema, leprosy, oozing rashes, dry rashes, welts, scabs, consumption, pulmonary consumption, fits, anal fistula, fluid retention, elephantiasis, urethral fistula, a latent or raging fever, fevers which last a day, two day fevers, tertian fevers, quartan fevers, complexes, daily fevers, chronic fevers, dissipation, abscesses, vomiting and diarrhea, hiccoughs, coughs, asthma, carbuncles, pain in the extremities, tumors, blood disorders, jaundice, hemorrhoids, nausea, urinary retention, fatigue, pyrexia, arthritis, and bone pain.[^new]--See n.63. The identical list appears here as part of the formal full-monk ordination interrogation.-- Do any of these physical conditions or others like them afflict your body?"
+
+The ordinand responds:
+
+"They do not."
+
+"Listen, venerable. In the midst of the saṃgha, my knowledgeable fellow brahmacārin will ask you these questions that I have just now asked you. Do not hold back there! What is so, say it is so. What is not so, say it is not so. Stay here and do not come until you have been called."
+
+That is the privy advice. Then the monk serving as privy advisor should stand at the head of the eldest monk's row and say the following with a bow:
+
+"Venerable saṃgha, please listen. If I have advised the ordinand [ordinand's name] at the behest of the preceptor [preceptor's name] and found him to be without impediments, shall he come?"
+
+The whole saṃgha should say:
+
+"If he is without impediment, he should come."
+
+If that is said, then all is well. A breach occurs if it is not. That is the request to come. The ordinand is then brought into the inner circle and prostrates before the seniormost of those gathered. The monk officiant should then prompt him to ask for ordination. The ordinand first prostrates to the Teacher, then before the seniormost monk. He then squats with his two heels resting on a brick so as to relieve pressure on the nerves. Joining his palms, he says:
+
+"Venerable saṃgha, please listen. The preceptor, [preceptor's name], speaking on my, [ordinand's name], behalf, seeks consent from the saṃgha for ordination. If the saṃgha allows the petition of the preceptor [preceptor's name], who speaks on my, [ordinand's name], behalf, I ask that the venerable saṃgha grant me ordination. I ask that the venerable saṃgha guide me. I ask that the venerable saṃgha accept charge of me. I ask that the venerable saṃgha show me the way. I ask that the venerable and compassionate saṃgha, in their compassion, extend their compassion to me."
+
+That is repeated a second and a third time. The monk officiant makes an act of motion alone so that the ordinand can be asked before the saṃgha about impediments. While seated, the monk officiant says:
+
+"Venerable saṃgha, please listen. The ordinand [ordinand's name] seeks consent from the saṃgha to receive ordination from the preceptor [preceptor's name]. If he has petitioned the saṃgha to give consent to the preceptor [preceptor's name] to grant ordination to the ordinand, and if the time is right and the saṃgha can allow it, I ask that the saṃgha grant its consent. Before the saṃgha, I shall ask about the impediments faced by the ordinand [ordinand's name] who is to be ordained by the preceptor [preceptor's name]."
+
+That is the request. The monk officiant then inquires into impediments before the saṃgha. The ordinand prostrates to the officiant and then squats with his two heels resting on a brick so as to relieve pressure on the nerves. The ordinand should then join his palms as the monk officiant inquires into impediments.
+
+This was the inquiry into impediments in the inner circle.
+
+###### The Monk Officiant's Request to Ordain
+
+After that, the monk officiant makes a motion to the saṃgha. While seated, he says:
+
+"Venerable saṃgha, please listen. The ordinand [ordinand's name] has sought consent from the saṃgha to receive ordination from the preceptor [preceptor's name]. He has asked the saṃgha to give consent for the preceptor [preceptor's name] to grant ordination to the ordinand [ordinand's name]. He is a male, has male organs, has reached twenty years of age, and has all three robes and a begging bowl. He has attested that he is without impediments. If the saṃgha gives consent for the preceptor [preceptor's name] to grant ordination to the ordinand [ordinand's name], and if the time is right and the saṃgha can accept it, I ask that the saṃgha give consent."
+
+###### The Motion to Act
+
+This is how the motion to act should be made:
+
+"Venerable saṃgha, please listen. The ordinand [ordinand's name] has sought consent from the saṃgha to receive ordination from the preceptor [preceptor's name]. He has asked the saṃgha to give consent for the preceptor [preceptor's name] to grant ordination to the ordinand [ordinand's name]. He is a male, has male organs, has reached twenty years of age, and has all three robes and a begging bowl. He has attested that he is without impediments. The saṃgha gives consent for the preceptor [preceptor's name] to grant ordination to the ordinand [ordinand's name]. Therefore, if the saṃgha grants consent for the preceptor [preceptor's name] to grant ordination to ordinand [ordinand's name], then venerables, those who can accept the preceptor [preceptor's name] granting ordination to the ordinand [ordinand's name] remain silent. I ask that any who cannot accept it speak up."
+
+This is the first motion to act. This is repeated a second and a third time. The saṃgha acknowledges its acceptance and gives its consent to the preceptor to grant ordination to the ordinand by remaining silent.
+
+This concludes the ordination portion of the rite.
+
+###### Marking the Time by the Length of a Shadow
+
+Next, measuring the length of a shadow. When the Blessed One decreed, "Measure the length of a shadow," the monks measured the length of a shadow using a long stick, prompting the Blessed One to order, "Do not measure the length of a shadow with a long stick." When the monks measured the length of a shadow in steps, it proved too difficult, prompting the Blessed One to order, "Do not measure the length of a shadow in steps. Measure it like this, using splints of wood." When the monks measured the length of a shadow using long splints, it also proved too difficult, prompting the Blessed One to order, "Measure with a splint just four finger widths tall. A splint of exactly that length shall be called a 'gnomon.' "
+
+That is the marking of time by the length of the shadow.
+
+###### Explaining the Different Parts of the Day and Night
+
+The different parts of the day and night are then described with these words:
+
+"The different parts of the day and night are described as morning, noon, evening, the first watch of the night, the latter half of the first watch, the midnight watch, the latter half of the midnight watch, the last watch of the night, the latter half of the last watch of the night, pre-dawn, dawn, before sunrise, sunrise, an eighth of the sun's passage, a quarter of the sun's passage, midday, a quarter of the sun's passage remaining, an eighth of the sun's passage remaining, before sunset, sunset, before the stars appear, and after the stars appear."
+
+That is the explanation of the different parts of the day and night.
+
+###### Describing the Length of the Seasons
+
+The length of the seasons are then described:
+
+"There are five seasons: the cold season, springtime, the rainy season, the short rainy season, and the long rainy season.[^new]--The Mūlasarvāstivāda Vinaya divides the year into five seasons: winter (hemanta), spring (vasanta), the rains (varṣā), the short rains (pravarṣā), and the long rains (mahāvarṣā). This calendrical system differs from the classical Indian four-season year.-- The cold season lasts four months, springtime lasts four months, the rainy season lasts one month, the short rainy season lasts a day, while the long rainy season is one day shy of three months."
+
+That is the description of the length of the seasons.
+
+###### Explaining the Supports
+
+The supports are then explained:
+
+"Listen, venerable [newly ordained monk's name]. The Blessed One, the tathāgata, arhat, perfectly awakened, omniscient, all-seeing Buddha has declared four supports to be supports for monks who have gone forth and been ordained. If one abides by them, the monk who has gone forth and been ordained in the well-proclaimed Dharma and Vinaya will be a genuine monk. What are the four?
+
+"As for clothes, it is preferable that you find a pile of discarded rags suitable. If one abides by that, one will be a genuine monk who has gone forth and been ordained in the well-proclaimed Dharma and Vinaya. Will you, [newly ordained monk's name], delight in living on clothes from a pile of discarded rags for so long as you live?"
+
+The newly ordained monk responds:
+
+"I will so delight."
+
+He is then told:
+
+"Or further, if you were to receive silk or a large piece of cotton, wool, muslin, raw silk, a large piece of wool, red wool, lambswool, a red shawl, fine Kāśī cotton, cloth of a fitting color, ill-colored cloth, woolen cloth, hempen cloth, linen, cotton cloth, dugla cloth, koṣāmpa cloth, Apāntarataineya cloth, or were to receive any other appropriate cloth from the saṃgha or a person, you may also accept that, provided you take the proper amount. Will you commit yourself to subsisting on such supports?"
+
+The newly ordained monk responds:
+
+"I will so commit myself."
+
+He is then told:
+
+"Listen, venerable [newly ordained monk's name]. As for food, it is preferable that you find begging for alms suitable. If one abides by that, one will be a genuine monk who has gone forth and been ordained in the well-proclaimed Dharma and Vinaya. Will you, [newly ordained monk's name], delight in living on alms for so long as you live?"
+
+The newly ordained monk responds:
+
+"I will so delight."
+
+He is then told:
+
+"Or further, if you were to receive cooked grains, gruel, soup; special food prepared for feasts on the fifth, the eighth, the fourteenth, or the full moon; or everyday fare; or be invited to a banquet, or be invited on a whim, or receive vegetables, or receive any other appropriate food from the saṃgha or a person, you may also accept that, provided you take the proper amount. Will you commit yourself to subsisting on such supports?"
+
+The newly ordained monk responds:
+
+"I will so commit myself."
+
+He is then told:
+
+"Listen, venerable [newly ordained monk's name]. As for shelter, it is preferable that you find shelter at the foot of a tree suitable. If one abides by that, one will be a genuine monk who has gone forth and been ordained in the well-proclaimed Dharma and Vinaya. Will you, [newly ordained monk's name], delight in living in shelter at the foot of a tree for so long as you live?"
+
+The newly ordained monk responds:
+
+"I will delight in living so."
+
+He is then told:
+
+"Or further, if you were to find shelter in a cell, a hall,[^new]--Tib. gzhal yas khang. The Tibetan term here can mean a "hall," "vast mansion," or "celestial palace"; in the context of monastic dwellings, it refers to a communal hall or meeting room.-- an upper room, a veranda, a yard, a rotunda, a mansion, a veranda above a gatehouse, a rooftop shed, a shed, a wooden hut, an earthen cave, a rock cave, a mountain cave, a grass hut, a hut of leaves, a walkway, a path, a burrowed-out crevice, or a natural crevice, or find any other appropriate shelter from the saṃgha or a person, you may also accept that, provided you take its proper measure. Will you commit yourself to subsisting on such supports?"
+
+The newly ordained monk responds:
+
+"I will so commit myself."
+
+He is then told:
+
+"Listen, venerable [newly ordained monk's name]. As for medicines, it is preferable that you find an herbal decoction suitable.[^new]--The "herbal decoction" represents the most basic of the four allowable supports for the monastic life (catvāraḥ pratyayāḥ): robes, alms food, lodging, and medicines. These four supports define the minimal material basis for renunciant life.-- If one abides by that, the monk who has gone forth and been ordained in the well-proclaimed Dharma and Vinaya will be a genuine monk. Will you, [newly ordained monk's name], delight in living by herbal decoctions for so long as you live?"
+
+The newly ordained monk responds:
+
+"I will delight in living so."
+
+He is then told:
+
+"Or further, if you were to receive ghee, sesame oil, honey, molasses, food fit for a time, fit for a period, tonics kept for seven days, lifelong medicines, medicinal roots, medicinal stalks, medicinal leaves, medicinal fruits, or any other appropriate medicines from the saṃgha or a person, you may also accept them, provided you take the proper amount. Will you commit yourself to subsisting on such supports?"
+
+The newly ordained monk responds:
+
+"I will so commit myself."
+
+###### Explaining the Offenses
+
+Then those things that lead to an offense are explained:
+
+"Listen, venerable [newly ordained monk's name]. The Blessed One, the tathāgata, arhat, perfectly awakened, omniscient, all-seeing Buddha, has declared four things that lead to an offense for monks who have gone forth and been ordained. If a monk were to engage in them, he would immediately disqualify himself as a monk, disqualify himself as an ascetic, disqualify himself as an heir of the Śākya, and would fall from monkhood. It would leave his spiritual practice in tatters, leave him ruined, wrecked, fallen, and defeated. There would be no way to restore his spiritual practice. It is like a palmyra tree: if you were to lop off its crown, it would no longer be green, nor would it flourish, grow, or expand. What are the four? They are desires, clinging to desires, longing for desires, and pursuing desires, which the Blessed One criticized in many ways. It was abandoning desires that he honored; it was renouncing them, rejecting them, forsaking them; it was freedom from desires, their cessation, their pacification, and their vanishing that he esteemed, reverenced, honored, and venerated.
+
+"Venerable, since from now on you should not even fix your eyes with attachment upon a woman, what need is there to mention engaging in an act of sexual intercourse in which a couple's two organs meet? The Blessed One, the tathāgata, arhat, perfectly awakened, omniscient, all-seeing Buddha declared that if any monk, who has the same training as other monks, were to engage in the act of sexual intercourse without first offering back his training with training intact, he is liable, at the least, to wind up among those born as animals. As that monk has suffered a defeat, he should not remain.[^new]--The four defeats (pārājika, Tib. pham pa bzhi) are the four gravest offenses in the monk's code: sexual intercourse, stealing above a fixed amount, killing a human being, and false claims to superhuman attainments. Committing any results in automatic and irrevocable loss of monkhood.-- If a monk were to do such a thing, he would immediately disqualify himself as a monk, disqualify himself as a spiritual practitioner, disqualify himself as an heir of the Śākya, and would fall from monkhood. It would leave his spiritual practice in tatters, leave him ruined, wrecked, fallen, and defeated. There would be no way to restore his spiritual practice. It is like a palmyra tree: If you were to lop off its crown, it would no longer be green, nor would it flourish, grow, or expand. From this day forward, you must endeavor to fully safeguard your intentions by being mindful of and attentive to forsaking improper arrangements, improper actions, and improper behavior. Do you accept not to engage in such things?"
+
+The newly ordained monk responds:
+
+"I will not engage in such things."
+
+He is then told:
+
+"Listen, venerable [newly ordained monk's name]. The Blessed One criticized stealing in many ways, and esteemed, reverenced, honored, and venerated the forsaking of stealing. Venerable, since, from now on, you should not, with thieving intent, take from another so much as the husk of a sesame seed, what need is there to mention five measures of gold or more?[^new]--"Five measures of gold or more" (pañcamāṣaka) designates the minimum threshold of value above which theft constitutes a defeat offense (pārājika). The māṣaka was a small monetary unit; five māṣakas in gold was a standard legal threshold in ancient Indian law codes.-- Venerable, the Blessed One, the tathāgata, arhat, perfectly awakened, omniscient, all-seeing Buddha declared that if any monk takes something of another's—in the community or outside the monastery—which he has not been given, that is counted as tantamount to stealing, no matter how much he has stolen, whereby the king or his minister could rightly say to him, 'O! You are a thief! A fool! An idiot! A robber!' and execute, bind, or exile him. If a monk thus takes what has not been given, that monk also incurs a defeat and so should not remain. If a monk were to do such things, he would immediately disqualify himself as a monk, disqualify himself as an ascetic, disqualify himself as an heir of the Śākya, and would fall from monkhood. It would leave his spiritual practice in tatters, leave him ruined, wrecked, fallen, and defeated. There would be no way to restore his spiritual practice. It is like a palmyra tree: if you were to lop off its crown, it would no longer be green, nor would it flourish, grow, or expand. From this day forward, you must endeavor to fully safeguard your intentions by being mindful of and attentive to forsaking improper arrangements, improper actions, and improper behavior. Do you accept not to engage in such things?"
+
+The newly ordained monk responds:
+
+"I will not engage in such things."
+
+He is then told:
+
+"Listen, venerable [newly ordained monk's name]. The Blessed One criticized killing in many ways and esteemed, reverenced, honored, and venerated the forsaking of killing. Venerable, since, from now on, you should not so much as kill an ant intentionally, what need is there to mention a human or a human embryo? Venerable, the Blessed One, the tathāgata, arhat, perfectly awakened, omniscient, all-seeing Buddha declared that if any monk intentionally kills a human, or a human embryo, with his own hands, or gives them a weapon, sends an assassin to them, pressures them, or extols the merits of death to them, then say this to him: 'Oh! Why do you visit such negativity, filth, and evil on the living? Oh! You, who are alive and well, you suggest it would be better to die. In your mind, do you desire and scheme, while pressuring them with the many things you say?' The Blessed One declared that if, initiated by that monk's extolling the merits of death, the time comes that it happens, then that monk incurs a defeat and thus should not remain. If a monk were to do such things as these, he would immediately disqualify himself as a monk, disqualify himself as an ascetic, disqualify himself as an heir of the Śākya, and would fall from monkhood. It would leave his spiritual practice in tatters, leave him ruined, wrecked, fallen, and defeated. There would be no way to restore his spiritual practice. It is like a palmyra tree: if you were to lop off its crown, it would no longer be green, nor would it flourish, grow, or expand. From this day forward, you must endeavor to fully safeguard your intentions by being mindful of and attentive to forsaking improper arrangements, improper actions, and improper behavior. Do you accept not to engage in such things?"
+
+The newly ordained monk responds:
+
+"I will not engage in such things."
+
+He is then told:
+
+"Listen, venerable [newly ordained monk's name]. The Blessed One criticized lying in many ways and esteemed, reverenced, honored, and venerated the forsaking of lying. Venerable, since, from now on, you should not knowingly speak falsely even in the hopes of getting a laugh, what need is there to mention intentionally claiming to possess superhuman qualities? Venerable, the Blessed One, the tathāgata, arhat, perfectly awakened, omniscient, all-seeing Buddha declared that any monk who claims to have attained the final superhuman quality, or an exalted or specific superhuman human quality, while in a state of nonperception or nondiscernment,[^new]--Tib. du shes med pa and du shes med min pa. These terms refer to the eighth formless meditative absorption (naivasaṃjñānāsaṃjñāyatana) and the cessation of perception and feeling (nirodhasamāpatti), which are sometimes confused with arhatship or liberation.-- one who, while devoid of knowledge, insight, and first-hand experience,[^new]--Tib. shes pa, mthong ba, myong ba. The triad of "knowledge" (jñāna), "insight" (darśana), and "first-hand experience" (sākṣātkāra) represents the three epistemic modes by which genuine attainment is verified in the Abhidharma literature.-- claims, 'I know this, I have seen this,' even though he has not, that monk incurs a defeat, unless at some other time, wanting to come clean about the offense that has occurred, he says, at another's urging or not, 'Venerables, I declared I knew something I did not know. I declared I saw something I did not see. I spoke duplicitously and fraudulently,' in which case it is only excessive pride.
+
+"The Blessed One declared that such a monk has incurred a defeat and thus should not remain. Such a monk claims, 'What do I know? I know suffering. I know its origin. I know its cessation. I know its path. What do I see? I see gods. I see the nāgas, yakṣas, garuḍas, gandharvas, kinnaras, mahoragas, pretas, piśācas, kumbhāṇḍas, pūtanas, kataputanas, and pūtana piśācas. The gods also see me. The nāgas, yakṣas, garuḍas, gandharvas, kinnaras, mahoragas, pretas, piśācas, kumbhāṇḍas, pūtanas, kataputanas, and pūtana piśācas also see me. I hear the voices of the gods. I hear the voices of the nāgas, yakṣas, garuḍas, gandharvas, kinnaras, mahoragas, pretas, piśācas, kumbhāṇḍas, pūtanas, kataputanas, and pūtana piśācas. The gods also hear my voice. The nāgas, yakṣas, garuḍas, gandharvas, kinnaras, mahoragas, pretas, piśācas, kumbhāṇḍas, pūtanas, kataputanas, and pūtana piśācas also hear my voice. I go to see the gods. I go to see the nāgas, yakṣas, garuḍas, gandharvas, kinnaras, mahoragas, pretas, piśācas, kumbhāṇḍas, pūtanas, kataputanas, and pūtana piśācas too. The gods come to see me. The nāgas, yakṣas, garuḍas, gandharvas, kinnaras, mahoragas, pretas, piśācas, kumbhāṇḍas, pūtanas, kataputanas, and pūtana piśācas also come see me.'
+
+"He claims, 'I converse with the gods. I chat with them. We delight one another, and I always keep their company. I converse with the nāgas, yakṣas, garuḍas, gandharvas, kinnaras, mahoragas, pretas, piśācas, kumbhāṇḍas, pūtanas, kataputanas, and pūtana piśācas. I chat with them. We delight one another. And I always keep their company. The gods converse with me. They chat with me. We delight one another. And they always keep my company. The nāgas, yakṣas, garuḍas, gandharvas, kinnaras, mahoragas, pretas, piśācas, kumbhāṇḍas, pūtanas, kataputanas, and pūtana piśācas converse with me. They chat with me. We delight one another. And they always keep my company.'
+
+"Though he has no such attainments, he claims, 'I have gained recognition of impermanence, recognition of the suffering in impermanence, recognition of the selflessness of suffering, recognition of aversion to food, recognition of dislike for all worlds, recognition of drawbacks, recognition of abandonment, recognition of freedom from desirous attachment, recognition of cessation, recognition of death, recognition of ugliness, recognition of putrefaction, recognition of suppuration, recognition of bloating, recognition of decomposition, recognition of moldering, recognition of red rot, recognition of disintegration,[^new]--Tib. rnam par 'thor ba. "Disintegration" is one of the nine cemetery contemplations (nava śivathikā) on the decomposition of a corpse, intended to cultivate disenchantment with the body and reduce attachment.-- recognition of bare bones, and recognition of the discernment of emptiness.'
+
+"Though he has no such attainments, he claims, 'I have attained the first, second, third, and fourth dhyānas; loving kindness, compassion, joy, and equanimity; the abode of infinite space, the abode of infinite consciousness, the abode of nothingness, the abode of neither recognition nor nonrecognition, the fruition of stream enterer, the fruition of once-returner, the fruition of non-returner, the fruition of arhatship, miraculous abilities, the divine ear, and knowledge of manifold minds, previous lives, the onset of death and birth, and the exhaustion of defilements. I, an arhat absorbed in the eight liberations, have been freed from the two.'[^new]--"Freed from the two" (dvayāvimukta, Tib. gnyis las rnam par grol ba) refers to liberation from both defilements and from the aggregates through the liberation of the mind (cetovimukti) and the liberation through wisdom (prajñāvimukti).--
+
+"If a monk were to do such things, he would immediately disqualify himself as a monk, disqualify himself as an ascetic, disqualify himself as an heir of the Śākya, and would fall from monkhood. It would leave his spiritual practice in tatters, leave him ruined, wrecked, fallen, and defeated. There would be no way to restore his spiritual practice. It is like a palmyra tree: if you were to lop off its crown, it would no longer be green, nor would it flourish, grow, or expand.
+
+"From this day forward, you must endeavor to fully safeguard your intentions by being mindful of and attentive to forsaking improper arrangements, improper actions, and improper behavior. Do you accept not to engage in such things?"
+
+The newly ordained monk responds:
+
+"I will not engage in such things."
+
+###### Explaining Those Things That Constitute Spiritual Practice
+
+Explain those things that constitute spiritual practice:
+
+"Listen, venerable [newly ordained monk's name]. The Blessed One, the tathāgata, arhat, perfectly awakened, omniscient, all-seeing Buddha has declared four observances to constitute spiritual practice. What are those four observances? Venerable, from now on, though you be rebuked, do not rebuke in return; though you be assaulted, do not assault in return; though you be struck, do not strike back; and though you be reproached, do not reproach in return. Do you accept to engage in such observances?"
+
+The newly ordained monk responds:
+
+"I will engage in those observances."
+
+###### Announcing the Perfect Fulfillment of His Greatest Desire
+
+Announce the perfect fulfillment of his greatest desire:
+
+"Listen, venerable. As you have irreproachably secured a suitable preceptor, a suitable instructor, the consent of the saṃgha, and an act whose fourth member is a motion, it would not be right to disregard your wish, your wanting monkhood, to go forth and be ordained in the well-proclaimed Dharma and Vinaya. And so I declare that you have gone forth and been ordained."
+
+###### Enjoining Him to Practice the Equally Applicable Ethical Code
+
+Enjoin him to practice the equally applicable ethical code:
+
+"Listen, venerable. A person ordained today trains in the very same training that a monk ordained for one hundred years trains in. Just so, one ordained for one hundred years trains in the very same training that a monk ordained today trains in. Since the ethical code is equally applicable, the training is equally applicable, and because the recitation of the Prātimokṣasūtra is equally applicable,[^new]--The Prātimokṣasūtra (Tib. so sor thar pa'i mdo) is the monastic code of individual liberation—the listing of the rules of conduct for monks—recited fortnightly at the upoṣadha ceremony. "Its supplements" refers to the procedural rules (karmavācanā) accompanying the sūtra proper.-- from now on you must not neglect what you must train in."
+
+###### Enjoining Him to Bond with His Role Model in the Renunciant Life
+
+Enjoin the newly ordained monk to bond with his role model in the renunciant life:
+
+"From now on, you should think of your preceptor as your father. For his part, your preceptor will think of you as his son. From this day forth, you should serve your preceptor for as long as you shall live. For his part, your preceptor will nurse you unto death, for so long as you live."
+
+###### Enjoining Him to Dwell in Tranquility
+
+Enjoin him to dwell in tranquility:
+
+"From now on, have respect for your fellow brahmacārin—elders, the middle-aged, and the young—defer to them, and remain in thrall to them."
+
+###### Enjoining Him to Carry Out His Obligations
+
+Enjoin him to carry out his obligations:
+
+"From now on, you should receive instructions, learn them, and recite them. Become skilled in the aggregates, become skilled in the sense spheres, become skilled in the seats of the senses, become skilled in interdependent arising, become skilled in right and wrong, attain what you have not yet attained, realize what you have not yet realized, actualize what you have not yet actualized—do not let your effort lag."
+
+###### Informing Him of What He Must Do to Fully Understand His Unspoken Commitments
+
+Inform him of what he must do to fully understand his unspoken commitments:[^new]--The "unspoken commitments" (anuddeśa, Tib. ma bshad pa) are those aspects of monastic conduct considered self-evident from the spirit of the training, which the newly ordained monk is expected to intuit and follow without being explicitly instructed in each case.--
+
+"These things that I have told you are but a rough overview of the foundations of your training. You shall hear more every half-month when the Prātimokṣasūtra is recited. As for the rest, it will be taught at length to by your instructor, your preceptor, a common preceptor, a common instructor, those to whom you speak, with whom you converse, familiars, and friends."
+
+###### Enjoining Him to Heed What He Reveres
+
+Enjoin him to heed what he reveres:[^new]--The "what he reveres" (pūjya, Tib. gus par bya ba) refers to the objects of veneration—the Buddha, the Dharma, the Saṃgha, the preceptor, the instructor—to which the newly ordained monk must show constant respect.--
+
+> "You have been ordained  
+> Into the teachings of the most wise.  
+> To find leisure and opportunity is rare,  
+> So heed them perfectly.  
+> Knowing all, the Perfectly Awakened One,  
+> Whose name denotes truth, proclaimed  
+> That going forth is for the beautiful  
+> And ordination for the pure."  
+
+###### Enjoining Him in the Methods Together with the Instructions That Should Be Practiced
+
+Finally, enjoin him in the methods together with the instructions that should be practiced:
+
+"Venerable, as you have been ordained, you must be conscientious."
+
+This marks the end of the monk's ordination rite.
+
+### Querying Upasena
+
+An intervening summary:
+
+> Not seeking, begging bowl, robes,  
+> Nursing, regret, view,  
+> Disciplinary acts, ask, probation,  
+> Probation, and reinstatement.  
+
+The monks asked the Blessed One for instructions on what to do when those who have gone forth and are ordained cannot consult, seek counsel from, or heed the preceptor or instructor.
+
+The Blessed One replied, "Monks, I will lay out the regular duties of monk apprentices and monk journeymen. Monk apprentices and monk journeymen should not wet, sweep, or apply fresh cow dung to a monastery, or work on their begging bowl or robes, without first consulting a preceptor or instructor.[^new]--"Without first consulting a preceptor or instructor" encapsulates the core discipline of the dependence relationship (Skt. niśraya, Tib. gnas brten) that governs the first five years of monastic life.-- Such monks should not store them. Such monks should not distribute soap or toothbrushes. They should not be asked for instruction or looked to for answers. Monk apprentices and monk journeymen should not undertake any activity without first consulting a preceptor or instructor, with the exception of defecating, urinating, throwing away their toothbrush, drinking water, paying reverence to a stūpa in the vicinity of the monastery, or go beyond forty-nine fathoms of the monastery.
+
+"When, for instance, they attend to the begging bowl of a preceptor or instructor, monk apprentices and monk journeymen should do so with great vigor, thinking, 'Oh! We shall work on the preceptor or instructor's begging bowl or have another do so.' If they should exert themselves, then all is well. A breach occurs if they do not exert themselves.
+
+"When, for instance, they attend to the robes of a preceptor or instructor, monk apprentices and monk journeymen should do so with great vigor, thinking, 'Oh! We shall work on the preceptor or instructor's robes or have another do so.' If they should exert themselves, then all is well. A breach occurs if they should not exert themselves.
+
+"When, for instance, a preceptor or instructor falls ill, monk apprentices and monk journeymen should think with great vigor, 'Oh! We shall nurse the preceptor or instructor or have another do so.' If they should exert themselves, then all is well. A breach occurs if they should not exert themselves.
+
+"If their preceptor or instructor should feel anxious, monk apprentices and monk journeymen should think with great vigor, 'Oh! I will dispel the anxiety of my preceptor or instructor, or cause another to dispel my preceptor or instructor's anxiety.'[^new]--This passage establishes the monk apprentice's obligation to support his preceptor or instructor in times of distress, whether through direct assistance or by enlisting others' help—a key component of the mutual duties of the preceptor-disciple bond.-- If they should exert themselves, then all is well. A breach occurs if they should not exert themselves.
+
+"If their preceptor or instructor develops a deviant view, monk apprentices and monk journeymen should think with great vigor, 'Oh! I will dispel my preceptor or instructor's deviant view, or cause another to dispel my preceptor or instructor's deviant views.' If they should exert themselves, then all is well. A breach occurs if they should not exert themselves.
+
+"The saṃgha may mete out the following disciplinary acts on a preceptor or instructor: an act of censure, an act of chastening, an act of expulsion, an act of reconciliation, an act of suspension for refusal to acknowledge, an act of suspension for refusal to make reparations, or an act of suspension for refusal to give up deviant views. If they are about to mete out such an act, a monk apprentice or journeyman should plead with great vigor, 'Oh! The saṃgha should not mete out such disciplinary acts to my preceptor or instructor.' Or, if such a disciplinary act has already been meted out, monk apprentices and monk journeymen should plead with great vigor 'Oh! For the saṃgha to impose such disciplinary acts on my preceptor or instructor makes my hair bristle and stand on end.[^new]--"My hair bristles and stands on end" (lomaharṣaṇa, Tib. ba spu g.yo ba) is a conventional Vinaya expression indicating extreme agitation or distress, used here by the monk apprentice to dramatize his objection to disciplinary acts imposed on his preceptor.-- I cower before the saṃgha.[^new]--"I cower before the saṃgha" is a formulaic expression of humble submission to the corporate authority of the monastic community, used when a junior monk petitions the saṃgha on behalf of his preceptor.-- Restore his status. Having come into the boundary to show he is like us, I beg forgiveness. Whatever caused him to reject the disciplinary acts that were meted out should be forgiven.' If he should exert himself, then all is well. A breach occurs if he should not exert himself.
+
+"If a preceptor or an instructor were to incur a saṃgha remnant offense, monk apprentices and monk journeymen should plead with great vigor, 'Oh! The saṃgha should impose a probation or a repeat probation on those preceptors and instructors.' If they should exert themselves, then all is well. A breach occurs if they should not exert themselves.[^new]--A "saṃgha remnant offense" (saṃghāvaśeṣa, Tib. dge 'dun lhag ma) is the second most serious category of offense in the Prātimokṣa—one that results in a period of probation (mānatta) and penance rather than automatic expulsion.--
+
+"If a preceptor or an instructor has already served a probation or a repeat probation, monk apprentices and monk journeymen should plead with great vigor, 'Oh! The preceptor or instructor who has already served a probation or a repeat probation should be given a penance or repeat penance.' If they should exert themselves, then all is well. A breach occurs if they should not exert themselves.
+
+"If a preceptor or an instructor has served out a penance or a repeat penance, monk apprentices and monk journeymen should plead with great vigor, 'Oh! The preceptor or instructor who has served out his penance or a repeat penance should be granted a reinstatement.' If they should exert themselves, then all is well. A breach occurs if they should not exert themselves.
+
+"As monk apprentices and monk journeymen treat preceptors and instructors, just so should preceptors and instructors treat monk apprentices and monk journeymen, except for the seeking of permission."
+
+The Blessed Buddha pledged to pass the rainy season in Śrāvastī, in the Jetavana, Anāthapiṇḍada's Park. The venerable Upasena had pledged to pass that same rainy season in some distant place. After one year had passed, he took a ward, allowed his going forth and ordained him.
+
+After the rainy season had passed, Upasena took up his robes. This monk of two years and his ward of one took up their begging bowls and robes, set out for, and made their way in stages to Śrāvastī.
+
+When they arrived, Upasena set down his begging bowl and robe, washed his feet, and went to the Blessed One. Having bowed his head at the Blessed One's feet, he sat off to one side.
+
+It is natural for blessed buddhas to welcome those monks that come to visit them with the words, "Monk, where have you come from just now? Where did you pledge to pass the rainy season?" And so the Blessed One asked Upasena these very questions.
+
+"Reverend, I have come from distant lands just now and I want to speak with you about passing the rainy season in distant lands."
+
+"Upasena, who is this noble son with you?"
+
+"Reverend, he is my ward."
+
+"Upasena, how many years have you passed as a monk? How many years has your ward passed?"[^new]--The Blessed One addresses Upasena here to establish the rule that a monk must have ten years of seniority before he may allow another to go forth and grant full ordination. The "ward" (antevāsika) is the junior monk under Upasena's guidance.--
+
+"Reverend, I have passed two years while my ward has passed one."
+
+The Blessed One said to the monks, "Monks, the noble son Upasena thought first only of gathering a following. A monk who has passed one year should not allow going forth, should not grant ordination, should not give refuge, and should not accept charge of novices, nor should he live independently. Nor should a monk of two years, nor a monk of three years, nor a monk of four years, nor a monk of five years, nor a monk of six years, nor a monk of seven years, nor a monk of eight years. Even a monk of nine years should not allow going forth, should not grant ordination, should not give refuge, and should not accept charge of novices, nor should he live independently. A monk of ten years may allow going forth, may grant ordination, may accept charge of novices, may give refuge, and may live independently.
+
+"For those lacking in such particulars, who are immature, dense, dim-witted, or unskilled, to allow going forth—alas! It is impossible for those who are not disciplined to discipline others. It is impossible for those who are not calm to bring calm to others, for those are not free to free others, for those who have not reached peace to bring others to peace, or for those who have not themselves emerged from the muck to free others from the muck."
+
+Once, an elder who was immature, dense, dim-witted, and unskilled allowed a follower from another tīrthika tradition to go forth and granted him ordination. But, not having received counsel or instruction at any time, the convert offered back his training and fell away, at which point the monks appealed to the Blessed One.
+
+The Blessed One replied, "In light of such events, only monks with ten years and five qualities may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently. What are those five qualities? That such a monk has been ordained for ten years or more, is able to nurse wards or apprentices or enlist others to do so, is able to assuage the guilt of wards or apprentices or enlist others to do so, is able to repudiate the deviant views that have arisen in wards or apprentices or enlist others to do so, and is able to allay unhappiness or enlist others to do so wherever he is, should wards or apprentices feel sad.
+
+"Alternatively, monks with ten years who are endowed with pure conduct, are learned, and retain the sūtras, the vinaya, and the mātṛkā[^new]--The "mātṛkā" (Tib. ma mo) refers to the Abhidharma or doctrinal matrix texts, the third "basket" (piṭaka) of the Buddhist canon, which systematize and categorize the teachings on mind and phenomena.-- may allow going forth, grant ordination, give refuge, and live independently.
+
+"Alternatively, monks with ten years who are endowed with pure conduct, are learned, and are skilled in the sūtras, the vinaya, and the mātṛkā may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who are endowed with pure conduct, are learned, and are experienced in the sūtras, the vinaya, and the mātṛkā may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who are endowed with pure conduct, are learned, and elucidate the sūtras, the vinaya, and the mātṛkā may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who have ethics, are learned, and are able to inspire wards or apprentices to retain the sūtras, the vinaya, and the mātṛkā may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who are endowed with pure conduct, are learned, and train in the training of higher ethics, the training of higher attention, and the training of higher wisdom may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who are endowed with pure conduct, are learned, and are able to inspire wards or apprentices to train in the training of higher ethics, the training of higher attention, and the training of higher wisdom may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who are endowed with pure conduct, are learned, and train in higher conduct, higher monastic discipline, and higher individual liberation[^new]--"Higher conduct, higher monastic discipline, and higher individual liberation" (adhiśīla, adhivinaya, adhiprātimokṣa) are three progressive levels of monastic ethical training constituting an alternate formulation of the three higher trainings (triśikṣā).-- may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who are endowed with pure conduct, are learned, and are able to inspire wards or apprentices to train in higher conduct, higher monastic discipline, and higher individual liberation may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who have perfect faith, perfect ethics, perfect apprehension, perfect generosity, and perfect wisdom may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who have perfect pure conduct, perfect concentration, perfect wisdom, perfect freedom, and perfect knowledge and vision of freedom may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who are endowed with pure conduct, are learned, exert themselves energetically, are wise, and are mindful may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who are endowed with pure conduct, are learned, exert themselves energetically, are wise, and are equipoised may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who are endowed with pure conduct, are learned, exert themselves energetically, are wise, and are skilled in meditative absorption may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who have the whole of a trainee's ethics, the whole of a trainee's concentration, the whole of a trainee's wisdom, the whole of a trainee's freedom, and the whole of a trainee's knowledge and vision of freedom[^new]--These five elements of a trainee's path (śaikṣadharma) are the path qualities of one still in training toward full liberation: the ethics, concentration, wisdom, freedom, and knowledge-and-vision of freedom belonging to the stream-enterer, once-returner, and non-returner.-- may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who have the whole ethics of a nontrainee, the whole of a nontrainee's concentration, the whole of a nontrainee's wisdom, the whole of a nontrainee's freedom, and the whole of a nontrainee's knowledge and vision of freedom[^new]--These five elements of a nontrainee's path (aśaikṣadharma) are the fully perfected path qualities of an arhat, who has nothing further to train in: the arhat's ethics, concentration, wisdom, freedom, and knowledge-and-vision of freedom.-- may allow going forth, grant ordination, give refuge, and live independently.
+
+"Alternatively, monks with ten years who know arising, prescriptions, supplementary prescriptions, prohibitions, and permissions may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who know what hinders the training, know what does not hinder it, are able to expound on it, instruct it, and find refuge for their monk apprentices and monk journeymen may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who know what hinders the training, know what does not hinder it, are able to expound on it, instruct on it, and find refuge for their monk apprentices and monk journeymen may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.
+
+"Alternatively, monks with ten years who know what constitutes an offense, know what does not constitute an offense, know what is light, know what is weighty, and can recite the full Prātimokṣasūtra and repeat and recite its supplements may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently."
+
+Upasena asked the Blessed Buddha, "Reverend, the Blessed One has said, 'Those with ten years and five qualities may allow going forth, grant ordination, accept charge of novices, give refuge, and live independently.' What then, reverend, if a monk has been ordained for sixty years but cannot recite the Prātimokṣasūtra or cannot repeat or recite its supplements? Should he take up residence with another?"
+
+"Upasena, he should live as a dependant elsewhere."
+
+"Reverend, how should he be addressed?"
+
+"Upasena, he should be called an immature elder."
+
+"Where should he take up residence?"
+
+"If there is a senior exemplar, he should take up residence with a senior exemplar. If there is no senior exemplar, he should take up residence with a junior exemplar."[^new]--A "senior exemplar" and "junior exemplar" refer to senior and junior monks assigned to guide and support newly ordained monks in their adjustment to monastic life.--
+
+"What, reverend, should the exemplar be accorded?"
+
+"Upasena, he should be accorded with all of the above except prostrations."
+
+The Blessed Buddha pledged to pass the rainy season in the Kalandakanivāpa at the Bamboo Park near Rājagṛha, at which point a small number of elder monks and a large number of new ones promised to pass the rainy season at Rājagṛha. After the three months of monsoon had passed, the Blessed One instructed the venerable Ānanda, "Go to the monks, Ānanda, and tell them, 'The Tathāgata will travel the realm. As your task will be to accompany the Tathāgata on his travels through the realm, happily ready your robes.' "
+
+Heeding the Blessed One's instruction, Ānanda replied, "I shall do as the Reverend instructs."
+
+To the monks, he said, "Venerables, the Tathāgata will travel the realm. Your task is to accompany him on his travels, so you should happily ready your robes."
+
+"Venerable Ānanda," replied the elder monks, "we cannot travel the realm with the Blessed One, for we are old."
+
+And the new monks said, "Venerable Ānanda, we too cannot travel the realm with the Blessed One, for we are new and our preceptors and instructors will not go. If our preceptors and instructors do not go we must return swiftly and thus, those who have sought refuge[^new]--"Those who have sought refuge" (śaraṇāgata, Tib. skyabs su song ba) refers here to the laypeople or aspirants who have taken refuge with the newly ordained monks as their spiritual preceptors, and who would need to find another refuge-giver if the monks depart.-- will have to seek another yet again."
+
+After the three months of monsoon had passed, the Blessed One donned his robe. He then set out to travel the realm with a small entourage, who carried with them their begging bowls and robes.
+
+For blessed buddhas on a journey, it is natural to wonder about the behavior of those who accompany them. Were they properly trained? Were they properly clothed? Did they carry their belongings or did they lack uniformity? While wondering thus, blessed buddhas look upon them by turning to the right as an elephant would. Thus, on his journey, the Blessed Buddha looked about by turning to the right as an elephant would. When the Blessed Buddha had done so, he saw the Tathāgata's entourage to be small.
+
+Though they see, blessed buddhas may inquire about what they already know. Though they already know, they may inquire—or, even though they know, they may not inquire. They inquire when the time is right, not when the time has passed. Their inquiries are meaningful, not meaningless. In this way blessed buddhas dam the flow of meaningless inquiries.
+
+As blessed buddhas know the time for a meaningful inquiry, the Blessed Buddha asked Ānanda, "What is the cause due to which the Tathāgata's companions are now so few? What are the circumstances for it?"
+
+"Reverend, a small number of elder monks and a large number of new monks discussed the matter during the rains retreat in Rājagṛha. The elder monks said, 'Venerable Ānanda, we cannot travel the realm with the Blessed One, for we are old.' And the new monks said, 'Venerable Ānanda, we too cannot travel the realm with the Blessed One, for we are new and our preceptors and instructors will not go. If our preceptors and instructors do not go, we must return swiftly and thus, those who have sought a refuge will have to seek another yet again.' Reverend, that is the cause due to which the Tathāgata's companions are now so few; those are the circumstances for it."
+
+"Ānanda, I therefore further permit that those with five years and five qualities should travel the realm without a refuge.[^new]--The "five years and five qualities" (pañcavarṣa pañcadharma) are the minimum requirements for a monk to live independently without a refuge: five years of seniority, plus the five qualities described immediately following.-- What are those five qualities? That the monk knows what constitutes an offense, knows what does not constitute an offense, knows what is light, knows what is weighty, and knows how to recite the Prātimokṣasūtra and its supplements. Those with five years and five qualities should travel the realm independently. Do not resent this."
+
+The venerable Upāli asked the Blessed Buddha, "Reverend, the Blessed One has said, 'Those with five years and five qualities should travel the realm independently.' What about a revered monk of six years? If he recites the Prātimokṣasūtra and repeats and recites its supplements, should he too travel the realm independently?"
+
+"Upāli, he should not stay. 'Why is that?' you ask. For one relies on a refuge until one has passed five years."
+
+"Reverend, as for one of four years, if he recites the Prātimokṣasūtra and repeats and recites its supplements, should he too travel the realm independently?"
+
+"Upāli, he should not travel the realm independently. 'Why is that?' you ask. For one relies on a refuge until he has passed five years."[^new]--"One relies on a refuge" (niśrayati, Tib. gnas bsten pa) refers to the formal dependence relationship (niśraya) requiring a junior monk to live under the supervision and guidance of a senior monk for the first five years of monastic life.--
+
+"Reverend, as for one who has knowledge of the three[^new]--"Knowledge of the three" (tisṛṇāṃ vidyā, Tib. rig pa gsum) refers to the three higher knowledges (tisro vidyāḥ) of an arhat: recollection of previous lives, divine eye, and exhaustion of the defilements—the three knowledges attained upon awakening.-- and who has cast aside the three stains,[^new]--"Three stains" (trīṇi kleśāḥ, Tib. dri ma gsum) refers to the three root defilements of desire (rāga), aversion (dveṣa), and confusion (moha), which constitute the fundamental sources of suffering in saṃsāra.-- if he has not five years or the five qualities, should he too travel the realm independently?"
+
+"Upāli, he should not travel the realm independently."
+
+An intervening summary:
+
+> The above section contains the following topics:  
+> Having passed ten years, retain, skilled in,  
+> Experienced in, elucidate, able to inspire others to retain,  
+> Learn, able to inspire others to learn,  
+> The two sets of perfection, the lists of three,  
+> Trainee, nontrainee, knowing how training comes about,  
+> Finding refuge, knowledge of offenses,  
+> And traveling the realm.  
+
+This concludes the section on refuge.
+
 ## Tīrthikas
 ## Two Novices
 ## Scaring Away a Crow
