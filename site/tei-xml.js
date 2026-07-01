@@ -11,9 +11,11 @@
 //   div[@type="subsection"]           — h4 section
 //   <head>                            — heading at the parent div's level
 //   <p>                               — paragraph
-//   <lg><l>…</l></lg>                 — verse block; lines joined with <br>
+//   <lg><l>…</l></lg>                 — verse block; a blockquote, lines joined with <br>
+//   bare <l>…</l> runs                — coalesced into a blockquote (verse without <lg>)
 //   <note place="end">…</note>        — inline footnote ref + end notes list
-//   <milestone>, <lb>, <ptr>          — omitted
+//   <milestone>, <lb>, <caesura>      — omitted
+//   <ptr>                             — keep label text (link if external URL)
 //   <term>, <title>, <ref>, <quote>   — strip tag, keep text
 // ---------------------------------------------------------------------------
 
@@ -70,17 +72,17 @@ export function renderTEI(xmlString) {
     parts.push(`<h1 id="${escAttr(id)}">${escHtml(title)}</h1>\n`);
   }
 
-  for (const child of body.children) {
-    renderNode(child, parts, 0, ctx);
-  }
+  renderBlockSequence([...body.children], parts, 0, ctx);
 
-  // Footnotes section
+  // Footnotes section — match markdown.js exactly so the same CSS applies:
+  // `.footnotes > ol` is forced back to Arabic numerals (overriding the
+  // upper-roman default), and the back-reference uses the shared SVG icon.
   if (ctx.footnotes.length > 0) {
-    parts.push('<section class="footnotes">\n<ol>\n');
+    parts.push('<section class="footnotes" aria-label="Footnotes">\n<hr>\n<ol>\n');
     ctx.footnotes.forEach((fnHtml, i) => {
       const n = i + 1;
       parts.push(
-        `<li id="fn${n}"><p>${fnHtml} <a href="#fnref${n}" aria-label="Back to reference ${n}">↩</a></p></li>\n`
+        `<li id="fn-${n}"><p>${fnHtml} <a href="#fnref-${n}" class="footnote-back" aria-label="Back to content"><svg class="footnote-back-icon" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M9 15 3 9m0 0 6-6M3 9h12a6 6 0 0 1 0 12h-3"/></svg></a></p></li>\n`
       );
     });
     parts.push('</ol>\n</section>\n');
@@ -117,11 +119,35 @@ function renderNode(node, out, divDepth, ctx) {
       // omit
       break;
     default:
-      // Unknown block elements: recurse into children
-      for (const child of node.children) {
-        renderNode(child, out, divDepth, ctx);
-      }
+      // Unknown block elements: recurse, still coalescing bare <l> runs.
+      renderBlockSequence([...node.children], out, divDepth, ctx);
   }
+}
+
+// Render a run of block-level sibling elements, coalescing consecutive bare
+// <l> lines (verse lines with no <lg> wrapper) into one blockquote so they
+// still render like a Markdown `>` quote.
+function renderBlockSequence(children, out, divDepth, ctx) {
+  const isLine = (el) => localName(el) === 'l';
+  let i = 0;
+  while (i < children.length) {
+    if (isLine(children[i])) {
+      const lines = [];
+      while (i < children.length && isLine(children[i])) {
+        lines.push(renderInline(children[i], ctx));
+        i++;
+      }
+      out.push(verseBlockquote(lines));
+    } else {
+      renderNode(children[i], out, divDepth, ctx);
+      i++;
+    }
+  }
+}
+
+// Wrap verse lines in a blockquote (left bar + hanging indent), one <l> per row.
+function verseBlockquote(lines) {
+  return `<blockquote class="tei-verse">\n<p>${lines.join('<br>\n')}</p>\n</blockquote>\n`;
 }
 
 function renderDiv(node, out, divDepth, ctx) {
@@ -129,9 +155,7 @@ function renderDiv(node, out, divDepth, ctx) {
 
   if (type === 'translation') {
     // transparent container — just recurse
-    for (const child of node.children) {
-      renderNode(child, out, divDepth, ctx);
-    }
+    renderBlockSequence([...node.children], out, divDepth, ctx);
     return;
   }
 
@@ -146,10 +170,8 @@ function renderDiv(node, out, divDepth, ctx) {
   }
 
   // Recurse into non-head children
-  for (const child of node.children) {
-    if (localName(child) === 'head') continue;
-    renderNode(child, out, divDepth + 1, ctx);
-  }
+  const rest = [...node.children].filter((c) => localName(c) !== 'head');
+  renderBlockSequence(rest, out, divDepth + 1, ctx);
 }
 
 function renderP(node, out, ctx) {
@@ -162,9 +184,7 @@ function renderLg(node, out, ctx) {
   const lines = [...node.children]
     .filter((c) => localName(c) === 'l')
     .map((l) => renderInline(l, ctx));
-  out.push('<p class="tei-verse">');
-  out.push(lines.join('<br>\n'));
-  out.push('</p>\n');
+  out.push(verseBlockquote(lines));
 }
 
 function renderInline(node, ctx) {
@@ -179,10 +199,24 @@ function renderInline(node, ctx) {
         const n = ctx.fnCount;
         const fnHtml = renderInline(child, ctx);
         ctx.footnotes.push(fnHtml);
+        // Match markdown.js footnote reference markup (plain Arabic, no brackets).
         parts.push(
-          `<sup><a href="#fn${n}" id="fnref${n}" class="footnote-ref" aria-label="Footnote ${n}">[${n}]</a></sup>`
+          `<sup class="footnote-ref" id="fnref-${n}"><a href="#fn-${n}">${n}</a></sup>`
         );
-      } else if (['milestone', 'lb', 'ptr', 'caesura'].includes(tag)) {
+      } else if (tag === 'ptr') {
+        // 84000 TEI puts the visible cross-reference label INSIDE <ptr>
+        // (e.g. <ptr target="...">Going forth</ptr>). Keep the label; link it
+        // only for external URLs (internal #ids don't map to heading slugs).
+        const label = renderInline(child, ctx);
+        if (label) {
+          const target = child.getAttribute('target') || '';
+          if (target.startsWith('http://') || target.startsWith('https://')) {
+            parts.push(`<a href="${escAttr(target)}">${label}</a>`);
+          } else {
+            parts.push(label);
+          }
+        }
+      } else if (['milestone', 'lb', 'caesura'].includes(tag)) {
         // omit
       } else {
         // term, title, ref, quote, foreign, hi, etc. → inline text

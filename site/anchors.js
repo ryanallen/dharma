@@ -91,11 +91,11 @@ function assignLocus(target, locus, seen) {
 
 // Number the document so each block has a short, citable address. Every heading
 // (h1–h6) is the next integer in document order: 1, 2, 3 … A bare integer means
-// heading. Every non-heading block between two headings is the next decimal under
-// the most recent heading: <heading>.<n>. The counter resets at each heading. A
-// heading keeps the slug id the renderer gave it (so the table of contents and
-// #slug links resolve) and carries its number through a hidden alias. The
-// navigation outline (link-only list items) is skipped. The address is pure
+// "heading". Every non-heading block between two headings is the next decimal
+// under the most recent heading: <heading>.<n>. The counter resets at each
+// heading. A heading keeps the slug id the renderer gave it (so the table of
+// contents and #slug links resolve) and carries its number through a hidden alias.
+// The navigation outline (link-only list items) is skipped. The address is pure
 // ASCII, so a heading with diacritics still reads cleanly in the link tooltip.
 // Numbering is deterministic, so the ids survive the re-render a fragment jump
 // triggers.
