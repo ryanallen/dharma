@@ -21,12 +21,13 @@
 // ---------------------------------------------------------------------------
 
 import { renderMarkdown } from '../site/markdown.js';
+import { renderTEI, isTEI } from '../site/tei-xml.js';
 import { initMinimap } from '../site/minimap.js';
 import { highlightCode, decorateCodeBlocks } from '../site/codeblocks.js';
 import { decorateAnchorLinks } from '../site/anchors.js';
 import { decorateBlockquoteLines } from '../site/blockquotes.js';
 import { loadDocsNav } from '../site/docs-nav.js';
-import { installGlossary } from '../site/glossary.js';
+import { installGlossary, installAutoGlossary } from '../site/glossary.js';
 import { installLinkTooltip } from '../site/link-tooltip.js';
 import { installSettings } from '../site/settings.js';
 import { applySpeedReaderIfEnabled } from '../site/speed-reader.js';
@@ -347,7 +348,7 @@ contentEl.addEventListener('click', (event) => {
     return;
   }
 
-  if (/\.md(?:[#?].*)?$/i.test(href) && !/^[a-z]+:\/\//i.test(href)) {
+  if (/\.(md|xml)(?:[#?].*)?$/i.test(href) && !/^[a-z]+:\/\//i.test(href)) {
     const { route, anchor } = routeAndAnchorFromHref(href, displayedRoute);
     if (route) {
       event.preventDefault();
@@ -393,7 +394,7 @@ function breadcrumbItems(route, heading) {
 }
 
 function setHeadMetadata(route, heading) {
-  const file = route === '' ? 'README.md' : route + '.md';
+  const file = route === '' ? 'README.md' : /\.xml$/i.test(route) ? route : route + '.md';
   const canonical = new URL(location.hash || '#/', location.href).href;
 
   upsertHead('link[rel="canonical"]', 'link', { rel: 'canonical', href: canonical });
@@ -461,15 +462,19 @@ async function render(route, anchor) {
     return;
   }
 
-  const file = route === '' ? 'README.md' : route + '.md';
+  // A route ending in .xml names a TEI/XML file to render directly; anything
+  // else is Markdown fetched as "<route>.md".
+  const isXmlRoute = /\.xml$/i.test(route);
+  const file = route === '' ? 'README.md' : isXmlRoute ? route : route + '.md';
   try {
     statusEl.hidden = false;
     statusEl.textContent = 'Loading…';
     const res = await fetch(file, { cache: 'no-cache' });
     if (!res.ok) throw new Error('HTTP ' + res.status + ' fetching ' + file);
-    const markdown = await res.text();
+    const text = await res.text();
+    const isXML = isXmlRoute || isTEI(text);
 
-    contentEl.innerHTML = renderMarkdown(markdown);
+    contentEl.innerHTML = isXML ? renderTEI(text) : renderMarkdown(text);
     decorateBlockquoteLines(contentEl);
     statusEl.hidden = true;
     displayedRoute = route;
@@ -485,16 +490,30 @@ async function render(route, anchor) {
     // Rebuild the minimap from scratch (initMinimap appends a fresh rail).
     document.querySelectorAll('.document-minimap').forEach((el) => el.remove());
 
-    renderMermaidDiagrams();
-    renderMath();
-    highlightCode(contentEl, HLJS_SRC);
-    decorateCodeBlocks(contentEl);
+    // Mermaid, math, and code highlighting are Markdown-only; TEI/XML documents
+    // carry none of them, so skip those passes (matches site/reader.js).
+    if (!isXML) {
+      renderMermaidDiagrams();
+      renderMath();
+      highlightCode(contentEl, HLJS_SRC);
+      decorateCodeBlocks(contentEl);
+    }
     decorateAnchorLinks(contentEl);
     delete contentEl.dataset.speedReaderProcessed;
     applySpeedReaderIfEnabled(contentEl);
     initMinimap(contentEl);
 
     scrollToAnchor(anchor);
+
+    // Auto-link glossary terms after paint. Terms already wrapped by hand (real
+    // ../GLOSSARY.md#slug links) are skipped, so manual and automatic linking do
+    // not conflict. The glossary lives one level above /docs.
+    installAutoGlossary({
+      contentEl,
+      renderMarkdown,
+      renderTEI,
+      glossaryUrl: ['../GLOSSARY.md', '../GLOSSARY.xml', '../glossary.xml'],
+    });
   } catch (err) {
     statusEl.hidden = false;
     statusEl.textContent =

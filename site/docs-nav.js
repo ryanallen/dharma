@@ -30,7 +30,7 @@
 // Rendering" / "Get Started". Pure transformation of the on-disk name.
 function label(name) {
   return name
-    .replace(/\.md$/i, '')
+    .replace(/\.(md|xml)$/i, '')
     .replace(/[-_]+/g, ' ')
     .trim()
     .replace(/\b\w/g, (c) => c.toUpperCase());
@@ -75,9 +75,12 @@ function buildNav(relPaths) {
     node.files
       .filter((f) => !isReadme(f))
       .sort(byName)
-      .forEach((f) =>
-        out.push({ route: (rel ? rel + '/' : '') + f.replace(/\.md$/i, ''), label: label(f) })
-      );
+      .forEach((f) => {
+        // .md routes drop the extension (route "foo" ⇒ fetch "foo.md"); other
+        // types (.xml) keep it so the route names the real file to fetch.
+        const routeName = /\.md$/i.test(f) ? f.replace(/\.md$/i, '') : f;
+        out.push({ route: (rel ? rel + '/' : '') + routeName, label: label(f) });
+      });
     [...node.dirs.keys()].sort(byName).forEach((d) => {
       const childRel = (rel ? rel + '/' : '') + d;
       const child = node.dirs.get(d);
@@ -124,7 +127,7 @@ async function fromAutoindex() {
       const childRel = rel ? rel + '/' + name : name;
       if (href.endsWith('/')) {
         await crawl(childRel);
-      } else if (/\.md$/i.test(name)) {
+      } else if (/\.(md|xml)$/i.test(name)) {
         paths.push(childRel);
       }
     }
@@ -150,11 +153,11 @@ async function fromGitHub(repo) {
 
   const prefix = base ? base.replace(/\/+$/, '') + '/' : '';
   const paths = data.tree
-    .filter((e) => e.type === 'blob' && e.path.startsWith(prefix) && /\.md$/i.test(e.path))
+    .filter((e) => e.type === 'blob' && e.path.startsWith(prefix) && /\.(md|xml)$/i.test(e.path))
     .map((e) => e.path.slice(prefix.length))
     .filter(Boolean);
 
-  if (!paths.length) throw new Error('no markdown under ' + (base || 'repo root'));
+  if (!paths.length) throw new Error('no documents under ' + (base || 'repo root'));
   return buildNav(paths);
 }
 

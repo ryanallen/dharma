@@ -260,6 +260,10 @@ export function installGlossary({ glossaryUrl, renderMarkdown, onNavigate }) {
 
 const SKIP_TAGS = new Set(['a', 'code', 'pre', 'script', 'style', 'head']);
 
+// Compiled {pattern, termMap} per glossary URL, so repeated renders (the docs
+// viewer swaps pages without reloading) reuse one fetch + one compile.
+const autoGlossaryCache = new Map();
+
 function escapeRegex(str) {
   return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
@@ -350,8 +354,7 @@ function extractTerms(html) {
  * @param {Function|null} renderTEI
  * @returns {Promise<string|null>}
  */
-async function fetchGlossaryHtml(renderMarkdown, renderTEI) {
-  const candidates = ['GLOSSARY.md', 'GLOSSARY.xml', 'glossary.xml'];
+async function fetchGlossaryHtml(renderMarkdown, renderTEI, candidates) {
   for (const name of candidates) {
     let res;
     try {
@@ -377,29 +380,49 @@ async function fetchGlossaryHtml(renderMarkdown, renderTEI) {
  * @param {Element} opts.contentEl     — the rendered document element
  * @param {Function} opts.renderMarkdown
  * @param {Function} [opts.renderTEI]  — optional; used for .xml glossary files
+ * @param {string|string[]} [opts.glossaryUrl]  — where to fetch the glossary from;
+ *        a single URL or a list tried in order (first that exists wins). Needed when
+ *        the page is not next to the glossary (e.g. /docs uses ../GLOSSARY.*). Defaults
+ *        to trying GLOSSARY.md / GLOSSARY.xml / glossary.xml next to the page.
  */
-export async function installAutoGlossary({ contentEl, renderMarkdown, renderTEI }) {
-  let glossaryHtml;
-  try {
-    glossaryHtml = await fetchGlossaryHtml(renderMarkdown, renderTEI || null);
-  } catch {
-    return;
+export async function installAutoGlossary({ contentEl, renderMarkdown, renderTEI, glossaryUrl }) {
+  const candidates = glossaryUrl
+    ? Array.isArray(glossaryUrl)
+      ? glossaryUrl
+      : [glossaryUrl]
+    : ['GLOSSARY.md', 'GLOSSARY.xml', 'glossary.xml'];
+
+  // Build (or reuse) the compiled term pattern for this glossary URL. The
+  // glossary is large (hundreds of entries) and the docs viewer re-renders on
+  // every navigation, so caching avoids re-fetching and re-compiling each time.
+  const cacheKey = candidates.join('|');
+  let compiled = autoGlossaryCache.get(cacheKey);
+  if (!compiled) {
+    let glossaryHtml;
+    try {
+      glossaryHtml = await fetchGlossaryHtml(renderMarkdown, renderTEI || null, candidates);
+    } catch {
+      return;
+    }
+    if (!glossaryHtml) return;
+
+    const terms = extractTerms(glossaryHtml);
+    if (!terms.length) return;
+
+    // Build a single regex from all terms (whole-word boundaries)
+    const pattern = new RegExp(
+      '(?<![\\p{L}\\p{M}\\d])(' +
+        terms.map((t) => escapeRegex(t.term)).join('|') +
+        ')(?![\\p{L}\\p{M}\\d])',
+      'giu'
+    );
+
+    // Map lowercase term → slug for O(1) lookup during replacement
+    const termMap = new Map(terms.map((t) => [t.term.toLowerCase(), t.slug]));
+    compiled = { pattern, termMap };
+    autoGlossaryCache.set(cacheKey, compiled);
   }
-  if (!glossaryHtml) return;
-
-  const terms = extractTerms(glossaryHtml);
-  if (!terms.length) return;
-
-  // Build a single regex from all terms (whole-word boundaries)
-  const pattern = new RegExp(
-    '(?<![\\p{L}\\p{M}\\d])(' +
-      terms.map((t) => escapeRegex(t.term)).join('|') +
-      ')(?![\\p{L}\\p{M}\\d])',
-    'giu'
-  );
-
-  // Map lowercase term → slug for O(1) lookup during replacement
-  const termMap = new Map(terms.map((t) => [t.term.toLowerCase(), t.slug]));
+  const { pattern, termMap } = compiled;
 
   // Collect text nodes first (modifying the DOM during traversal is unsafe)
   const textNodes = collectTextNodes(contentEl);
