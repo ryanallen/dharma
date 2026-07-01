@@ -64,7 +64,7 @@ function decodeEntities(s) {
 // images/links (keeping their text), raw HTML tags, and emphasis/code markers,
 // then decodes entities and collapses whitespace. This matches what GitHub
 // slugs: the visible text of the heading.
-function stripToText(s) {
+export function stripToText(s) {
   let t = String(s);
   // Remove images and links, innermost first, looping until none remain. The
   // [^\[\]]* (no brackets inside) makes each pass match the innermost link, so
