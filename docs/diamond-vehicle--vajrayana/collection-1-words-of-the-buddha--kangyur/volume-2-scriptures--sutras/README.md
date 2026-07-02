@@ -7,3 +7,5 @@
 ## <div align="center">[The Perfection of Wisdom in Eighteen Thousand Lines](toh10-the_perfection_of_wisdom_in_eighteen_thousand_lines.xml) </br><sub>[*(Aṣṭā­daśa­sāhasrikā­prajñā­pāramitā)*](toh10-the_perfection_of_wisdom_in_eighteen_thousand_lines.xml)</sub> </br><sub>`Toh. 10`</sub></div>
 
 ## <div align="center">[The Transcendent Perfection of Wisdom in Ten Thousand Lines](toh11_perfection_of_wisdom_in_ten_thousand_lines.xml) </br><sub>[*(Daśa­sāhasrikā­prajñā­pāramitā)*](toh11_perfection_of_wisdom_in_ten_thousand_lines.xml)</sub> </br><sub>`Toh. 11`</sub></div>
+
+## <div align="center">[The Perfection of Wisdom in Eight Thousand Lines](toh12-the_perfection_of_wisdom_in_eight_thousand_lines.xml) </br><sub>[*(Aṣṭasāhasrikā­prajñā­pāramitā)*](toh12-the_perfection_of_wisdom_in_eight_thousand_lines.xml)</sub> </br><sub>`Toh. 12`</sub></div>

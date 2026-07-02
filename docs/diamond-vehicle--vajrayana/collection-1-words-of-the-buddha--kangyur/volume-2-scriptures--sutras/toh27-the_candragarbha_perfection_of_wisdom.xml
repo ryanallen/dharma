@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/current/translation.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                <title type="mainTitle" xml:lang="en">The Candragarbha Perfection of
+                                        Wisdom</title>
+                <title type="mainTitle" xml:lang="Sa-Ltn">Candragarbha­prajñāpāramitā</title>
+                <title type="mainTitle" xml:lang="bo">ཤེར་ཕྱིན་ཟླ་བའི་སྙིང་པོ།</title>
+                <title type="mainTitle" xml:lang="Bo-Ltn">sher phyin zla ba’i snying
+                                        po</title>
+                <title type="longTitle" xml:lang="en">The Noble Great Vehicle Sūtra
+                                        “The Candragarbha Perfection of Wisdom”</title>
+                <title type="longTitle" xml:lang="Sa-Ltn">Ārya­candragarbha­prajñā­pāramitāmahāyāna­sūtra</title>
+                <title type="longTitle" xml:lang="bo">འཕགས་པ་ཟླ་བའི་སྙིང་པོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཐེག་པ་ཆེན་པོའི་མདོ།</title>
+                <title type="longTitle" xml:lang="Bo-Ltn">’phags pa zla ba’i snying
+                                        po shes rab kyi pha rol tu phyin pa theg pa chen po’i
+                                        mdo</title>
+                <author role="translatorMain" xml:id="UT22084-034-015-68">Translated by the
+                                        Indo-Tibetan Studies Translation Group,
+                                        Visva-Bharati,<lb/>under the patronage and supervision of
+                                        84000: Translating the Words of the Buddha</author>
+                <consultant role="dharmaMaster" xml:id="UT22084-034-015-69">Geshe Dakpa Kalsang</consultant>
+                <consultant role="projectManager" xml:id="UT22084-034-015-70">Sanjib Kumar Das</consultant>
+                <author role="translatorEng" xml:id="UT22084-034-015-71">Sanjib Kumar Das</author>
+                <editor role="reviser" xml:id="UT22084-034-015-72">Sanjib Kumar Das</editor>
+                <editor role="proofreader" xml:id="UT22084-034-015-73">Ritiman Das</editor>
+                <editor role="projectEditor" xml:id="UT22084-034-015-74">Nathaniel Rich</editor>
+                <editor role="copyEditor" xml:id="UT22084-034-015-75">Dawn Collins</editor>
+                <editor role="TEImarkupEditor" xml:id="UT22084-034-015-76">Martina Cotter</editor>
+                <editor role="finalReviewer" xml:id="UT22084-034-015-114">Ryan Damron</editor>
+            </titleStmt>
+                        <editionStmt>
+                <edition>v 1.0.5 <date>2023</date>
+                </edition>
+            </editionStmt>
+                        <publicationStmt>
+                <publisher>
+                    <name>84000: Translating the Words of the Buddha</name>
+                                        is a global non-profit initiative to translate all the
+                                        Buddha’s words into modern languages, and to make them
+                                        available to everyone. </publisher>
+                <availability status="1">
+                                        <licence>
+                                                <graphic url="http://i.creativecommons.org/l/by-nc-nd/2.0/88x31.png"/>
+                                                <p>This work is provided under the protection of a
+                                                  Creative Commons CC BY-NC-ND (Attribution -
+                                                  Non-commercial - No-derivatives) 3.0 copyright. It
+                                                  may be copied or printed for fair use, but only
+                                                  with full attribution, and not for commercial
+                                                  advantage or personal compensation. For full
+                                                  details, see the Creative Commons license.</p>
+                                        </licence>
+                                </availability>
+                <idno xml:id="UT22084-034-015"/>
+                <note>An early mistake in the assigning of UT numbers within the
+                                        84000 project means that these ids diverge slightly from the
+                                        standard logic.</note>
+                <date>2023-05-30</date>
+            </publicationStmt>
+                        <sourceDesc>
+                                <bibl key="toh27" type="text">
+                                        <ref>Toh 27</ref>
+                                        <biblScope>Degé Kangyur, vol. 34 (shes rab sna tshog, ka),
+                                                folios 176.b–177.b</biblScope>
+                                        <location work="UT4CZ5369" count-pages="3">
+                                                <volume number="34" start-page="352" end-page="354"/>
+                                        </location>
+                                        <idno parent-id="O1JC114941JC14665" work="http://read.84000.co/sections"/>
+                                        <idno source-id="O1JC114941JC11546" work="W22084"/>
+                                </bibl>
+                        </sourceDesc>
+                        <notesStmt/>
+                    <revisionDesc>
+                <change who="#line-tofte" when="2022-03-08T09:46:51.272Z" type="translation-status" status="4" xml:id="UT22084-034-015-77">
+                    <desc>4</desc>
+                </change>
+                <change who="#line-tofte" when="2022-03-08T09:46:51.272Z" type="text-version" status="0.0.1" xml:id="UT22084-034-015-78">
+                    <desc>0.0.1</desc>
+                </change>
+                <change who="#line-tofte" when="2022-05-18T12:04:58.366Z" type="translation-status" status="3" xml:id="UT22084-034-015-79">
+                    <desc>3</desc>
+                </change>
+                <change who="#line-tofte" when="2022-05-18T12:04:58.366Z" type="text-version" status="0.0.2" xml:id="UT22084-034-015-80">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2022-05-18T12:06:33.603Z" type="text-version" status="0.0.3" xml:id="UT22084-034-015-81">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2022-05-18T12:07:31.286Z" type="text-version" status="0.0.4" xml:id="UT22084-034-015-82">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2022-11-28T11:31:16.537Z" type="translation-status" status="2.h" xml:id="UT22084-034-015-83">
+                    <desc>2.h</desc>
+                </change>
+                <change who="#line-tofte" when="2022-11-28T11:31:16.537Z" type="text-version" status="0.0.5" xml:id="UT22084-034-015-84">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2023-01-09T10:24:39.895Z" type="translation-status" status="2.g" xml:id="UT22084-034-015-85">
+                    <desc>2.g</desc>
+                </change>
+                <change who="#line-tofte" when="2023-01-09T10:24:39.895Z" type="text-version" status="0.0.6" xml:id="UT22084-034-015-86">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2023-01-09T10:25:12.07Z" type="text-version" status="0.0.7" xml:id="UT22084-034-015-87">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2023-01-17T08:54:19.58Z" type="translation-status" status="2.f" xml:id="UT22084-034-015-88">
+                    <desc>2.f</desc>
+                </change>
+                <change who="#line-tofte" when="2023-01-17T08:54:19.58Z" type="text-version" status="0.0.8" xml:id="UT22084-034-015-89">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2023-04-05T15:37:08.498Z" type="translation-status" status="2.e" xml:id="UT22084-034-015-90">
+                    <desc>2.e</desc>
+                </change>
+                <change who="#line-tofte" when="2023-04-05T15:37:08.498Z" type="text-version" status="0.0.9" xml:id="UT22084-034-015-91">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2023-04-05T15:37:40.828Z" type="text-version" status="0.0.10" xml:id="UT22084-034-015-92">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2023-04-17T08:48:19.277Z" type="translation-status" status="2.d" xml:id="UT22084-034-015-93">
+                    <desc>2.d</desc>
+                </change>
+                <change who="#line-tofte" when="2023-04-17T08:48:19.277Z" type="text-version" status="0.0.11" xml:id="UT22084-034-015-94">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2023-05-02T15:02:24.979Z" type="translation-status" status="2.c" xml:id="UT22084-034-015-95">
+                    <desc>2.c</desc>
+                </change>
+                <change who="#line-tofte" when="2023-05-02T15:02:24.979Z" type="text-version" status="0.0.12" xml:id="UT22084-034-015-96">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2023-05-02T15:03:32.45Z" type="text-version" status="0.0.11" xml:id="UT22084-034-015-97">
+                    <desc>0.0.11</desc>
+                </change>
+                <change who="#line-tofte" when="2023-05-25T14:08:07.332Z" type="translation-status" status="2.a" xml:id="UT22084-034-015-98">
+                    <desc>2.a</desc>
+                </change>
+                <change who="#line-tofte" when="2023-05-25T14:08:07.332Z" type="text-version" status="0.0.12" xml:id="UT22084-034-015-99">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2023-05-25T14:08:40.56Z" type="text-version" status="0.0.13" xml:id="UT22084-034-015-100">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2023-06-13T12:19:46.289Z" type="translation-status" status="2" xml:id="UT22084-034-015-101">
+                    <desc>2</desc>
+                </change>
+                <change who="#line-tofte" when="2023-06-13T12:19:46.289Z" type="text-version" status="0.0.2" xml:id="UT22084-034-015-102">
+                    <desc>Auto (update-publication-status)</desc>
+                </change>
+                <change who="#celso" when="2023-06-20T17:20:07.711Z" type="text-version" status="0.0.3" xml:id="UT22084-034-015-103">
+                    <desc>Activated crosslinks to Toh 9</desc>
+                </change>
+                <change who="#admin" when="2023-07-30T22:39:48.323Z" type="text-version" status="0.0.4" xml:id="UT22084-034-015-104">
+                    <desc>TEI migrated to 2.19.0</desc>
+                </change>
+                <change who="#line-tofte" when="2023-08-25T09:10:20.396Z" type="text-version" status="0.0.5" xml:id="UT22084-034-015-115">
+                    <desc>Auto (update-contributors)</desc>
+                </change>
+                <change who="#martina-cotter" when="2023-08-29T12:04:19.352Z" type="translation-status" status="1.a" xml:id="UT22084-034-015-116">
+                    <desc>1.a</desc>
+                </change>
+                <change who="#martina-cotter" when="2023-08-29T12:04:19.352Z" type="text-version" status="1.0.0" xml:id="UT22084-034-015-117">
+                    <desc>First published version</desc>
+                </change>
+                <change who="#andre" when="2023-09-11T20:41:45.337Z" type="text-version" status="1.0.1" xml:id="UT22084-034-015-118">
+                    <desc>Glossary matching revised - Activated in CG</desc>
+                </change>
+                <change who="#celso" when="2023-10-13T11:48:10.305Z" type="text-version" status="1.0.2" xml:id="UT22084-034-015-119">
+                    <desc>reapplied capital letters in Wylie and covert to TibUni-glossary</desc>
+                </change>
+                <change who="#sameer" when="2023-10-16T08:54:55.467Z" type="translation-status" status="1" xml:id="UT22084-034-015-120">
+                    <desc>1</desc>
+                </change>
+                <change who="#sameer" when="2023-10-16T08:54:55.467Z" type="text-version" status="1.0.3" xml:id="UT22084-034-015-121">
+                    <desc>Included in App v 3.7</desc>
+                </change>
+                <change who="#martina-cotter" when="2023-10-20T14:17:27.646Z" type="text-version" status="1.0.4" xml:id="UT22084-034-015-122">
+                    <desc>Added pending links.</desc>
+                </change>
+                <change who="#konchog" when="2023-11-28T14:51:19.216Z" type="text-version" status="1.0.5" xml:id="UT22084-034-015-123">
+                    <desc>A couple small fixes.</desc>
+                </change>
+            </revisionDesc>
+        </fileDesc>
+        </teiHeader>
+        <text>
+                <!--Note the "Contents" outline from the Word DOCX has not been included in the script. If the 
+                    Outline to the text is quite complex, it is recommended that you paste the outlined contents from the DOCX here as a comment for
+                    markup's reference. The actual table of contents will be generated in the Reading Room by the parser.-->
+                <front>
+                        <div type="summary">
+                                <head type="summary" tid="1">Summary</head>
+                                <milestone unit="chunk" xml:id="UT22084-034-015-1"/>
+                                <p tid="2">
+                    <title xml:lang="en">The Candragarbha Perfection of
+                                                Wisdom </title>is a condensed prajñāpāramitā sūtra
+                                        that takes the form of a dialogue between the Buddha and the
+                                        bodhisattva Candragarbha. In response to Candragarbha’s
+                                        question about how bodhisattvas should train themselves in
+                                        the perfection of wisdom, the Buddha declares that the
+                                        perfection of wisdom lies in the understanding that all
+                                        phenomena are devoid of entities, using the analogy of the
+                                        moon to clarify the meaning of this declaration.
+                                        Candragarbha then asks the Buddha how many kinds of
+                                        perfection of wisdom exist for bodhisattvas. The Buddha
+                                        answers by describing two types of perfection of wisdom,
+                                        “contaminated” and “uncontaminated,” and he elucidates the
+                                        nature of the perfection of wisdom with reference to the
+                                        ultimate nature of all phenomena. At the end of this
+                                        discourse, the Buddha presents a mantra of the perfection of
+                                        wisdom, followed by a summary verse.</p>
+                        </div>
+                        <div type="acknowledgment">
+                                <head type="acknowledgment" tid="3">Acknowledgements</head>
+                                <milestone unit="chunk" xml:id="UT22084-034-015-2"/>
+                                <p tid="4">Translated by the Indo-Tibetan Studies Translation Group,
+                                        Visva-Bharati, under the guidance of Ven. Geshe Dakpa
+                                        Kalsang. The translation was produced by Prof. Sanjib Kumar
+                                        Das, who also served as project manager and editor. Ritiman
+                                        Das proofread the first English draft.</p>
+                                <milestone unit="chunk" xml:id="UT22084-034-015-3"/>
+                                <p tid="5">The translation was completed under the patronage and
+                                        supervision of 84000: Translating the Words of the
+                                        Buddha.</p>
+                        </div>
+                        <div type="introduction">
+                                <head type="introduction" tid="8">Introduction</head>
+                                <div type="section" xml:id="UT22084-034-015-introduction-1">
+                                        <milestone unit="chunk" xml:id="UT22084-034-015-6"/>
+                                        <p tid="10">
+                        <title xml:lang="en">The Candragarbha Perfection
+                                                  of Wisdom </title>is a condensed prajñāpāramitā
+                                                sūtra that takes the form of a dialogue between the
+                                                Buddha and the bodhisattva Candragarbha. At the
+                                                outset, Candragarbha asks the Buddha how
+                                                bodhisattvas should train themselves in the
+                                                perfection of wisdom. In response, the Buddha
+                                                declares that the perfection of wisdom lies in the
+                                                understanding that all phenomena are devoid of
+                                                entities. The Buddha uses the analogy of the moon to
+                                                clarify the meaning of this declaration.
+                                                Candragarbha then asks the Buddha how many kinds of
+                                                perfection of wisdom exist for bodhisattvas. The
+                                                Buddha answers by describing two types of perfection
+                                                of wisdom, “contaminated” and “uncontaminated.”
+                                                Furthermore, he elucidates the nature of the
+                                                perfection of wisdom with reference to the ultimate
+                                                nature of all phenomena. At the end of this
+                                                discourse, the Buddha presents a mantra of the
+                                                perfection of wisdom, followed by a summary verse. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-034-015-7"/>
+                                        <p tid="11">
+                        <title xml:lang="en">The Candragarbha Perfection
+                                                  of Wisdom </title>is one of five short
+                                                prajñāpāramitā sūtras that are each named for the
+                                                bodhisattva who is the Buddha’s interlocutor. The
+                                                bodhisattva for whom the present sūtra is named,
+                                                Candragarbha, may be the bodhisattva Candragarbha
+                                                listed as one of the bodhisattvas present in the
+                                                assembly in <title xml:lang="en">The Perfection of
+                                                  Wisdom in One Hundred Thousand Lines</title> (Toh
+                                                8),<note place="end" xml:id="UT22084-034-015-124">Gareth Sparham (2024), trans., <title xml:lang="en">
+                                <ref target="http://read.84000.co/translation/toh8.html">The Perfection of Wisdom in One
+                                                        Hundred Thousand Lines</ref>
+                            </title>, Toh 8 (84000: Translating the Words of the Buddha).</note> <title xml:lang="en">The
+                                                  Perfection of Wisdom in Twenty-Five Thousand Lines
+                                                </title>(Toh 9),<note place="end" xml:id="UT22084-034-015-64">Padmakara Translation Group (2023), trans., <title xml:lang="en">
+                                <ref target="http://read.84000.co/translation/toh9.html">The Perfection of Wisdom in Twenty-five Thousand Lines</ref>
+                            </title>, Toh 9 (84000:
+                                                  Translating the Words of the Buddha).</note> and <title xml:lang="en">The Perfection of Wisdom in Ten
+                                                        Thousand Lines</title> (Toh 11).<note place="end" xml:id="UT22084-034-015-62">Padmakara Translation Group (2018), trans., <title xml:lang="en">
+                                <ref target="http://read.84000.co/translation/toh11.html">The Transcendent Perfection of Wisdom in Ten Thousand Lines</ref>
+                            </title>, Toh 11 (84000:
+                                                                Translating the Words of the Buddha).</note> Although he does not feature as one of the
+                                                Buddha’s interlocutors in those sūtras, the present
+                                                sūtra might nevertheless be seen as a concise
+                                                summary of them. It partly resembles another summary
+                                                of the long prajñāpāramitā sūtras—<title xml:lang="en">The Heart of the Perfection of
+                                                        Wisdom</title> (Toh 21).<note place="end" xml:id="UT22084-034-015-63">Dharmachakra Translation Committee, trans., <title xml:lang="en">
+                                <ref target="http://read.84000.co/translation/toh21.html">The Heart of the Perfection of Wisdom, the Blessed Mother</ref>
+                            </title>, Toh 21 (84000:
+                                                                Translating the Words of the Buddha, 2022).</note>
+                                                In both cases, the discourse summarizes the meaning
+                                                of the perfection of wisdom in response to a
+                                                question about how bodhisattvas should train in
+                                                  it.<note place="end" xml:id="UT22084-034-015-8">
+                                                  <title xml:lang="en">The Heart of the Perfection
+                                                          of Wisdom</title> <ptr target="#UT22084-034-009-69">1.4</ptr>.
+                                                </note> Both also culminate in the revelation of a
+                                                “mantra of the perfection of wisdom” (Tib. <foreign xml:lang="Bo-Ltn" type="term">shes rab kyi pha rol
+                                                  tu phyin pa’i sngags</foreign>).<note place="end" xml:id="UT22084-034-015-9">
+                                                  <title xml:lang="en">The Heart of the Perfection
+                                                          of Wisdom</title> <ptr target="#UT22084-034-009-95">1.15</ptr>.</note>
+                                        </p>
+                                        <milestone unit="chunk" xml:id="UT22084-034-015-10"/>
+                                        <p tid="12">
+                        <title xml:lang="en">The Candragarbha Perfection
+                                                  of Wisdom </title>has no colophon, and it is not
+                                                found in either of the Tibetan imperial catalogs.
+                                                There is no surviving Sanskrit witness, and it does
+                                                not appear that the sūtra was ever translated into
+                                                Chinese. There also do not appear to be any
+                                                references to or citations of the sūtra in the
+                                                commentarial literature. Unfortunately, then, there
+                                                is nothing that can be said about the sūtra’s
+                                                provenance or about its transmission and translation
+                                                in Tibet. It was translated into English with the
+                                                other condensed prajñāpāramitā sūtras by Edward
+                                                Conze, who assumes that it dates from the “Tantric
+                                                period,” after 750 <hi rend="small-caps">ce</hi>.<note place="end" xml:id="UT22084-034-015-11"> Conze 1973, p.
+                                                  iv.</note> A contemporary translation into Chinese
+                                                was published by the Kumarajiva Project in
+                                                  2020.<note place="end" xml:id="UT22084-034-015-12">
+                                                  <ref target="https://www.ymfz.org/library/kangyur_translated/toh0027/">https://www.ymfz.org/library/kangyur_translated/toh0027/</ref>
+                        </note>
+                                                The present translation is based on the version
+                                                found in the Degé Kangyur, with reference to the
+                                                variants recorded in the Comparative Edition (Tib.
+                                                  <title xml:lang="Bo-Ltn">dpe bsdur ma</title>) and
+                                                to the version found in the Stok Palace Kangyur.
+                                        </p>
+                                </div>
+                        </div>
+                </front>
+                <body>
+                        <div type="translation">
+                                <head type="translation"> The Translation </head>
+                                <head type="titleHon" tid="14">The Noble Great Vehicle Sūtra</head>
+                                <head type="titleMain" tid="15">The Candragarbha Perfection of
+                                        Wisdom</head>
+                                <div type="section" xml:id="UT22084-034-015-section-1">
+                                        <milestone unit="chunk" xml:id="UT22084-034-015-15"/>
+                                        <p tid="19">
+                        <ref cRef="F.176.b" type="folio" xml:id="UT22084-034-015-59"/> Homage to all buddhas and bodhisattvas!</p>
+                                        <lb/>
+                                        <p tid="21">Thus did I hear at one time. The Blessed One was
+                                                residing on Vulture Peak in Rājagṛha together with
+                                                an immeasurable and incalculable saṅgha of monks and
+                                                a great many bodhisattvas.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-034-015-18"/>
+                                        <p tid="22">Then the bodhisattva great being Candragarbha,
+                                                who was in the assembly, <ref cRef="F.177.a" type="folio" xml:id="UT22084-034-015-60"/> got up from his
+                                                seat and asked the Blessed One, “How, Blessed One,
+                                                should bodhisattvas train in the perfection of
+                                                wisdom?”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-034-015-19"/>
+                                        <p tid="23">The Blessed One replied, “Candragarbha, that all
+                                                phenomena are devoid of entities is the perfection
+                                                of wisdom. As an analogy, although the disk of the
+                                                moon is without conceptualization, it encircles the
+                                                four continents and dispels darkness. Similarly,
+                                                although bodhisattva great beings who practice the
+                                                perfection of wisdom are without conceptualization,
+                                                they encircle those with<note place="end" xml:id="UT22084-034-015-20"> Here “those with” has
+                                                  been added in English for the sake of clarity. The
+                                                  Tibetan translates as “the four distorted views”
+                                                  (Tib. <foreign xml:lang="Bo-Ltn" type="term">phyin
+                                                  ci log bzhi rnams</foreign>). </note> the four
+                                                distorted views with compassion and naturally dispel
+                                                defilements because of nonconceptualization.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-034-015-21"/>
+                                        <p tid="24">“Blessed One, how many perfections of wisdom of
+                                                bodhisattvas are there?” asked Candragarbha.</p>
+                                        <p tid="25">“Son of a good family,” replied the Blessed One,
+                                                “there are two types of the bodhisattvas’
+                                                perfections of wisdom: contaminated and
+                                                uncontaminated. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-034-015-23"/>
+                                        <p tid="26">“Son of a good family, <distinct>contaminated
+                                                  wisdom</distinct> refers to the conceptualization
+                                                of grasped objects and grasping subjects in the
+                                                context of the stage of devoted conduct—contaminated
+                                                perfection of wisdom abandons that.<note place="end" xml:id="UT22084-034-015-24"> Alternatively,
+                                                  “causes that to be abandoned” (Tib. <foreign xml:lang="Bo-Ltn" type="term">de spong bar byed
+                                                  pa</foreign>).</note>
+                    </p>
+                                        <milestone unit="chunk" xml:id="UT22084-034-015-25"/>
+                                        <p tid="27">“Son of a good family, <distinct>uncontaminated
+                                                  perfection of wisdom</distinct> refers to the
+                                                nonconceptual gnosis of the path of seeing. That
+                                                gnosis is nonconceptual because it is devoid of all
+                                                conceptualization. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-034-015-26"/>
+                                        <p tid="28">“Son of a good family, it is the perfection of
+                                                wisdom because it does not abide in any extreme of
+                                                near or far shore. As for wisdom, since
+                                                  everything<note place="end" xml:id="UT22084-034-015-27"> The Tibetan does not
+                                                  explicitly say “everything,” but this has been
+                                                  added in English for the sake of clarity.</note>
+                                                from form up to all-aspect omniscience is without
+                                                inherent existence, the perfection of wisdom should
+                                                be known to be without inherent existence. Phenomena
+                                                such as form and so on should be known to be
+                                                unapprehended in the three times, neither bound nor
+                                                freed.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-034-015-28"/>
+                                        <p tid="29">“Son of a good family, since all phenomena are
+                                                equal, the perfection of wisdom is equal. Since all
+                                                phenomena <ref cRef="F.177.b" type="folio" xml:id="UT22084-034-015-61"/> are without cessation, the
+                                                perfection of wisdom is without cessation. Since all
+                                                phenomena are without signs, the perfection of
+                                                wisdom is without signs. Since all phenomena are
+                                                without arising, the perfection of wisdom is without
+                                                arising. Since all phenomena are without
+                                                annihilation, the perfection of wisdom is without
+                                                annihilation. Since all phenomena are without
+                                                coming, the perfection of wisdom is without coming.
+                                                Since all phenomena are without going, the
+                                                perfection of wisdom is without going. Since all
+                                                phenomena are without permanence, the perfection of
+                                                wisdom is without permanence. Since all phenomena
+                                                are without difference, the perfection of wisdom is
+                                                without difference. Since all phenomena are one, the
+                                                perfection of wisdom is one. Since all phenomena are
+                                                the essential nature of nonentities, the perfection
+                                                of wisdom is the essential nature of
+                                                nonentities.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-034-015-29"/>
+                                        <p tid="30">“In short, since it transcends a sign,
+                                                existence, and nature, it is the perfection of
+                                                wisdom. Therefore, there is the mantra of the
+                                                perfection of wisdom:</p>
+                                        <milestone unit="chunk" xml:id="UT22084-034-015-30"/>
+                                        <p rend="mantra" tid="31">
+                        <mantra xml:lang="Sa-Ltn">tadyathā | oṃ prajñe
+                                                  prajñe mahāprajñe candraprajñe sarvaśāsakari
+                                                  svāhā</mantra>
+                    </p>
+                                        <milestone unit="chunk" xml:id="UT22084-034-015-31"/>
+                                        <lg tid="32">
+                                                <l>“All phenomena arise from causes—</l>
+                                                <l>That is the conventional truth.</l>
+                                                <l>They are without an intrinsic nature and without
+                                                  thought construction—</l>
+                                                <l>That is the domain of ultimate truth.” </l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-034-015-32"/>
+                                        <p tid="33">After the Blessed One had spoken, the
+                                                bodhisattva Candragarbha, the entire assembly, and
+                                                the world with its gods, humans, asuras, and
+                                                gandharvas rejoiced and praised what the Blessed One
+                                                had said.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-034-015-33"/>
+                                        <trailer tid="34">This concludes the noble Great Vehicle
+                                                sūtra <title xml:lang="en">“The Candragarbha
+                                                        Perfection of Wisdom</title>.”</trailer>
+                                </div>
+                        </div>
+                </body>
+                <back>
+                        <div type="notes">
+                                <head type="notes" tid="37">Notes</head>
+                        </div>
+                        <div type="listBibl">
+                                <head type="listBibl" tid="39">Bibliography</head>
+                                <div type="section" xml:id="UT22084-034-015-listBibl-1">
+                                        <head type="section" tid="40">Tibetan Canonical Texts</head>
+                                        <bibl xml:id="UT22084-034-015-35">
+                        <title xml:lang="Bo-Ltn">’phags pa zla ba’i snying po shes rab kyi pha rol
+                                                tu phyin pa theg pa chen po’i mdo</title> (<title xml:lang="Sa-Ltn">Ārya­candragarbha­prajñā­pāramitāmahāyāna­sūtra</title>).
+                                                Toh 27, Degé Kangyur vol. 34 (shes rab sna tshog,
+                                                ka), folios 176.b–177.b.</bibl>
+                                        <bibl xml:id="UT22084-034-015-36">
+                        <title xml:lang="Bo-Ltn">’phags pa zla ba’i snying po shes rab kyi pha rol
+                                                  tu phyin pa theg pa chen po’i mdo</title>. bka’
+                                                ’gyur (dpe bsdur ma) [Comparative Edition of the
+                                                Kangyur] krung go’i bod rig pa zhig ’jug ste gnas
+                                                kyi bka’ bstan dpe sdur khang (The Tibetan Tripitaka
+                                                Collation Bureau of the China Tibetology Research
+                                                Center). 108 volumes. Beijing: krung go’i bod rig pa
+                                                dpe skrun khang (China Tibetology Publishing House),
+                                                2006–9, vol. 34, pp. 503–6.</bibl>
+                                        <bibl xml:id="UT22084-034-015-37">
+                        <title xml:lang="Bo-Ltn">’phags pa zla ba’i snying po shes rab kyi pha rol
+                                                  tu phyin pa theg pa chen po’i mdo</title>. Stok
+                                                Palace Kangyur vol. 51 (sna tshogs, ka), folios
+                                                280.b–282.a.</bibl>
+                                </div>
+                                <div type="section" xml:id="UT22084-034-015-listBibl-2">
+                                        <head type="section" tid="41">Secondary Texts</head>
+                                        <bibl xml:id="UT22084-034-015-38">Conze, Edward (1973). <title xml:lang="en">Perfect Wisdom: The Short
+                                                  Prajñāpāramitā Texts</title>. London: Luzac &amp;
+                                                Co., 1973.</bibl>
+                                        <bibl xml:id="UT22084-034-015-39">—‍—‍—(1978). <title xml:lang="en">The Prajñāpāramitā
+                                                  Literature</title>. Tokyo: The Reiyukai,
+                                                1978.</bibl>
+                                  <bibl xml:id="UT22084-034-015-65">Dharmachakra Translation Committee, trans. <title xml:lang="en">
+                            <ref target="https://read.84000.co/translation/toh21.html">The Heart of the Perfection of Wisdom, the Blessed
+                                    Mother</ref>
+                        </title> (<title xml:lang="Sa-Ltn">Bhagavatī­prajñā­pāramitā­hṛdaya</title>, Toh 21). 84000:
+                                    Translating the Words of the Buddha, 2022.</bibl>
+                                  <bibl xml:id="UT22084-034-015-67">Padmakara Translation Group, trans. (2018) <title xml:lang="en">
+                                    <ref target="https://read.84000.co/translation/toh11.html">The Transcendent Perfection of Wisdom in Ten Thousand
+                                      Lines</ref>
+                                  </title> (<title xml:lang="Sa-Ltn">Daśa­sāhasrikā­prajñā­pāramitā</title>, Toh 11). 84000: Translating the Words of the
+                                    Buddha, 2018.</bibl>
+                                  <bibl xml:id="UT22084-034-015-66">‍—‍—‍—(2023), trans. <title xml:lang="en">
+                                    <ref target="https://read.84000.co/translation/toh9.html">The Perfection of Wisdom in Twenty-five
+                                      Thousand Lines</ref>
+                                  </title> (<title xml:lang="Sa-Ltn">Pañca­viṃśati­sāhasrikā­prajñā­pāramitā</title>, Toh 9). 84000: Translating the Words of
+                                    the Buddha, 2023.</bibl>
+                                        <bibl xml:id="UT22084-034-015-125">Sparham, Gareth., trans. <title xml:lang="en">
+                                                <ref target="https://read.84000.co/translation/toh8.html">The Perfection of Wisdom in One Hundred Thousand Lines</ref>
+                                        </title> (<title xml:lang="Sa-Ltn">Śata­sāhasrikā­prajñā­pāramitā</title>, Toh 8). 84000: Translating the Words of the
+                                                Buddha, 2024.</bibl>
+                                </div>
+                        </div>
+                        <div type="glossary">
+                                <list type="glossary">
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-034-015-41">
+                            <term type="translationMain">blessed one</term>
+                            <term xml:lang="Sa-Ltn" type="attestedDictionary" status="verified">bhagavān</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">bcom ldan ’das</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">བཅོམ་ལྡན་འདས།</term>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-034-015-42">
+                            <term type="translationMain">four distorted views</term>
+                            <term xml:lang="Sa-Ltn" type="attestedDictionary" status="verified">caturviparyāsa</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">phyin ci log bzhi</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">ཕྱིན་ཅི་ལོག་བཞི།</term>
+                            <note type="definition">
+                                <p>Taking what is impermanent
+                                                  to be permanent, what is suffering to be
+                                                  happiness, what is unclean to be clean, and what
+                                                  is not self to be self.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-034-015-43">
+                            <term type="translationMain">bodhisattva</term>
+                            <term xml:lang="Sa-Ltn" type="attestedDictionary" status="verified">bodhisattva</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">byang chub sems dpa’</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">བྱང་ཆུབ་སེམས་དཔའ།</term>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-034-015-44">
+                            <term type="translationMain">stage of devoted conduct</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified" status="verified">adhimukti­caryā­bhūmi</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">mos pas spyod pa’i sa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">མོས་པས་སྤྱོད་པའི་ས།</term>
+                            <note type="definition">
+                                <p>The level of devoted conduct is said to comprise the first two of the five paths, those of
+                                                        accumulation and preparation, which lead up to the path of seeing. This level is also presented as the second of seven
+                                                        spiritual levels in the <title xml:lang="Sa-Ltn">Bodhisattva­bhūmi</title>,<ref rend="pending" target="https://read.84000.co/translation/toh4035.html"/> which follows the initial level of the spiritual
+                                                        potential (<foreign xml:lang="Sa-Ltn">gotrabhūmi</foreign>).</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-034-015-45">
+                            <term type="translationMain">contaminated</term>
+                            <term xml:lang="Sa-Ltn" type="attestedDictionary" status="verified">sāsrava</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">zag pa dang bcas pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">ཟག་པ་དང་བཅས་པ།</term>
+                            <note type="definition">
+                                <p>Literally, “to flow” or “to ooze.” Mental
+                                                        defilements or contaminations that “flow out” toward the objects of
+                                                        cyclic existence, binding us to them.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-034-015-46">
+                            <term type="translationMain">uncontaminated</term>
+                            <term xml:lang="Sa-Ltn" type="attestedDictionary" status="verified">anāsrava</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">zag pa med pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">ཟག་པ་མེད་པ།</term>
+                            <note type="definition">
+                                <p>The absence of
+                                                  contaminants. See the entry for
+                                                  “contaminated.”</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-034-015-47">
+                            <term type="translationMain">gnosis</term>
+                            <term xml:lang="Sa-Ltn" type="attestedDictionary" status="verified">jñāna</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">ye shes</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">ཡེ་ཤེས།</term>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss xml:id="UT22084-034-015-48" type="term" mode="match">
+                            <term type="translationMain">all-aspect omniscience</term>
+                            <term xml:lang="Sa-Ltn" type="attestedDictionary" status="verified">sarvākārajñāna</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">rnam pa thams cad mkhyen pa nyid</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད།</term>
+                            <note type="definition">
+                                <p>This key technical term in the Prajñā­pāramitā literature refers to the omniscience of a buddha, and is not to be confused with the “knowledge of the path” of bodhisattvas, or with the “knowledge of all the dharmas” of śrāvakas. </p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-034-015-49">
+                            <term type="translationMain">asura</term>
+                            <term xml:lang="Sa-Ltn" type="attestedDictionary" status="verified">asura</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">lha ma yin</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">ལྷ་མ་ཡིན།</term>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-034-015-50">
+                            <term type="translationMain">gandharva</term>
+                            <term xml:lang="Sa-Ltn" type="attestedDictionary" status="verified">gandharva</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">dri za</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">དྲི་ཟ།</term>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="person" xml:id="UT22084-034-015-52">
+                            <term type="translationMain">Candragarbha</term>
+                            <term xml:lang="Sa-Ltn" type="attestedDictionary" status="verified">candragarbha</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">zla ba’i snying po</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">ཟླ་བའི་སྙིང་པོ།</term>
+                            <note type="definition">
+                                <p>The bodhisattva who is the
+                                                  Buddha’s interlocutor in the present sūtra.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="place" xml:id="UT22084-034-015-54">
+                            <term type="translationMain">Rājagṛha</term>
+                            <term xml:lang="Sa-Ltn" type="attestedDictionary" status="verified">rājagṛha</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">rgyal po’i khab</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">རྒྱལ་པོའི་ཁབ།</term>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss xml:id="UT22084-034-015-55" type="place" mode="match">
+                            <term type="translationMain">four continents</term>
+                            <term xml:lang="Sa-Ltn" type="attestedDictionary" status="verified">caturdvīpa</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">gling bzhi</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">གླིང་བཞི།</term>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="place" xml:id="UT22084-034-015-56">
+                            <term type="translationMain">Vulture Peak</term>
+                            <term xml:lang="Sa-Ltn" type="attestedDictionary" status="verified">gṛdhrakūṭa</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">bya rgod kyi phung po</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">བྱ་རྒོད་ཀྱི་ཕུང་པོ།</term>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="text" xml:id="UT22084-034-015-58">
+                            <term type="translationMain">perfection of wisdom</term>
+                            <term xml:lang="Sa-Ltn" type="attestedDictionary" status="verified">prajñāpāramitā</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">shes rab kyi pha rol tu phyin pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ།</term>
+                        </gloss>
+                    </item>
+                                </list>
+                        </div>
+                </back>
+        </text>
+</TEI>
