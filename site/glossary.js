@@ -371,12 +371,38 @@ export function installGlossary({ glossaryUrl, renderMarkdown, onNavigate }) {
 
 const SKIP_TAGS = new Set(['a', 'code', 'pre', 'script', 'style', 'head']);
 
-// Compiled {pattern, termMap} per glossary URL, so repeated renders (the docs
-// viewer swaps pages without reloading) reuse one fetch + one compile.
+// First-word term index per glossary URL, so repeated renders (the docs viewer
+// swaps pages without reloading) reuse one fetch + one index build.
 const autoGlossaryCache = new Map();
 
-function escapeRegex(str) {
-  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+// Word characters, matched exactly as the old whole-word boundary did (letters,
+// combining marks, digits). GLOSSARY_WORD_RE walks the document word by word so
+// we never compile one giant alternation of every term: a 25k-alternative regex
+// is what iOS Safari refuses to build, which left a large glossary completely
+// unlinkable on a phone. GLOSSARY_WORD_CHAR_RE tests a single boundary char.
+const GLOSSARY_WORD_RE = /[\p{L}\p{M}\d]+/gu;
+const GLOSSARY_WORD_CHAR_RE = /[\p{L}\p{M}\d]/u;
+
+// Index terms by their first word (lowercased) → the term's lowercased text, its
+// slug, and how many characters precede that first word (`off`, so a term that
+// starts with punctuation — e.g. a quoted phrase — still anchors correctly).
+// Each bucket is sorted longest-first so the longest matching term wins, exactly
+// mirroring the longest-first alternation order of the old single regex.
+function buildFirstWordIndex(terms) {
+  const byFirstWord = new Map();
+  for (const { term, slug } of terms) {
+    const wm = term.match(/[\p{L}\p{M}\d]+/u);
+    if (!wm) continue;
+    const key = wm[0].toLowerCase();
+    let list = byFirstWord.get(key);
+    if (!list) {
+      list = [];
+      byFirstWord.set(key, list);
+    }
+    list.push({ lower: term.toLowerCase(), slug, off: wm.index });
+  }
+  for (const list of byFirstWord.values()) list.sort((a, b) => b.lower.length - a.lower.length);
+  return byFirstWord;
 }
 
 /**
@@ -404,37 +430,53 @@ function collectTextNodes(root) {
 }
 
 /**
- * Replace term occurrences in a single text node with glossary links.
+ * Wrap glossary-term occurrences in one text node with `glossary:slug` links —
+ * whole-word, case-insensitive, longest term first, the same result the old
+ * single regex produced, but by scanning the node word by word against the
+ * first-word index instead of executing a 25k-alternative regex (which iOS
+ * Safari cannot compile). Matches never overlap: once one is taken the scan
+ * resumes after it.
  * @param {Text} textNode
- * @param {RegExp} pattern   — built from all terms
- * @param {Map<string, string>} termMap — term.toLowerCase() → slug
+ * @param {Map<string, {lower: string, slug: string, off: number}[]>} byFirstWord
  */
-function linkTextNode(textNode, pattern, termMap) {
+function linkTextNode(textNode, byFirstWord) {
   const text = textNode.textContent;
-  pattern.lastIndex = 0;
-  if (!pattern.test(text)) return;
-  pattern.lastIndex = 0;
+  GLOSSARY_WORD_RE.lastIndex = 0;
+  const segs = [];
+  let cursor = 0;
+  let m;
+  while ((m = GLOSSARY_WORD_RE.exec(text)) !== null) {
+    const candidates = byFirstWord.get(m[0].toLowerCase());
+    if (!candidates) continue;
+    for (const c of candidates) {
+      const start = m.index - c.off; // the term may begin a few chars before its first word
+      if (start < cursor) continue; // would overlap a match already taken
+      const end = start + c.lower.length;
+      if (
+        end <= text.length &&
+        (start === 0 || !GLOSSARY_WORD_CHAR_RE.test(text[start - 1])) &&
+        text.slice(start, end).toLowerCase() === c.lower &&
+        (end === text.length || !GLOSSARY_WORD_CHAR_RE.test(text[end]))
+      ) {
+        segs.push({ start, end, slug: c.slug });
+        cursor = end;
+        GLOSSARY_WORD_RE.lastIndex = end;
+        break;
+      }
+    }
+  }
+  if (!segs.length) return;
 
   const frag = document.createDocumentFragment();
   let last = 0;
-  let match;
-
-  while ((match = pattern.exec(text)) !== null) {
-    if (match.index > last) {
-      frag.appendChild(document.createTextNode(text.slice(last, match.index)));
-    }
-    const slug = termMap.get(match[0].toLowerCase());
-    if (slug) {
-      const a = document.createElement('a');
-      a.href = 'glossary:' + slug;
-      a.textContent = match[0];
-      frag.appendChild(a);
-    } else {
-      frag.appendChild(document.createTextNode(match[0]));
-    }
-    last = match.index + match[0].length;
+  for (const seg of segs) {
+    if (seg.start > last) frag.appendChild(document.createTextNode(text.slice(last, seg.start)));
+    const a = document.createElement('a');
+    a.href = 'glossary:' + seg.slug;
+    a.textContent = text.slice(seg.start, seg.end);
+    frag.appendChild(a);
+    last = seg.end;
   }
-
   if (last < text.length) frag.appendChild(document.createTextNode(text.slice(last)));
   textNode.parentNode.replaceChild(frag, textNode);
 }
@@ -515,12 +557,13 @@ export async function installAutoGlossary({ contentEl, renderMarkdown, renderTEI
       : [glossaryUrl]
     : ['GLOSSARY.md', 'GLOSSARY.xml', 'glossary.xml'];
 
-  // Build (or reuse) the compiled term pattern for this glossary URL. The
-  // glossary is large (hundreds of entries) and the docs viewer re-renders on
-  // every navigation, so caching avoids re-fetching and re-compiling each time.
+  // Build (or reuse) the first-word term index for this glossary URL. The
+  // glossary is large (tens of thousands of entries) and the docs viewer
+  // re-renders on every navigation, so caching avoids re-fetching and
+  // re-indexing each time.
   const cacheKey = candidates.join('|');
-  let compiled = autoGlossaryCache.get(cacheKey);
-  if (!compiled) {
+  let byFirstWord = autoGlossaryCache.get(cacheKey);
+  if (!byFirstWord) {
     let terms;
     try {
       terms = await glossaryTermsFor(candidates, renderMarkdown, renderTEI || null);
@@ -528,21 +571,9 @@ export async function installAutoGlossary({ contentEl, renderMarkdown, renderTEI
       return;
     }
     if (!terms.length) return;
-
-    // Build a single regex from all terms (whole-word boundaries)
-    const pattern = new RegExp(
-      '(?<![\\p{L}\\p{M}\\d])(' +
-        terms.map((t) => escapeRegex(t.term)).join('|') +
-        ')(?![\\p{L}\\p{M}\\d])',
-      'giu'
-    );
-
-    // Map lowercase term → slug for O(1) lookup during replacement
-    const termMap = new Map(terms.map((t) => [t.term.toLowerCase(), t.slug]));
-    compiled = { pattern, termMap };
-    autoGlossaryCache.set(cacheKey, compiled);
+    byFirstWord = buildFirstWordIndex(terms);
+    autoGlossaryCache.set(cacheKey, byFirstWord);
   }
-  const { pattern, termMap } = compiled;
 
   // Collect text nodes first (modifying the DOM during traversal is unsafe)
   const textNodes = collectTextNodes(contentEl);
@@ -552,7 +583,7 @@ export async function installAutoGlossary({ contentEl, renderMarkdown, renderTEI
   for (let i = 0; i < textNodes.length; i += BATCH) {
     const batch = textNodes.slice(i, i + BATCH);
     for (const node of batch) {
-      if (node.parentNode) linkTextNode(node, pattern, termMap);
+      if (node.parentNode) linkTextNode(node, byFirstWord);
     }
     // Yield to the browser between batches
     await new Promise((r) => setTimeout(r, 0));
