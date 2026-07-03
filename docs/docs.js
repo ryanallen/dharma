@@ -25,6 +25,7 @@ import { renderTEI, isTEI } from '../site/tei-xml.js';
 import { initMinimap } from '../site/minimap.js';
 import { highlightCode, decorateCodeBlocks } from '../site/codeblocks.js';
 import { decorateAnchorLinks } from '../site/anchors.js';
+import { buildOutline } from '../site/outline.js';
 import { decorateBlockquoteLines } from '../site/blockquotes.js';
 import { loadDocsNav } from '../site/docs-nav.js';
 import { installGlossary, installAutoGlossary } from '../site/glossary.js';
@@ -476,6 +477,12 @@ async function render(route, anchor) {
 
     contentEl.innerHTML = isXML ? renderTEI(text) : renderMarkdown(text);
     decorateBlockquoteLines(contentEl);
+    // An in-page outline (table of contents) from this page's headings, tucked
+    // just under the title — distinct from the left nav sidebar, which lists
+    // pages, not the sections within a page. Works for both Markdown and TEI/XML
+    // because both renderers emit slug-bearing <h1>–<h6>. Built before the anchor
+    // pass so its link-only entries stay out of the block-numbering scheme.
+    buildOutline(contentEl, { label: 'Outline' });
     statusEl.hidden = true;
     displayedRoute = route;
 
