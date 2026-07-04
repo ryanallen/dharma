@@ -1,4 +1,5 @@
 # <div align="center">Discipline </br><sub>(*Vinayavastu*)</sub></div>
+Works focusing primarily on the monastic rules and their origins, but also containing a wealth of historical, biographical, and cultural material (Toh 1-7).
 
 ## [Going Forth](toh1-1_chapter_on_going_forth.xml) </br><sub>[*(Pravrajyāvastu)*](toh1-1_chapter_on_going_forth.xml)</sub> </br><sub>`Toh. 1-1`</sub>
 

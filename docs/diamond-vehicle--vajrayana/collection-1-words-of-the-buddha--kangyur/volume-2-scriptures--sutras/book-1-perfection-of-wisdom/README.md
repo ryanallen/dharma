@@ -1,4 +1,5 @@
 # <div align="center">The Perfection of Wisdom</div>
+The collection of discourses on the Perfection of Wisdom (Toh 8-30).
 
 ## [The Perfection of Wisdom in One Hundred Thousand Lines](toh8-the_perfection_of_wisdom_in_one_hundred_thousand_lines.xml) </br><sub>[*(Śata­sāhasrikā­prajñā­pāramitā)*](toh8-the_perfection_of_wisdom_in_one_hundred_thousand_lines.xml)</sub> </br><sub>`Toh. 8` `84k`</sub>
 

@@ -1,0 +1,1865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/current/translation.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc> 
+            <titleStmt>
+                <title type="mainTitle" xml:lang="en">The Questions of Bhadrapāla the Merchant</title>
+                <title type="mainTitle" xml:lang="Sa-Ltn">Bhadra­pāla­śreṣṭhi­paripṛcchā</title>
+                <title type="mainTitle" xml:lang="bo">ཚོང་དཔོན་བཟང་སྐྱོང་གིས་ཞུས་པ།</title>
+                <title type="mainTitle" xml:lang="Bo-Ltn">tshong dpon bzang skyong gis zhus pa</title>
+                <title type="longTitle" xml:lang="en">The Noble Mahāyāna Sūtra “The Questions of Bhadrapāla the Merchant”</title>
+                <title type="longTitle" xml:lang="Sa-Ltn">Ārya­bhadra­pāla­śreṣṭhi­paripṛcchā­nāma­mahā­yāna­sūtra</title>
+                <title type="longTitle" xml:lang="bo">འཕགས་པ་ཚོང་དཔོན་བཟང་སྐྱོང་གིས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</title>
+                <title type="longTitle" xml:lang="Bo-Ltn">’phags pa tshong dpon bzang skyong gis zhus pa zhes bya ba theg pa chen po’i mdo</title>
+                <title type="otherTitle" xml:lang="Bo-Ltn">rnam par shes pa 'pho ba'i mdo</title>
+                <author role="translatorMain" ref="contributors.xml#team-16">
+                    Translated by Karen Liljenberg and Ulrich Pagel<lb/> under the patronage and
+                    supervision of 84000: Translating the Words of the Buddha</author>
+                <author role="translatorEng" ref="contributors.xml#person-115">Dr Karen Liljenberg</author>
+                <author role="translatorEng" ref="contributors.xml#person-116">Dr Ulrich Pagel</author>
+                <editor role="TEImarkupEditor" ref="contributors.xml#person-253">Michael Engle</editor>
+                <editor role="externalReviewer" ref="contributors.xml#person-165">Robert Miller</editor>
+                <editor role="copyEditor" ref="contributors.xml#person-31">Casey Kemp</editor>
+                <editor role="finalReviewer" ref="contributors.xml#person-139">John Canti</editor>
+                <consultant role="projectManager" ref="contributors.xml#person-115">Dr. Karen Liljenberg</consultant>
+                <sponsor ref="eft:sponsor-223">Late Ngiam Hye Chin and family</sponsor> 
+            </titleStmt>
+            <editionStmt>
+                <edition>v 1.38.15 <date>2022</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt status="1">
+                <publisher>
+                    <name>84000: Translating the Words of the Buddha</name> is a global non-profit initiative to translate all the Buddha’s words into modern languages, and to make them available to everyone. </publisher>
+                <availability>
+                    <licence>
+                        <graphic url="http://i.creativecommons.org/l/by-nc-nd/2.0/88x31.png"/>
+                        <p>This work is provided under the protection of a Creative Commons CC BY-NC-ND (Attribution -
+                            Non-commercial - No-derivatives) 3.0 copyright. It may be copied or printed for fair use, but only
+                            with full attribution, and not for commercial advantage or personal compensation. For full details,
+                            see the Creative Commons license.</p>
+                    </licence>
+                </availability>
+                <idno xml:id="UT22084-044-003"/>
+                <tei:note xmlns:tei="http://www.tei-c.org/ns/1.0">An early mistake in the assigning of UT numbers within the 84000 project means that these ids diverge slightly from the standard logic.</tei:note>
+                <date>2017-02-25</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl key="toh83" type="text">
+                    <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0">Toh 83</tei:ref>
+                    <biblScope>Degé Kangyur, vol. 44 (dkon brtsegs, cha), folios 71.a–94.b</biblScope>
+                    <!--series>Degé Kangyur</series>, <biblScope>vol. 44 (dkon brtsegs,
+                        cha)</biblScope>, <citedRange>folios 71a–94a</citedRange-->
+                    <author role="translatorTib">Jinamitra</author>
+                    <author role="translatorTib">Surendrabodhi</author>
+                    <author role="translatorTib">Yeshé Dé</author>
+                    <location work="UT4CZ5369" count-pages="48">
+                        <volume number="44" start-page="141" end-page="188"/>
+                    </location>
+                    <idno parent-id="O1JC114941JC14667"/>
+                <idno source-id="O1JC114941JC11626" work="W22084"/>
+                </bibl>
+            </sourceDesc>
+            <notesStmt>
+                <note type="lastUpdated" date-time="2023-03-22T05:39:14.319Z" user="admin">22/03/2023 05:39:14</note>
+                <tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" type="updated" update="text-version" value="v 1.37" date-time="2019-06-18T15:53:53.155Z" user="celso">v 1.37 2019</tei:note>
+                <tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" type="updated" update="text-version" value="v 1.37.1" date-time="2019-10-07T10:27:24.685Z" user="admin">Publication statement updated</tei:note>
+                <tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" type="updated" update="text-version" value="v 1.37.2" date-time="2020-04-30T21:32:41.64Z" user="celso">corrected typo in glossary entry: rgyal po'i khab</tei:note>
+                <tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" type="updated" update="text-version" value="v 1.38.1" date-time="2020-08-04T16:31:42.817Z" user="john">changed text and glossary regarding Kalandakanivāsa.</tei:note>
+                <tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" type="updated" update="text-version" value="v 1.38.2" date-time="2020-08-05T11:07:16.554Z" user="john">Typo corrected</tei:note>
+                <tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" type="updated" update="text-version" value="1.38.3" date-time="2020-11-23T13:57:44.998Z" user="admin">Auto (TEI migration 2.0.0)</tei:note>
+                <tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" type="updated" update="text-version" value="1.38.4" date-time="2020-12-11T14:06:50.919Z" user="admin">Auto (TEI migration 2.1.5)</tei:note>
+                <tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" type="updated" update="text-version" value="1.38.5" date-time="2021-01-04T21:04:44.938Z" user="laura">Updated colophon to Bandé</tei:note>
+                <tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" type="updated" update="text-version" value="1.38.6" date-time="2021-01-13T09:23:37.481Z" user="mike">1.38.6</tei:note>
+                <tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" type="updated" update="text-version" value="1.38.7" date-time="2021-02-10T00:46:04.901Z" user="celso">“scholar” to “preceptor”</tei:note>
+                <tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" type="updated" update="text-version" value="1.38.8" date-time="2022-01-04T21:45:28.35Z" user="celso">karma to karman in Skt. field glossary</tei:note>
+                <tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" type="updated" update="text-version" value="1.38.9" date-time="2022-02-15T16:57:00.571Z" user="celso">Corrected a &lt;title&gt; tag</tei:note>
+                <tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" type="updated" update="text-version" value="1.38.10" date-time="2022-06-27T10:06:48.1Z" user="admin">Auto (script-increment-version-published)</tei:note>
+                <note type="updated" update="text-version" value="1.38.11" date-time="2022-06-27T20:28:57.223Z" user="martina-cotter">minor update</note>
+                <note type="updated" update="text-version" value="1.38.12" date-time="2022-07-10T18:30:54.694Z" user="john">Harmonization of trailer and colophon</note>
+                <note type="updated" update="text-version" value="1.38.13" date-time="2022-10-08T11:52:44.612Z" user="john">Auto (update-titles)</note> 
+                <note type="updated" update="text-version" value="1.38.14" date-time="2023-03-18T02:11:38.636Z" user="cabie-sim">Auto (update-sponsorship)</note> 
+                <note type="updated" update="text-version" value="1.38.15" date-time="2023-03-22T05:39:11.507Z" user="martina-cotter">added sponsorship acknowledgement</note> 
+            </notesStmt>
+        </fileDesc>
+    </teiHeader>
+    <!--
+                    <p>Contents</p>
+            <p>Summary</p>
+            <p>Acknowledgments</p>
+            <p>Introduction</p>
+            <p>The Translation</p>
+            <p rend="italic">The Questions of Bhadrapāla the Merchant</p>
+            <p>Notes</p>
+            <p>Bibliography</p>< -->
+    <text>
+        <front>
+            <div type="summary">
+                <head type="summary" tid="208">Summary</head>
+                <milestone unit="chunk" xml:id="UT22084-044-003-1"/>
+                <p tid="1">In <title xml:lang="en">The Questions of Bhadrapāla the Merchant</title>, the Buddha’s principal
+                    interlocutor is a wealthy merchant who asks him to explain what consciousness is, and what happens to it when
+                    one dies and is reborn. In his characterization of consciousness, the Buddha relies heavily on the use of
+                    analogies drawn from nature. The sūtra also reflects common cultural beliefs of ancient India, such as spirit
+                    possession. In addition, it presents graphic and vividly contrasting descriptions of rebirth in the realms of
+                    the gods for those who have lived meritorious lives and in the realms of hell for those who lack merit.</p>
+            </div>
+            <div type="acknowledgment">
+                <head type="acknowledgment" tid="209">Acknowledgments</head>
+                <milestone unit="chunk" xml:id="UT22084-044-003-2"/>
+                <p tid="2">Translated by Dr Karen Liljenberg and Dr Ulrich Pagel.</p>
+                <p tid="3">This translation has been completed under the patronage and supervision of 84000: Translating the Words
+                    of the Buddha.</p>
+                <lb/>
+                <milestone unit="chunk" xml:id="UT22084-044-003-283"/>
+                <p tid="218">We gratefully acknowledge the generous sponsorship of Late Ngiam Hye Chin and family. Their support has helped make the work on this translation possible.</p>
+            </div>
+            <div type="introduction">
+                <head type="introduction" tid="210">Introduction</head>
+                <div type="section" xml:id="UT22084-044-003-introduction-1">
+                    <milestone unit="chunk" xml:id="UT22084-044-003-3"/>
+                    <p tid="4">
+                        <title xml:lang="en">The Questions of Bhadrapāla the Merchant</title> (<title xml:lang="Sa-Ltn">Bhadra­pāla­śreṣṭhi­paripṛcchā</title>) is the thirty-ninth of the forty-nine sūtras that comprise
+                        the Ratnakūṭa collection. Like most of the sūtras in the Ratnakūṭa, it was translated into Tibetan from a Sanskrit original that is
+                        now lost, but that may have dated back as far as the first or second centuries <hi rend="small-caps">ce</hi>, i.e., several centuries
+                        before the collection itself was compiled. </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-4"/>
+                    <p tid="5"> The Tibetan Kangyur translation of the sūtra is attributed in its colophon to the Indian preceptors
+                        Jinamitra and Surendrabodhi, and the Tibetan Bandé Yeshé Dé. This would date its Tibetan translation to the
+                        early ninth century. As well as the Tibetan version, <title xml:lang="en">The Questions of Bhadrapāla the
+                            Merchant</title> is extant in two Chinese translations, one (T. 310) by the late sixth century
+                        Jnānagupta, and another (T. 347) by Divākara, who flourished in the late seventh century. Divākara’s
+                        Chinese version of the sūtra <term type="ignore">forms</term> the basis of a partial English translation
+                        by Garma C.C. Chang, included in his <title xml:lang="en">Treasury of Mahāyāna Sūtras</title>.<tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" place="end" xml:id="UT22084-044-003-215">The translation by Chang et al. explicitly omits
+                            from the text quite a number of passages, many of which are not easy to interpret in the Tibetan and
+                            presumably posed similar difficulties in the Chinese. We have here nevertheless attempted to translate
+                            the text in full.</tei:note>
+                    </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-5"/>
+                    <p tid="6"> In its present <term type="ignore">form</term>, the sūtra consists of the questions of two
+                        interlocutors in addition to Bhadrapāla: Candrabhūti the merchant, and the prince Mahauṣadhi. The second
+                        section of the text, in which Mahauṣadhi features, reads in its opening passages rather like the beginning
+                        of a new sūtra, and may have once been a separate text.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-6"/>
+                    <p tid="7"> The sūtra focuses on the topic of consciousness: what is its nature, how does it relate to the
+                        physical body, and what happens to it after death? In his explanations, the Buddha employs metaphors and
+                        examples drawn from observation of the natural world, as well as from common Indian cultural beliefs. </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-7"/>
+                    <p tid="8"> The Buddha declares that consciousness is formless or immaterial, but manifests through volition,
+                        feelings, and the domain of mental objects, or “element of dharmas.” In a similar way to a seed producing
+                        a sprout, consciousness generates a body for itself, and then controls that body just as a puppeteer
+                        controls a puppet. </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-8"/>
+                    <p tid="9"> Doctrinally, the sūtra’s explanations of the relationship between consciousness and the body’s
+                        various constituents are not fully consistent with classic Abhidharma or Yogācāra theory. Chang, in a note
+                        to his translation of the text from Chinese, points to its unusual treatment of consciousness as an
+                        individual unity,<tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" place="end" xml:id="UT22084-044-003-216"> Chang (1991), p. 237 n 1.</tei:note>
+                        and Lindtner, referring to the Chinese translations of the sūtra, sees in it “pre-canonical” <term type="ignore">elements</term> that may go back to ideas in the Upaniṣads.<tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" place="end" xml:id="UT22084-044-003-217"> See Lindtner (1997, p. 113 <foreign xml:lang="la">et seq.</foreign>);
+                            Lindtner seems to be unaware of the Tibetan translation of this text.</tei:note> Nevertheless, it is very
+                        common in both the Kangyur and Tengyur that consciousness (as a unitary item) is listed as sixth in
+                        enumerations of the elements, and it is to that context that the term “the element of consciousness,” so
+                        frequently used in this text, is surely a reference.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-9"/>
+                    <p tid="10"> In a statement that could be read as foreshadowing the Cittamātra conception of an immaculate
+                        substratum consciousness, and the <foreign xml:lang="Sa-Ltn">tathāgatagarbha</foreign> or Buddha-essence
+                        doctrine, the Buddha says that “the element of consciousness is completely purified; it encompasses all
+                        things, but it is not tainted by anything.” Consciousness acquires merit and non-merit in a similar way to
+                        a jewel taking on the color of whatever light it is exposed to. </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-10"/>
+                    <p tid="11"> The sūtra nonetheless underscores the benefits of meritorious action: the marvelous wealth and
+                        comforts enjoyed by Bhadrapāla, described in sumptuous detail, are the result of his virtuous conduct in
+                        former lives. Furthermore, the suffering of beings whose negative actions cause them to be reborn in the
+                        hell realms is vividly contrasted with the pleasures of those whose merit results in a higher rebirth,
+                        such as in the realms of the gods. </p>
+                </div>
+            </div>
+        </front>
+        <body>
+            <div type="translation">
+                <head type="translation" tid="211">The Translation</head>
+                <head type="titleHon" tid="212">The Noble Mahāyāna Sūtra</head>
+                <head type="titleMain" tid="213">The Questions of Bhadrapāla the Merchant</head>
+                <div type="section" xml:id="UT22084-044-003-section-1">
+                    <milestone unit="chunk" xml:id="UT22084-044-003-11"/>
+                    <p tid="12">
+                        <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.71.a" type="folio" xml:id="UT22084-044-003-235"/>
+                        <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="B1" type="bampo"/> Homage to all buddhas and bodhisattvas.</p>
+                    <lb/>
+                    <p tid="13">Thus have I heard at one time. The Blessed One was staying at the Kalandakanivāsa (the
+                        home of flying squirrels), in the Bamboo Grove near Rājagṛha together with Śāriputra and a great saṅgha of 1,250 monks, who had accomplished
+                        all that needed to be done.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-12"/>
+                    <p tid="14">At that time, in the Blessed One’s presence the monks felt free of any of the physical impurities
+                        and sluggishness that derive from physical lassitude and torpor. At that time, too, the Blessed One’s
+                        complexion shone like a blossoming lotus garden, and the monks thought, “As the Blessed One’s complexion
+                        is shining like a blossoming lotus garden, what kind of teaching does he intend to give?”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-13"/>
+                    <p tid="15">It was then that the head merchant, named Bhadrapāla, and his entourage of sixty thousand
+                        merchants approached the Blessed One. Bhadrapāla was youthful, well-built, with a fine skin color and an
+                        open face. As he arrived in the Blessed One’s presence, he saw that the Blessed One was in samādhi, and
+                        that he was composed, a repository of good qualities connected to discipline, and as resplendent as a
+                        golden tree. </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-14"/>
+                    <p tid="16">Bhadrapāla felt faith, and, in a state of composure, thought, “Oh! Those renowned in the world as
+                        omniscient tathāgatas, arhats, completely and perfectly enlightened buddhas are rightly famous!” </p>
+                    <p tid="17">Bhadrapāla <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.71.b" type="folio" xml:id="UT22084-044-003-236"/> prostrated himself before the Blessed One and then took a place
+                        facing him. When the Blessed One looked at Bhadrapāla, light streamed out from his body. </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-15"/>
+                    <p tid="18">The light made Bhadrapāla fearless, and he circumambulated the Blessed One three times, prostrated
+                        himself again before the Blessed One, and said, “Please, Blessed One, have compassion for me. Only now
+                        have I acquired faith in the Blessed One. That being so, I am someone who still marvels that it is
+                        thoughts of placing hope in certain things, searching for the Dharma, or being afflicted by the ills of
+                        saṃsāra that predominate; as such a person, please instruct me. Blessed One, I have harbored doubt.
+                        Sugata, because I was doubtful, I was deluded and did not seek liberation from saṃsāra. The Blessed One is
+                        omniscient and, as he provides all the necessities for achieving happiness, his unprecedented presence in
+                        the world is like that of a wish-fulfilling jewel. Because the Blessed One is affectionate toward all
+                        sentient beings, he is like their father and mother.” </p>
+                    <p tid="19">The Blessed One replied to Bhadrapāla, “Bhadrapāla, ask, then, whatever you wish, and I shall
+                        delight you with my explanations in response.” </p>
+                    <p tid="20">Wanting to ask his questions, Bhadrapāla stood to one side.</p>
+                    <lb/>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-16"/>
+                    <p tid="21">While Bhadrapāla, who was resplendent and perfectly handsome, was waiting on one side, the
+                        venerable Ānanda looked at him and said to the Blessed One, “Blessed One, the fine, prosperous looks of
+                        Bhadrapāla surpass even the splendor of a king. He is astonishingly beautiful.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-17"/>
+                    <p tid="22">The Blessed One answered the venerable Ānanda, “Ānanda, <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.72.a" type="folio" xml:id="UT22084-044-003-237"/> apart from the young
+                        head merchant Candrabhūti, neither the lord of the gods Śakra, nor the most noble ones of this world,
+                        possess the requisites for happiness, pleasure, and sensual enjoyments that Bhadrapāla commands.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-18"/>
+                    <p tid="23">“Blessed One, what are the riches of Bhadrapāla?” asked the Venerable Ānanda. </p>
+                    <p tid="24">The Blessed One replied, “Since you ask, Ānanda, please hear what I have to say about the riches
+                        and vast resources of this merchant who has created the roots of virtue. Ānanda, he is attended by sixty
+                        thousand merchants holding an abundance of wealth and gold. Their beds are beautified with combinations of
+                        various colors. Their seats are on woven bamboo mats strewn with cushions, with sixty thousand red
+                        cushions arranged to their left and right.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-19"/>
+                    <p tid="25">“They are attended by sixty thousand women attired in silk dresses and silken fabrics, silk cloth
+                        and raw silks, garments purified with fire, and spangled upper garments and fine woolen cloth of red and
+                        various other colors. They are adorned with beautiful, radiant ornaments. The touch of their hands is soft
+                        and very gentle in various ways. Laughing and happy, they arouse excitement through the pleasure and
+                        delight that they create with their alluring, charming, and pleasant conversation. Through honoring their
+                        husbands, they praise their bodies. They have given up thoughts of desire for other men. They bow
+                        gracefully and wear fine shawls. They do not quarrel out of jealousy, scowl with hostility, or vie with
+                        each other. Their limbs, fingers, and toes are very soft; the joints of their limbs do not protrude; and their
+                        limbs are fleshy. Their hair is of even length and styled, wound to the right, and beautiful. They are
+                        full of attachment and affection. Coming as they do from esteemed lineages and families, they bring fame
+                        and fortune. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.72.b" type="folio" xml:id="UT22084-044-003-238"/>
+                    </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-20"/>
+                    <p tid="26">“These sixty thousand tender-fleshed, high-caste women lounge on sumptuous bedding in their houses
+                        fit for entertainment. Their sixty thousand bronze cauldrons are filled with fine cooked rice and
+                        vegetables, each with its own uniquely delicious aroma, as well as different types of fragrant and
+                        delightful food and drink, such as fine-pulped rice or water with the eight good qualities. Because they
+                        hold merit and are free of defilements, they do not smell badly, are not unclean, nor do they have
+                        physical flaws. </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-21"/>
+                    <p tid="27">“Their tall houses are made fair and beautiful in distinctive ways: they are embellished with
+                        gems, pearls, beryl, and jewels, with clean fabrics that swirl in the breeze, and are strewn with
+                        scattered flowers. They are cooled by the pleasant sprinkling of water cool to the touch and graced by the
+                        sweet murmur sounding from gongs, single- and multiple-stringed lutes, flutes, kettle drums, as well as the
+                        delightful and attractive cooing of pigeons. Bees buzz pleasantly on the coiling tips of flowering vines.
+                        They live as if nestled between the abode of the gods and the slopes of Mount Meru, with the splendor of
+                        shining lamps screened from the wind, and medicinal torches, in villages graced with sixty thousand
+                        courtyards, crossroads, parapets, and street corners.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-22"/>
+                    <p tid="28">“There is a profusion of languages, customs, and merchandise from different countries, and a
+                        variety of shops, with seething throngs of thousands of merchants, and an abundance of thousands of groves
+                        and trees of different types and flawless blossoming lotus flowers. There is a whirl of sixty thousand of
+                        the finest horses, elephants, and chariots.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-23"/>
+                    <p tid="29"> “Ānanda, in those villages the head merchants, merchants, local people, and foreign traders who
+                        have settled there sing the praises of the young head merchant Bhadrapāla, and speak well of him. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.73.a" type="folio" xml:id="UT22084-044-003-239"/> They join the palms of their hands and bow to him daily. Even Prasenajit, King of
+                        Kosala, would regard himself as a pauper were he to see Bhadrapāla’s power, wealth, and prosperity.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-24"/>
+                    <p tid="30">“Ānanda, the wealth of the young head merchant Candrabhūti is as follows. He is surrounded by an
+                        entourage that includes cooks equipped with a hundred thousand cauldrons. Ānanda, he also has five
+                        thousand women serving him. Ānanda, even the requisites for the happiness of Śakra, the lord of the gods,
+                        do not compare in the slightest with those of Candrabhūti. Ānanda, the fine <term type="ignore">form</term> and rich complexion, and the power and requisites for happiness of Bhadrapāla, do not compare
+                        to a hundredth part of those of Candrabhūti. Nevertheless, Ānanda, Bhadrapāla possesses heavenly chariots
+                        adorned with as many celestial gems and brilliant jewels as the sky is adorned with stars, gilded with
+                        celestial, glittering gold, and beautified with diamonds, precious stones, and various kinds of crystal.
+                        These chariots are as fast as the wind and fly like an eagle in the sky. Once mounted, they take him to
+                        jewel-islands, and after he has amused himself in those happy places, the ravishingly beautiful chariots
+                        take him back home.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-25"/>
+                    <p tid="31">At this, Ānanda prostrated himself before the Blessed One and asked, “Blessed One, how did this
+                        young head merchant, Bhadrapāla, amass his roots of virtue?”</p>
+                    <p tid="32">“Ānanda,” replied the Blessed One, “his roots of virtue here will come to maturation in buddhahood.
+                        Ānanda, long ago the Tathāgata, the arhat, the completely and perfectly enlightened Buddha Sukhābha lived
+                        in this world. Ānanda, Bhadrapāla was a disciple of his called Cūḍabhadra. He had not transgressed his
+                        basic precepts, and resolutely maintained ethical behavior. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.73.b" type="folio" xml:id="UT22084-044-003-240"/> He was a proponent of
+                        Dharma, a repository of the teachings that he had studied, and a holder of the Vinaya. Every day he
+                        delivered to the people teachings that were eloquent and agreeable, profound and reliable, sonorous and
+                        accessible. Whoever heard and comprehended his teachings would, from that point on, never lapse into
+                        perverse views. Ānanda, his gift of the Dharma gladdened the hearts of gods and men for ninety-one
+                        eons.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-26"/>
+                    <p tid="33">“Ānanda, let me also explain Bhadrapāla’s celestial chariot. Ānanda, Bhadrapāla offered alms
+                        devotedly to a monk who lived a humble life of purity and ethical conduct; he even gave him a pair of
+                        shoes. The maturation of that merit produced the fine celestial chariot. Ānanda, the Tathāgata, the arhat,
+                        the completely and perfectly enlightened Buddha Kāśyapa also said, ‘In the future, the Tathāgata, the
+                        arhat, the completely and perfectly enlightened Buddha Śākyamuni will be born, and he will give you a
+                        prediction.’ Ānanda, Bhadrapāla here is mine to train.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-27"/>
+                    <p tid="34">The Venerable Ānanda said to the Blessed One, “Blessed One, it is wonderful that abundant wealth,
+                        gold, and desirable objects have not made this head merchant arrogant.”</p>
+                    <p tid="35">The Blessed One replied, “The extensive enjoyment of sensual desires does not make wise people
+                        arrogant. Ānanda, this head merchant, who possesses virtuous qualities, is reaping the roots of
+                        virtue.”</p>
+                    <lb/>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-28"/>
+                    <p tid="36">It was now that Bhadrapāla, encouraged by the Blessed One, understood that his opportunity to ask
+                        questions had come. Joining his palms together, he prostrated before the Blessed One, and asked, “If the
+                        Blessed One, who is beneficent and compassionate toward all beings, would allow me, <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.74.a" type="folio" xml:id="UT22084-044-003-241"/>
+                        may I please ask some questions on a few subjects?”</p>
+                    <p tid="37">“Bhadrapāla,” replied the Blessed One, “now is the time for you to put your questions, so ask
+                        whatever you wish; I shall answer you.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-29"/>
+                    <p tid="38">So Bhadrapāla asked, “Blessed One, sentient beings in this world do not know about their
+                        consciousness. If not understanding consciousness is akin to not knowing of a jewel hidden in a box, what
+                        then, Blessed One, is consciousness? Why is it called ‘consciousness’? Blessed One, a dying person’s limbs
+                        and eyes fail; when, at the moment of death, his faculties cease and he loses his constituent elements,
+                        how does this consciousness undergo transfer from the body, and what type of form does it have? What is
+                        its nature? How does it separate from the body? How does consciousness, after abandoning one body,
+                        appropriate another body? After abandoning the elements and casting off the sensory fields, how does it
+                        leave this world and go on to the next? How does it appropriate different bodies? Blessed One, how do a
+                        dying person’s sensory fields follow him? Blessed One, how does someone experience, in another world, the
+                        roots of virtue accumulated in this world? How is it that the roots of virtue accumulated by the current
+                        aggregates are experienced later on by another set of aggregates? How does consciousness follow the body?
+                        How do the sensory fields follow the body?”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-30"/>
+                    <p tid="39">The Blessed One said to Bhadrapāla, “Excellent, Bhadrapāla! It is good that you prompt me so.
+                        Listen then, Bhadrapāla, to my explanation of how consciousness comes and goes, undergoes transfer, and
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.74.b" type="folio" xml:id="UT22084-044-003-242"/> ceases.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-31"/>
+                    <p tid="40">“As an analogy, Bhadrapāla, even though the wind element is formless, it manifests in the <term type="ignore">form</term> of things that are both demonstrable and tangible. It is demonstrable in the
+                        shaking and waving of trees, in the howling sound wind makes, and in the sensations of warmth and cold that it
+                        creates, even though it has no perceptible limbs, eyes, or face, nor is it seen to have any color, such as
+                        blue or white. Bhadrapāla, it is in just the same way that the element of consciousness is not observed as
+                        form, and does not manifest as form, and thus you have to understand the element of consciousness through
+                        the particularities of its causes.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-32"/>
+                    <p tid="41">“So, what are those causes? They are volition, feeling, and the element of dharmas. So, how does
+                        the element of consciousness, after abandoning a body, assume feeling and volition? To illustrate that,
+                        consider how the wind element absorbs a flower’s scent and carries it along; from its movement we know the
+                        smell of divine flowers wafting through the air. Yet the wind element does not pick up the flowers’ scent,
+                        nor is the scent of the different flowers perceived in the wind element’s absence. The scent has no form,
+                        and neither does the wind element. The sense of smell has no form, either.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-33"/>
+                    <p tid="42">“Bhadrapāla, it is in just the same way that the consciousness of a dead person assumes feelings,
+                        volition, and the element of dharmas on its way to the next world, and consciousness arises with the
+                        intercourse of the parents. Once consciousness arises, feelings and volitions begin to form. In the
+                        analogy, the nose smells on account of the flower; one perceives scent on account of the nose.
+                        Furthermore, just as one perceives the natural sensation of the wind on account of the body, and the scent
+                        of a flower arises on account of the wind, feelings arise because of consciousness, and volition arises on
+                        account of feelings. The element of dharmas, which knows what is virtuous or non-virtuous, arises on
+                        account of volition.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-34"/>
+                    <p tid="43">“As another analogy, an artist can paint whatever he likes on a wall or panel that he has
+                        thoroughly prepared. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.75.a" type="folio" xml:id="UT22084-044-003-243"/> His mind, trained to the work, makes manifest whatever forms he
+                        wishes despite the fact that his consciousness lacks form. Though his consciousness lacks form, it makes
+                        various kinds of forms manifest. In just the same way, the element of consciousness, which lacks form,
+                        makes manifest the six types of form bodies.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-35"/>
+                    <p tid="44">“That is to say, the eyes are the condition for seeing forms, but the consciousness that depends
+                        on the eyes has no form. The ears are the condition for sounds, but the auditory consciousness has no
+                        form. The nose is the condition for smell, but the olfactory consciousness has no form. The tongue is the
+                        condition for taste, but the gustatory consciousness has no form. The body is the condition for
+                        touch, but the tactile consciousness has no form. Neither the sphere of mental objects, nor knowledge,
+                        have form. Hence, the objects of cognition must also be considered to have no form. In the same way, too,
+                        the element of consciousness should be regarded as formless.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-36"/>
+                    <p tid="45">“How does the element of consciousness abandon the body and then go to the next world? Bhadrapāla,
+                        when life ceases in this world due to the exhaustion of karma at the time of death, the element of
+                        consciousness undergoes transfer under the direction of karmic obscurations. Just as, for example, the
+                        element of consciousness of an arhat who has reached the attainment of cessation remains cognizant after
+                        it has ceased internally, so, too, a dying person’s element of consciousness retains the capacity for
+                        recollection after it has abandoned the body and cast aside the elements. That is how it knows, ‘I made
+                        these votive offerings,’ as a physical feeling, a mental feeling, and both types of feeling conjoined. At
+                        the time of death, it has physical feelings; once death has taken place, it has mental feelings.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-37"/>
+                    <p tid="46"><!--<canonicalGlossPassage term=rnam shes>-->“Furthermore, what does ‘consciousness’
+                        mean? <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.75.b" type="folio" xml:id="UT22084-044-003-244"/> Since it acts as the seed that makes the sprout of a body manifest, and through
+                        volition acquires awareness and recollection, the seed and the awareness are referred to as consciousness.
+                        Furthermore, it is because it comprehends awareness through feelings of pleasure and pain that it is
+                        called consciousness. Furthermore, it is because it is cognizant of virtue and non-virtue, and is aware of
+                        the fields of virtuous and non-virtuous conduct, that it is called consciousness. It is also because it
+                        forms a body, just as a seed produces a sprout, that it is called
+                        consciousness.<!--</canonicalGlossPassage>-->
+                    </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-38"/>
+                    <p tid="47">“Bhadrapāla, you went on to ask how the element of consciousness abandons the body and then
+                        undergoes transfer. It is comparable to a reflection in a mirror, or the imprint of a seal in clay. Take,
+                        as another analogy, the sun. When it rises, dimness and darkness vanish, and when the sun vanishes,
+                        darkness sets in; yet the presence of that darkness is neither constant nor not constant. In the darkness,
+                        neither form nor feeling is visible and, in just the same way, once the body is born the element of
+                        consciousness is present in the body as if in darkness. That is to say, although no one sees
+                        consciousness, the element of consciousness maintains its hold on the body.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-39"/>
+                    <p tid="48">“As another analogy, when a woman is carrying a child in her womb, she does not know whether the
+                        child in her belly is a boy or a girl; whether it is dark, fair, or sallow; whether its <term type="ignore">faculties</term> are impaired or not; or whether its limbs are well-proportioned. But
+                        she feels the child in her womb stir at the touch of very hot food and drink. In the same way, sentient
+                        beings do not understand this element of consciousness, and wonder about the nature of this consciousness
+                        present in their body such that it causes them to come and go, to stretch and bend, to close and open
+                        their eyes, and to perform all kinds of actions, such as laughing, speaking, and thinking. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.76.a" type="folio" xml:id="UT22084-044-003-245"/>
+                    </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-40"/>
+                    <p tid="49">“Furthermore, Bhadrapāla, the element of consciousness is completely purified; it encompasses
+                            everything,<tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" place="end" xml:id="UT22084-044-003-218"> Here the text uses the two words
+                            that together make up the Tibetan term for “enlightenment”—“purified” (<foreign xml:lang="Bo-Ltn">s/byang</foreign>) and “comprehensive” (<foreign xml:lang="Bo-Ltn">chub</foreign>)—to describe
+                            consciousness.</tei:note> yet it is not tainted by anything.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-41"/>
+                    <p tid="50">“Bhadrapāla, consciousness commands the following constituents: the six sense organs, the objects
+                        of the six sense organs, the four elements, and the five aggregates of appropriation. Bhadrapāla, consider
+                        all these things to be consciousness’s to command. To illustrate this, consider how a wooden puppet
+                        connected to a rod can be made to do anything. How, Bhadrapāla, do you think it runs, jumps, dances, or
+                        does any other number of things? What animates the puppet?”</p>
+                    <p tid="51">“Blessed One, I do not grasp the reason for your question,” Bhadrapāla replied.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-42"/>
+                    <p tid="52">“Bhadrapāla,” the Blessed One continued, “the puppet is animated by action, and yet while action is
+                        something without form, consciousness makes it manifest. In the same way, this body puppet of ours arises
+                        through the influence of consciousness, and the element of consciousness animates different bodies. The
+                        element of consciousness, because it generates a body, is also its creator. The element of consciousness,
+                        because it adheres to the bodily elements, is also inexhaustible. The element of consciousness, because it
+                        recollects its previous bodily state, is also perfectly intelligent. Consider the element of consciousness
+                        to be like the rays of the sun. The sun’s rays fall on foul-smelling things, dirty things, and corpses,
+                        yet they do not become tainted by the odor. Neither does the sun reject those foul smells and go away. In
+                        the same way, the element of consciousness may take rebirth among dogs or pigs that eat dirt and refuse,
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.76.b" type="folio" xml:id="UT22084-044-003-246"/> but the element of consciousness is not tainted by the offensive way they
+                        live.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-43"/>
+                    <p tid="53">“Furthermore, Bhadrapāla, once the element of consciousness abandons the body, it follows after
+                        virtue and non-virtue. How so? Once the formless element of consciousness has abandoned this body, it
+                        retains its merit and non-merit. As an analogy, the element of wind, emerging from a rocky ravine,
+                        encounters a campaka tree, and carries away its fragrant scent as it passes; it also carries the odor of
+                        the foul-smelling filth and corpses it passes. Bhadrapāla, it assumes whatever scent is predominant. Just
+                        as the wind element carries both kinds of smell as it passes, even though that wind element itself, as
+                        well as the two kinds of smell, are formless, so, too, the element of consciousness undergoes transfer
+                        from the body, carrying virtue and non-virtue with it as it is transferred. This is how you should
+                        conceive of the transfer it undergoes.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-44"/>
+                    <p tid="54">“As another analogy, although a person in a dream may be aware of all sorts of things, he is not aware
+                        that his body is lying in bed. Similarly, sentient beings who have encountered merit undergo transfer and
+                        migration as if they were dreaming a dream, but the element of consciousness does not emerge from their
+                        throat, or from any other opening, for it does not seek out holes or egresses.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-45"/>
+                    <p tid="55">Bhadrapāla prostrated before the Blessed One, and asked, “Blessed One, how do chicks die, undergo
+                        transfer, and migrate from inside unpecked chicken or duck eggs, when the shell has not been pierced? How
+                        does their consciousness undergo transfer, without any piercing?”</p>
+                    <p tid="56">The Blessed One answered, “As an analogy, the sesame oil you get from infusing sesame seeds with
+                        campaka flowers before pounding and pressing them well is called ‘campaka sesame
+                        oil.’ In that process a pleasant scent infuses—that is, passes through and goes into—the
+                        sesame seeds even though the scent neither ruptures the seed nor affects the flavor of the oil. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.77.a" type="folio" xml:id="UT22084-044-003-247"/> The encounter of the seed with the flower acts as a condition for the mingling of the
+                        scent and the sesame oil. However, it is not the case that the flower’s scent enters into the body of the
+                        sesame seed. It is rather that those conditions cause the scent to be transferred and migrate. In just the
+                        same way the element of consciousness, like the flower’s scent, is transferred through an unruptured
+                        eggshell. That is also how you should view the transfer it undergoes.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-46"/>
+                    <p tid="57">“You should also view the transfer it undergoes as like that of the sun, a crystal, and fuel.
+                        Alternatively, the transfer it undergoes is like a seed. Wherever a seed is sown, out of the elements of
+                        earth, water, fire, and air, it is earth alone that nurtures it to put forth a stem and green leaves, to
+                        produce flowers of white, blue, red, or multicolored appearance, and to ripen into different flavors. It
+                        is just the same for the element of consciousness: the body reborn in every life, be it grey, white,
+                        sallow, mottled, black, or naturally changeable, is reborn solely from the element of dharmas.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-47"/>
+                    <p tid="58">“Furthermore, Bhadrapāla, when the element of consciousness abandons the body at the time of
+                        death, it becomes a seed that perceives that it possesses arms and legs; yet it possesses no limbs or any
+                        other body parts. As it leaves the element of earth behind, it takes up the element of dharmas, and the
+                        element of dharmas is accompanied by attention. That attention has the capacity for a range of activity.
+                        Consciousness is what causes the element of dharmas to be accompanied by attention, for no element of
+                        dharmas is observed apart from consciousness, nor is there any element of consciousness apart from the
+                        element of dharmas. The air element follows in the wake of consciousness, and moreover the earth element,
+                        and likewise all other elements of form, be they of attention, feeling, or dharmas, follow after it.” <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.77.b" type="folio" xml:id="UT22084-044-003-248"/>
+                    </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-48"/>
+                    <p tid="59">“Blessed One, how is it that the element of consciousness possesses form?” Bhadrapāla asked.</p>
+                    <p tid="60">The Blessed One replied, “Bhadrapāla, in that regard, there is an inner form and an outer form.
+                        What is inner form? The eye that perceives is outer form, while visual consciousness is inner form. The
+                        ear is outer form, while auditory consciousness is inner form. The nose is outer form, while olfactory
+                        consciousness is inner form. The tongue is outer form, while gustatory consciousness is inner form. The
+                        body is outer form, while feelings that result from touch gathered by the body are inner form.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-49"/>
+                    <p tid="61">“Bhadrapāla, suppose a man born blind, succumbing to sleep at night, were to see divine forms,
+                        with well-proportioned limbs and very attractive overall. He is overjoyed to see them, but when he wakes
+                        from sleep, he can no longer see those forms. He gets up, and says, ‘Listen! Last night in my dream I saw
+                        the form of a very attractive woman, together with pleasure groves filled with a thousand people. There I
+                        saw beautiful youths. Their arms were as long as the trunk of a fine elephant, and they were of imposing
+                        stature, with wide shoulders, and broad, firm chests.’ He relates all of the beautiful physical attributes
+                        of those people. However, the blind man never saw the actual forms of those people. What do you make of
+                        that, Bhadrapāla? How could the blind man see their forms in a dream?” </p>
+                    <p tid="62">Bhadrapāla replied, “Blessed One, please tell me.” <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.78.a" type="folio" xml:id="UT22084-044-003-249"/>
+                    </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-50"/>
+                    <p tid="63">“Although a blind man sees forms in his dreams,” continued the Blessed One, “it is not with his physical
+                        eyes but because he has inner visual consciousness. Just as a man upon waking fleetingly remembers his
+                        dream, the memory of the dead arises in a similar way. That is how you should regard inner form, too.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-51"/>
+                    <p tid="64">“Furthermore, Bhadrapāla, I shall explain how a dead person’s element of consciousness undergoes
+                        transfer and migrates in a way comparable to the element of a seed. As an analogy, if one sows the element
+                        of a seed in the ground, it absorbs the four elements. It is likewise that the element of consciousness
+                        takes on attention and assumes feeling. Gathering up virtue and non-virtue, too, it abandons the body,
+                        undergoes transfer, and migrates.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-52"/>
+                    <p tid="65">“Blessed One, how does consciousness assume virtue and non-virtue?”</p>
+                    <p tid="66">“Bhadrapāla, it is like a precious ruby capturing dark or white light; that light, according to
+                        its nature, appears in the precious gem, and it is that very nature that glows within the gem. It glows
+                        with the colors of any place to which it is transferred. In a similar way, consciousness assumes virtue
+                        and non-virtue, before undergoing transfer and migrating.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-53"/>
+                    <p tid="67">Then, Bhadrapāla asked further, “Blessed One, how should we understand the presence of consciousness
+                        in the body?” </p>
+                    <p tid="68">“Bhadrapāla,” replied the Blessed One, “do not imagine consciousness to have been accumulated or
+                        heaped up. Why? Because the element of consciousness arises and ceases. As an analogy, Bhadrapāla, a
+                        sprout emerges from a seed; but no sprout will emerge from a seed that is rotten, or from a seed that is
+                        damaged. And when a sprout is produced, Bhadrapāla, what do you think? Where is the seed of that sprout
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.78.b" type="folio" xml:id="UT22084-044-003-250"/> located? Is it in the stem, the leaves, or the buds? Even at the very top of a
+                        tree, its seed is not present. In the same way, consciousness is not located anywhere in the body—not in
+                        the faculties of the eye, or the ear, or the nose.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-54"/>
+                    <p tid="69">“The germination of a sprout from a seed corresponds to an early stage of volition. At conception
+                        in the womb there is an early stage of feeling. In the analogy, a sprout arises and, when it is the right
+                        season, it produces flowers, and when it has flowered, the fruit is formed. It is in the same way that the
+                        element of consciousness produces the body.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-55"/>
+                    <p tid="70">“Once the body has been formed, consciousness is not located in the limbs or any other body part,
+                        but without consciousness the body will not develop. In the same way that a seed emerges from mature trees
+                        but not from immature ones, at the time of death consciousness appears from the body. It is accompanied by
+                        feeling, constrained by craving, in full possession of attention, accompanied by its support of virtue,
+                        accompanied by its support of non-virtue, carried by the air element, and saturated with awareness; and,
+                        aligned to conditions, consciousness arises when the parents come together.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-56"/>
+                    <p tid="71">“As another analogy, a face is reflected on the surface of a very clean mirror; but if there is no
+                        face, no reflection occurs, and if there is no mirror, no reflection occurs, either. A reflection emerges
+                        from the encounter between face and mirror; that reflection has no form, no feeling, and no awareness.
+                        However the body shifts, the reflection in a mirror moves, and however the face speaks, shouts, moves,
+                        contracts, or stretches, the reflected face appears to do likewise. Bhadrapāla, what do you think? Because
+                        of what <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.79.a" type="folio" xml:id="UT22084-044-003-251"/> does the reflection become observable?”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-57"/>
+                    <p tid="72">Bhadrapāla replied, “It is because<tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" place="end" xml:id="UT22084-044-003-219"> We
+                            follow N <foreign xml:lang="Bo-Ltn">dbang gis</foreign> rather than D <foreign xml:lang="Bo-Ltn">dbang
+                                po’i</foreign> here, as Bhadrapāla is clearly answering the Buddha’s question.</tei:note> of the
+                        person that the reflection is there; and moreover it is the mirror that acts as the condition for the
+                        presence of the face’s reflection. A reflection arises of the face, of its exact complexion, and of its
+                        exact features, whether impaired or not.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-58"/>
+                    <p tid="73">“Bhadrapāla, just as a reflection is produced because of the body and the condition of the
+                        mirror’s surface, so, likewise, it is because of consciousness that the body experiences feelings and
+                        produces perceptions, formative predispositions, and mental processes. In this analogy, the mirror
+                        corresponds to the parents coming together.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-59"/>
+                    <p tid="74">“Just as the body disappears, its reflection will disappear. Yet suppose that its state of being
+                        reflected in the mirror’s surface is left behind: it can still cause its reflection to appear in water.
+                        Likewise, when the element of consciousness abandons the body and its corporeal state is cast off, it will
+                        acquire the aggregates of another body. </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-60"/>
+                    <p tid="75">“As an analogy, the element of a seed, tiny though it may be, produces the great bulk of a tree
+                        such as a banyan or uḍumbara before leaving it behind.
+                        When the seed element is given off to develop into another tree, as the seasons change the elemental sap
+                        of the first tree vanishes. Because its elemental sap vanishes, the tree becomes old and withered. It is
+                        likewise that the element of consciousness, subtle and invisible though it is, generates bodies and then
+                        abandons them again before producing other bodies. </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-61"/>
+                    <p tid="76">“As another analogy, where there is a little grain of barley, sesame seed, wheat grain, soya bean, or
+                        mung bean, what is present is very little, like that of volition. Just so, the element of consciousness
+                        carries that volition to one or another kind of sentient being to which it is undergoing transfer, and,
+                        keeping with it a little feeling <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.79.b" type="folio" xml:id="UT22084-044-003-252"/> along with merit and non-merit, undergoes transfer
+                        from this world to the next.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-62"/>
+                    <p tid="77">“As another analogy, a bee may stay for a long while on a flower because it clings to its taste
+                        but, once it has partaken of that flower, leaves it behind and moves on to another. Or a bee may also,
+                        after partaking of an unpleasant-smelling flower, move on to one with a pleasant smell. Just as a bee,
+                        whichever flower it settles on, gets attached to it and enjoys its taste, so, too, does the element of
+                        consciousness appropriate a god’s body in the heavens, where it fully partakes of its roots of virtue,
+                        before appropriating a body among the hell-beings, or the animals, or the hungry ghosts, where it fully
+                        experiences its roots of non-virtue, and then appropriates yet another set of five aggregates.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-63"/>
+                    <p tid="78">“How, in this context, should one view the element of consciousness? As an analogy, the seeds of
+                        saffron or poppy are naturally white, and neither their sprouts nor their flowers are apparent within the
+                        body of the seed. Although it evinces no color, sowing a seed in the earth element and then saturating it
+                        with the water element will cause the sprout to be produced. Once the sprout has been produced, red,
+                        white, or blue flowers will arise. That color, however, was not present within the body of the seed. Yet,
+                        without the seed, neither color nor sprout could emerge. Similarly, the element of consciousness, after
+                        leaving the body, although it is in human shape, does not possess the sense-fields that arise from
+                        flesh-and-blood faculties. Instead, possessing a divine eye and ear, it becomes an entity with perfect
+                        knowledge of the sense-fields of sound, scent, taste, and mental objects. It also becomes aware of the
+                        thought, ‘Whatever actions I have done determine what I am.’</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-64"/>
+                    <p tid="79">“Consciousness acts as a condition for the formation of the body. It is like a silk-worm making a
+                        dwelling from strands of yarn that emerge from its own body, where it spends its time until death.
+                        Similarly, the element of consciousness <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.80.a" type="folio" xml:id="UT22084-044-003-253"/> produces a body and then, just like that
+                        silk-worm, abandons it and disappears.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-65"/>
+                    <p tid="80">“As an analogy, a lotus grows in water, and produces its divine scent and color; yet the element
+                        of water is not apprehended as the white lotus, and when the lotus disappears into the water, it is
+                        wherever its seed may be that its color, scent, and taste will reside. Likewise, wherever the element of
+                        consciousness is transferred to and migrates, the domains of the senses are transferred there; feeling,
+                        volition, and the element of dharmas are all transferred and migrate there, too.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-66"/>
+                    <p tid="81">“It is like a precious wish-fulfilling jewel with which, wherever it goes, all of its abundance is
+                        transferred and migrates there, too. Or like the sun and its rays: wherever the sun may go, the rays of
+                        sunlight follow and go to that very same place. So also, wherever the element of consciousness is
+                        transferred to, feeling, perception, and the element of dharmas are all transferred and migrate to that
+                        very same place, too.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-67"/>
+                    <p tid="82">“Furthermore, the element of consciousness, after it has left the body behind, retains contact
+                        with all its faculties, and creates a body without flesh and blood. Form is what causes it to take hold of
+                        a body. Feeling experiences the objects of the faculties. Attention sees with divine sight and takes up
+                        virtue and non-virtue. As an analogy, the fruits of the juniper, date, mango, pear, pomegranate, bael, and
+                        gum trees produce many flavors. Each ripens into its own flavor: pungent, bitter, sour, salty, astringent,
+                        and so on. Some become pungent in flavor, others sour, and others again sweet. When the fruit is no more,
+                        wherever the seeds are transferred to, the flavor is transferred there, too. Likewise, wherever the
+                        element of consciousness <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.80.b" type="folio" xml:id="UT22084-044-003-254"/> is transferred to, feeling is transferred there, too; merit,
+                        non-merit, and attention are transferred there, too.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-68"/>
+                    <p tid="83">“Furthermore, the element of consciousness, after it has left the body behind, is conscious of
+                        that, thinking, ‘I have left this body of mine behind.’ That is why it is called <emph>the element of
+                            consciousness</emph>. It is also conscious of both its virtuous and non-virtuous actions, thinking,
+                        ‘These actions follow me just as I follow them.’ That is why it is called ‘consciousness.’
+                        Moreover, it is conscious of all the activities of the body. That is why it is called
+                        ‘consciousness.’</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-69"/>
+                    <p tid="84">“As an analogy, the element of air can be cold and can be hot; it can carry pleasant smells and
+                        can carry bad smells. Although all of these functions occur due to the conditional cause of the air
+                        element, the air element possesses no form. It is through an appropriating cause that it is perceived, for
+                        the air element is recognized by its shaking trees and acting as a condition by which heat or cold is
+                        appropriated. Likewise, the element of consciousness, despite possessing no form, experiences feeling
+                        through the conditions of appropriating form, desire, and view, as well as through the condition of
+                        appropriating rules and observances to be paramount. Because it generates and completes a body as well as
+                        its appearance through the condition of feeling, it is called ‘consciousness.’ ”</p>
+                    <lb/>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-70"/>
+                    <p tid="85">Now Candrabhūti rose from his seat. Pressing his palms together, he asked, “Blessed One, how should
+                        one view form? How is it appropriated? How should one view the appropriation of action? How is the view
+                        appropriated? How should one view the appropriation of the opinion that rules and observances are
+                        paramount?” </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-71"/>
+                    <p tid="86">“Excellent, Candrabhūti!” replied the Blessed One. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.81.a" type="folio" xml:id="UT22084-044-003-255"/> “The wise person knows this
+                        to be a sign of wisdom. Regardless of whether one’s appearance is good or bad, it is still based on many
+                        unpleasant and dirty things: pieces of flesh, veins, sinews, a head, a brain, bones, legs, guts, a colon,
+                        kidneys, a heart, a belly, lungs, excrement, urine, a bladder, a stomach, entrails, fat, lymph, pus,
+                        blood, bile, phlegm, nasal mucus, hair, beard, nails, body hair, and is completely covered in skin. All
+                        corporal forms of any kind whatsoever are produced from, or caused by, the four great elements. They are
+                        also brought about through the conditional cause of their parents’ coming together. Therefore, these are
+                        explained as being the <emph>causes for the appropriation of form</emph>. Candrabhūti, the body’s solidity
+                        constitutes the earth element. Its fluidity constitutes the water element. Its warmth and digestive action
+                        constitute the fire element. Its movement, contraction, and expansion constitute the air element. The
+                        body’s awareness, and its elements of taste, smell, sound, and touch, as well as recollection, constitute
+                        what is called the element of consciousness.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-72"/>
+                    <p tid="87">Candrabhūti then asked the Blessed One, “Blessed One, how does consciousness abandon the element
+                        of form at the time of death? How does consciousness emerge from the body? After it has abandoned the
+                        body, how does it come to know and think, ‘This is my physical frame’?”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-73"/>
+                    <p tid="88">The Blessed One replied, “Candrabhūti, after the body has lived its life, when its time has come,
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.81.b" type="folio" xml:id="UT22084-044-003-256"/> its elements are relinquished. Suppose milk and water have been mixed, and
+                        simultaneously set in contact with fire. The milk and the water will both separate, but the milk’s creamy
+                        constituent does not possess form.<tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" place="end" xml:id="UT22084-044-003-220"> Because no
+                            creamy curds are initially visible in a milk and water mixture, the belief when the sūtra was written
+                            was presumably that they had no form. Similar thinking is shown in a later metaphor for the latent
+                            state of enlightenment within the mind: like butter that can be churned from milk.</tei:note> Candrabhūti,
+                        in a similar way, the physical frame of a dying person also separates from its elements and consciousness.
+                        After consciousness has taken up the support of the elements, it then takes up the element of dharmas. Its
+                        attention becomes linked to the element of dharmas. Once its attention is linked with the element of
+                        dharmas and it has taken up virtue and non-virtue, consciousness undergoes transfer to its next life.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-74"/>
+                    <p tid="89">“Take, as an analogy, the medicinal butter called ‘great virtue.’ Since the butter has absorbed
+                        the many powers and attributes of pungent, bitter, sour, salty, and astringent flavored medicines, they
+                        enter the body. As they enter, the potent flavor and attributes of the virtuous medicinal butter generate
+                        color, scent, and flavor in the body. Leaving the butter element behind, they are transferred into the
+                        body. In the same way, the element of consciousness leaves the body behind. Then, after assuming virtue
+                        and non-virtue, as well as the element of dharmas, the consciousness is transferred.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-75"/>
+                    <p tid="90">“The butter element resembles the body. The medicines that come together resemble the faculties
+                        that come together. The medicines’ color, smell, flavor, and consistency resemble consciousness. The
+                        transfer should be considered to resemble the transfer of the deceased’s consciousness.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-76"/>
+                    <p tid="91">“The person’s improved color, fine complexion, and return to well-being are explained as
+                        resembling virtue. Should the great virtuous medicinal butter make his or her complexion poor and pale,
+                        that is explained as resembling non-virtue. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.82.a" type="folio" xml:id="UT22084-044-003-257"/> The element of consciousness should be
+                        regarded as resembling the precious medicinal butter of great virtue. The great virtuous medicinal butter,
+                        even though it possesses no limbs or eyes, makes the color of the medicines, as well as their flavor and
+                        smell, enter it. In the same way, the element of consciousness, once it has left the body behind and cast
+                        off the elements, assumes the element of dharmas, feeling, and virtue and non-virtue.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-77"/>
+                    <p tid="92">“Candrabhūti, a deceased person also acquires divine attention. He sees the six levels of gods of
+                        the realm of desire, as well as the beings in the sixteen hell realms. He even sees his own body, with
+                        well-proportioned limbs, and thinks, ‘This is my physical frame,’ and is aware of it. Through attention at
+                        the time of his death, his divine gaze will also see multi-storied, beautiful buildings, surrounded by
+                        trees with many branches, creepers, and a variety of plants, ornamented with different kinds of vines the
+                        color of newly-refined gold. At the sight of this, he becomes overjoyed. Through generating that joy, he
+                        comes to possess the attributes that portend a death of happy outcome.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-78"/>
+                    <p tid="93">“One should view the deceased person’s consciousness as resembling a rider mounted on a horse.
+                        Just as, when setting off to battle, a rider contacts no one else in the army, but grabs his saddle and
+                        rides off very fast, in the same way, the element of consciousness connects with the apprehending of
+                        virtue and, with an excited gasp, assumes the element of dharmas, at which point the sensory fields cease
+                        to exist. After it casts aside its body, consciousness takes up a place among the heavenly pure realms all
+                        the way up to Akaniṣṭha.” <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="B2" type="bampo"/>
+                    </p>
+                    <lb/>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-79"/>
+                    <p tid="94">Mahauṣadhi now bowed at the feet of the Blessed One and asked him, “What is the nature of
+                        consciousness that transfers from the body?” <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.82.b" type="folio" xml:id="UT22084-044-003-258"/>
+                    </p>
+                    <p tid="95">The Blessed One replied, “Mahauṣadhi, that you ask me such a question now is quite right.
+                        Excellent, excellent. This is an extremely profound question. It is a question for the Tathāgata to
+                        explain. Other than the Tathāgata, there is no one who can explain consciousness.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-80"/>
+                    <p tid="96">“Blessed One, young prince Mahauṣadhi is good at asking such profound questions.
+                        He has a subtle mind and is well-versed in learning,” said Bhadrapāla.</p>
+                    <p tid="97">“Quite right, Bhadrapāla,” replied the Blessed One. “Young prince Mahauṣadhi generated the roots of
+                        virtue in the presence of the Blessed Vipaśyin. Bhadrapāla, after Mahauṣadhi had belonged to heterodox
+                        sects for five hundred lifetimes, he formulated the thought, ‘What is the element of consciousness? Whose
+                        is the element of consciousness? What is the nature of the element of consciousness?’ Even so, Bhadrapāla,
+                        he does not completely understand the comings and goings of consciousness. So I shall dispel his
+                        doubts.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-81"/>
+                    <p tid="98">Bhadrapāla then said to Mahauṣadhi, “Excellent, Mahauṣadhi! Your wisdom is immense and
+                        far-reaching, and you are good at requesting profound teachings. Mahauṣadhi, address your questions to the
+                        Blessed One; he is the gateway to wisdom and the source of pure intelligence. Candrabhūti is foolish;
+                        because he is attached to things, he did not ask the Blessed One, the Tathāgata, questions that have not
+                        hitherto been asked. Since a tathāgata is hard to find, and it is difficult to encounter the excellent
+                        Dharma, ask the Blessed One about the most profound subjects within his purview.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-82"/>
+                    <p tid="99">At that point, Mahauṣadhi saw that the face of the Blessed One had become radiant like a garden of
+                        lotus flowers in autumn. At this sight, <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.83.a" type="folio" xml:id="UT22084-044-003-259"/> Mahauṣadhi felt faith, and asked the Blessed
+                        One, “Blessed One, if I were to seek instructions, would the Sugata please teach me the Dharma? You are
+                        one who has transcended suffering until the end of time. These sentient beings less elevated than you,
+                        however, while not wanting the maturation of virtuous and non-virtuous actions, will make themselves
+                        wander through cyclic existence.”</p>
+                    <p tid="100">“Mahauṣadhi,” replied the Blessed One, “for the sake of even half a verse of Dharma I have thrown
+                        my body from rocky peaks, and have endured countless hardships. Mahauṣadhi, ask whatever questions you
+                        wish, and I shall answer them.”</p>
+                    <lb/>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-83"/>
+                    <p tid="101">So Mahauṣadhi asked him, “Blessed One, what is the nature of consciousness?”</p>
+                    <p tid="102">The Blessed One answered, “Mahauṣadhi, it resembles the nature of a person conjured up by an
+                        illusionist, the indistinct nature of the hazy shadow of a person that appears on water, the nature of the
+                        eye and the sky, and the nature of craving.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-84"/>
+                    <p tid="103">“Blessed One, how is the nature of craving?” asked Mahauṣadhi.</p>
+                    <p tid="104">The Blessed One replied, “The eye faculty, when it sees attractive people, moves toward them. And
+                        just as a person sees his own face reflected in a mirror, and does not see his face reflected when the
+                        mirror is drawn aside, in the same way, when the element of consciousness has undergone transfer, that
+                        element of consciousness sees its own merit and non-merit. Just as a blind man cannot see whether the sun
+                        is rising or is at its noon position, and at night cannot see whether the moon is rising or setting, it is
+                        likewise that the element of consciousness is invisible for the body. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.83.b" type="folio" xml:id="UT22084-044-003-260"/> Even so,
+                        Mahauṣadhi, for the body, craving, feeling, perception, and awareness constitute the element of
+                        consciousness. Consciousness is also what brings together the body’s elements, its sensory fields, and
+                        aggregates. Its components that possess form include the eyes, ears, and nose, as well as taste and sound,
+                        while the components that are formless include feeling, pain, pleasure, and intellect, and these are the
+                        element of consciousness.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-85"/>
+                    <p tid="105">“Mahauṣadhi, the tip of a person’s tongue senses bitter, pungent, sour, sweet, and salty tastes.
+                        It possesses form, and the substances that are tasted also possess form. In the same way, also, the bones,
+                        marrow, flesh, and blood of the body possess form. But feeling is formless. That which experiences
+                        maturation, merit, and non-merit is consciousness.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-86"/>
+                    <p tid="106">Bhadrapāla now bowed at the feet of the Blessed One and asked him, “Blessed One, what is it to
+                        experience merit and non-merit?”</p>
+                    <p tid="107">“Bhadrapāla,” replied the Blessed One, “listen to what I say about this. Unless one has seen truth,
+                        one cannot see consciousness. It is not like seeing an amla fruit held in one’s hand. Consciousness is not
+                        located in the eyes, nor is it visible as springing from the eyes. Bhadrapāla, I, like all the tathāgatas
+                        as numerous as the sands of the river Ganges, see the element of consciousness as it truly is, and realize
+                        that it is without form. Nonetheless, for the sake of foolish people who do not understand this, I have
+                        explained the element of consciousness using analogies. Bhadrapāla, here is how the element of
+                        consciousness knows both merit and <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.84.a" type="folio" xml:id="UT22084-044-003-261"/> non-merit.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-87"/>
+                    <p tid="108">“As an analogy, suppose some people were to be seized by evil spirits that cause emaciation or
+                        forgetfulness, or by gandharvas or gods. Do you think, Bhadrapāla, that the emaciating spirits,
+                        gandharvas, or gods that possess those people would be visible?”</p>
+                    <p tid="109">“No, Blessed One. The spirits would not show up inside or even outside those people. Those
+                        spirits do not exist as forms.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-88"/>
+                    <p tid="110">“Bhadrapāla, it is like a great celestial spirit accepting offerings of fragrant flowers,
+                        perfumes, incense, and flower garlands. It is in the same way that the element of consciousness, through
+                        possessing merit, assumes a body that then gives it sovereign power, or the status of a head merchant or a
+                        god. That is how the element of consciousness experiences merit. Just as a celestial spirit delights in
+                        the offering of celestial flower garlands, and is satisfied with the body of the person it possesses, so
+                        too the element of consciousness is gladdened by the status of sovereignty, and is satisfied with its body
+                        as well. That is how the element of consciousness experiences merit.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-89"/>
+                    <p tid="111">“As an analogy, Bhadrapāla, suppose a repulsive, putrefying spirit of invisible form were to
+                        possess a person’s body, desiring dirty, putrid, defiled things—things thrown into gutters and
+                        strewn-offerings. It would take delight in those offerings. That person, too, under the control of the
+                        spirit, would desire feculent food from foul-smelling, dirty things, and take delight in it. In the same
+                        way, the element of consciousness, through actions that lean toward non-merit, produces bad rebirths. It
+                        is attached to and delights in poverty, evil hungry ghosts, and spirits that eat filth. That is how the
+                        element of consciousness experiences non-merit. </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-90"/>
+                    <p tid="112">“Just like that formless great divine spirit partaking in divine enjoyments, in the same way <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.84.b" type="folio" xml:id="UT22084-044-003-262"/> the formless element of consciousness, carried by formless merit, is made to give rise
+                        to divine bodies.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-91"/>
+                    <p tid="113">“And like putrefying spirits possessing human beings and making them eat excrement and filth, the
+                        element of consciousness, through actions that lean toward non-merit, is born into bad rebirths. That is how
+                        the element of consciousness that leans toward non-merit should be considered. </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-92"/>
+                    <p tid="114">“So, Bhadrapāla, you should view those spirits, because they are formless, as resembling the
+                        element of consciousness. You should view the good or bad things enjoyed by those spirits as corresponding
+                        to virtue and non-virtue, and the people they possess as corresponding to the body.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-93"/>
+                    <p tid="115">Then Mahauṣadhi asked the Blessed One, “Blessed One, how should one view what causes
+                        consciousness to appropriate the body?”</p>
+                    <p tid="116">The Blessed One replied, “Desire through mutually dependent conditions causes that appropriation.
+                        In the same way that fire is produced through a friction base, a rubbing stick, and human effort, so too
+                        what causes appropriation of the body is the desire for sound, touch, flavor, and form produced through
+                        the conditions of a man and woman.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-94"/>
+                    <p tid="117">“As an analogy, although fruit is produced from a flower, the fruit is not observable in the
+                        flower, nor is the flower observable in the fruit that is produced. It is similarly that consciousness
+                        arises from this body. However, while consciousness is not visible in the body, when consciousness
+                        disengages from it, the body’s bones, marrow, liquids, and unclean parts are destroyed.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-95"/>
+                    <p tid="118">“Just as a seed establishes a flower’s color, scent, and taste, in the same way the element of
+                        consciousness, after leaving the body behind, establishes virtue and non-virtue; <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.85.a" type="folio" xml:id="UT22084-044-003-263"/>
+                        establishes feelings, perceptions, and mental processes; and then passes on to the next life. As an
+                        analogy, when a man’s and a woman’s sexual organs meet, they are moistened by pleasure; the man embraces
+                        the woman tightly, and then emits his passion. After<tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" place="end" xml:id="UT22084-044-003-221"> We follow the reading <foreign xml:lang="Sa-Ltn">nas</foreign> in K, N,
+                            and H rather than D <foreign xml:lang="Sa-Ltn">na</foreign>.</tei:note> the pair’s passion has passed,
+                        they uncouple. The bliss of desire arises in them both, but when their passion is spent, desire vanishes
+                        and they no longer desire each other. In the same way, the element of consciousness feels joy and its
+                        desire is inflamed when it achieves contact with the body. Just as the conditional cause of a body gives
+                        rise to the man’s desire when he sees the woman’s form, then withdraws it when they part company, so too
+                        when the body is appropriated and then discarded by the element of consciousness, it transforms into
+                        something else and is no more. </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-96"/>
+                    <p tid="119">“The consciousness produces a body from the contact of the parents, the presence of a gandharva,
+                        and entities that are the support of actions. Not only are those actions formless, but the essence of the
+                        condition of maleness or femaleness is also formless. Desire arises due to the conditional cause of
+                        appropriation; therefore, it is called <distinct>appropriating desire</distinct>. It is also called
+                            <distinct>appropriating desire</distinct> because one appropriates the desire for form.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-97"/>
+                    <p tid="120">“Furthermore, Mahauṣadhi, what is <distinct>the appropriation of holding rules and observances to be
+                        paramount</distinct>? In this context, ‘rules’ means the renunciation of killing, stealing, sexual misconduct, telling
+                        lies, and intoxication with beer or liquor, which are the source of heedlessness. It is held to be
+                        ‘paramount’ as its result is stream-entry, and its result is once-returning. Appropriating it causes
+                        becoming; it generates rebirth among gods and men and adherence to such birth; and it leads to the
+                        maturation of virtue, pure and impure. It also moistens the seed of the aggregates, <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.85.b" type="folio" xml:id="UT22084-044-003-264"/>
+                        collects virtuous and non-virtuous actions, and connects to<tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" place="end" xml:id="UT22084-044-003-222"> We follow the reading <foreign xml:lang="Bo-Ltn">sbyor</foreign> in N, S,
+                            and H, rather than <foreign xml:lang="Bo-Ltn">sbyong</foreign> in D.</tei:note> consciousness. It also
+                        burns up<tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" place="end" xml:id="UT22084-044-003-223"> The reading in C is <foreign xml:lang="Bo-Ltn">sred par byed</foreign>, which would mean “creates attachment to.”</tei:note>
+                        impurities that one has acquired. Therefore, it is called <distinct>the appropriation of holding rules and
+                            observances to be paramount</distinct>.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-98"/>
+                    <p tid="121">Mahauṣadhi then asked the Blessed One, “Blessed One, how does consciousness assume a body among
+                        the gods? How does it appropriate one among the hell-dwellers?”</p>
+                    <p tid="122">“Mahauṣadhi,” replied the Blessed One, “listen to what I have to say. Here, after the element of
+                        consciousness has assumed the element of dharmas, it develops divine vision, but that vision is not based
+                        on the physical eyes. Sight through this vision is called <emph>appropriation</emph>; it is therefore
+                        called <emph>visual appropriation</emph>. That divine vision, accompanied by the apprehension of merit,
+                        sees a divine abode among the gods of the realm of desire. Observing the gods enjoying their divine
+                        pastimes there, the consciousness develops attachment to that abode, and thinks, ‘I shall go there.’ It
+                        becomes conscious of coming into existence there where it was attracted with that thought. It also sees
+                        its past corpse lying in a cemetery, and thinks, ‘This is my virtuous friend. It is because of the roots
+                        of virtue that it stored that I have been reborn among the gods.’ ”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-99"/>
+                    <p tid="123">Mahauṣadhi then asked the Blessed One, “Blessed One, if the consciousness is attached to that
+                        corpse, why does it not stay there? Why does it not base itself in that very corpse?”</p>
+                    <p tid="124">The Blessed One answered in return, “Suppose, Mahauṣadhi, that someone were to cut his hair and beard, and
+                        were then to look at that hair and think, ‘These hairs are fragrant and black, so I shall make them grow
+                        on my head again.’ <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.86.a" type="folio" xml:id="UT22084-044-003-265"/> What do you think, Mahauṣadhi—would those hairs grow again?”</p>
+                    <p tid="125">“No, Blessed One.”</p>
+                    <p tid="126">“Similarly, Mahauṣadhi,” said the Blessed One, “the element of consciousness, once it has cast off
+                        the corpse, has no opportunity to occupy that same corpse again.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-100"/>
+                    <p tid="127">Mahauṣadhi asked further, “How does subtle and intangible consciousness produce the great bulky
+                        body of an elephant? How does it pierce a body that is as hard as a diamond? How does it hold onto a
+                        person who possesses the strength of nine thousand elephants, or the king of elephants?” </p>
+                    <p tid="128">The Blessed One replied, “Mahauṣadhi, let us compare consciousness to the formless and invisible
+                        wind element. The wind element stays on mountain tops, but when it rises from the mountain tops it smashes
+                        and splinters mountain peaks similar to, and as big as, Mount Meru. Mahauṣadhi, what do you think is the
+                        nature of the wind element? What is the nature of the mountain?”</p>
+                    <p tid="129">“The wind element is considered flimsy and incorporeal,” answered Mahauṣadhi.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-101"/>
+                    <p tid="130">“Yes, that is so, Mahauṣadhi,” continued the Blessed One. “Just as the wind element is flimsy and
+                        incorporeal, so consciousness, even though it is weak and incorporeal, engenders bodies great and small.
+                        The consciousness of a fly is just that. So is the consciousness of an elephant. As an analogy, just as
+                        even a small lamp flame is able to dispel great darkness inside an enclosure or a house, in the same way
+                        the element of consciousness, because it appropriates actions,<tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" place="end" xml:id="UT22084-044-003-224"> D reads “action” (<foreign xml:lang="Bo-Ltn">las</foreign>) here, and
+                            although N, H, and S all read “a body” (<foreign xml:lang="Bo-Ltn">lus</foreign>), which might fit
+                            with the term <foreign xml:lang="Bo-Ltn">lus len pa’i rgyu</foreign> also discussed at 1.83 (F.84.b),
+                            the passage that follows suggests that <foreign xml:lang="Bo-Ltn">las</foreign> may be the better
+                            reading. </tei:note> produces large and small forms.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-102"/>
+                    <p tid="131">Mahauṣadhi then asked, “Blessed One, why is that? Are those actions<tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" place="end" xml:id="UT22084-044-003-225"> Here, N specifies the subject, “action” (<foreign xml:lang="Bo-Ltn">las</foreign>), by supplying <foreign xml:lang="Bo-Ltn">las de’i </foreign>where the other
+                            versions have just “it / that” (<foreign xml:lang="Bo-Ltn">de</foreign>).</tei:note> things that possess
+                        form? Or are they without form? What is their nature? <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.86.b" type="folio" xml:id="UT22084-044-003-266"/> In what circumstances can
+                        actions be seen?”</p>
+                    <p tid="132">The Blessed One replied, “Mahauṣadhi, actions come into play when one obtains the pleasures,
+                        wealth, and foods of the gods. Suppose two poor men were to wander in the wilderness, and one of them
+                        finds cool water while the other dies of thirst. There is no one who scoops up and gives the water to the
+                        first man, and no one who hinders the second man. It is solely by the power of their merit that one finds
+                        water and the other does not. The properties of virtue and non-virtue should be viewed in a similar way.
+                        Virtue and non-virtue should be viewed as resembling the waxing and waning moon. As an analogy, when an
+                        unripe fruit ripens, it changes color. The change of color and ripening come about as a result of the
+                        strength of the fire element. It is likewise that this body, based on the strength of its merit, shows
+                        itself adorned by the affluence and wealth of the household of a head merchant. In the realms of the gods,
+                        it shows itself with divine adornments, for the adornments of Iśvara also exemplify merit.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-103"/>
+                    <p tid="133">“To illustrate this: when a seed is sown in the soil, it will eventually show itself in a
+                        tree-top. But that seed is not transferred from the tree-trunk to the tree-top, nor is the seed observable
+                        inside the tree. There is no one who takes the seed in their hands and places it into the tree-top, nor can
+                        the seed be perceived being transferred from the roots. Similarly, although virtue and non-virtue reside
+                        in the body, neither is visible in the body.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-104"/>
+                    <p tid="134">“As an analogy, a flower is formed from a seed, but the flower does not show itself within the
+                        seed. Within the flower, no fruit is perceptible, either. Even so, flower and fruit cannot be separated
+                        into two things. Similarly, although action occurs because of the body, and the body occurs because of
+                        action, action does not show itself within the body, nor does the body show itself within action.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-105"/>
+                    <p tid="135">“As another analogy, at the point when a flower matures, its fruit becomes visible. Similarly, when a
+                        body matures, its actions become visible. In the same way that <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.87.a" type="folio" xml:id="UT22084-044-003-267"/> a flower appears
+                        wherever a seed rests, so too, wherever a body happens to be born, that is where its virtuous and
+                        non-virtuous actions appear. However, action possesses no form, and its maturation is formless, too.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-106"/>
+                    <p tid="136">“As another analogy, a person’s body casts a shadow that is indistinct and formless, and follows that
+                        person. Although the shadow is not connected to the person’s body, the shadow does not occur when there is
+                        no body. In a similar way, virtue and non-virtue stay connected with a body—wherever the body moves, that
+                        is where its actions go. It is not because of the body that actions are pursued. Yet without the body,
+                        actions are not generated. </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-107"/>
+                    <p tid="137">“To illustrate that: if one applies purifying medicines of different types—such as pungent,
+                        bitter, or astringent—to the body, one cures all illness and the body takes on a sublime, vigorous
+                        appearance. Pungent or bitter medicines keep the body looking youthful and make it attractive. People then
+                        realize, ‘This person has undoubtedly taken medicine.’ Despite this, the medicines’ taste and efficacy are
+                        formless. Their formless taste and efficacy manifest through<tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" place="end" xml:id="UT22084-044-003-226"> Following N and H, we omit the <foreign xml:lang="Bo-Ltn">la</foreign>
+                            here.</tei:note> the vigorous appearance of the person. Likewise, virtuous action is formless. But after
+                        it has produced a body, if it is endowed with well-proportioned limbs, is provided with the particular
+                        food, facilities, possessions, and clothing that ensures its well-being, and if the person becomes rich
+                        with jewels, gold, and silver, all of these things are the result of virtuous action. The reduction in the
+                        prosperity of one’s family, possessions, and wealth, the loss of facilities and having to rely on others,
+                        eating bad food, sleeping on poor bedding, and having an ill-formed or disagreeable body are all the
+                        result of non-virtuous action.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-108"/>
+                    <p tid="138">“As an analogy, <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.87.b" type="folio" xml:id="UT22084-044-003-268"/> a face—either attractive or ugly—becomes visible by the
+                        power of a mirror, but the reflection in the mirror possesses no form. Similarly, consciousness is born
+                        among the gods, humans, hell-beings, animals, or hungry ghosts by the power of virtuous or non-virtuous
+                        action. This, Mahauṣadhi, is how you should view actions. Thus, actions follow in the wake of
+                        consciousness.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-109"/>
+                    <p tid="139">“Blessed One, how does consciousness cast off the sense faculties? And how does
+                        it come to assume a large body?” asked Mahauṣadhi.</p>
+                    <p tid="140">“Mahauṣadhi,” replied the Blessed One, “it is as follows. Suppose a hunter went into a dense forest
+                        and drew his bow in order to strike with his poisoned arrow a big, fully grown elephant in musth. As soon
+                        as the poison reaches the blood, it is transmitted through the limbs and the rest of the body. It cancels
+                        out the entire sphere of operation of the sense-faculties and, piercing to the quick, it alters the color
+                        of the blood. It is transferred to all the limbs as well as other parts. If the poison were to be
+                        extracted from the body, Mahauṣadhi, how do you think the poison would compare to the body of the elephant
+                        in size?”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-110"/>
+                    <p tid="141">“The two are like Mount Meru and a mustard seed,” answered Mahauṣadhi.</p>
+                    <p tid="142">The Blessed One continued, “In the same way that the poison is transferred, so, too, the element of
+                        consciousness gives up the body, leaves the sense faculties behind, and abandons the elements. Thus,
+                        consciousness leaves the sense faculties.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-111"/>
+                    <p tid="143">“Furthermore, Mahauṣadhi, you asked how consciousness comes to assume a large body. It is in the
+                        same way that we do not consider this body bulky and coarse. As an analogy, Mount Meru, the king of
+                        mountains, which is 84,000 miles in height, is encircled by the nāga kings Nanda and Upananda for 30,000
+                            miles. The respiration of those two nāga kings made the oceans unfit to drink, <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.88.a" type="folio" xml:id="UT22084-044-003-269"/> and even made Mount Meru quake. Just as this pair spread
+                        great poison far and wide, so too did Vāsuki and Takṣaka. Mahauṣadhi, do not think that their
+                        consciousness and the consciousness of an insect are any different. Mahauṣadhi, this is how that very
+                        consciousness belongs both to an insect and to them. As another analogy, were the nāga kings Nanda, Upananda,
+                        and so on to drink but a tiny drop of poisonous aconite or hālāhala, even they would die. What do you
+                        think, Mahauṣadhi—which is greater, the poison that Nanda, Upananda, and so on have at their disposal, or
+                        a drop of aconite or hālāhala?”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-112"/>
+                    <p tid="144">“Blessed One, the poison of Nanda and Upananda is viewed as greater than the
+                        poison of aconite or hālāhala,” answered Mahauṣadhi.</p>
+                    <p tid="145">“Similarly, Mahauṣadhi,” continued the Blessed One, “even the element of consciousness of large bodies
+                        that possess the strength of nine thousand elephants should be viewed as small, indistinct, and
+                        formless.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-113"/>
+                    <p tid="146">“Consciousness also affects the production of a large body due to the conditioning factor of
+                        action. As an analogy, the small seed of a banyan tree produces the tall and enormous king of trees, with
+                        an expanse of thousands of branches and twigs. Mahauṣadhi, how do the size of the seed and the size of the
+                        tree compare?”</p>
+                    <p tid="147">“Blessed One, they differ as much as the hollow inside a mustard seed and the
+                        expanse of space,” answered Mahauṣadhi.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-114"/>
+                    <p tid="148">“Similarly, Mahauṣadhi,” the Blessed One continued, “the tree does not show itself inside the seed,
+                        but without a seed no tree growth will be observed. Just as a large tree grows from a minute seed, so
+                        consciousness produces a large form from minute parts. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.88.b" type="folio" xml:id="UT22084-044-003-270"/> Even though consciousness is
+                        not visible within the body, without consciousness the growth of the body is not visible.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-115"/>
+                    <p tid="149">Mahauṣadhi further inquired, “Blessed One, how does consciousness, with its diamond-like essence,
+                        produce lowly bodies?”</p>
+                    <p tid="150">The Blessed One replied, “Mahauṣadhi, suppose some poor person were to find a precious,
+                        wish-fulfilling jewel. He would pick up the precious, wish-fulfilling jewel and then conjure up celestial
+                        realms, pleasure groves and parks, fields, courtyards, and gatehouses surrounded by many-branched trees
+                        and various kinds of vines, houses bedecked with flowers, as well as goods and chattels. All those things,
+                        Mahauṣadhi, are unstable and lowly, liable to dissolve quickly and be destroyed. If that man were to lose
+                        the precious wish-fulfilling jewel, his pleasant possessions would also vanish. Just as the precious
+                        wish-fulfilling jewel cannot be split into pieces even by a thousand diamonds, but its chattels are
+                        perishable by nature, so the nature of the element of consciousness is diamond-like in essence, but
+                        whatever body it possesses is without essence.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-116"/>
+                    <p tid="151">“Blessed One, how does the feeble element of consciousness split hard and solid
+                        forms into pieces and then undergo transfer from them to die?” asked Mahauṣadhi.</p>
+                    <p tid="152">The Blessed One replied, “As an analogy, Mahauṣadhi, a gentle flow of water among rocks pierces
+                        the very mountain and springs forth from it. What do you think, Mahauṣadhi? How hard is its interior?”</p>
+                    <p tid="153">“Blessed One, a mountain is naturally solid, firm, and hard as a diamond,
+                        while water is naturally soft and pleasant to touch,” Mahauṣadhi answered.</p>
+                    <p tid="154">The Blessed One said, “In a similar way, consciousness that is feeble by nature splits large
+                        bodies into pieces and leaves them behind.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-117"/>
+                    <p tid="155">
+                        <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.89.a" type="folio" xml:id="UT22084-044-003-271"/> “Blessed One, how do some types of beings undergo transfer
+                        and take rebirth among the gods, while others take rebirth among the denizens of the hell realms?” asked Mahauṣadhi.</p>
+                    <p tid="156">The Blessed One replied, “Listen, Mahauṣadhi, to what I say. After a sentient being has undergone
+                        transfer, when its consciousness is taken over by formative predispositions that orientate it toward a
+                        meritorious rebirth, it abandons the body. It then gives up human vision and attains the vision of the
+                        gods. With that vision, it sees the six kinds of gods of the realm of desire. It also sees the beings in
+                        the eight great hell realms. It sees its body being discarded, too. </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-118"/>
+                    <p tid="157">“It also sees celestial realms made of divine jewels, pleasure groves and gardens, flowery
+                        ear-ornaments, lotus flowers including red lotuses, celestial mansions, and dense groves surrounded by
+                        frolicking divine maidens. It also sees that the groves are made winsome and beautiful with divine
+                        substances, made of ever-blossoming, multicolored flowers, and the maidens are bedecked with ornaments
+                        such as strings of pearls, round bangles, flat bangles, and armlets. It also sees youthful gods and
+                        cheerful goddesses seated on thrones.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-119"/>
+                    <p tid="158">“Once the being has seen these things, it yearns for them. Through this yearning, the being
+                        becomes happy. This happiness produces great joy. The body’s complexion is then improved through this
+                        great joy, so that its facial complexion takes on a lotus-like appearance. Its vision is not impaired, nor
+                        its nose crooked or its mouth smelly. Similarly, its eyes take on the appearance of the petals of a blue
+                        lotus. Its vital points do not break down, its blood is not contaminated, and it does not produce
+                        excrement. The hairs do not stand on end, its nails do not turn black, nor do its hands turn yellow. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.89.b" type="folio" xml:id="UT22084-044-003-272"/> The body does not take on a moribund quality, nor do its limbs shrink.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-120"/>
+                    <p tid="159">“Mahauṣadhi, at the time of death the body acquires divine vision. Thus, it sees tall houses
+                        adorned with thousands of columns, threaded with jingling, sweet-sounding celestial bells, and lavish,
+                        exquisitely-scented garlands of different heavenly flowers. It also sees youthful gods, their bodies
+                        bedecked and beautified with ornaments, the finest gold, strings of pearls, bracelets, and armlets. When
+                        it sees these youthful gods, it becomes overjoyed.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-121"/>
+                    <p tid="160">“This joy gives rise to two signs in the dying person’s body: the teeth appear as white as
+                        evening jasmine and night lotus flowers, and the eyes are neither too closed nor too open. The body also
+                        issues sweet sounds and the face assumes the appearance of a lotus. The dead body does not become too hot
+                        or too cold. The person’s relatives and friends do not utter loud wails. The body assumes the attributes
+                        of death at sunrise. The surrounding area does not appear dark. At the time of death, the surroundings
+                        exude an exquisitely fragrant and pure scent. The eyes do not turn yellow, nor is their vision distorted.
+                        When the person sees the forms of tathāgatas, confidence and faith arise. When he sees near and dear ones,
+                        whether they are returning or remaining seated some distance apart, he hugs them in delight, and
+                        encourages the relatives by saying, ‘This is how all the rebirths in the world happen! So, because you are
+                        parting from me now, do not long for me, but let go.’ </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-122"/>
+                    <p tid="161">“Mahauṣadhi, suppose a being who is bound for a meritorious rebirth were to become desirous of
+                        giving <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.90.a" type="folio" xml:id="UT22084-044-003-273"/> at death. He recites a few verses or poetic sayings, and recounts stories or
+                        arguments to each person. At that time he does not cling to, or succumb to sleep. He blissfully
+                        relinquishes the formative predispositions of this life.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-123"/>
+                    <p tid="162">“At the time of death, he shares a throne with the gods and goddesses. As he sits on the throne,
+                        a goddess puts his hands on top of the hands of a god. Flowers spring from his hands, and when the goddess
+                        sees these flowers, she says to the god, ‘A happy time is upon us since a young god is born, so rejoice!’
+                        He then rubs and feels the flowers with his hands. As he rubs the flowers, he acquires the properties of
+                        death. His consciousness then discards the sense faculties and lets go of the spheres in which the senses
+                        operate. His consciousness abandons the elements before assuming their function.<tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" place="end" xml:id="UT22084-044-003-228">
+                            <foreign xml:lang="Bo-Ltn">khams rnams yongs su btang nas khams kyi don yongs su blangs te</foreign>.
+                            It is not clear which of the many different meanings of <foreign xml:lang="Bo-Ltn">khams</foreign>
+                                (<foreign xml:lang="Sa-Ltn">dhātu</foreign>) might be meant in this sentence.</tei:note> Subtle and
+                        formless, it acts as the support of virtue, like a horse for its rider, or like a crystal focusing the sun
+                        on tinder, or like water reflecting the moon, or like air in a cavity, before emerging, undergoing
+                        transfer, and passing on.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-124"/>
+                    <p tid="163">“At that moment, as a consequence of the flowers, as the parents share a bed and have sexual
+                        contact, the consciousness dissolves into the flowers. At that moment, too, a wind called ‘desiring
+                        nectar’ stirs. Through that wind, after seven days have passed, the consciousness produces an ear-ringed
+                        young god, immaculate and vibrant.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-125"/>
+                    <p tid="164">Mahauṣadhi then asked, “Blessed One, how does consciousness, controlled by the circumstance of
+                        its lack of form, accomplish the creation of forms? Also, how do these circumstances come about?”</p>
+                    <p tid="165">The Blessed One replied, “As an analogy, <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.90.b" type="folio" xml:id="UT22084-044-003-274"/> Mahauṣadhi, just as wind,
+                        controlled by the circumstance of being formless and invisible, brings about the production of the realms
+                        of this world—celestial realms, mountains, groves, and so on—in the same way does consciousness,
+                        controlled by circumstances, bring about forms.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-126"/>
+                    <p tid="166">“Alternatively, Mahauṣadhi, fire is produced through the friction of two sticks being rubbed
+                        against each other. Fire is not manifest inside the sticks, yet without the sticks the fire does not
+                        happen. Although fire, controlled by circumstances, is produced through the sticks, without those
+                        circumstances it would not arise. On account of their form, fire does not appear inside the sticks, but
+                        without the sticks no fire is observed. Similarly, Mahauṣadhi, consciousness enters the body due to the
+                        parents; although it is not observable inside the body, consciousness does not arise when there is no
+                        body.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-127"/>
+                    <p tid="167">“As an analogy, Mahauṣadhi, if fire does not arise, its form, warmth, and color shed no light.
+                        Similarly, Mahauṣadhi, if no body is produced, no consciousness, feelings, perceptions, or formative
+                        predispositions manifest.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-128"/>
+                    <p tid="168">“As another analogy, Mahauṣadhi, the great globe of the sun shines forth clearly, constantly
+                        radiant and vivid, but foolish folk do not see whether its form is black, yellow, white, or orange.
+                        Similarly, Mahauṣadhi, consciousness is understood through the constituents of vision, hearing, smell,
+                        taste, and touch, but no one observes consciousness appearing as a form in the body, whether black or
+                        white. Just as the sun manifests through the signs of heat, its yellow color, as well as its setting and
+                        rising, so, too, consciousness should be viewed through its signs.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-129"/>
+                    <p tid="169">Mahauṣadhi then asked, “Blessed One, how should one view the signs of consciousness?”</p>
+                    <p tid="170">The Blessed One <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.91.a" type="folio" xml:id="UT22084-044-003-275"/> replied, “The signs of formative predispositions, feelings,
+                        perceptions, mentation, suffering, longing, and mental pain are held to be signs of consciousness.
+                        Furthermore, the habitual dispositions of consciousness should be viewed as deriving from a mind inclined
+                        toward virtue or toward non-virtue.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-130"/>
+                    <p tid="171">Mahauṣadhi then asked, “Blessed One, how does consciousness emerge from the body and quickly take
+                        rebirth? How does consciousness that has emerged from its body but has not yet been reborn or obtained a
+                        new body come to possess a different body? How should one view this consciousness?”</p>
+                    <p tid="172">The Blessed One replied, “To illustrate that, Mahauṣadhi, suppose someone with long,
+                        well-developed arms were to put on battle armor, mount a celestial horse swift as the mighty wind, and
+                        then depart for battle. After he reaches the battle, his heart is driven wild with all the spears, swords,
+                        and arrows. During the fight, he falls to the ground from his fine horse. But since he is trained in
+                        physical prowess, he very quickly remounts his horse. That man, after he has fallen, would mount his horse
+                        again, but a better rider would mount a horse that is standing nearby, and the best horseman would mount a
+                        horse while it is running. You should view consciousness in the same way. Just as a man, terrified by an
+                        opposing army, mounts his horse to escape, in the same way, consciousness, just after it has died and
+                        undergone transfer, is gripped by a mental image of the gods and sees the gods and goddesses seated on
+                        thrones. It then very swiftly takes rebirth.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-131"/>
+                    <p tid="173">“Moreover, Mahauṣadhi, you asked how one should consider the aspect of a consciousness that has
+                        just undergone transfer but has not yet been reborn. As an analogy, although a man’s shadow that falls on
+                        water manifests as a form, it should not be classed as a form.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-132"/>
+                    <p tid="174">“In that analogy, Mahauṣadhi, a form reflected in water, even though it possesses shapely limbs,
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.91.b" type="folio" xml:id="UT22084-044-003-276"/> feels no warmth, cold, or physical weariness, and the reflected body does not
+                        possess any fleshy parts. The shadow does not possess anything taken up by the elements. No sounds of pain
+                        or pleasure spring from the reflection of a person visible in water. In a similar way, consciousness that
+                        has just undergone transfer relinquishes its body and becomes reflection-like. This is how, Mahauṣadhi,
+                        consciousness that is bound for a meritorious rebirth comes to be reborn among the gods.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-133"/>
+                    <p tid="175">Mahauṣadhi then asked, “Blessed One, how does consciousness take rebirth among the
+                        hell-beings?”</p>
+                    <p tid="176">“Mahauṣadhi, listen,” replied the Blessed One. “I shall tell you how beings that are not bound for
+                        a meritorious rebirth are reborn in the hell realms. Mahauṣadhi, suppose that in this case, from among the
+                        different kinds of beings, a person in the grip of non-virtuous actions dies and undergoes transfer. The
+                        deceased person thinks and remembers, ‘That person is me. A hell-being has died and undergone transfer
+                        away from this life. These two are my parents.’ The deceased’s body comes to possess the natural aspects
+                        of an ordinary person’s form. Its limbs appear exactly like those of an ordinary person. First, the
+                        deceased person, agitated and distressed, sees various hell-beings appear. When the consciousness has just
+                        undergone transfer, its actions become connected with beings of the hell realms. In some direction it sees
+                        the blood-spattered land of the denizens of hell, and then develops attachment toward it. After becoming
+                        attached, it produces the body of a hell-being. Controlled and conditioned by its actions, its
+                        consciousness is reborn in a body in a putrid, foul-smelling water conduit. It is like <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.92.a" type="folio" xml:id="UT22084-044-003-277"/> being born as an insect conditioned by a dirty, loathsome smell, or being born as a creature in order
+                        to turn into smelly curd, honey, or beer. Mahauṣadhi, it is likewise that sentient beings emerge in the
+                        hell realms.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-134"/>
+                    <p tid="177">Bhadrapāla then joined his palms, bowed, and asked, “Blessed One, what is the color of beings
+                        that dwell in hell? How do their physical features come about?”</p>
+                    <p tid="178">The Blessed One replied, “Bhadrapāla, those who are born in hell in blood take on the color of
+                        blood. Those who are born in unfordable rivers take on a cloudy blue appearance. Those who are born in
+                        alkaline rivers develop white, leprous flesh. Their bodies become tender like that of a young prince
+                        whose every whim is attended to. In hell, Bhadrapāla, their bodies increase in size. They do not count
+                        their heads and they become twelve feet tall. They become lanky, with long nails and beards, and ugly
+                        limbs. Were a person of this world to set eyes on a being born in hell, as soon as he saw him, he would be
+                        doomed to die. Furthermore, Bhadrapāla, beings who are born in the realm of hell, although they may indeed
+                        eat food, do not derive any pleasure from it at all.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-135"/>
+                    <p tid="179">Mahauṣadhi then asked, “Blessed One, what food do those beings seek?”</p>
+                    <p tid="180">“Mahauṣadhi,” replied the Blessed One, “as beings roam about in hell, red-hot cauldrons of copper
+                        and brass appear in the far distance. When they see the cauldrons, the beings call out, ‘Food!’ and they
+                        yell, ‘Anyone who wants food, come over here!’ They gather from all directions, with their cupped hands
+                        held out, and approach the boiling cauldrons. They approach with their hands held out, and because they
+                        desire the food boiled in the cauldrons, they open their mouths and swallow the copper and brass. They
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.92.b" type="folio" xml:id="UT22084-044-003-278"/> are thus scorched by the fieriness of the scalding cauldrons, and their bellies
+                        get scorched. Mahauṣadhi, they are deceived by what appears to be food and then experience great
+                        suffering.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-136"/>
+                    <p tid="181">“Mahauṣadhi, the consciousness of beings who dwell in the realms of hell occupy skeletal bodies
+                        and do not depart from these piles of bones. Because these hell-beings do not disconnect from their
+                        consciousness, they do not reach the point of death. Even though they are tormented by hunger, they are
+                        unable to eat in hell.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-137"/>
+                    <p tid="182">“In hell, they see many hundreds of celestial pleasure groves with trees in full bloom, and areas
+                        of broad green meadows. Upon seeing these pleasure groves, they become overjoyed and call out, ‘Friends! A
+                        refreshing breeze stirs in this pleasure grove, so come along!’ They gather together and then rush toward
+                        the pleasure grove. Once they have entered it, they think of themselves as happy for a moment. But the
+                        flowers and the leaves that grow on those trees turn into swords, and those very swords sever their limbs
+                        and kill them. As the swords cut into them, they let out great cries of torment, and flee in all
+                        directions. Even though they run away, due to their own actions the minions of Yama emerge, holding saws
+                        and cudgels in their hands. They gnash their teeth with distorted faces, their hair and bodies wreathed in
+                        fire. They wield weapons below them, and bellow after them, ‘You! Wait! Where are you running off to now?
+                        You have to experience all this—it is the product of your own actions!’ Mahauṣadhi, that is how the beings
+                        in the realms of hell develop remorse.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-138"/>
+                    <p tid="183">“Furthermore, Mahauṣadhi, after seven days the beings bound for the realms of hell come to
+                        experience their past actions. Like a bee that settles onto a flower, due to various things acting as
+                        conditions, their consciousness <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.93.a" type="folio" xml:id="UT22084-044-003-279"/> takes rebirth among the denizens of hell. After it
+                        first passes away, it is led along, helpless, suffering, and unhappy. It then enters total darkness. As it
+                        is led away by half-human savages, it thinks, ‘Alas! Now the beauty of the world is lost to me. I have
+                        abandoned my sweet companions and come to live all alone among the denizens of hell. Now I see no way to
+                        higher rebirths.’ As if ensnared in the single thread of a silkworm, it instantaneously takes rebirth, and
+                        is aware that it is bound by a noose around its own neck.</p>
+                    <p tid="184">“Bhadrapāla, that is how beings come to be born in the realms of hell; that is how they are
+                        affected by specific kinds of causes.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-139"/>
+                    <p tid="185">Bhadrapāla, in awe, joined his hands, bowed, and took refuge in the Blessed One. The young prince
+                        Mahauṣadhi in turn uttered the following prayer: “Through listening to this excellent Dharma, while I
+                        circle in<tei:note xmlns:tei="http://www.tei-c.org/ns/1.0" place="end" xml:id="UT22084-044-003-229"> We follow the reading in N, H, and S:
+                                <foreign xml:lang="Bo-Ltn">’khor ba na</foreign>.</tei:note> saṃsāra, may I not acquire attributes
+                        that bring about descent into the lower destinies. May I not be born among the beings of the realms of
+                        hell!”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-140"/>
+                    <p tid="186">Then Bhadrapāla beseeched the Blessed One, “May I please ask the Blessed One some more
+                        questions?”</p>
+                    <p tid="187">“Bhadrapāla, ask whatever questions you wish,” replied the Blessed One.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-141"/>
+                    <p tid="188">Bhadrapāla then asked, “Blessed One, what is an accumulation? What is a heap? What are the aggregates?
+                        What is transference?”</p>
+                    <p tid="189">“Bhadrapāla,” replied the Blessed One, “the four elements produce the body through their contact;
+                        the accumulations include wisdom, view, intellect, ignorance, elements, objects, and consciousness.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-142"/>
+                    <p tid="190">“The heaps include the six elements themselves, the six objects of the senses, the three natures
+                        of the elements, the paired causes for sensory reception, hair, beards, nails, body hair, skin, flesh,
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.93.b" type="folio" xml:id="UT22084-044-003-280"/> pus, bile, phlegm, mucus, fat, lymph, marrow, eyes, limbs, minor body parts, and
+                        so on. This is what we call a ‘heap,’ like, for instance, a heap of grain. Just as a pile of barley,
+                        sesame, wheat, or lentils is called a ‘heap,’ so the accumulation of things belonging to the limbs and
+                        other parts of the body is called a ‘heap.’</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-143"/>
+                    <p tid="191">“What are the six elements? They consist of the elements of earth, water, fire, air, space, and
+                        consciousness. </p>
+                    <p tid="192">“What are the six senses? They consist of the eyes, ears, nose, tongue, body, and mind.</p>
+                    <p tid="193">“What are the six objects of the senses? They consist of the sensory objects of form, sound,
+                        scent, taste, touch, and mental objects. These are the six objects.</p>
+                    <p tid="194">“What are the three natures of the elements? They consist of desire, anger, and delusion. What
+                        are their active factors, respectively? They consist of wind, bile, and phlegm.</p>
+                    <p tid="195">“What are the paired causes for sensory reception? These consist of moral conduct and faith,
+                        generosity and wealth, and diligence and meditative absorption.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-144"/>
+                    <p tid="196">“Now, what is the meaning of ‘aggregate’? The aggregates consist of feelings, perceptions,
+                        formative predispositions, and consciousness. There are four formless aggregates: feeling is experience;
+                        perception is knowledge; pleasure and pain are formative predispositions; and awareness of sight, hearing,
+                        smell, taste, and touch is consciousness. Because every object is subsumed within consciousness,
+                        consciousness is the body’s powerful controller, receptor, and collector.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-145"/>
+                    <p tid="197">“What is ‘transfer’? Someone of immaculate moral conduct attains the result of his physical and
+                        verbal actions when he reaches the point of death; at that time his consciousness <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.94.a" type="folio" xml:id="UT22084-044-003-281"/>
+                        relinquishes the aggregates, and escapes rebirth in saṃsāra. Because he does not return to saṃsāra, he
+                        transfers and passes on to a state of bliss. This is how transference occurs for someone who, once
+                        transferred, will never need to do so again.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-146"/>
+                    <p tid="198">Then, both Bhadrapāla and Mahauṣadhi prostrated themselves before the Blessed One, and said to
+                        him, “The Blessed One has spoken well, through his all-pervading knowledge, this collection of teachings
+                        that contents everyone.” </p>
+                    <p tid="199">The Blessed One replied, “Bhadrapāla, the pristine cognition of the Tathāgata is uncontrived;
+                        those who lack omniscience do not understand its nature. I achieved this light of wisdom by undergoing
+                        countless forms of hardship, and it is exactly as I have explained it. This Dharma sun throws light on
+                        omniscience and increases the fame of good qualities; it is an immense repository of omniscient pristine
+                        cognition that tames the minds of sentient beings. Wherever this discourse on moral conduct is located or
+                        taught, the spirits act as its protectors, and the gods, demi-gods, and mahorāgas approach it to pay
+                        reverence. Whoever remembers this Dharma discourse or carries it with them, who reads it, masters it, or
+                        disseminates it among other people, does not fear weapons, poison, fire, demons, water, or thieves.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-147"/>
+                    <p tid="200">“Monks, from now on you should not expound this discourse to those who lack faith, nor to those
+                        who cause disputes. You should not teach it to naked ascetics, nor to the disciples of naked ascetics. You
+                        should not expound it to those who subscribe to other doctrines. Moreover, you should not explain it
+                        unless it is requested. The reason for this is that were you to do so and someone were to become confused,
+                        you would then have created confusion about the Tathāgata. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" cRef="F.94.b" type="folio" xml:id="UT22084-044-003-282"/>
+                    </p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-148"/>
+                    <p tid="201">“Whoever understands this, from among the monks or laymen, becomes worthy of reverence. You
+                        should think, ‘I shall develop respect for him just as I should respect the Tathāgata, because this person
+                        holds a treasure.’ ”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-149"/>
+                    <p tid="202">Then the Blessed One said to the Venerable Ānanda, “Ānanda, remember this Dharma discourse and
+                        keep it in mind, retrieve it from memory, explain it, and teach it at length to others.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-150"/>
+                    <p tid="203">“Blessed One, what is the name of this Dharma discourse, should we wish to bring it
+                        to mind? How should we remember it?” asked Ānanda.</p>
+                    <p tid="204">The Blessed One replied, “Ānanda, you should remember this Dharma discourse as ‘The Transfer of
+                        Consciousness.’ You should also remember it as ‘The Questions of Bhadrapāla.’ You should apply it and
+                        circulate it. Enter into the Buddha’s teachings. Like an elephant in a house of reeds, crush the armies of
+                        Yama! Whoever applies themselves conscientiously to this Dharma Vinaya abandons the cycle of birth and
+                        puts an end to suffering.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-151"/>
+                    <p tid="205">After the Blessed One had spoken thus, the young prince Mahauṣadhi together with the head
+                        merchant Bhadrapāla, as well as the worlds of gods, humans, demi-gods, garuḍas, and gandharvas, rejoiced
+                        and praised the words of the Blessed One.</p>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-231"/>
+                    <trailer tid="206">This concludes <title xml:lang="en">The Questions of the Merchant Bhadrapāla</title>, the thirty-ninth
+                        of the one hundred thousand sections of the Dharma discourse known as The Noble Great Heap of Jewels.</trailer>
+                </div>
+                <div type="colophon" xml:id="UT22084-044-003-colophon">
+                    <head type="colophon" tid="214">Colophon</head>
+                    <milestone unit="chunk" xml:id="UT22084-044-003-152"/>
+                    
+                    <p tid="207">Translated, edited, and finalized by the Indian preceptors Jinamitra and
+                        Surendrabodhi, together with the chief editor and translator Bandé Yeshé Dé.</p>
+                </div>
+            </div>
+        </body>
+        <back>
+            <div type="notes">
+                <head type="notes" tid="215">Notes</head>
+                <list type="abbreviations">
+                    <head type="abbreviations" tid="216">Abbreviations</head>
+                    <item xml:id="UT22084-044-003-153">
+                        <abbr>C</abbr>
+                        <expan>Choné (<foreign xml:lang="Bo-Ltn">co ne</foreign>) Kangyur</expan>
+                    </item>
+                    <item xml:id="UT22084-044-003-154">
+                        <abbr>D</abbr>
+                        <expan>Degé (<foreign xml:lang="Bo-Ltn">sde dge</foreign>) Kangyur</expan>
+                    </item>
+                    <item xml:id="UT22084-044-003-155">
+                        <abbr>H</abbr>
+                        <expan>Lhasa (<foreign xml:lang="Bo-Ltn">zhol</foreign>) Kangyur</expan>
+                    </item>
+                    <item xml:id="UT22084-044-003-156">
+                        <abbr>K</abbr>
+                        <expan>Peking (Kangxi) Kangyur</expan>
+                    </item>
+                    <item xml:id="UT22084-044-003-157">
+                        <abbr>N</abbr>
+                        <expan>Narthang (<foreign xml:lang="Bo-Ltn">snar thang</foreign>) Kangyur</expan>
+                    </item>
+                    <item xml:id="UT22084-044-003-158">
+                        <abbr>S</abbr>
+                        <expan>Stok Palace (<foreign xml:lang="Bo-Ltn">stog pho brang bris ma</foreign>) Kangyur</expan>
+                    </item>
+                </list>
+            </div>
+            <div type="listBibl">
+                <head type="listBibl" tid="217">Bibliography</head>
+                <div type="section" xml:id="UT22084-044-003-listBibl-1">
+                    <bibl xml:id="UT22084-044-003-159">
+                        <title xml:lang="Bo-Ltn">’phags pa tshong dpon bzang skyong gis zhus pa zhes bya ba theg pa chen po’i mdo
+                            </title>(<title xml:lang="Sa-Ltn">Ārya­bhadra­pāla­śreṣṭhi­paripṛcchā­nāma­mahā­yāna­sūtra</title>).
+                        Toh. 83, Degé Kangyur, vol. 44 (dkon brtsegs, cha), folios 71a–94b.</bibl>
+                    <bibl xml:id="UT22084-044-003-160">
+                        <title xml:lang="Bo-Ltn">’phags pa tshong dpon bzang skyong gis zhus pa zhes bya ba theg pa chen po’i mdo </title>
+                        <title xml:lang="Sa-Ltn">Ārya­bhadra­pāla­śreṣṭhi­paripṛcchā­nāma­mahā­yāna­sūtra</title>). [Comparative
+                        Edition of the Kangyur], krung go’i bod rig pa zhib ’jug ste gnas kyi bka’ bstan dpe sdur khang (The
+                        Tibetan Tripitaka Collation Bureau of the China Tibetology Research Center). 108 volumes. Beijing: krung
+                        go’i bod rig pa dpe skrun khang (China Tibetology Publishing House), 2006–2009, vol. 44, pp.
+                        197–260.</bibl>
+                    <bibl xml:id="UT22084-044-003-161">
+                        <title xml:lang="Bo-Ltn">’phags pa tshong dpon bzang skyong gis zhus pa zhes bya ba theg pa chen po’i mdo
+                            </title>(<title xml:lang="Sa-Ltn">Ārya­bhadra­pāla­śreṣṭhi­paripṛcchā­nāma­mahā­yāna­sūtra</title>).
+                        Stok 11.39, Stok Palace (<foreign xml:lang="Bo-Ltn">stog pho brang bris ma</foreign>) Kangyur, vol. 40
+                        (dkon brtsegs, cha), folios 133a–167b.</bibl>
+                    <bibl xml:id="UT22084-044-003-162">Chang, Garma C.C. et al. <title xml:lang="en">A Treasury of Mahāyāna
+                            Sūtras: Selections from the Mahāratnakūṭa Sūtra</title>. Delhi: Motilal Banarsidass Publishers, 1991,
+                        pp. 223–240.</bibl>
+                    <bibl xml:id="UT22084-044-003-163">Lindtner, Charles. “The Problem of Precanonical Buddhism.” In <title xml:lang="en">Buddhist Studies Review</title>, pp 109-140. Chateauponsac: Institut de recherche
+                        bouddhique Linh-Sonh, 1997.</bibl>
+                </div>
+            </div>
+            <div type="glossary">
+                <list type="glossary">
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-164">
+                            <term>consciousness</term>
+                            <term xml:lang="Bo-Ltn">rnam par shes pa </term>
+                            <term xml:lang="bo">རྣམ་པར་ཤེས་པ།</term>
+                            <term xml:lang="Sa-Ltn">vijñāna</term>
+                            <term type="definition">The fifth of the five aggregates; also counted as the sixth of the six
+                                elements. In most Abhidharma accounts it comprises the six sensory <term type="ignore">consciousnesses</term>, but in Yogācāra theory two more kinds of <term type="ignore">consciousness</term>, afflicted (<foreign xml:lang="Sa-Ltn">kliṣṭamanas</foreign>) and
+                                storehouse (<foreign xml:lang="Sa-Ltn">ālayavijñāna</foreign>), are added. The term “<term type="ignore">consciousness</term>” in this sūtra should not be assumed to conform fully to
+                                these classic categorizations.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-165">
+                            <term>feeling</term>
+                            <term xml:lang="Bo-Ltn">tshor ba </term>
+                            <term xml:lang="bo">ཚོར་བ།</term>
+                            <term xml:lang="Sa-Ltn">vedanā</term>
+                            <term type="definition">The second of the five aggregates.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-166">
+                            <term>perception</term>
+                            <term xml:lang="Bo-Ltn">’du shes </term>
+                            <term xml:lang="bo">འདུ་ཤེས།</term>
+                            <term xml:lang="Sa-Ltn">saṁjña</term>
+                            <term type="definition">The third of the five aggregates.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-167">
+                            <term>formative predisposition</term>
+                            <term xml:lang="Bo-Ltn">’du byed </term>
+                            <term xml:lang="bo">འདུ་བྱེད།</term>
+                            <term xml:lang="Sa-Ltn">saṃskāra</term>
+                            <term type="definition">The fourth of the five aggregates.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-168">
+                            <term>faculties</term>
+                            <term xml:lang="Bo-Ltn">dbang po rnams </term>
+                            <term xml:lang="bo">དབང་པོ་རྣམས།</term>
+                            <term xml:lang="Sa-Ltn">indriyāṇi</term>
+                            <term type="definition">Cognitive <term type="ignore">faculties</term>; the five senses plus mental
+                                faculty.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-169">
+                            <term>element</term>
+                            <term xml:lang="Bo-Ltn">khams</term>
+                            <term xml:lang="bo">ཁམས།</term>
+                            <term xml:lang="Sa-Ltn">dhātu</term>
+                            <term type="definition">In different contexts four, five, or six <term type="ignore">elements</term>
+                                may be enumerated. The four <term type="ignore">elements</term> are earth, water, fire, and air. A
+                                fifth, space, is often added. The six <term type="ignore">elements</term> are: earth, water, fire,
+                                air, space, and consciousness.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-170">
+                            <term>sensory fields</term>
+                            <term xml:lang="Bo-Ltn">skye mched </term>
+                            <term xml:lang="bo">སྐྱེ་མཆེད།</term>
+                            <term xml:lang="Sa-Ltn">āyatana</term>
+                            <term type="definition">The six senses and their respective objects.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-171">
+                            <term>aggregate</term>
+                            <term xml:lang="Bo-Ltn">phung po </term>
+                            <term xml:lang="bo">ཕུང་པོ།</term>
+                            <term xml:lang="Sa-Ltn">skandha</term>
+                            <term type="definition">The psycho-physical components of personal experience. The five <term type="ignore">aggregates</term>: form, feeling, perception, formative predispositions, and
+                                consciousness.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-172">
+                            <term>element of dharmas</term>
+                            <term xml:lang="Bo-Ltn">chos kyi khams </term>
+                            <term xml:lang="bo">ཆོས་ཀྱི་ཁམས།</term>
+                            <term xml:lang="Sa-Ltn">dharmadhātu</term>
+                            <term type="definition">The domain of mental objects.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-173">
+                            <term>realm of desire</term>
+                            <term xml:lang="Bo-Ltn">’dod pa’i khams </term>
+                            <term xml:lang="bo">འདོད་པའི་ཁམས།</term>
+                            <term xml:lang="Sa-Ltn">kamadhātu</term>
+                            <term type="definition">Of the three realms of existence, the realm whose beings are tormented by
+                                desire and attachment to material substance.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-174">
+                            <term>hālāhala</term>
+                            <term xml:lang="Bo-Ltn">ha la ha la </term>
+                            <term xml:lang="bo">ཧ་ལ་ཧ་ལ།</term>
+                            <term xml:lang="Sa-Ltn">hālāhala</term>
+                            <term type="definition">Indian plant; a deadly poison.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss xml:id="UT22084-044-003-175" type="term" mode="match">
+                            <term>Action</term>
+                            <term xml:lang="Bo-Ltn">las</term>
+                            <term xml:lang="bo">ལས།</term>
+                            <term xml:lang="Sa-Ltn">karman</term>
+                            <term type="definition">Also rendered in this sūtra as “karma.”</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-230">
+                            <term>karma</term>
+                            <term xml:lang="Bo-Ltn">las </term>
+                            <term xml:lang="bo">ལས།</term>
+                            <term xml:lang="Sa-Ltn">karman</term>
+                            <term type="definition">Also rendered in this sūtra as “action.”</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-176">
+                            <term>aggregates of appropriation</term>
+                            <term xml:lang="Bo-Ltn">nye bar len pa’i phung po </term>
+                            <term xml:lang="bo">ཉེ་བར་ལེན་པའི་ཕུང་པོ།</term>
+                            <term xml:lang="Sa-Ltn">upādānaskandha</term>
+                            <term type="definition">The five skandhas seen as both caused by karma, and themselves the cause,
+                                through karma, of future existences.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-177">
+                            <term>attention</term>
+                            <term xml:lang="Bo-Ltn">dran pa </term>
+                            <term xml:lang="bo">དྲན་པ།</term>
+                            <term xml:lang="Sa-Ltn">smṛti</term>
+                            <term type="definition">Also translated in this sūtra as “recollection.”</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-178">
+                            <term>recollection</term>
+                            <term xml:lang="Bo-Ltn">dran pa </term>
+                            <term xml:lang="bo">དྲན་པ།</term>
+                            <term xml:lang="Sa-Ltn">smṛti</term>
+                            <term type="definition">Also translated in this sūtra as “attention.”</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-179">
+                            <term>volition</term>
+                            <term xml:lang="Bo-Ltn">sems pa </term>
+                            <term xml:lang="bo">སེམས་པ།</term>
+                            <term xml:lang="Sa-Ltn">cetanā</term>
+                            <term type="definition">In later texts, among the ever-present mental factors that underlie and
+                                constitute all conscious states; the Sarvāstivāda Abhidharma lists ten such factors (<foreign xml:lang="Sa-Ltn" type="term">mahābhūmika</foreign>, <foreign xml:lang="Bo-Ltn" type="term">sa
+                                    chen po pa</foreign>), while Yogācāra theory identifies five (<foreign xml:lang="Sa-Ltn" type="term">sarvatraga</foreign>, <foreign xml:lang="Bo-Ltn" type="term">kun ’gro</foreign>).
+                                In that context, <term type="ignore">volition</term> orients the mind towards objects in ways that
+                                may be virtuous, non-virtuous or neutral. In this sūtra, however, the term seems to denote a less
+                                specific, manifest aspect of consciousness.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-180">
+                            <term>gandharva</term>
+                            <term xml:lang="Bo-Ltn">dri za </term>
+                            <term xml:lang="bo">དྲི་ཟ།</term>
+                            <term xml:lang="Sa-Ltn">gandharva</term>
+                            <term type="definition">Usually, a particular category of semi-divine celestial being, one of the four
+                                kinds on the four sides of Mount Meru; but in the context of the process of rebirth (e.g. in 1.86
+                                in this sūtra), <foreign xml:lang="Sa-Ltn" type="term">
+                                    <term type="ignore">gandharva</term>
+                                </foreign> refers to the consciousness of the being between death and the next rebirth.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss xml:id="UT22084-044-003-181" type="term" mode="match">
+                            <term>stream-entry</term>
+                            <term xml:lang="Bo-Ltn">rgyun du zhugs pa</term>
+                            <term xml:lang="bo">རྒྱུན་དུ་ཞུགས་པ།</term>
+                            <term xml:lang="Sa-Ltn">srotaāpanna</term>
+                            <term type="definition">The first level of the four kinds of noble person (<foreign xml:lang="Sa-Ltn">āryapudgala</foreign>, <foreign xml:lang="Bo-Ltn">’phags pa’i gang zag</foreign>).</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-182">
+                            <term>once-returning</term>
+                            <term xml:lang="Bo-Ltn">lan cig phyir ’ong ba </term>
+                            <term xml:lang="bo">ལན་ཅིག་ཕྱིར་འོང་བ།</term>
+                            <term xml:lang="Sa-Ltn">sakṛdāgāmin</term>
+                            <term type="definition">The second level of the four kinds of noble person (<foreign xml:lang="Sa-Ltn">āryapudgala</foreign>, <foreign xml:lang="Bo-Ltn">’phags pa’i gang zag</foreign>), who will
+                                only be reborn once more before attaining the state of arhat.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-183">
+                            <term>three natures of the elements</term>
+                            <term xml:lang="Bo-Ltn">khams kyi rang bzhin gsum </term>
+                            <term xml:lang="bo">ཁམས་ཀྱི་རང་བཞིན་གསུམ།</term>
+                            <term type="definition">Desire, anger, and delusion: as a collective term for this common set of the
+                                three basic kleśas, this appears to be unique to this sūtra.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-184">
+                            <term>element of consciousness</term>
+                            <term xml:lang="Bo-Ltn">rnam par shes pa’i khams </term>
+                            <term xml:lang="bo">རྣམ་པར་ཤེས་པའི་ཁམས།</term>
+                            <term xml:lang="Sa-Ltn">vijñānadhātu</term>
+                            <term type="definition">The consciousness as an element or constituent of a sentient being.</term>
+                        </gloss>
+                    </item>
+                    <!--<item>
+                        <gloss type="term" xml:id="UT22084-044-003-185">
+                            <term>appropriate</term>-->
+                            <!-- verb -->
+                            <!--<term xml:lang="Bo-Ltn">len pa</term>
+                            <term xml:lang="bo">ལེན་པ།</term>
+                            <term xml:lang="Bo-Ltn">nye bar len pa</term>
+                            <term xml:lang="bo">ཉེ་བར་ལེན་པ།</term>
+                            <term xml:lang="Sa-Ltn">ādāna</term>
+                            <term xml:lang="Sa-Ltn">upādāna</term>
+                            <term type="definition">See “appropriation.”</term>
+                        </gloss>
+                    </item>-->
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-186">
+                            <term>appropriation</term>
+                            <term xml:lang="Bo-Ltn">len pa</term>
+                            <term xml:lang="bo">ལེན་པ།</term>
+                            <term xml:lang="Bo-Ltn">nye bar len pa</term>
+                            <term xml:lang="bo">ཉེ་བར་ལེན་པ།</term>
+                            <term xml:lang="Sa-Ltn">ādāna</term>
+                            <term xml:lang="Sa-Ltn">upādāna</term>
+                            <term type="definition">Also means “grasping” or “clinging;” but has a particular meaning as the ninth
+                                of the twelve links of dependent arising, between craving (<foreign xml:lang="Sa-Ltn">tṛṣṇā</foreign>, <foreign xml:lang="Bo-Ltn">sred pa</foreign>) and becoming or existence
+                                    (<foreign xml:lang="Sa-Ltn">bhava</foreign>, <foreign xml:lang="Bo-Ltn">srid pa</foreign>). In
+                                some texts, four types of <term type="ignore">appropriation</term> are listed: of desire (<foreign xml:lang="Sa-Ltn">rāga</foreign>), of view (<foreign xml:lang="Sa-Ltn">dṛṣṭi</foreign>), of
+                                rules and observances as paramount (<foreign xml:lang="Sa-Ltn">śīla­vrata­parāmarśa</foreign>),
+                                and of belief in a self (<foreign xml:lang="Sa-Ltn">ātmavāda</foreign>). Only the first three are
+                                mentioned in this sūtra.</term>
+                            <term type="alternative">appropriate</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-044-003-187">
+                            <term>appropriating cause</term>
+                            <term xml:lang="Bo-Ltn">len pa’i rgyu </term>
+                            <term xml:lang="bo">ལེན་པའི་རྒྱུ།</term>
+                            <term xml:lang="Sa-Ltn">upādānakāraṇa</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" mode="match" xml:id="UT22084-044-003-188">
+                            <term>form</term>
+                            <term xml:lang="Bo-Ltn">gzugs </term>
+                            <term xml:lang="bo">གཟུགས།</term>
+                            <term xml:lang="Sa-Ltn">rūpa</term>
+                            <term type="definition">The first of the five aggregates; but also, in this sūtra, “inner <term type="ignore">form</term>” within consciousness (see <ptr target="#UT22084-044-003-48"/>).</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" mode="match" xml:id="UT22084-044-003-214">
+                            <term>heap</term>
+                            <term xml:lang="Bo-Ltn">spungs </term>
+                            <term xml:lang="bo">སྤུངས།</term>
+                            <!--<term xml:lang="Sa-Ltn"> - </term>-->
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss xml:id="UT22084-044-003-189" type="person" mode="match">
+                            <term>Bhadrapāla</term>
+                            <term xml:lang="Bo-Ltn">bzang skyong</term>
+                            <term xml:lang="bo">བཟང་སྐྱོང་།</term>
+                            <term xml:lang="Sa-Ltn">Bhadrapāla</term>
+                            <term type="definition">—</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-190">
+                            <term>Śāriputra</term>
+                            <term xml:lang="Bo-Ltn">shA ri’i bu </term>
+                            <term xml:lang="bo">ཤཱ་རིའི་བུ།</term>
+                            <term xml:lang="Sa-Ltn">Śāriputra</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-191">
+                            <term>Ānanda</term>
+                            <term xml:lang="Bo-Ltn">kun dga’ bo </term>
+                            <term xml:lang="bo">ཀུན་དགའ་བོ།</term>
+                            <term xml:lang="Sa-Ltn">Ānanda</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-192">
+                            <term>Candrabhūti</term>
+                            <term xml:lang="Bo-Ltn">zla ba ’byor pa </term>
+                            <term xml:lang="bo">ཟླ་བ་འབྱོར་པ།</term>
+                            <term xml:lang="Sa-Ltn">Candrabhūti</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-193">
+                            <term>Śakra</term>
+                            <term xml:lang="Bo-Ltn">brgya byin </term>
+                            <term xml:lang="bo">བརྒྱ་བྱིན།</term>
+                            <term xml:lang="Sa-Ltn">Śakra</term>
+                            <term type="definition">The lord of the gods. Alternatively known as Indra, the deity that is called “lord of the gods” dwells on the summit of Mount Sumeru and wields the thunderbolt. The Tibetan translation <foreign xml:lang="Bo-Ltn">brgya byin</foreign> (meaning “one hundred sacrifices”) is based on an etymology that <foreign xml:lang="Sa-Ltn">śakra</foreign> is an abbreviation of <foreign xml:lang="Sa-Ltn">śata-kratu</foreign>, one who has performed a hundred sacrifices. Each world with a central Sumeru has a Śakra.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-194">
+                            <term>Prasenajit</term>
+                            <term xml:lang="Bo-Ltn">gsal rgyal </term>
+                            <term xml:lang="bo">གསལ་རྒྱལ།</term>
+                            <term xml:lang="Sa-Ltn">Prasenajit</term>
+                            <term type="definition">A king of Kosala.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-195">
+                            <term>Sukhābha</term>
+                            <term xml:lang="Bo-Ltn">bde ba’i ’od </term>
+                            <term xml:lang="bo">བདེ་བའི་འོད།</term>
+                            <term xml:lang="Sa-Ltn">Sukhābha</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-196">
+                            <term>Cūḍabhadra</term>
+                            <term xml:lang="Bo-Ltn">gtsug phud bzang </term>
+                            <term xml:lang="bo">གཙུག་ཕུད་བཟང་།</term>
+                            <term xml:lang="Sa-Ltn">Cūḍabhadra</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-197">
+                            <term>Kāśyapa</term>
+                            <term xml:lang="Bo-Ltn">’od srung </term>
+                            <term xml:lang="bo">འོད་སྲུང་།</term>
+                            <term xml:lang="Sa-Ltn">Kāśyapa</term>
+                            <term type="definition">In Mahāyāna, a buddha who preceded the Buddha Śākyamuni.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-198">
+                            <term>Śākyamuni</term>
+                            <term xml:lang="Bo-Ltn">shAkya thub pa </term>
+                            <term xml:lang="bo">ཤཱཀྱ་ཐུབ་པ།</term>
+                            <term xml:lang="Sa-Ltn">Śākyamuni</term>
+                            <term type="definition">The historical Buddha.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-199">
+                            <term>Mahauṣadhi</term>
+                            <term xml:lang="Bo-Ltn">sman chen </term>
+                            <term xml:lang="bo">སྨན་ཆེན།</term>
+                            <term xml:lang="Sa-Ltn">Mahauṣadhi</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-200">
+                            <term>Vipaśyin</term>
+                            <term xml:lang="Bo-Ltn">rnam par gzigs </term>
+                            <term xml:lang="bo">རྣམ་པར་གཟིགས།</term>
+                            <term xml:lang="Sa-Ltn">Vipaśyin</term>
+                            <term type="definition">The first of six buddhas who preceded Śākyamuni.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-201">
+                            <term>Nanda</term>
+                            <term xml:lang="Bo-Ltn">dga’ bo </term>
+                            <term xml:lang="bo">དགའ་བོ།</term>
+                            <term xml:lang="Sa-Ltn">Nanda</term>
+                            <term type="definition">One of eight mythological nāga kings.</term>
+                            <term type="definition">The story of the two nāga kings Nanda  and Upananda and their taming by the Buddha and Maudgalyāyana is told in the <title xml:lang="Sa-Ltn">Vinayavibhaṅga</title> (Toh 3, D vol. 6, <foreign xml:lang="Bo-Ltn">’dul ba</foreign>, <foreign xml:lang="Bo-Ltn">ja</foreign>, F.221a–224a).</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-202">
+                            <term>Upananda</term>
+                            <term xml:lang="Bo-Ltn">nye dga’ </term>
+                            <term xml:lang="bo">ཉེ་དགའ།</term>
+                            <term xml:lang="Sa-Ltn">Upananda</term>
+                            <term type="definition">One of eight mythological nāga kings.</term>
+                            <term type="definition">The story of the two nāga kings Upananda and Nanda and their taming by the Buddha and Maudgalyāyana is told in the <title xml:lang="Sa-Ltn">Vinayavibhaṅga</title> (Toh 3, D vol. 6, <foreign xml:lang="Bo-Ltn">’dul ba</foreign>, <foreign xml:lang="Bo-Ltn">ja</foreign>, F.221a–224a).</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-203">
+                            <term>Vāsuki</term>
+                            <term xml:lang="Bo-Ltn">nor rgyas kyi bu </term>
+                            <term xml:lang="bo">ནོར་རྒྱས་ཀྱི་བུ།</term>
+                            <term xml:lang="Sa-Ltn">Vāsuki</term>
+                            <term type="definition">One of eight mythological nāga kings.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-204">
+                            <term>Takṣaka</term>
+                            <term xml:lang="Bo-Ltn">’jog po </term>
+                            <term xml:lang="bo">འཇོག་པོ།</term>
+                            <term xml:lang="Sa-Ltn">Takṣaka</term>
+                            <term type="definition">One of eight mythological nāga kings.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-205">
+                            <term>Yama</term>
+                            <term xml:lang="Bo-Ltn">gshin rje </term>
+                            <term xml:lang="bo">གཤིན་རྗེ།</term>
+                            <term xml:lang="Sa-Ltn">Yama</term>
+                            <term type="definition">Lord of the dead in Indian mythology.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-206">
+                            <term>Jinamitra</term>
+                            <term xml:lang="Bo-Ltn">dzi na mi tra </term>
+                            <term xml:lang="bo">ཛི་ན་མི་ཏྲ།</term>
+                            <term xml:lang="Sa-Ltn">Jinamitra</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-207">
+                            <term>Surendrabodhi</term>
+                            <term xml:lang="Bo-Ltn">su ren dra bo d+hi </term>
+                            <term xml:lang="bo">སུ་རེན་དྲ་བོ་དྷི།</term>
+                            <term xml:lang="Sa-Ltn">Surendrabodhi</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-044-003-208">
+                            <term>Yeshé Dé</term>
+                            <term xml:lang="Bo-Ltn">ye shes sde </term>
+                            <term xml:lang="bo">ཡེ་ཤེས་སྡེ།</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="place" xml:id="UT22084-044-003-209">
+                            <term>Rājagṛha</term>
+                            <term xml:lang="Bo-Ltn">rgyal po’i khab </term>
+                            <term xml:lang="bo">རྒྱལ་པོའི་ཁབ།</term>
+                            <term xml:lang="Sa-Ltn">Rājagṛha</term>
+                            <term type="definition">The capital city of the ancient Indian kingdom Magadha where the Buddha
+                                taught.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="place" xml:id="UT22084-044-003-210">
+                            <term>Bamboo Grove</term>
+                            <term xml:lang="Bo-Ltn">’od ma’i tshal </term>
+                            <term xml:lang="bo">འོད་མའི་ཚལ།</term>
+                            <term xml:lang="Sa-Ltn">Veṇuvana</term>
+                            <term type="definition">A park or garden near Rājagṛha, donated to the Buddha by King Bimbisāra, and the setting 
+                                for a number of sūtras. </term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="place" xml:id="UT22084-044-003-234">
+                            <term>Kalandakanivāsa</term>
+                            <term xml:lang="Bo-Ltn">bya ka lan da ka gnas pa </term>
+                            <term xml:lang="bo">བྱ་ཀ་ལན་ད་ཀ་གནས་པ།</term>
+                            <term xml:lang="Sa-Ltn">Kalandakanivāsa</term>
+                            <term type="definition">A place or vihāra within the Veṇuvana (Bamboo Grove) near Rājagṛha, named because it was
+                                where birds or animals called <foreign xml:lang="Sa-Ltn">kalandaka</foreign> lived or were fed. These 
+                                <foreign xml:lang="Sa-Ltn">kalandaka</foreign> had once saved King Bimbisāra from a venomous snake, and 
+                                it was on his orders that they were maintained and fed at the site to express his gratitude. The
+                                Tibetan rendering <foreign xml:lang="Bo-Ltn">bya ka lan da ka</foreign> makes it clear that the Tibetans 
+                                considered the <foreign xml:lang="Sa-Ltn">kalandaka</foreign> to be a kind of bird 
+                                (<foreign xml:lang="Bo-Ltn">bya</foreign>), perhaps a kind of crow, while from Sanskrit and Pali sources 
+                                it seems more likely to mean a squirrel. It is therefore possible that this word 
+                                refers to the Indian flying squirrel, <foreign xml:lang="la">Petaurista philippensis</foreign>.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="place" xml:id="UT22084-044-003-211">
+                            <term>Kosala</term>
+                            <term xml:lang="Bo-Ltn">ko sa la </term>
+                            <term xml:lang="bo">ཀོ་ས་ལ།</term>
+                            <term xml:lang="Sa-Ltn">Kosala</term>
+                            <term type="definition">An ancient kingdom in Northern India.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="place" xml:id="UT22084-044-003-212">
+                            <term>Mount Meru</term>
+                            <term xml:lang="Bo-Ltn">ri rab </term>
+                            <term xml:lang="bo">རི་རབ།</term>
+                            <term xml:lang="Sa-Ltn">Meru</term>
+                            <term type="definition">In Buddhist cosmology, the sacred mountain at the center of the world.</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="place" xml:id="UT22084-044-003-213">
+                            <term>Akaniṣṭha</term>
+                            <term xml:lang="Bo-Ltn">’og min </term>
+                            <term xml:lang="bo">འོག་མིན།</term>
+                            <term xml:lang="Sa-Ltn">Akaniṣṭha</term>
+                            <term type="definition">Highest heaven of the <term type="ignore">form</term> realm (<foreign type="term" xml:lang="Sa-Ltn">rūpadhātu</foreign>).</term>
+                        </gloss>
+                    </item>
+                </list>
+            </div>
+        </back>
+    </text>
+
+    
+    
+    
+    </TEI>
