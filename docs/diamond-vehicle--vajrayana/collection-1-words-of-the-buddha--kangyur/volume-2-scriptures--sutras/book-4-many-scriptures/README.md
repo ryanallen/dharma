@@ -1,4 +1,6 @@
 # <div align="center">Many Scriptures </br><sub>(*Sutras*)</sub></div>
-Forty-nine selected sūtras (Toh 45–93) on a range of themes, compiled as a separate collection also found in the Chinese Tripiṭaka.
+The principal collection of 266 sūtras, varied in length, subject, interlocutors and origins (Toh 94-359).
 
-## [Purifying the Boundless Gates](toh46-the_teaching_on_clearing_the_boundless_gates.xml) </br><sub>`Toh. 46` `84k`</sub>
+## [Good Æon](toh94-sutra_of_the_good_eon.xml) </br><sub>`Toh. 94` `84k`</sub>
+## [Play in Full](toh95_play_in_full.xml) </br><sub>`Toh. 95` `84k`</sub>
+## [Mañjuśrī's Magic](toh96-the_play_of_manjusri_sutra.xml) </br><sub>`Toh. 96` `84k`</sub>
