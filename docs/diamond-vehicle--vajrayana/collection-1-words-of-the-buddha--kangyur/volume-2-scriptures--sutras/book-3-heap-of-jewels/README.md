@@ -31,3 +31,6 @@ Forty-nine selected sūtras (Toh 45–93) on a range of themes, compiled as a se
 ## [Siṃha’s Questions](toh81-simhas_questions.xml)  </br><sub>`Toh. 81` `84k`</sub>
 ## [Bhadrapāla the Merchant's Questions](toh83_questions_of_bhadrapala.xml) </br><sub>`Toh. 83` `84k`</sub>
 ## [Vimalaśraddhā the Girl's Questions](toh84-the_sutra_of_the_girl_vimalasraddhas_questions.xml) </br><sub>`Toh. 84` `84k`</sub>
+## [Maitreya's Question](toh85_question_of_maitreya.xml) </br><sub>`Toh. 85` `84k`</sub>
+## [Maitreya's Question on the Eight Qualities](toh86_question_of_maitreya_on_eight_qualities.xml)  </br><sub>`Toh. 86` `84k`</sub>
+## [Vyāsa the Seer's Questions](toh93-the_sutra_of_the_rsi_vyasas_questions.xml) </br><sub>`Toh. 93` `84k`</sub>
