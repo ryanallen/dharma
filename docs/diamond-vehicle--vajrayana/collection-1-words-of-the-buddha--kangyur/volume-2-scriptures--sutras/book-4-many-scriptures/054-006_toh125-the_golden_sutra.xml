@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/current/translation.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="mainTitle" xml:lang="en">The Gold Sūtra</title>
+                <title type="mainTitle" xml:lang="Sa-Ltn">Suvarṇasūtra</title>
+                <title type="mainTitle" xml:lang="bo">གསེར་གྱི་མདོ།</title>
+                <title type="mainTitle" xml:lang="Bo-Ltn">gser gyi mdo</title>
+                <title type="longTitle" xml:lang="en">The Noble Great Vehicle Sūtra “The Gold Sūtra”</title>
+                <title type="longTitle" xml:lang="Sa-Ltn">Ārya­suvarṇa­sūtra­nāma­mahāyāna­sūtra</title>
+                <title type="longTitle" xml:lang="bo">འཕགས་པ་གསེར་གྱི་མདོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</title>
+                <title type="longTitle" xml:lang="Bo-Ltn">’phags pa gser gyi mdo zhes bya ba theg pa chen po’i mdo</title>
+                <title type="otherTitle" xml:lang="zh">《黃金經》（圓滿法藏：《聖金經大乘經》）</title>
+                <author role="translatorMain" xml:id="UT22084-054-006-24">
+                    Translated by the Sakya Pandita Translation Group<lb/> under the patronage and supervision of 84000: Translating the Words of the Buddha</author>
+                <consultant role="dharmaMaster" xml:id="UT22084-054-006-25">Khenpo Kalsang Gyaltsen</consultant>
+                <author role="translatorEng" xml:id="UT22084-054-006-26">Chodrungma Kunga Chodro</author>
+                <consultant role="projectManager" xml:id="UT22084-054-006-27">Chodrungma Kunga Chodro</consultant>
+                <editor role="projectEditor" xml:id="UT22084-054-006-28">Nathaniel Rich</editor>
+                <editor role="copyEditor" xml:id="UT22084-054-006-29">Konchog Norbu</editor>
+                <editor role="projectEditor" xml:id="UT22084-054-006-30">Andreas Doctor</editor>
+                <editor role="TEImarkupEditor" xml:id="UT22084-054-006-31">Laura Goetz</editor>
+                <editor role="finalReviewer" xml:id="UT22084-054-006-32">Andreas Doctor</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>v 1.1.14 <date>2024</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>84000: Translating the Words of the Buddha</name> is a global non-profit initiative to translate all the Buddha’s
+                    words into modern languages, and to make them available to everyone. </publisher>
+                <availability status="1">
+                    <licence>
+                        <graphic url="http://i.creativecommons.org/l/by-nc-nd/2.0/88x31.png"/>
+                        <p>This work is provided under the protection of a Creative Commons CC BY-NC-ND (Attribution - Non-commercial -
+                            No-derivatives) 3.0 copyright. It may be copied or printed for fair use, but only with full attribution, and not for
+                            commercial advantage or personal compensation. For full details, see the Creative Commons license.</p>
+                    </licence>
+                </availability>
+                <idno xml:id="UT22084-054-006"/>
+                <note>An early mistake in the assigning of UT numbers within the 84000 project means that these ids diverge slightly from the standard
+                    logic.</note>
+                <date>2021-08-04</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl key="toh125" type="text">
+                    <ref>Toh 125</ref>
+                    <biblScope>Degé Kangyur, vol. 54 (mdo sde, tha), folio 239.a</biblScope>
+                    <location work="UT4CZ5369" count-pages="1">
+                        <volume number="54" start-page="585" end-page="585"/>
+                    </location>
+                    <idno parent-id="O1JC114941JC14668" work="http://read.84000.co/sections"/>
+                    <idno source-id="O1JC114941JC11699" work="W22084"/>
+                </bibl>
+            </sourceDesc>
+            <notesStmt/>
+            <revisionDesc>
+                <change who="#admin" when="2019-12-20T12:56:48.575Z" type="text-version" status="v 0.0.1" xml:id="UT22084-054-006-33">
+                    <desc>Automated version
+                    increment</desc>
+                </change>
+                <change who="#line-tofte" when="2020-04-16T13:33:25.544Z" type="translation-status" status="2.h" xml:id="UT22084-054-006-34">
+                    <desc>2.h</desc>
+                </change>
+                <change who="#line-tofte" when="2021-05-28T11:16:37.097Z" type="text-version" status="0.0.2" xml:id="UT22084-054-006-35">
+                    <desc>Auto
+                    (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-05-28T11:18:22.374Z" type="translation-status" status="2.g" xml:id="UT22084-054-006-36">
+                    <desc>2.g</desc>
+                </change>
+                <change who="#line-tofte" when="2021-05-28T11:18:22.374Z" type="text-version" status="0.0.3" xml:id="UT22084-054-006-37">
+                    <desc>Auto
+                    (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-06-28T13:32:52.412Z" type="translation-status" status="2.f" xml:id="UT22084-054-006-38">
+                    <desc>2.f</desc>
+                </change>
+                <change who="#line-tofte" when="2021-06-28T13:32:52.412Z" type="text-version" status="0.0.4" xml:id="UT22084-054-006-39">
+                    <desc>Auto
+                    (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-07-06T09:16:31.375Z" type="translation-status" status="2.e" xml:id="UT22084-054-006-40">
+                    <desc>2.e</desc>
+                </change>
+                <change who="#line-tofte" when="2021-07-06T09:16:31.375Z" type="text-version" status="0.0.5" xml:id="UT22084-054-006-41">
+                    <desc>Auto
+                    (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-07-06T09:16:58.537Z" type="text-version" status="0.0.6" xml:id="UT22084-054-006-42">
+                    <desc>Auto
+                    (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-07-12T13:27:40.986Z" type="translation-status" status="2.d" xml:id="UT22084-054-006-43">
+                    <desc>2.d</desc>
+                </change>
+                <change who="#line-tofte" when="2021-07-12T13:27:40.986Z" type="text-version" status="0.0.7" xml:id="UT22084-054-006-44">
+                    <desc>Auto
+                    (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-07-13T10:54:32.738Z" type="translation-status" status="2.c" xml:id="UT22084-054-006-45">
+                    <desc>2.c</desc>
+                </change>
+                <change who="#line-tofte" when="2021-07-13T10:54:32.738Z" type="text-version" status="0.0.8" xml:id="UT22084-054-006-46">
+                    <desc>Auto
+                    (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-07-13T10:55:28.305Z" type="translation-status" status="2.b" xml:id="UT22084-054-006-47">
+                    <desc>2.b</desc>
+                </change>
+                <change who="#line-tofte" when="2021-07-13T10:55:28.305Z" type="text-version" status="0.0.9" xml:id="UT22084-054-006-48">
+                    <desc>Auto
+                    (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-07-13T10:55:53.433Z" type="text-version" status="0.0.10" xml:id="UT22084-054-006-49">
+                    <desc>Auto
+                    (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-07-13T10:57:04.072Z" type="text-version" status="0.0.11" xml:id="UT22084-054-006-50">
+                    <desc>Auto
+                    (update-contributors)</desc>
+                </change>
+                <change who="#mike" when="2021-08-02T09:08:02.893Z" type="text-version" status="0.0.12" xml:id="UT22084-054-006-51">
+                    <desc>Auto
+                    (update-contributors)</desc>
+                </change>
+                <change who="#mike" when="2021-08-02T09:08:43.433Z" type="translation-status" status="2.a" xml:id="UT22084-054-006-52">
+                    <desc>2.a</desc>
+                </change>
+                <change who="#mike" when="2021-08-02T09:08:43.433Z" type="text-version" status="0.0.13" xml:id="UT22084-054-006-53">
+                    <desc>Auto
+                    (update-publication-status)</desc>
+                </change>
+                <change who="#mike" when="2021-08-03T13:55:36.322Z" type="translation-status" status="2" xml:id="UT22084-054-006-54">
+                    <desc>2</desc>
+                </change>
+                <change who="#mike" when="2021-08-03T13:55:36.322Z" type="text-version" status="0.0.2" xml:id="UT22084-054-006-55">
+                    <desc>Auto (update-publication-status)</desc>
+                </change>
+                <change who="#mike" when="2021-08-04T09:36:10.807Z" type="text-version" status="1.0.0" xml:id="UT22084-054-006-56">
+                    <desc>First Published Version</desc>
+                </change>
+                <change who="#mike" when="2021-08-04T09:36:41.984Z" type="translation-status" status="1" xml:id="UT22084-054-006-57">
+                    <desc>1</desc>
+                </change>
+                <change who="#admin" when="2021-08-04T09:36:41.984Z" type="translation-status" status="1.a" xml:id="UT22084-054-006-58">
+                    <desc>Note added retrospectively based on date of status '1'</desc>
+                </change>
+                <change who="#mike" when="2021-08-04T09:36:41.984Z" type="text-version" status="1.0.1" xml:id="UT22084-054-006-59">
+                    <desc>Auto (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-08-04T10:01:37.295Z" type="text-version" status="1.0.2" xml:id="UT22084-054-006-60">
+                    <desc>Auto (update-contributors)</desc>
+                </change>
+                <change who="#john" when="2021-08-06T11:57:27.525Z" type="text-version" status="1.1.1" xml:id="UT22084-054-006-61">
+                    <desc>Edited final paragraph of intro.</desc>
+                </change>
+                <change who="#celso" when="2021-09-03T13:25:29.625Z" type="text-version" status="1.1.2" xml:id="UT22084-054-006-62">
+                    <desc>changed author statement, corrected 2 mis-spelled glossary entries</desc>
+                </change>
+                <change who="#celso" when="2021-11-22T15:53:29.417Z" type="text-version" status="1.1.3" xml:id="UT22084-054-006-63">
+                    <desc>added references to Peter Skillings 2021 anthology</desc>
+                </change>
+                <change who="#cabie-sim" when="2022-07-26T05:49:58.415Z" type="text-version" status="1.1.4" xml:id="UT22084-054-006-64">
+                    <desc>Auto (update-titles)</desc>
+                </change>
+                <change who="#celso" when="2023-01-16T16:58:52.361Z" type="text-version" status="1.1.5" xml:id="UT22084-054-006-65">
+                    <desc>Auto (script-increment-version-published)</desc>
+                </change>
+                <change who="#celso" when="2023-01-18T16:58:06.914Z" type="text-version" status="1.1.6" xml:id="UT22084-054-006-66">
+                    <desc>Auto (remove-tid-from-back-list-items)</desc>
+                </change>
+                <change who="#admin" when="2023-07-30T22:39:48.323Z" type="text-version" status="1.1.7" xml:id="UT22084-054-006-67">
+                    <desc>TEI migrated to 2.19.0</desc>
+                </change>
+                <change who="#celso" when="2023-10-13T11:48:10.305Z" type="text-version" status="1.1.8" xml:id="UT22084-054-006-68">
+                    <desc>reapplied capital letters in Wylie and covert to TibUni-glossary</desc>
+                </change>
+                <change who="#konchog" when="2024-05-17T19:54:51.914Z" type="text-version" status="1.1.9" xml:id="UT22084-054-006-69">
+                    <desc>Three small fixes.</desc>
+                </change>
+                <change who="#martina-cotter" when="2024-05-17T19:58:42.611Z" type="text-version" status="1.1.10" xml:id="UT22084-054-006-70">
+                    <desc>User set version to 1.1.10</desc>
+                </change>
+                <change who="#john" when="2024-05-22T17:59:36.544Z" type="text-version" status="1.1.11" xml:id="UT22084-054-006-123">
+                    <desc>Paragraph in intro, note, and biblio entry added to crossreference Toh 64.</desc>
+                </change>
+                <change who="#john" when="2024-05-24T15:25:04.15Z" type="text-version" status="1.1.12" xml:id="UT22084-054-006-124">
+                    <desc>Amplified the cross-references and added bibliography entries and another note.</desc>
+                </change>
+                <change who="#cabie-sim" when="2024-06-17T08:34:22.133Z" type="text-version" status="1.1.13" xml:id="UT22084-054-006-126">
+                    <desc>Auto (update-titles)</desc>
+                </change>
+                <change who="#andre" when="2024-06-28T09:51:25.956Z" type="text-version" status="1.1.14" xml:id="UT22084-054-006-127">
+                    <desc>Approved rendering "Jetavana, Anāthapiṇḍada’s Park" applied</desc>
+                </change>
+            </revisionDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="summary">
+                <head type="summary" tid="1">Summary</head>
+                <milestone unit="chunk" xml:id="UT22084-054-006-1"/>
+                <p tid="2">In this very brief sūtra, Venerable Ānanda asks the Buddha about the nature of the mind of awakening, the aspiration to attain the
+                    awakening of a buddha for the benefit of all beings. The Buddha explains that the mind of awakening is like gold because it is
+                    pure. He also teaches the analogy that just as a smith shapes gold into various forms, yet the nature of the gold itself does not
+                    change, so too the mind of awakening manifests in various unique ways, yet the nature of the mind of awakening itself does not
+                    change.</p>
+            </div>
+            <div type="acknowledgment">
+                <head type="acknowledgment" tid="3">Acknowledgements</head>
+                <milestone unit="chunk" xml:id="UT22084-054-006-2"/>
+                <p tid="4">This sūtra was translated from Tibetan into English by Khenpo Kalsang Gyaltsen and Chodrungma Kunga Chodron. It was then edited and
+                    introduced by the 84000 editorial team.</p>
+                <p tid="5">The translation was completed under the patronage and supervision of 84000: Translating the Words of the Buddha.</p>
+            </div>
+            <div type="introduction">
+                <head type="introduction" tid="6">Introduction</head>
+                <div type="section" xml:id="UT22084-054-006-introduction-1">
+                    <milestone unit="chunk" xml:id="UT22084-054-006-3"/>
+                    <p tid="7">
+                        <title xml:lang="en">The Gold Sūtra</title> presents a very brief but meaningful teaching on the mind of awakening, the
+                        aspiration to attain the unsurpassed and perfect awakening of a buddha for the benefit of all beings. It consists of the
+                        Buddha’s answer to a single question posed by Venerable Ānanda about how the mind of awakening should be viewed. The Buddha
+                        declares that the mind of awakening is like gold because it is pure, and he gives the analogy that just as a smith may shape
+                        gold into various forms, yet the nature of the gold itself does not change, so too the mind of awakening appears with various
+                        unique attributes, yet the nature of the mind of awakening itself does not change. The Buddha then proclaims a single
+                        four-line verse that succinctly articulates the nature of the mind of awakening and the way to practice it. </p>
+                    <milestone unit="chunk" xml:id="UT22084-054-006-104"/>
+                    <p tid="22">Gold is used as an analogy to illustrate the noble and precious nature of awakening itself in a number of canonical texts. Notably, 
+                        of the nine famous analogies set out in the <title xml:lang="Sa-Ltn">Tathāgata­garbha­sūtra</title> for the nature 
+                        of awakening or “buddha-nature” (<foreign xml:lang="Sa-Ltn">tathāgata­garbha</foreign>) 
+                        that is innate in sentient beings but concealed by different layers of
+                        adventitious obscurations, at least two—a piece of gold that has been discarded by mistake in a heap of filth, and an 
+                        image cast in gold but still enclosed within its clay mold—explicitly mention 
+                        gold.<note place="end" xml:id="UT22084-054-006-105">
+                            <title xml:lang="Sa-Ltn">Tathāgata­garbha­sūtra</title> (Toh 
+                            258<ref rend="pending" target="https:/read.84000.co/translation/toh258.html_F.25.b"/>), F.250.b–251.a and F.254.a–254.b.
+                            The analogies in the <title xml:lang="Sa-Ltn">Tathāgata­garbha­sūtra</title> are taken up and explained in detail in
+                            Maitreya-Asaṅga’s <title xml:lang="Sa-Ltn">Ratna­gotra­vibhāga</title> (<title xml:lang="Bo-Ltn">rgyud bla ma</title>, Toh 
+                            4024–5<ref rend="pending" target="https:/read.84000.co/translation/toh2044.html_toh2045"/>).</note> 
+                        The analogy of pure gold whose nature does not change, despite being worked by a smith into different forms,
+                        is also found in <title xml:lang="en">Vidyutprāpta’s Questions</title> (<title xml:lang="Sa-Ltn">Vidyutprāpta­pari­pṛcchā</title>, 
+                        Toh 64), but there illustrates the single nature of the dharma­dhātu rather than that of 
+                        awakening.<note place="end" xml:id="UT22084-054-006-106">
+                            <title xml:lang="en">Vidyutprāpta’s Questions</title> (<title xml:lang="Sa-Ltn">Vidyutprāpta­pari­pṛcchā</title>, 
+                            Toh 64<ref rend="pending" target="https:/read.84000.co/translation/toh64.html_F.6.a"/>), F.6.a.</note> However, gold as an analogy for the mind of 
+                        awakening (<foreign xml:lang="Sa-Ltn">bodhicitta</foreign>), rather than for awakening itself, seems to be unique to the present text.</p>
+                    <milestone unit="chunk" xml:id="UT22084-054-006-4"/>
+                    <p tid="23">As far as we can tell, no Sanskrit or Chinese version of <title xml:lang="en">The Gold Sūtra</title> exists. As there is no
+                        colophon at the end of the sūtra, we have no information on when or by whom it was translated into Tibetan. The
+                        sūtra is not listed in either of the two inventories of translations completed during the early, imperial period, and it appears to be found only in Kangyurs of
+                        the Tshalpa line of transmission. There is a recent English translation of the sūtra, along with helpful notes, in Peter Skilling’s 2021 
+                        anthology, <title xml:lang="en">Questioning the Buddha: A Selection of Twenty-Five Sutras</title>.<note place="end" xml:id="UT22084-054-006-21">Skilling 2021, pp. 221–26.</note>
+                    </p>
+                    <milestone unit="chunk" xml:id="UT22084-054-006-23"/>
+                    <p tid="21">The present translation is based on the version in the Degé (<foreign xml:lang="Bo-Ltn">sde dge</foreign>) Kangyur, with reference to the Comparative Edition (<title xml:lang="Bo-Ltn">dpe sdur
+                            ma</title>). </p>
+                </div>
+            </div>
+        </front>
+        <body>
+            <div type="translation">
+                <head type="translation"> The Translation </head>
+                <head type="titleHon" tid="10">The Noble Great Vehicle Sūtra</head>
+                <head type="titleMain" tid="11">The Gold Sūtra</head>
+                <div type="section" xml:id="UT22084-054-006-section-1">
+                <milestone unit="chunk" xml:id="UT22084-054-006-5"/>
+                <p tid="12">
+                        <ref cRef="F.293.a" type="folio" xml:id="UT22084-054-006-20"/> Homage to all the buddhas and bodhisattvas.</p>
+                    <lb/>
+                <milestone unit="chunk" xml:id="UT22084-054-006-6"/>
+                    <p tid="13">Thus did I hear at one time. The Blessed One was dwelling in the Jetavana, Anāthapiṇḍada’s Park. At that time Venerable
+                    Ānanda asked the Blessed One, “Blessed One, how should the mind of awakening be viewed?” </p>
+                <milestone unit="chunk" xml:id="UT22084-054-006-7"/>
+                    <p tid="14">The Blessed One replied, “Venerable Ānanda, the mind of awakening should be viewed as being in nature like gold. Just as gold is pure by nature, so the mind of awakening is pure by nature. Just as a smith shapes gold into a multiplicity of forms, yet the
+                    nature of the gold does not change, although the mind of awakening may appear to have a variety of unique attributes, ultimately
+                    these never waver from the mind of awakening. Therefore, its nature does not change.”</p>
+                    <lb/>
+                <milestone unit="chunk" xml:id="UT22084-054-006-8"/>
+                <p tid="15">Then the Blessed One proclaimed the following verse:</p>
+                <lg tid="16">
+                    <l>“The mind of awakening is pure. </l>
+                    <l>Strive for the benefit of self and other.</l>
+                    <l>Meditate on the insubstantial essence.</l>
+                    <l>Be intent on what causes the birth of wisdom.”</l>
+                </lg>
+                <milestone unit="chunk" xml:id="UT22084-054-006-9"/>
+                <p tid="17">The Blessed One spoke thus, and Venerable Ānanda, the entire retinue, and the world together with its gods, humans, asuras, and
+                    gandharvas rejoiced and praised what the Blessed One had said. </p>
+                <milestone unit="chunk" xml:id="UT22084-054-006-10"/>
+                <trailer tid="18">This completes the noble Great Vehicle sūtra “The Gold Sūtra.”</trailer>
+            </div>
+            </div>
+        </body>
+        <back>
+            <div type="notes">
+                <head type="notes" tid="19">Notes</head>
+            </div>
+            <div type="listBibl">
+                <head type="listBibl" tid="20">Bibliography</head>
+                <div type="section" xml:id="UT22084-054-006-listBibl-1">
+                    <bibl xml:id="UT22084-054-006-11">
+                        <title xml:lang="Bo-Ltn">gser gyi mdo</title> (<title xml:lang="Sa-Ltn">Suvarṇasūtra</title>). Toh 125, Degé Kangyur vol. 54
+                        (mdo sde, tha), folio 239.a.</bibl>
+                    <bibl xml:id="UT22084-054-006-12">
+                        <title xml:lang="Bo-Ltn">gser gyi mdo</title>. bka’ ’gyur (dpe bsdur ma)
+                        [Comparative Edition of the Kangyur], krung go’i bod rig pa zhib ’jug ste gnas kyi bka’ bstan dpe sdur khang (The Tibetan
+                        Tripitaka Collation Bureau of the China Tibetology Research Center). 108 volumes. Beijing: krung go’i bod rig pa dpe skrun
+                        khang (China Tibetology Publishing House), 2006–9, vol. 54, 758–59.</bibl>
+                    <bibl xml:id="UT22084-054-006-111">
+                        <title xml:lang="Bo-Ltn">de bzhin gshegs pa’i snying po’i mdo</title> (<title xml:lang="Sa-Ltn">Tathāgata­garbha­sūtra</title>). Toh 258,
+                        Degé Kangyur vol. 66 (mdo sde, za), folios 245.b–259.b.</bibl>
+                    <bibl xml:id="UT22084-054-006-112">
+                        <title xml:lang="Bo-Ltn">theg pa chen po rgyud bla ma’i bstan bcos</title> (<title xml:lang="Sa-Ltn">Mahā­yānottara­tantra­śāstra</title>). Toh 4024,
+                        Degé Tengyur vol. 123 (sems tsam, phi), folios 53.a–73.a.</bibl>
+                    <bibl xml:id="UT22084-054-006-113">
+                        <title xml:lang="Bo-Ltn">theg pa chen po rgyud bla ma’i bstan bcos rnam par bshad pa</title> 
+                        (<title xml:lang="Sa-Ltn">Mahā­yānottara­tantra­śāstra­vyākhyā</title>). Toh 4025,
+                        Degé Tengyur vol. 123 (sems tsam, phi), folios 73.a–129.a.</bibl>
+                    <bibl xml:id="UT22084-054-006-122">84000. <title xml:lang="en">Vidyutprāpta’s Questions</title> (<title xml:lang="Sa-Ltn">Vidyutprāptaparipṛcchā</title>, 
+                        <title xml:lang="Bo-Ltn">glog thob kyis zhus pa</title>, Toh 64<ref rend="pending" target="https:/read.84000.co/translation/toh64.html"/>). Translated by 
+                        Robert Kritzer. 84000: Translating the Words of the Buddha, (forthcoming). </bibl>
+                    <bibl xml:id="UT22084-054-006-22">Skilling, Peter. <title xml:lang="en">Questioning the Buddha: A Selection of Twenty-Five 
+                        Sutras</title>. Somerville: Wisdom Publications, 2021. </bibl>
+                </div>
+            </div>
+            <div type="glossary">
+                <list type="glossary">
+                    <item>
+                        <gloss xml:id="UT22084-054-006-13" type="term" mode="match">
+                            <term type="translationMain">asura</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">asura</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">lha ma yin</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ལྷ་མ་ཡིན།</term>
+                            <note type="definition" rend="override">
+                                <p>One of the six classes of sentient beings. The asuras are dominated by envy, ambition, and hostility and are incessantly embroiled in disputes with the gods. They are frequently portrayed in brahmanical and Buddhist mythology as having a disruptive effect on cosmological and social harmony.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss xml:id="UT22084-054-006-14" type="term" mode="match">
+                            <term type="translationMain">blessed one</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">bhagavat</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">bcom ldan ’das</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">བཅོམ་ལྡན་འདས།</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss xml:id="UT22084-054-006-15" type="term" mode="match">
+                            <term type="translationMain">gandharva</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">gandharva</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">dri za</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">དྲི་ཟ།</term>
+                            <note type="definition" rend="override">
+                                <p>A class of generally benevolent semidivine beings who inhabit the sky and are most renowned as celestial musicians.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-054-006-16">
+                            <term type="translationMain">mind of awakening</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">bodhicitta</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">byang chub kyi sems</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">བྱང་ཆུབ་ཀྱི་སེམས།</term>
+                            <note type="definition">
+                                <p>The intent at heart of the Great Vehicle, namely to obtain buddhahood in order to liberate all beings from suffering. In its relative aspect, it is both this aspiration and the practices towards buddhahood. In its absolute aspect, it is the realization of emptiness or the awakened mind itself.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss xml:id="UT22084-054-006-17" type="person" mode="match">
+                            <term type="translationMain">Ānanda</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">ānanda</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">kun dga’ bo</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ཀུན་དགའ་བོ།</term>
+                            <note type="definition" rend="override">
+                                <p>The Buddha’s cousin and principal attendant, who is said to have memorized the sūtras.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss xml:id="UT22084-054-006-125" type="place" mode="match">
+                            <term type="translationMain">Jetavana, Anāthapiṇḍada’s Park</term>
+                            <term xml:lang="Sa-Ltn" type="attestedOther" status="verified">jetavanam anāthapiṇḍadasyārāmaḥ</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">rgyal bu rgyal byed kyi tshal mgon med zas sbyin gyi kun dga’ ra ba</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ།</term>
+                        </gloss>
+                    </item>
+                </list>
+            </div>
+        </back>
+    </text>
+</TEI>

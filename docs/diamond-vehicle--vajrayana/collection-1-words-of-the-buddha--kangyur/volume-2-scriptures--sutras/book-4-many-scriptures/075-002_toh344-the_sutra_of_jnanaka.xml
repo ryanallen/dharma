@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/current/translation.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="mainTitle" xml:lang="en">The Sūtra of Jñānaka</title>
+                <title type="mainTitle" xml:lang="Sa-Ltn">Jñānakasūtra</title>
+                <title type="mainTitle" xml:lang="Bo-Ltn">shes ldan gyi mdo</title>
+                <title type="mainTitle" xml:lang="bo">ཤེས་ལྡན་གྱི་མདོ།</title>
+                <title type="longTitle" xml:lang="en">The Noble Sūtra of Jñānaka: An Exemplary Tale of the
+                    Buddha</title>
+                <title type="longTitle" xml:lang="Sa-Ltn">Ārya­jñānaka­sūtra­buddhāvadāna</title>
+                <title type="longTitle" xml:lang="Bo-Ltn">’phags pa sangs rgyas kyi rtogs pa brjod pa shes ldan gyi
+                    mdo</title>
+                <title type="longTitle" xml:lang="bo">འཕགས་པ་སངས་རྒྱས་ཀྱི་རྟོགས་པ་བརྗོད་པ་ཤེས་ལྡན་གྱི་མདོ།</title>
+                <author role="translatorMain" xml:id="UT22084-075-002-85">Translated by the Subhashita Translation Group<lb/>under
+                    the patronage and supervision of 84000: Translating the Words of the Buddha</author>
+                <author role="translatorEng" xml:id="UT22084-075-002-86">Benjamin Ewing</author>
+                <author role="translatorEng" xml:id="UT22084-075-002-87">Lowell Cook</author>
+                <editor role="projectEditor" xml:id="UT22084-075-002-88">Ryan Damron</editor>
+                <editor role="copyEditor" xml:id="UT22084-075-002-89">Konchog Norbu</editor>
+                <editor role="projectEditor" xml:id="UT22084-075-002-90">Rory Lindsay</editor>
+                <editor role="TEImarkupEditor" xml:id="UT22084-075-002-91">Sameer Dhingra</editor>
+                <editor role="finalReviewer" xml:id="UT22084-075-002-92">Andreas Doctor</editor>
+                <editor role="TEImarkupEditor" xml:id="UT22084-075-002-93">André Rodrigues</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>v 1.0.11 <date>2024</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>84000: Translating the Words of the Buddha</name> is a global non-profit initiative to
+                    translate all the Buddha’s words into modern languages, and to make them available to everyone. </publisher>
+                <availability status="1">
+                    <licence>
+                        <graphic url="http://i.creativecommons.org/l/by-nc-nd/2.0/88x31.png"/>
+                        <p>This work is provided under the protection of a Creative Commons CC BY-NC-ND (Attribution -
+                            Non-commercial - No-derivatives) 3.0 copyright. It may be copied or printed for fair use,
+                            but only with full attribution, and not for commercial advantage or personal compensation.
+                            For full details, see the Creative Commons license.</p>
+                    </licence>
+                </availability>
+                <idno xml:id="UT22084-075-002"/>
+                <note>An early mistake in the assigning of UT numbers within the 84000 project means that these ids
+                    diverge slightly from the standard logic.</note>
+                <date>2022-06-14</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl key="toh344" type="text">
+                    <ref>Toh 344</ref>
+                    <biblScope>Degé Kangyur, vol. 75 (mdo sde, aṃ), folios 287.a–289.b</biblScope>
+                    <author role="translatorTib" xml:id="UT22084-075-002-133">Vidyākarasiṃha</author>
+                    <author role="translatorTib" xml:id="UT22084-075-002-134">Sarvajñādeva</author>
+                    <author role="translatorTib" xml:id="UT22084-075-002-135">Paltsek</author>
+                    <location work="UT4CZ5369" count-pages="6">
+                        <volume number="75" start-page="573" end-page="578"/>
+                    </location>
+                    <idno parent-id="O1JC114941JC14668" work="http://read.84000.co/sections"/>
+                    <idno source-id="O1JC114941JC12029" work="W22084"/>
+                </bibl>
+            </sourceDesc>
+            <notesStmt/>
+            <revisionDesc>
+                <change who="#line-tofte" when="2020-10-02T13:53:02.406Z" type="translation-status" status="4" xml:id="UT22084-075-002-94">
+                    <desc>4</desc>
+                </change>
+                <change who="#line-tofte" when="2020-10-02T13:53:02.406Z" type="text-version" status="0.0.1" xml:id="UT22084-075-002-95">
+                    <desc>0.0.1</desc>
+                </change>
+                <change who="#line-tofte" when="2020-11-12T11:09:59.989Z" type="translation-status" status="3" xml:id="UT22084-075-002-96">
+                    <desc>3</desc>
+                </change>
+                <change who="#line-tofte" when="2020-11-12T11:09:59.989Z" type="text-version" status="0.0.2" xml:id="UT22084-075-002-97">
+                    <desc>Auto (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2020-11-12T11:10:36.152Z" type="text-version" status="0.0.3" xml:id="UT22084-075-002-98">
+                    <desc>Auto (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-01-04T13:22:41.485Z" type="translation-status" status="2.h" xml:id="UT22084-075-002-99">
+                    <desc>2.h</desc>
+                </change>
+                <change who="#line-tofte" when="2021-01-04T13:22:41.485Z" type="text-version" status="0.0.4" xml:id="UT22084-075-002-100">
+                    <desc>Auto (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-04-29T10:49:13.224Z" type="translation-status" status="2.g" xml:id="UT22084-075-002-101">
+                    <desc>2.g</desc>
+                </change>
+                <change who="#line-tofte" when="2021-04-29T10:49:13.224Z" type="text-version" status="0.0.5" xml:id="UT22084-075-002-102">
+                    <desc>Auto (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-09-28T07:50:20.704Z" type="translation-status" status="2.f" xml:id="UT22084-075-002-103">
+                    <desc>2.f</desc>
+                </change>
+                <change who="#line-tofte" when="2021-09-28T07:50:20.704Z" type="text-version" status="0.0.6" xml:id="UT22084-075-002-104">
+                    <desc>Auto (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-09-28T07:50:45.134Z" type="text-version" status="0.0.7" xml:id="UT22084-075-002-105">
+                    <desc>Auto (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-12-07T11:09:06.912Z" type="translation-status" status="2.d" xml:id="UT22084-075-002-106">
+                    <desc>2.d</desc>
+                </change>
+                <change who="#line-tofte" when="2021-12-07T11:09:06.912Z" type="text-version" status="0.0.8" xml:id="UT22084-075-002-107">
+                    <desc>Auto (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-12-07T11:10:28.145Z" type="text-version" status="0.0.9" xml:id="UT22084-075-002-108">
+                    <desc>Auto (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2022-01-19T10:44:50.892Z" type="translation-status" status="2.c" xml:id="UT22084-075-002-109">
+                    <desc>2.c</desc>
+                </change>
+                <change who="#line-tofte" when="2022-01-19T10:44:50.892Z" type="text-version" status="0.0.10" xml:id="UT22084-075-002-110">
+                    <desc>Auto (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2022-03-09T14:45:31.041Z" type="translation-status" status="2.b" xml:id="UT22084-075-002-111">
+                    <desc>2.b</desc>
+                </change>
+                <change who="#line-tofte" when="2022-03-09T14:45:31.041Z" type="text-version" status="0.0.11" xml:id="UT22084-075-002-112">
+                    <desc>Auto (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2022-03-09T14:46:08.927Z" type="text-version" status="0.0.12" xml:id="UT22084-075-002-113">
+                    <desc>Auto (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2022-04-11T09:47:33.485Z" type="translation-status" status="2.a" xml:id="UT22084-075-002-114">
+                    <desc>2.a</desc>
+                </change>
+                <change who="#line-tofte" when="2022-04-11T09:47:33.485Z" type="text-version" status="0.0.13" xml:id="UT22084-075-002-115">
+                    <desc>Auto (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2022-04-11T09:47:59.45Z" type="text-version" status="0.0.14" xml:id="UT22084-075-002-116">
+                    <desc>Auto (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2022-04-21T07:25:04.159Z" type="translation-status" status="2" xml:id="UT22084-075-002-117">
+                    <desc>2</desc>
+                </change>
+                <change who="#line-tofte" when="2022-04-21T07:25:04.159Z" type="text-version" status="0.0.15" xml:id="UT22084-075-002-118">
+                    <desc>Auto (update-publication-status)</desc>
+                </change>
+                <change who="#celso" when="2022-06-02T15:59:25.504Z" type="text-version" status="0.0.16" xml:id="UT22084-075-002-119">
+                    <desc>Activated pending link to Toh 345 and added bibl entry</desc>
+                </change>
+                <change who="#line-tofte" when="2022-06-07T14:24:47.602Z" type="text-version" status="0.0.17" xml:id="UT22084-075-002-120">
+                    <desc>Auto (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2022-06-13T11:39:55.956Z" type="text-version" status="0.0.18" xml:id="UT22084-075-002-121">
+                    <desc>Auto (update-contributors)</desc>
+                </change>
+                <change who="#andre" when="2022-06-14T18:01:27.676Z" type="translation-status" status="1.a" xml:id="UT22084-075-002-122">
+                    <desc>1.a</desc>
+                </change>
+                <change who="#andre" when="2022-06-14T18:01:27.676Z" type="text-version" status="1.0.00" xml:id="UT22084-075-002-123">
+                    <desc>First published version</desc>
+                </change>
+                <change who="#konchog" when="2022-06-15T12:41:51.214Z" type="text-version" status="1.0.01" xml:id="UT22084-075-002-124">
+                    <desc>Several corrections added as per Konchog's remarks, and one small fix, capitalizing "Pāriyātra tree".</desc>
+                </change>
+                <change who="#john" when="2022-06-15T16:28:04.042Z" type="text-version" status="1.0.02" xml:id="UT22084-075-002-125">
+                    <desc>Quote marks added where missing in 1.22, note 6 reformaulated slightly.</desc>
+                </change>
+                <change who="#sameer" when="2022-07-19T11:42:42.118Z" type="translation-status" status="1" xml:id="UT22084-075-002-126">
+                    <desc>1</desc>
+                </change>
+                <change who="#sameer" when="2022-07-19T11:42:42.118Z" type="text-version" status="1.0.3" xml:id="UT22084-075-002-127">
+                    <desc>Auto (update-publication-status)</desc>
+                </change>
+                <change who="#andre" when="2022-09-24T23:34:28.429Z" type="text-version" status="1.0.4" xml:id="UT22084-075-002-128">
+                    <desc>Update to the glossary</desc>
+                </change>
+                <change who="#andre" when="2022-09-24T23:35:22.442Z" type="text-version" status="1.0.5" xml:id="UT22084-075-002-129">
+                    <desc>Update to the glossary</desc>
+                </change>
+                <change who="#celso" when="2023-01-16T16:58:52.361Z" type="text-version" status="1.0.6" xml:id="UT22084-075-002-130">
+                    <desc>Auto (script-increment-version-published)</desc>
+                </change>
+                <change who="#celso" when="2023-01-18T16:58:06.914Z" type="text-version" status="1.0.7" xml:id="UT22084-075-002-131">
+                    <desc>Auto (remove-tid-from-back-list-items)</desc>
+                </change>
+                <change who="#admin" when="2023-07-30T22:39:48.323Z" type="text-version" status="1.0.8" xml:id="UT22084-075-002-132">
+                    <desc>TEI migrated to 2.19.0</desc>
+                </change>
+                <change who="#celso" when="2023-10-13T11:48:10.305Z" type="text-version" status="1.0.9" xml:id="UT22084-075-002-136">
+                    <desc>reapplied capital letters in Wylie and covert to TibUni-glossary</desc>
+                </change>
+                <change who="#celso" when="2024-05-15T14:07:43.202Z" type="text-version" status="1.0.10" xml:id="UT22084-075-002-137">
+                    <desc>updated "account of noble deeds" to "exemplary tale"</desc>
+                </change>
+                <change who="#celso" when="2024-05-16T09:30:10.814Z" type="text-version" status="1.0.11" xml:id="UT22084-075-002-138">
+                    <desc>mention of Toh 345 "Magnificent Account" to "Exemplary Tale"</desc>
+                </change>
+            </revisionDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <!--Note the "Contents" outline from the Word DOCX has not been included in the script. If the 
+                    Outline to the text is quite complex, it is recommended that you paste the outlined contents from the DOCX here as a comment for
+                    markup's reference. The actual table of contents will be generated in the Reading Room by the parser.
+                Summary
+                Acknowledgements
+                Introduction
+                The Translation: The Sūtra of Jñānaka
+                Bibliography
+                Notes-->
+        <front>
+            <div type="summary">
+                <head type="summary" tid="1">Summary</head>
+                <milestone unit="chunk" xml:id="UT22084-075-002-1"/>
+                <p tid="2">In the Heaven of the Thirty-Three, a god has reached the end of his life. He foresees his
+                    rebirth as a pig and calls out to the Buddha to save him. The Buddha prompts him to seek refuge in
+                    the Three Jewels and, as a result, the god finds himself reborn into a wealthy family in Vaiśālī. In
+                    this life as a child named Jñānaka, he encounters the Buddha once more and invites him and his monks
+                    for a midday meal. The Buddha prophesies to Ānanda that the meritorious offering made by Jñānaka
+                    will eventually lead the child to awaken as the buddha known as King of Foremost Knowing.</p>
+            </div>
+            <div type="acknowledgment">
+                <head type="acknowledgment" tid="3">Acknowledgements</head>
+                <milestone unit="chunk" xml:id="UT22084-075-002-2"/>
+                <p tid="4">Translated by the Subhashita Translation Group. The translation was produced by Lowell Cook
+                    who also wrote the introduction. Benjamin Ewing and Ryan Damron checked the translation against the
+                    Tibetan and edited the text and introduction.</p>
+                <p tid="5">The translation was completed under the patronage and supervision of 84000: Translating the
+                    Words of the Buddha.</p>
+            </div>
+            <div type="introduction">
+                <head type="introduction" tid="8">Introduction</head>
+                <div type="section" xml:id="UT22084-075-002-introduction-1">
+                    <milestone unit="chunk" xml:id="UT22084-075-002-6"/>
+                    <p tid="10">
+                        <title xml:lang="en">The Noble Sūtra of Jñānaka: An Exemplary Tale of the
+                            Buddha</title> is one of a number of <foreign xml:lang="Sa-Ltn" type="term">avadānas</foreign> (Tib. <foreign xml:lang="Bo-Ltn" type="term">rtogs pa brjod
+                        pa</foreign>), or exemplary tales, preserved in the Kangyur. <foreign xml:lang="Sa-Ltn" type="term">Avadāna</foreign> is a narrative genre of Buddhist literature that describes how
+                        virtuous actions play out across lifetimes. True to the avadāna genre, <title xml:lang="en">The
+                            Sūtra of Jñānaka</title> relates the otherwise unimaginable workings of karma across several
+                        lifetimes, beginning with a god in the Heaven of the Thirty-Three. This god has reached the end
+                        of his life and foresees his rebirth in the womb of a pig in Vaiśālī, the Licchavi capital at
+                        the time of the Buddha. Another god overhears his cries of agony and encourages him to call upon
+                        the Buddha, who is staying in the Heaven of the Thirty-Three to give teachings to his mother,
+                        who had passed away not long after his birth. The Buddha prompts the dying god to seek refuge in
+                        the Three Jewels, and, instead of being reborn to the sow, the god finds himself born into a
+                        merchant family in Vaiśālī. Immediately after his birth, he praises the Three Jewels, leading
+                        his astounded parents to name him Jñānaka, “He Who Possesses Knowledge.” At the age of eight, Jñānaka
+                        encounters the Buddha on an alms round. Recollecting his past life, he offers alms to the Buddha
+                        and invites him and his monks to a midday meal at his parents’ home. Jñānaka’s parents make
+                        elaborate preparations to receive the Buddha and his monks, which prompts the Buddha to prophesy
+                        that Jñānaka’s offerings will act as the cause for his eventual awakening as the buddha known as
+                        King of Foremost Knowing.</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-7"/>
+                    <p tid="11">The basic narrative of <title xml:lang="en">The Sūtra of Jñānaka</title> is similar to
+                        that of the text that immediately follows it in the Kangyur, <title xml:lang="en">The
+                            Exemplary Tale About a Sow</title> (Toh 345: <title xml:lang="Sa-Ltn">Sūkarikāvadāna</title>; <title xml:lang="Bo-Ltn">phag mo’i rtogs pa brjod pa</title>),<note place="end" xml:id="UT22084-075-002-73">See Bodhinidhi Translation Group, trans., <title xml:lang="en">
+                                <ref target="https://read.84000.co/translation/toh345.html">The
+                                Exemplary Tale About a Sow</ref>
+                            </title>, Toh 345 (84000: Translating the Words
+                            of the Buddha, 2022).</note> wherein another god similarly laments his imminent rebirth as a pig in Rājagṛha. His tearful laments prompt Śakra, lord of the gods, to instruct him to take refuge in the Three Jewels as a means to prevent such an unwelcome event. In this sūtra, the god does not take rebirth in the human realm as Jñānaka does, but rather in the Tuṣita heaven.</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-8"/>
+                    <p tid="12">
+                        <title xml:lang="en">The Sūtra of Jñānaka</title> survives only in Tibetan translation;
+                        there are no extant Sanskrit witnesses, and it does not appear to have been translated into
+                        Chinese. <title xml:lang="en">The Sūtra of Jñānaka</title> is listed in the Denkarma (Tib.
+                            <title xml:lang="Bo-Ltn">ldan/lhan dkar ma</title>) and Phanthangma (Tib. <title xml:lang="Bo-Ltn">’phang thang ma</title>) catalogs,<note place="end" xml:id="UT22084-075-002-9"> Herrmann-Pfandt (2008), p. 165.</note> the two extant indexes
+                        of translations from the Imperial Period (629–841 <hi rend="small-caps">ce</hi>). The sūtra’s
+                        colophon states that the sūtra was translated by the Tibetan monk and prolific translator Kawa
+                        Paltsek (ca. eighth century) together with the Indian preceptors Vidyākarasiṃha and
+                        Sarvajñādeva. This evidence allows us to date the Tibetan translation of <title xml:lang="en">The Sūtra of Jñānaka</title> to approximately the eighth century.</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-10"/>
+                    <p tid="13">This English translation is based on the Tibetan edition found in the Degé Kangyur,
+                        which was read alongside the Comparative Edition (Tib. <title xml:lang="Bo-Ltn">dpe bsdur
+                            ma</title>) and Stok Palace (Tib. <title xml:lang="Bo-Ltn">stog pho brang</title>) Kangyurs.
+                            <title xml:lang="en">The Sūtra of Jñānaka</title> has not previously been translated into
+                        any Western languages nor has it received substantial scholarly treatment.</p>
+                </div>
+            </div>
+        </front>
+        <body>
+            <div type="translation">
+                <head type="translation"> The Translation </head>
+                <head type="titleHon" tid="15">The Noble Sūtra of Jñānaka</head>
+                <head type="titleMain" tid="16">An Exemplary Tale of the Buddha</head>
+                <div type="section" xml:id="UT22084-075-002-section-1">
+                    <milestone unit="chunk" xml:id="UT22084-075-002-13"/>
+                    <p tid="21">
+                        <ref cRef="F.287.a" type="folio" xml:id="UT22084-075-002-67"/> Homage to all buddhas and
+                        bodhisattvas.</p>
+                    <lb/>
+                    <p tid="22">Thus did I hear at one time. The Blessed One was staying among the gods of the Heaven of
+                        the Thirty-Three for the benefit of his mother. He was seated in front of the Pāriyātra tree
+                        upon the Pāṇḍukambala rock. There was a god there experiencing the five
+                        ominous signs of death: his garlands had withered, his clothes had started to deteriorate, his
+                        body had started to smell, sweat dripped from his armpits, and he felt unhappy on his seat. This god foresaw his rebirth in the womb of a pig in Vaiśālī, causing him to be
+                        overcome with misery and cry out in woe. He beat his chest as he wept uncontrollably.</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-16"/>
+                    <p tid="23">Another god approached him and asked, “Deva, is it death that you fear?”</p>
+                    <!--<milestone unit="chunk" xml:id="UT22084-075-002-17"/>-->
+                    <p tid="24">“Indeed, fellow deva,” he responded, “it is death that I fear. Why? Well, fellow deva, I
+                        have eaten divine foods, imbibed divine drinks, and worn divine garments here among the gods of
+                        the Heaven of the Thirty-Three. Thus, as I behold my rebirth in the womb of a pig in Vaiśālī, I
+                        see that I will eat excrement and be killed by a blade. These are the reasons, fellow deva, that
+                        I fear death.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-18"/>
+                    <p tid="25">“Do not be afraid of death, my fellow deva! Why? Well, fellow deva, the Blessed One—the
+                        thus-gone, worthy, perfect Buddha—is residing here in the Heaven of the Thirty-Three for the
+                        benefit of his mother. He is seated in front of the Pāriyātra tree upon the Pāṇḍukambala rock. Deva, you should by all means pay homage to the Blessed One. He will
+                        come here to save you from the lower realms. Why? Fellow deva, the blessed Buddha has great
+                        compassion and never forsakes beings.” <ref cRef="F.287.b" type="folio" xml:id="UT22084-075-002-68"/>
+                    </p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-19"/>
+                    <p tid="26">The god then rose from his seat, draped his upper robe over one shoulder, and knelt on
+                        his right knee. With his palms joined, he bowed in the direction of the Blessed One and repeated
+                        this entreaty three times:</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-20"/>
+                    <p tid="27">“Homage to the blessed Thus-Gone One! Homage to the blessed Thus-Gone One! Out of love
+                        for me, may the Blessed One please come here and save me from the lower realms!”</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-21"/>
+                    <p tid="28">Aware of the sincere intent of that god, the Blessed One went to him and sat upon a seat
+                        that had been prepared. After taking his seat, the Blessed One asked that god, “Deva, is it
+                        death that you fear?”</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-22"/>
+                    <p tid="29">“Indeed, Blessed One,” the god responded, “I am afraid to die. Why? Because I foresaw my
+                        rebirth in the wretched womb of a pig in Vaiśālī. Once reborn there, I will eat excrement and be
+                        killed by a blade. That is why, Blessed One, I am afraid to die.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-23"/>
+                    <p tid="30">The Blessed One said, “Deva, do not be afraid of death! Why? Well, deva, it is not the
+                        earth and water elements that transmigrate here and there, but rather your own actions. Come here,
+                        deva. Take refuge in the Buddha. Take refuge in the Dharma and in the Saṅgha.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-24"/>
+                    <p tid="31">The god then rose from his seat and addressed the Blessed One: “Yes, Blessed One, I
+                        will. I take refuge in the Buddha! I take refuge in the Dharma and in the Saṅgha!”</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-25"/>
+                    <p tid="32">The Blessed One responded to the god with the following stanza:</p>
+                    <!--<milestone unit="chunk" xml:id="UT22084-075-002-26"/>-->
+                    <lg tid="33">
+                        <l>“Those who have taken refuge in the Buddha</l>
+                        <l>Will be spared transmigrating to the lower realms.</l>
+                        <l>As they relinquish their divine existence,</l>
+                        <l>They will take up a human existence instead.” <ref cRef="F.288.a" type="folio" xml:id="UT22084-075-002-69"/>
+                        </l>
+                    </lg>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-27"/>
+                    <p tid="34">The Blessed One then delivered a discourse on the Dharma to the god and ensured that the god retained it. Having
+                        inspired the god and filled him with delight, the Blessed One rose from his seat and
+                        departed.</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-28"/>
+                    <p tid="35">Not long thereafter, the god passed away. He was immediately reborn in the womb of a
+                        noble merchant’s wife in Vaiśālī. After nine months had come to pass, an adorable child with a
+                        charming appearance and the most exquisite complexion was born. The moment he was born he
+                        exclaimed, “Homage to the Buddha! Homage to the Dharma! Homage to the Saṅgha!”</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-29"/>
+                    <p tid="36">At that moment, his parents thought, “This child knows of the Buddha, the Dharma, and
+                        the Saṅgha. He possesses knowledge.”<note place="end" xml:id="UT22084-075-002-30"> The text here
+                            descriptively uses the child’s name, <foreign xml:lang="Sa-Ltn" type="term">jñānaka</foreign> (Tib. <foreign xml:lang="Bo-Ltn" type="term">shes dang lda
+                                pa</foreign>), which means “he who possesses knowledge.”</note>
+                    </p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-31"/>
+                    <p tid="37">Once, when this child Jñānaka was around eight years old, he and a group of Licchavi youths, who were in his company, arrived at a crossroads in a park. At that time the Blessed One was staying at a mansion
+                        in the great grove of Vaiśālī. At dawn, the Blessed One donned his lower garment, dressed in his
+                        robes, picked up his alms bowl, and went to Vaiśālī on an alms round. The child Jñānaka caught sight of the Blessed One, who was handsome, <distinct>and so forth, up until</distinct> shining.<note place="end" xml:id="UT22084-075-002-80">This refers to a stock description of the Buddha's appearance that normally reads in full (with some variations across texts): “He was handsome and inspiring, and his senses were stilled. His mind was serene, his sense faculties were restrained, his mind was temperate, and he had attained the perfection of sublime tranquility. His sense faculties were isolated and withdrawn. He was as well trained as an elephant, and as lucid, limpid, and clear as a lake. His body was adorned with the thirty-two characteristics of a great being, and he was ornamented with the eighty fine marks. He had the body of a thus-gone one, bedecked like the king of sal trees. Like the sun, he emitted a profusion of light rays everywhere. He was like a conflagration raging atop a mountain peak in the middle of a dark night, and brilliant and shining like a golden mountain.” (See <ref target="https://read.84000.co/translation/UT22084-090-002.html#UT22084-090-002-250">
+                                <title xml:lang="en">Destroyer of the Great Trichiliocosm</title>, Toh 558, 1.240</ref>.)</note> Filled with joy at seeing the Blessed
+                        One, he happily went before the Blessed One and bowed his head to his feet, circled him three
+                        times, and sat to one side. Seated to one side, the child Jñānaka spoke to the Blessed One in
+                        verse:</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-32"/>
+                    <lg tid="38">
+                        <l>“I have recollected a past life </l>
+                        <l>In which the Lord of the World </l>
+                        <l>Saved me from suffering </l>
+                        <l>And delivered me from falling to the lower realms.</l>
+                    </lg>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-33"/>
+                    <lg tid="39">
+                        <l>“Foremost of humans, would you be so kind <ref cRef="F.288.b" type="folio" xml:id="UT22084-075-002-70"/>
+                        </l>
+                        <l>As to accept this gift of alms? </l>
+                        <l>Please accept this midday meal today</l>
+                        <l>For having saved me so.</l>
+                    </lg>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-34"/>
+                    <lg tid="40">
+                        <l>“Please think kindly as I invite you </l>
+                        <l>To my parents’ home tomorrow.</l>
+                        <l>Together with all of your monks</l>
+                        <l>Please come to partake of a midday meal.”</l>
+                    </lg>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-35"/>
+                    <p tid="41">The Blessed One remained silent, signaling his acceptance of the child Jñānaka’s
+                        request. Aware that the Blessed One had accepted by not speaking, the child Jñānaka went before
+                        his parents and announced, “Dear father and mother, I offered alms to the Blessed One and have
+                        invited him tomorrow for a midday meal.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-36"/>
+                    <p tid="42">The parents of the child Jñānaka were pleased and rejoiced, full of happiness and
+                        delight. Filled with joy and elation, they arranged a spread of delicious foods and tasty
+                        delicacies that very night. They had the entire city of Vaiśālī swept clean and strung with silk
+                        tassels. They lit incense in incense burners, sprinkled fragrant water, and elegantly scattered
+                        flowers. When the night had passed and the appropriate time had come, they went to the Blessed
+                        One and said, “Honorable One, Blessed One, it is time for the midday meal. The food is ready.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-37"/>
+                    <p tid="43">At dawn, the Blessed One donned his lower garment, dressed in his robes, and picked up
+                        his alms bowl. Escorted and encircled by an assembly of monks, he went to the home of Jñānaka’s
+                        parents where they sat upon seats that had been prepared for them. Noticing that the Blessed One
+                        and the saṅgha of monks were seated, the child Jñānaka brought forth many delicious foods and
+                        tasty delicacies, offering them carefully with his own hands. Seeing that the Blessed One had
+                        finished his midday meal, he presented a set of cotton robes and a pair of sandals to each
+                        member of the saṅgha, and three new robes and a pair of new shoes to the Blessed One. <ref cRef="F.289.a" type="folio" xml:id="UT22084-075-002-71"/> He scattered gold and silver
+                        flowers that, through the power of the Buddha, immediately transformed above the Blessed One’s
+                        head into a glistening, elegant mansion with four corners and four rooms. Within this mansion,
+                        the child Jñānaka beheld the figure of the Thus-Gone One sitting cross-legged and teaching the
+                        Dharma.</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-38"/>
+                    <p tid="44">As he observed the Blessed One’s inconceivable form, miracles, and supernatural powers,
+                        the child Jñānaka was joyful, elated, and filled with happiness. He said to the Blessed One,
+                        “Blessed One, I dedicate my roots of virtue to unsurpassed and completely perfect awakening. May
+                        these roots of virtue lead me to awaken, teach the Dharma, and sustain the saṅgha just like the
+                        present Blessed One.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-39"/>
+                    <p tid="45">Aware of the intent of the child Jñānaka, the Blessed One smiled, <distinct>and so forth, up until</distinct> the light dissolved into the crown of his head.<note place="end" xml:id="UT22084-075-002-81">This refers to a stock phrase that normally reads in full (with some minor variations across texts): “The Blessed One then smiled, and as happens whenever the blessed ones smile, at that moment light of myriad colors—blue, yellow, red, white, crimson, crystalline, and silver—emerged from his mouth. The light illuminated boundless, limitless realms and reached all the way up to the world of Brahmā. It even eclipsed the magnificence of the sun and moon. Then the light rays returned, circled around the Blessed One three times, and dissolved into the crown of his head.” (See <ref target="https://read.84000.co/translation/UT22084-059-002.html#UT22084-059-002-304">
+                                <title xml:lang="en">The Questions of Brahmadatta</title>, Toh 159, 1.145</ref>.)</note> The venerable Ānanda saw this and thought to himself, “There is nothing that the Blessed One does without purpose,” <distinct>and so forth, up until</distinct> “What is the reason?”<note place="end" xml:id="UT22084-075-002-84">Again, this refers to a stock phrase in which the venerable Ānanda (or others in the Buddha’s retinue) inquire as to the reason why the Buddha smiles. Usually the question is articulated to the Buddha, rather than here where Ānanda merely wonders in his thoughts. Although there are all sorts of variant versions that differ in length and content, the following example is typical of shorter versions: “At this point, Venerable Ānanda arose from his seat and, placing his robe over one shoulder, knelt on his right knee. With palms pressed together in the direction of the Blessed One, he spoke the following words to the Blessed One: ‘Blessed One, since the thus-gone, worthy, completely awakened buddhas do not smile without a cause, without a reason, what is the cause for your smile? What is the reason?’.” (See <ref target="https://read.84000.co/translation/UT22084-043-009.html#UT22084-043-009-139">
+                                <title xml:lang="en">The Questions of the Householder Vīradatta</title>, Toh 72, 1.94</ref>.)</note>
+                    </p>
+                    <p tid="46">The Blessed One then addressed the venerable Ānanda with these verses:</p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-41"/>
+                    <lg tid="47">
+                        <l>“Ānanda, by making offerings to the Thus-Gone One like this,</l>
+                        <l>Jñānaka will not fall to lower states for nine hundred million eons.</l>
+                        <l>He will, at that point, take rebirth and appear in the world as a guide,</l>
+                        <l>As a buddha by the name of King of Foremost Knowing.</l>
+                    </lg>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-42"/>
+                    <lg tid="48">
+                        <l>“This exemplary tale of the Buddha delights the learned</l>
+                        <l>And engenders great virtue in the wise people who hear it.</l>
+                        <l>Not so trivial are the results of gifts offered with lucid faith</l>
+                        <l>To the thus-gone Buddha, who is limitless like the extent of the ocean.”</l>
+                    </lg>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-43"/>
+                    <p tid="49">After the Blessed One had spoken these words, the child Jñānaka, the monks, <ref cRef="F.289.b" type="folio" xml:id="UT22084-075-002-72"/> and the world with its gods
+                        rejoiced and praised what the Blessed One had taught. </p>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-44"/>
+                    <trailer tid="50">This completes “<title xml:lang="en">The Sūtra of Jñānaka: An Exemplary Tale of the Buddha</title>.”</trailer>
+                </div>
+                <div type="colophon" xml:id="UT22084-075-002-colophon">
+                    <head type="colophon" tid="51">Colophon</head>
+                    <milestone unit="chunk" xml:id="UT22084-075-002-45"/>
+                    <p tid="52">This was translated, edited, and finalized by the Indian preceptors Vidyākarasiṃha and
+                        Sarvajñādeva, and the chief editor-translator, the venerable monk Paltsek.</p>
+                </div>
+            </div>
+        </body>
+        <back>
+            <div type="notes">
+                <head type="notes" tid="53">Notes</head>
+            </div>
+            <div type="listBibl">
+                <head type="listBibl" tid="55">Bibliography</head>
+                <div type="section" xml:id="UT22084-075-002-listBibl-1">
+                    <bibl xml:id="UT22084-075-002-46">
+                        <title xml:lang="Bo-Ltn">’phags pa sangs rgyas kyi rtogs pa brjod
+                            pa shes ldan gyi mdo</title> (<title xml:lang="Sa-Ltn">ārya jñānaka sūtra buddha
+                            avadāna</title>). Toh 344, Degé Kangyur vol. 75 (mdo sde, aṃ), folios 287.a–289.b.</bibl>
+                    <bibl xml:id="UT22084-075-002-48">
+                        <title xml:lang="Bo-Ltn">’phags pa sangs rgyas kyi rtogs pa brjod
+                            pa shes ldan gyi mdo</title> (dpe bsdur ma) [Comparative Edition of the Kangyur], krung go’i
+                        bod rig pa zhib ’jug ste gnas kyi bka’ bstan dpe sdur khang (The Tibetan Tripitaka Collation
+                        Bureau of the China Tibetology Research Center). 108 volumes. Beijing: krung go’i bod rig pa dpe
+                        skrun khang (China Tibetology Publishing House), 2006–9, vol. 75, pp. 781–89.</bibl>
+                    <bibl xml:id="UT22084-075-002-47">
+                        <title xml:lang="Bo-Ltn">’phags pa sangs rgyas kyi rtogs pa brjod
+                            pa shes ldan gyi mdo</title>. Stog 158. Stok Palace Kangyur (<title xml:lang="Bo-Ltn">stog
+                            pho brang bris ma</title>). Leh: smanrtsis shesrig dpemzod, 1975–80, vol. 68 (mdo sde, tsa),
+                        folios 366.a–370.a.</bibl>
+                    <bibl xml:id="UT22084-075-002-74">Bodhinidhi Translation Group, trans. <title xml:lang="en">
+                            <ref target="https://read.84000.co/translation/toh345.html">The Exemplary Tale About a
+                                Sow</ref>
+                        </title> (<title xml:lang="Sa-Ltn">Sūkarikāvadāna</title>, Toh 345). 84000:
+                        Translating the Words of the Buddha, 2022.</bibl>
+                    <bibl xml:id="UT22084-075-002-49">Phangthangma (<title xml:lang="Bo-Ltn">dkar chag ’phang thang
+                            ma</title>). Beijing: mi rigs dpe skrun khang, 2003.</bibl>
+                    <bibl xml:id="UT22084-075-002-50">Herrmann-Pfandt, Adelheid. <title xml:lang="de">Die lHan kar ma:
+                            ein früher Katalog der ins Tibetische übersetzten buddhistischen Texte</title>. Vienna:
+                        Verlag der Österreichischen Akademie der Wissenschaften, 2008.</bibl>
+                </div>
+            </div>
+            <div type="glossary">
+                <list type="glossary">
+                    <item>
+                        <gloss type="term" xml:id="UT22084-075-002-82">
+                            <term type="translationMain">Honorable One</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">bhadanta</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">btsun pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">བཙུན་པ།</term>
+                            <note type="definition">
+                                <p>One of the standard epithets of the Buddha Śākyamuni, and also a term of respect used for Buddhist monks, akin to the modern address, <foreign xml:lang="Sa-Ltn">bhante</foreign>.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-075-002-76">
+                            <term type="translationMain">Thus-Gone One</term>
+                            <term type="translationAlternative">thus-gone</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">tathāgata</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">de bzhin gshegs pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">དེ་བཞིན་གཤེགས་པ།</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss xml:id="UT22084-075-002-75" type="term">
+                            <term type="translationMain">blessed one</term>
+                            <term type="translationAlternative">blessed</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified" status="verified">bhagavān</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">bcom ldan ’das</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">བཅོམ་ལྡན་འདས།</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss xml:id="UT22084-075-002-52" type="term" mode="match">
+                            <term type="translationMain">god</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified" status="verified">devaputra</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified" status="verified">deva</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">lha’i bu</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">ལྷའི་བུ།</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="2" status="verified">lha</term>
+                            <term xml:lang="bo" type="attestedSource" n="2" status="verified">ལྷ།</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss xml:id="UT22084-075-002-83" type="term" mode="match">
+                            <term type="translationMain">deva</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified" status="verified">devaputra</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified" status="verified">deva</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">lha’i bu</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">ལྷའི་བུ།</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="2" status="verified">lha</term>
+                            <term xml:lang="bo" type="attestedSource" n="2" status="verified">ལྷ།</term>
+                            <note type="definition">
+                                <p>This term, meaning “god,” was often used as an honorific term of address for divine beings and royalty. In such contexts, it has been rendered here with the Sanskrit <foreign xml:lang="Sa-Ltn">deva</foreign>.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-075-002-53">
+                            <term type="translationMain">pāriyātra tree</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified" status="verified">pāriyātra</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">yongs ’dus brtol</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">ཡོངས་འདུས་བརྟོལ།</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="2" status="verified">yongs ’du sa brtol</term>
+                            <term xml:lang="bo" type="attestedSource" n="2" status="verified">ཡོངས་འདུ་ས་བརྟོལ།</term>
+                            <note type="definition">
+                                <p>A large, majestic tree located in the Heaven of the Thirty-Three.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-075-002-54">
+                            <term type="translationMain">Pāṇḍukambala rock</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified" status="verified">pāṇḍu­kambala­śilā</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">la ba dkar po lta bu’i rdo leb</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">ལ་བ་དཀར་པོ་ལྟ་བུའི་རྡོ་ལེབ།</term>
+                        </gloss>
+                    </item>
+
+                    <item>
+                        <gloss xml:id="UT22084-075-002-56" type="person" mode="match">
+                            <term type="translationMain">King of Foremost Knowing</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified"/>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">mkhyen gtso rgyal po</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">མཁྱེན་གཙོ་རྒྱལ་པོ།</term>
+                            <note type="definition">
+                                <p>Name that the child Jñānaka will bear when he becomes a buddha in future.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-075-002-57">
+                            <term type="translationMain">Lord of the World</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified" status="verified">lokanātha</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">’jig rten mgon po</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">འཇིག་རྟེན་མགོན་པོ།</term>
+                            <note type="definition">
+                                <p>An epithet of the Buddha.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-075-002-58">
+                            <term type="translationMain">Paltsek</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified"/>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">dpal brtsegs</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">དཔལ་བརྩེགས།</term>
+                            <!--<term type="definition">Paltsek, from the village of Kawa north of Lhasa, was one of Tibet’s
+                                preeminent translators. He was active during the early ninth century, and was one of the
+                                first seven Tibetans to be ordained by Śāntarakṣita. He translated works from a wide
+                                variety of genres, including sūtra, śāstra, vinaya, and tantra, and was an author
+                                himself. Paltsek was also one of the most important editors of the early period, one of
+                                nine translators installed by King Trisong Detsen (<foreign xml:lang="Bo-Ltn">khri srong
+                                    lde btsan</foreign>; 756–800 <hi rend="small-caps">ce</hi>) to supervise the
+                                translation of the Tripiṭaka and help catalog translated works for the first two of
+                                three imperial catalogs (the <title xml:lang="Bo-Ltn">ldan kar ma</title> and <title xml:lang="Bo-Ltn">bsam yas mchims phu ma</title> catalogs).</term>-->
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-075-002-59">
+                            <term type="translationMain">Sarvajñādeva</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified" status="verified">sarvajñādeva</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">sarba dz+nyA de ba</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">སརྦ་ཛྙཱ་དེ་བ།</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="2" status="verified">kun mkhyen lha</term>
+                            <term xml:lang="bo" type="attestedSource" n="2" status="verified">ཀུན་མཁྱེན་ལྷ།</term>
+                            <!--<term type="definition">Sarvajñādeva was a Kashmiri paṇḍita among the “one hundred” paṇḍitas
+                                invited by King Trisong Detsen (r. 756–800 <hi rend="small-caps">ce</hi>) to assist with
+                                the translation of the Buddhist scriptures into Tibetan. Sarvajñādeva assisted in the
+                                translation of more than twenty-three works, including numerous sūtras and the first
+                                translations of Śāntideva’s <title xml:lang="Sa-Ltn"><ref target="https://read.84000.co/toh3871.html" rend="pending">Bodhi­caryāvatāra</ref></title> and Nāgārjuna’s <title xml:lang="Sa-Ltn"><ref target="https://read.84000.co/toh4496.html" rend="pending">Suhṛllekha</ref></title>.</term>-->
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-075-002-60">
+                            <term type="translationMain">Vidyākarasiṃha</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified" status="verified">vidyākarasiṃha</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">bid+yA ka ra sing ha</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">བིདྱཱ་ཀ་ར་སིང་ཧ།</term>
+                            <note type="definition">
+                                <p>An Indian paṇḍita active in Tibet during the early ninth
+                                century.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    
+                    <item>
+                        <gloss xml:id="UT22084-075-002-77" type="person" mode="match">
+                            <term type="translationMain">Jñānaka</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">jñānaka</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">shes ldan</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">ཤེས་ལྡན།</term>
+                            <note type="definition">
+                                <p>Name of a child born into a merchant family in Vaiśālī, whose story is told in this sūtra. In his previous life, he was a god who foresaw his own rebirth as a pig. Seeking help from the Buddha, he goes for refuge in the Three Jewels, and succeeds to be reborn as a human. According to the Buddha’s prophecy, he will become the buddha known as King of Foremost Knowing. </p>
+                            </note>
+                        </gloss>
+                    </item>
+                    
+                    <item>
+                        <gloss xml:id="UT22084-075-002-78" type="person" mode="match">
+                            <term type="translationMain">Licchavi</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">licchavi</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">li tsa+tsha b+I</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">ལི་ཙྪ་བཱི།</term>
+                            <note type="definition">
+                                <p>The name of a northern Indian and royal dynasty based in Vaiśālī, the capital of the Vṛji confederacy.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    
+                    <item>
+                        <gloss xml:id="UT22084-075-002-79" type="person" mode="match">
+                            <term type="translationMain">Ānanda</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">ānanda</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">kun dga’</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">ཀུན་དགའ།</term>
+                        </gloss>
+                    </item>
+
+                    <item>
+                        <gloss type="place" xml:id="UT22084-075-002-62">
+                            <term type="translationMain">Heaven of the Thirty-Three</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified" status="verified">trāyastriṃśa</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">sum cu rtsa gsum</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">སུམ་ཅུ་རྩ་གསུམ།</term>
+                            <note type="definition">
+                                <p>The second heaven of the desire realm, located above Mount Meru and reigned over by Śakra (also known as Indra or Kauśika). This heaven receives its name because it encompasses thirty-three distinct divine locations.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="place" xml:id="UT22084-075-002-63">
+                            <term type="translationMain">Vaiśālī</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified" status="verified">vaiśālī</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">yangs pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">ཡངས་པ།</term>
+                            <note type="definition">
+                                <p>The capital of the Licchavīs and part of the Vṛji republic, this was
+                                an important city during the Buddha’s time. The Buddha visited it many times and taught a
+                                number of sūtras there.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="place" xml:id="UT22084-075-002-64">
+                            <term type="translationMain">Rājagṛha</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified" status="verified">rājagṛha</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">rgyal po khab kyi grong mkhyer</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">རྒྱལ་པོ་ཁབ་ཀྱི་གྲོང་མཁྱེར།</term>
+                        </gloss>
+                    </item>
+                    
+                    <item>
+                        <gloss type="place" xml:id="UT22084-075-002-65">
+                            <term type="translationMain">Tuṣita</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified" status="verified">tuṣita</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">dga’ ldan</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">དགའ་ལྡན།</term>
+                            <note type="definition" rend="override">
+                                <p>The fourth level of the heavens of the realm of desire, and the last
+                                stopping place of a buddha before his descent and reincarnation on Earth. According to
+                                Buddhist cosmology, it is presently the abode of the future Buddha Maitreya.</p>
+                            </note>
+                        </gloss>
+                    </item>
+
+                </list>
+            </div>
+        </back>
+    </text>
+</TEI>

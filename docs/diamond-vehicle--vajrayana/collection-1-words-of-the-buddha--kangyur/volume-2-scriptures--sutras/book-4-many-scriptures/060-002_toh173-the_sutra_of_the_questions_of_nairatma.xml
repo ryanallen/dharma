@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/current/translation.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title type="mainTitle" xml:lang="en">Questions on Selflessness</title>
+                                <title type="mainTitle" xml:lang="Sa-Ltn">Nairātmya­paripṛcchā</title>
+                                <title type="mainTitle" xml:lang="bo">བདག་མེད་པ་དྲིས་པ།</title>
+                                <title type="mainTitle" xml:lang="Bo-Ltn">bdag med pa dris pa</title>
+                                <title type="longTitle" xml:lang="en">The Noble Mahāyāna Sūtra “Questions on Selflessness”</title>
+                                <title type="longTitle" xml:lang="Sa-Ltn">Ārya­nairātmya­paripṛcchā­nāma­mahāyāna­sūtra</title>
+                                <title type="longTitle" xml:lang="bo">འཕགས་པ་བདག་མེད་པ་དྲིས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</title>
+                                <title type="longTitle" xml:lang="Bo-Ltn">’phags pa bdag med pa dris pa zhes bya ba theg pa chen po’i mdo</title>
+                                <title type="otherTitle" xml:lang="zh">《問無我經》（大正藏：《尼乾子問無我義經》）</title>
+                                <author role="translatorMain" xml:id="UT22084-060-002-106">Translated by the Dharmasāgara Translation Group<lb/> under
+                                        the patronage and supervision of 84000: Translating the
+                                        Words of the Buddha </author>
+                                <author role="translatorEng" xml:id="UT22084-060-002-107">Rebecca Hufen</author>
+                                <editor role="externalReviewer" xml:id="UT22084-060-002-108">Karen Liljenberg</editor>
+                                <editor role="copyEditor" xml:id="UT22084-060-002-109">Konchog
+                                        Norbu</editor>
+                                <consultant role="projectManager" xml:id="UT22084-060-002-110">Rebecca Hufen</consultant>
+                                <editor role="projectEditor" xml:id="UT22084-060-002-111">David
+                                        Higgins</editor>
+                                <editor role="projectEditor" xml:id="UT22084-060-002-112">Andreas Doctor</editor>
+                                <editor role="TEImarkupEditor" xml:id="UT22084-060-002-113">Laura Goetz</editor>
+                                <consultant role="dharmaMaster" xml:id="UT22084-060-002-114">Raktrul Ngawang Kunga Rinpoche</consultant>
+                                <editor role="reviser" xml:id="UT22084-060-002-115">Arne
+                                        Schelling</editor>
+                                <editor role="reviser" xml:id="UT22084-060-002-116">Jason
+                                        Sanche</editor>
+                                <author role="translatorEng" xml:id="UT22084-060-002-117">Shanshan Jia</author>
+                                <editor role="finalReviewer" xml:id="UT22084-060-002-118">Andreas Doctor</editor>
+                                <editor role="finalReviewer" xml:id="UT22084-060-002-119">Nathaniel Rich</editor>
+                        </titleStmt>
+                        <editionStmt>
+                <edition>v 1.0.9 <date>2024</date>
+                </edition>
+            </editionStmt>
+
+                        <publicationStmt>
+                <publisher>
+                    <name>84000: Translating the Words of the Buddha</name>
+                                        is a global non-profit initiative to translate all the
+                                        Buddha’s words into modern languages, and to make them
+                                        available to everyone. </publisher>
+                <availability status="1">
+                                        <licence>
+                                                <graphic url="http://i.creativecommons.org/l/by-nc-nd/2.0/88x31.png"/>
+                                                <p>This work is provided under the protection of a
+                                                  Creative Commons CC BY-NC-ND (Attribution -
+                                                  Non-commercial - No-derivatives) 3.0 copyright. It
+                                                  may be copied or printed for fair use, but only
+                                                  with full attribution, and not for commercial
+                                                  advantage or personal compensation. For full
+                                                  details, see the Creative Commons license.</p>
+                                        </licence>
+                                </availability>
+                <idno xml:id="UT22084-060-002"/>
+                <note>An early mistake in the assigning of UT numbers within the
+                                        84000 project means that these ids diverge slightly from the
+                                        standard logic.</note>
+                <date>2021-09-27</date>
+            </publicationStmt>
+                        <sourceDesc>
+                                <bibl key="toh173" type="text">
+                                        <ref>Toh 173</ref>
+                                        <biblScope>Degé Kangyur, vol. 60 (mdo sde, ma), folios
+                                                5.b–7.b</biblScope>
+                                        <author role="translatorTib" xml:id="UT22084-060-002-162">t. kamalagupta</author>
+                                        <author role="translatorTib" xml:id="UT22084-060-002-163">rin chen bzang po</author>
+                                        <location work="UT4CZ5369" count-pages="5">
+                                                <volume number="60" start-page="10" end-page="14"/>
+                                        </location>
+                                        <idno parent-id="O1JC114941JC14668" work="http://read.84000.co/sections"/>
+                                        <idno source-id="O1JC114941JC11781" work="W22084"/>
+                                </bibl>
+                        </sourceDesc>
+                        <notesStmt/>
+                    <revisionDesc>
+                <change who="#admin" when="2019-12-20T12:56:48.575Z" type="text-version" status="v 0.0.1" xml:id="UT22084-060-002-120">
+                    <desc>Automated
+                                        version increment</desc>
+                </change>
+                <change who="#mike" when="2020-01-28T06:15:30.186Z" type="translation-status" status="2.d" xml:id="UT22084-060-002-121">
+                    <desc>2.d</desc>
+                </change>
+                <change who="#line-tofte" when="2020-03-16T14:30:26.643Z" type="translation-status" status="2.h" xml:id="UT22084-060-002-122">
+                    <desc>2.h</desc>
+                </change>
+                <change who="#line-tofte" when="2021-03-08T14:45:47.74Z" type="text-version" status="0.0.2" xml:id="UT22084-060-002-123">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-03-16T09:51:35.32Z" type="translation-status" status="2.g" xml:id="UT22084-060-002-124">
+                    <desc>2.g</desc>
+                </change>
+                <change who="#line-tofte" when="2021-03-16T09:51:35.32Z" type="text-version" status="0.0.3" xml:id="UT22084-060-002-125">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-03-16T09:52:11.33Z" type="text-version" status="0.0.4" xml:id="UT22084-060-002-126">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-03-16T10:29:59.643Z" type="text-version" status="0.0.5" xml:id="UT22084-060-002-127">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-03-16T11:06:17.116Z" type="text-version" status="0.0.6" xml:id="UT22084-060-002-128">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-03-23T07:56:21.681Z" type="translation-status" status="2.f" xml:id="UT22084-060-002-129">
+                    <desc>2.f</desc>
+                </change>
+                <change who="#line-tofte" when="2021-03-23T07:56:21.681Z" type="text-version" status="0.0.7" xml:id="UT22084-060-002-130">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-03-23T09:45:19.061Z" type="translation-status" status="2.e" xml:id="UT22084-060-002-131">
+                    <desc>2.e</desc>
+                </change>
+                <change who="#line-tofte" when="2021-03-23T09:45:19.061Z" type="text-version" status="0.0.8" xml:id="UT22084-060-002-132">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-03-25T10:35:05.355Z" type="translation-status" status="2.d" xml:id="UT22084-060-002-133">
+                    <desc>2.d</desc>
+                </change>
+                <change who="#line-tofte" when="2021-03-25T10:35:05.355Z" type="text-version" status="0.0.9" xml:id="UT22084-060-002-134">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-03-30T07:04:45.987Z" type="translation-status" status="2.b" xml:id="UT22084-060-002-135">
+                    <desc>2.b</desc>
+                </change>
+                <change who="#line-tofte" when="2021-03-30T07:04:45.987Z" type="text-version" status="0.0.10" xml:id="UT22084-060-002-136">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#mike" when="2021-04-20T05:54:43.692Z" type="text-version" status="0.0.11" xml:id="UT22084-060-002-137">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#mike" when="2021-04-20T05:55:05.338Z" type="translation-status" status="2.a" xml:id="UT22084-060-002-138">
+                    <desc>2.a</desc>
+                </change>
+                <change who="#mike" when="2021-04-20T05:55:05.338Z" type="text-version" status="0.0.12" xml:id="UT22084-060-002-139">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#mike" when="2021-04-22T11:12:34.424Z" type="translation-status" status="2" xml:id="UT22084-060-002-140">
+                    <desc>2</desc>
+                </change>
+                <change who="#mike" when="2021-04-22T11:12:34.424Z" type="text-version" status="0.0.2" xml:id="UT22084-060-002-141">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-05-14T09:09:19.428Z" type="text-version" status="0.0.3" xml:id="UT22084-060-002-142">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-05-14T09:09:57.432Z" type="text-version" status="0.0.4" xml:id="UT22084-060-002-143">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-05-14T09:10:21.251Z" type="text-version" status="0.0.5" xml:id="UT22084-060-002-144">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-05-14T09:10:54.534Z" type="text-version" status="0.0.6" xml:id="UT22084-060-002-145">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-05-14T09:14:49.514Z" type="text-version" status="0.0.7" xml:id="UT22084-060-002-146">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-05-14T09:15:09.952Z" type="text-version" status="0.0.8" xml:id="UT22084-060-002-147">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-09-03T08:35:46.222Z" type="text-version" status="0.0.9" xml:id="UT22084-060-002-148">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-09-16T08:19:56.01Z" type="text-version" status="0.0.10" xml:id="UT22084-060-002-149">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#konchog" when="2021-09-23T15:39:46.363Z" type="text-version" status="0.0.11" xml:id="UT22084-060-002-150">
+                    <desc>At
+                                        Andreas's request, proofed all sections and fixed a number
+                                        of typos silently, especially in the notes.</desc>
+                </change>
+                <change who="#mike" when="2021-09-27T08:53:30.11Z" type="text-version" status="0.0.12" xml:id="UT22084-060-002-151">
+                    <desc>updated verse 1.35</desc>
+                </change>
+                <change who="#mike" when="2021-09-27T14:47:39.369Z" type="translation-status" status="1" xml:id="UT22084-060-002-152">
+                    <desc>1</desc>
+                </change>
+                <change who="#admin" when="2021-09-27T14:47:39.369Z" type="translation-status" status="1.a" xml:id="UT22084-060-002-153">
+                    <desc>Note added retrospectively based on date of status '1'</desc>
+                </change>
+                <change who="#mike" when="2021-09-27T14:47:39.369Z" type="text-version" status="1.0.0" xml:id="UT22084-060-002-154">
+                    <desc>First published version</desc>
+                </change>
+                <change who="#mike" when="2021-09-29T08:01:34.877Z" type="text-version" status="1.0.1" xml:id="UT22084-060-002-155">
+                    <desc>Andreas's Corrections Added</desc>
+                </change>
+                <change who="#john" when="2021-09-29T10:54:23.669Z" type="text-version" status="1.0.2" xml:id="UT22084-060-002-156">
+                    <desc>One verse updated as discussed, one small change in intro.</desc>
+                </change>
+                <change who="#celso" when="2022-03-02T19:02:08.222Z" type="text-version" status="1.0.3" xml:id="UT22084-060-002-157">
+                    <desc>update cache for a note missing on distribution</desc>
+                </change>
+                <change who="#cabie-sim" when="2022-07-26T06:19:12.776Z" type="text-version" status="1.0.4" xml:id="UT22084-060-002-158">
+                    <desc>Auto (update-titles)</desc>
+                </change>
+                <change who="#celso" when="2023-01-16T16:58:52.361Z" type="text-version" status="1.0.5" xml:id="UT22084-060-002-159">
+                    <desc>Auto (script-increment-version-published)</desc>
+                </change>
+                <change who="#celso" when="2023-01-18T16:58:06.914Z" type="text-version" status="1.0.6" xml:id="UT22084-060-002-160">
+                    <desc>Auto (remove-tid-from-back-list-items)</desc>
+                </change>
+                <change who="#admin" when="2023-07-30T22:39:48.323Z" type="text-version" status="1.0.7" xml:id="UT22084-060-002-161">
+                    <desc>TEI migrated to 2.19.0</desc>
+                </change>
+                <change who="#celso" when="2023-10-13T11:48:10.305Z" type="text-version" status="1.0.8" xml:id="UT22084-060-002-164">
+                    <desc>reapplied capital letters in Wylie and covert to TibUni-glossary</desc>
+                </change>
+                <change who="#john" when="2024-09-04T13:57:49.234Z" type="text-version" status="1.0.9" xml:id="UT22084-060-002-165">
+                    <desc>Minor edits to 1.2 and glossary entry on tīrthika.</desc>
+                </change>
+            </revisionDesc>
+        </fileDesc>
+        </teiHeader>
+        <text>
+                <front>
+                        <div type="summary">
+                                <head type="summary" tid="1">Summary</head>
+                                <milestone unit="chunk" xml:id="UT22084-060-002-1"/>
+                                <p tid="2">
+                    <title xml:lang="en">Questions on Selflessness</title>
+                                        consists of a dialogue between a group of followers of the
+                                        Mahāyāna tradition and a group of tīrthikas, who pose
+                                        several questions on the doctrine of selflessness. In the
+                                        exchange that follows, the Mahāyāna proponents elucidate
+                                        this and other key Buddhist doctrines, such as the
+                                        distinction between relative and ultimate reality, the
+                                        origin of suffering, the emptiness and illusoriness of all
+                                        phenomena, and the path to awakening.</p>
+                        </div>
+                        <div type="acknowledgment">
+                                <head type="acknowledgment" tid="3">Acknowledgements</head>
+                                <milestone unit="chunk" xml:id="UT22084-060-002-2"/>
+                                <p tid="4">This text was translated, introduced, and edited by the
+                                        Dharmasāgara Translation Group: Raktrul Ngawang Kunga
+                                        Rinpoche, Rebecca Hufen, Shanshan Jia, Jason Sanche, and
+                                        Arne Schelling. Thanks to Prof. Harunaga Isaacson
+                                        (University of Hamburg) for his kind help and support.</p>
+                                <p tid="5">The translation was completed under the patronage and
+                                        supervision of 84000: Translating the Words of the
+                                        Buddha.</p>
+                        </div>
+                        <div type="introduction">
+                                <head type="introduction" tid="6">Introduction</head>
+                                <div type="section" xml:id="UT22084-060-002-introduction-1">
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-3"/>
+                                        <p tid="7">
+                        <title xml:lang="en">Questions on
+                                                  Selflessness</title> consists of a dialogue
+                                                between a group of followers of the Mahāyāna
+                                                tradition and a group of tīrthika philosophers, who
+                                                call upon the Buddhists to explain and defend their
+                                                doctrine of selflessness. In the exchange that
+                                                follows, the proponents of the Mahāyāna point out
+                                                some of the problems with categorically affirming or
+                                                denying the existence of a self, and they go on to
+                                                clarify several related Buddhist doctrines, such as
+                                                the distinction between relative and ultimate
+                                                reality, the illusory nature of perceptions, and the
+                                                emptiness of all phenomena. A passage of dialogue in
+                                                prose is followed by a set of verses that describe
+                                                the causes of suffering and the continuous
+                                                transmigration in cyclic existence, as well as the
+                                                liberation one attains by engendering the mind of
+                                                awakening and the perfection of insight. The
+                                                structure of the text deviates notably from the
+                                                standard sūtra format, in which a description of the
+                                                setting and the audience of the discourse is
+                                                presented, followed by the delivery of the discourse
+                                                itself and a conclusion extolling the benefits of
+                                                the teaching. Rather, the text has neither a
+                                                description of the setting nor the conclusion
+                                                extolling its benefits, and its content consists not
+                                                of the words of the Buddha himself but of those of
+                                                the anonymous followers of the Mahāyāna.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-4"/>
+                                        <p tid="8">A Sanskrit manuscript of this sūtra, written in
+                                                Newari script, is preserved in the National Archives
+                                                of Nepal.<note place="end" xml:id="UT22084-060-002-5"> NAK 3/693; NGMPP reel
+                                                  no. A 936-11(5).</note> It was edited, introduced,
+                                                and translated into French by Lévi (1928). Another
+                                                edition was prepared by Vaidya (1961) and recently a
+                                                revised edition was published by the
+                                                Nairātmaparipṛcchā Study Group (2019). For our
+                                                translation, we have compared the Tibetan text with
+                                                this most recent Sanskrit edition by the
+                                                Nairātmaparipṛcchā Study Group, and mention of the
+                                                Sanskrit in the notes refers to this edition. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-6"/>
+                                        <p tid="9">There are also two Chinese translations of this
+                                                sūtra (Taishō 846 and Taishō 1643), both of which
+                                                contain some notable differences from the Tibetan
+                                                and the extant Sanskrit sources. In the earliest
+                                                Chinese translation (Taishō 846, <title xml:lang="zh">外道問聖大乘法無我義經</title>, <title xml:lang="Zh-Ltn">Wai dao wen sheng dasheng fa
+                                                  wuwo yi jing</title>), which was prepared by Fa
+                                                Tian (d. 1001) in the year 986, the sūtra begins
+                                                rather differently than it does in the Tibetan. Here
+                                                the text starts with the usual opening phrase, “Thus
+                                                did I hear at one time,” and we are moreover told
+                                                that the Buddha is present in the assembly and is
+                                                the one to whom the questions are posed. The other
+                                                translation (Taishō 1643, <title xml:lang="zh">尼乾子問無我義經</title>, <title xml:lang="Zh-Ltn">Ni gan
+                                                  zi wen wuwo yi jing</title>), which was prepared
+                                                by Ri Cheng (1017–78) in the year 1063, has the same
+                                                opening content as the Tibetan and Sanskrit sources,
+                                                but instead of employing the general designation
+                                                  <foreign xml:lang="Sa-Ltn">tīrthika</foreign>, the
+                                                translation uses the more specific category of
+                                                  <foreign xml:lang="Sa-Ltn" type="term">nirgrantha­jñāti­putra</foreign> (<foreign xml:lang="zh" type="term">尼乾子</foreign>), which
+                                                usually designates the Jains. This specification
+                                                only exists in this later Chinese translation;
+                                                otherwise, this translation is quite close to the
+                                                extant Sanskrit. The translator also attributes the
+                                                text to Aśvaghoṣa and categorizes it as a treatise
+                                                  (<foreign xml:lang="Sa-Ltn" type="term">śāstra</foreign>), rather than a sūtra.<note place="end" xml:id="UT22084-060-002-7"> This
+                                                  attribution to Aśvaghoṣa, however, was called
+                                                  into question by Lévi (1928) and Bhattacharya
+                                                  (1966). In addition to comparing the Tibetan text
+                                                  with the Sanskrit, we have also made occasional
+                                                  reference to the second Chinese translation by Ri
+                                                  Cheng.</note>
+                                        </p>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-8"/>
+                                        <p tid="10">According to the colophon to the Tibetan
+                                                translation, it was prepared by the Indian scholar
+                                                Kamalagupta and the great Tibetan translator Rinchen
+                                                Sangpo. We can therefore assume that it was
+                                                undertaken in the first half of the eleventh
+                                                century, when these two scholars flourished. The
+                                                first translation of this text from the Tibetan into
+                                                a Western language was the French translation by
+                                                Feer in 1883. The translation presented here is
+                                                based on the Tibetan version in the Degé Kangyur,
+                                                the Comparative Edition (<foreign xml:lang="Bo-Ltn">dpe bsdur ma</foreign>) of the Kangyur, and the
+                                                Stok Palace manuscript. </p>
+                                </div>
+                        </div>
+                </front>
+                <body>
+                        <div type="translation">
+                                <head type="translation"> The Translation </head>
+                                <head type="titleHon" tid="12">The Noble Mahāyāna Sūtra</head>
+                                <head type="titleMain" tid="13">Questions on Selflessness</head>
+                                <div type="section" xml:id="UT22084-060-002-section-1">
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-9"/>
+                                        <p tid="14">
+                        <ref cRef="F.5.b" type="folio" xml:id="UT22084-060-002-10"/> Homage to all
+                                                buddhas and bodhisattvas. </p>
+                                        <lb/>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-11"/>
+                                        <p tid="15">Now, the tīrthikas—those who hold views based on
+                                                objectification and who engage in concepts and analysis—went
+                                                among the followers of the Mahāyāna. Respectfully,
+                                                with joined palms, they asked these questions on
+                                                selflessness: “Sons of noble family, the Omniscient
+                                                One taught that there is no self in the body. If
+                                                there truly<note place="end" xml:id="UT22084-060-002-12">The Skt. here reads
+                                                  “If the body is without self, there is no supreme
+                                                  self” (<foreign xml:lang="Sa-Ltn" type="quote">yadi śarīraṃ nairātmakaṃ paramātmā na
+                                                  vidyate</foreign>).</note> is no self in the body,
+                                                then how do playfulness, laughter, crying,
+                                                enjoyment, anger, pride, jealousy, calumny, and so
+                                                forth come about? Is there truly a self in the body
+                                                or not? It would be proper for you to dispel our
+                                                doubts.” </p>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-13"/>
+                                        <p tid="16">The followers of the Mahāyāna replied, “Friends,
+                                                it should not be said that there truly is or is not
+                                                a self in the body, because to say in this case that
+                                                there truly is or is not a self is mistaken speech.
+                                                Now, if there were a self, then why is it not
+                                                perceptible at all, even after searching through the
+                                                hair,
+                                                nails,<!--teeth,<note place="end" xml:id="UT22084-060-002-14"> “Teeth” (<foreign xml:lang="Sa-Ltn" type="term">danta</foreign>) is in the Skt. text, but not in the
+                                                        Tib.</note>-->
+                                                skin, head, flesh, bones,
+                                                marrow,<!--<note place="end" xml:id="UT22084-060-002-15">
+                                                        “Marrow” (Tib. <foreign xml:lang="Bo-Ltn" type="term">rkang</foreign>) is in the Tib., but not
+                                                        in the Skt.</note>-->
+                                                fat, ligaments, liver, intestines, throat, hands,
+                                                feet, limbs, and other minor parts, both inside and
+                                                outside the body?”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-16"/>
+                                        <p tid="17">The tīrthikas said, “The self is only visible to
+                                                those who have the divine eye. How could it be
+                                                visible to us who only have eyes of flesh?”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-17"/>
+                                        <p tid="18">The followers of the Mahāyāna replied, “It is
+                                                not seen even by those with the divine eye. For how
+                                                can something that has no color, form, or shape be
+                                                  seen?”<note place="end" xml:id="UT22084-060-002-18"> The Skt. reads
+                                                  “compounded nature” (<foreign xml:lang="Sa-Ltn" type="term">saṃskāra</foreign>). </note>
+                    </p>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-19"/>
+                                        <p tid="19">The tīrthikas asked, <ref cRef="F.6.a" type="folio" xml:id="UT22084-060-002-20"/> “Then
+                                                is it nonexistent?” </p>
+                                        <p tid="20">The followers of the Mahāyāna said, “To say that
+                                                it is nonexistent<note place="end" xml:id="UT22084-060-002-21"> The phrase “or to say
+                                                  that it is existent” is absent in the Skt., which
+                                                  instead reads “friends” (<foreign type="term" xml:lang="Sa-Ltn">mārṣā</foreign>). Taishō 1643
+                                                  lacks this entire sentence.</note> or to say that
+                                                it is existent is mistaken speech. If it is
+                                                nonexistent, then why do playfulness, laughter,
+                                                crying, enjoyment, anger, pride, jealousy, calumny,
+                                                and so forth arise so clearly? Therefore, it is not
+                                                correct to say that it is nonexistent. One should
+                                                not say that it is existent or nonexistent. Since
+                                                this would be a fault, one should not say that it
+                                                exists or that it does not exist.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-22"/>
+                                        <p tid="21">The tīrthikas asked, “Then what is apprehended
+                                                in this case?” </p>
+                                        <p tid="22">The followers of the Mahāyāna said, “Nothing at
+                                                all is apprehended.” </p>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-23"/>
+                                        <p tid="23">The tīrthikas asked, “Is it as empty as the
+                                                sky?”</p>
+                                        <p tid="24">The followers of the Mahāyāna said, “Friends, it
+                                                is exactly like that! It is as empty as the
+                                                sky.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-24"/>
+                                        <p tid="25">The tīrthikas asked, “If that is so, then how
+                                                should one view playfulness, laughter, crying,
+                                                enjoyment, anger, pride, jealousy, calumny, and so
+                                                forth?” </p>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-25"/>
+                                        <p tid="26">The followers of the Mahāyāna said, “They should
+                                                be regarded as like an illusion, a dream, and a
+                                                magical deception.” </p>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-26"/>
+                                        <p tid="27">The tīrthikas asked, “How are they like an
+                                                illusion, a dream, and a magical deception?” </p>
+                                        <p tid="28">The followers of the Mahāyāna said, “An illusion
+                                                is a mere analogy. A dream is a mere appearance that
+                                                is not graspable, empty by nature, and nonexistent
+                                                in essence. A magical deception is intentionally
+                                                fabricated. This is the way things are, friends. You
+                                                should regard all these things as being like an
+                                                illusion, a dream, and a magical deception. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-27"/>
+                                        <p tid="29">“Moreover, the distinction between the relative
+                                                and the ultimate should be pointed out. In this
+                                                regard, the relative consists in the conception
+                                                ‘this is self, that is other.’ To conceptualize a
+                                                soul, a person, <ref cRef="F.6.b" type="folio" xml:id="UT22084-060-002-28"/> an individual, an
+                                                agent, an observer, wealth, children, wives,
+                                                friends, relatives, and so forth is called
+                                                  <distinct>the relative</distinct>. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-29"/>
+                                        <p tid="30">“Where there is no self, no other, no soul, no
+                                                person, no individual, no agent, no observer, no
+                                                wealth, no children, no wives, no friends, no
+                                                relatives, and so forth, this is called
+                                                  <distinct>the ultimate</distinct>.<note place="end" xml:id="UT22084-060-002-30"> Instead
+                                                  of “this is called the ultimate,” the Skt. reads
+                                                  “this is the middle way of all phenomena”
+                                                  (<foreign xml:lang="Sa-Ltn" type="quote">sā
+                                                  madhyamā pratipattir dharmāṇām</foreign>).
+                                                  <!-- which could, however, also refer to the sentence below: “This is the middle way teaching to strive
+                                                        for in practice.” It may be that our Sanskrit edition is incomplete here.-->
+                        </note>
+                                                The relative consists in habitually labeling all
+                                                things, in the results of virtuous and nonvirtuous
+                                                deeds, and in birth and cessation. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-31"/>
+                                        <p tid="31">“The very essence of suchness, where there are
+                                                no virtuous results, no nonvirtuous results, no
+                                                birth, and no cessation, is beyond both pollution
+                                                and purification.<note place="end" xml:id="UT22084-060-002-32">The passage “The
+                                                  relative consists in … and purification” is
+                                                  missing in the Skt.</note> This is the middle way
+                                                teaching to strive for in practice. In this regard,
+                                                it is said: </p>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-33"/>
+                                        <lg tid="32">
+                                                <l>“Relative and ultimate</l>
+                                                <l>Are explained as two categories:</l>
+                                                <l>The relative comprises worldly phenomena; </l>
+                                                <l>The ultimate is beyond the worldly. </l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-34"/>
+                                        <lg tid="33">
+                                                <l>“Engaging with relative phenomena,</l>
+                                                <l>Sentient beings are overpowered by emotional
+                                                  defilements. </l>
+                                                <l>Not knowing the ultimate at all, </l>
+                                                <l>They wander for a long time in saṃsāra.</l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-35"/>
+                                        <lg tid="34">
+                                                <l>“The unwise form the concepts</l>
+                                                <l>Of relative worldly phenomena.</l>
+                                                <l>Due to such
+                                                  conceptualization,<!--<note place="end" xml:id="UT22084-060-002-36"> We follow the Skt.,
+                                                                which reads <foreign xml:lang="Sa-Ltn" type="quote">abhūta­pariklpanāt</foreign>. The
+                                                                Tib. has only <foreign xml:lang="Bo-Ltn" type="quote">kun tu rtog pa de yis</foreign>
+                                                                (omitting <foreign xml:lang="Bo-Ltn" type="quote">yang dag ma yin</foreign> (<foreign xml:lang="Sa-Ltn" type="term">abhūta</foreign>-)).</note>-->
+                        </l>
+                                                <l>They experience suffering. </l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-37"/>
+                                        <lg tid="35">
+                                                <l>“Ordinary individuals, due to their
+                                                  immaturity,</l>
+                                                <l>Do not know the path of liberation.<note place="end" xml:id="UT22084-060-002-38"> The Skt.
+                                                  reads “Ordinary immature people, being blind, /
+                                                  Do not see the path to liberation” (<foreign type="quote" xml:lang="Sa-Ltn">muktimārgaṃ na
+                                                  paśyanti andhā bālāḥ
+                                                  pṛthagjanāḥ</foreign>).</note>
+                        </l>
+                                                <l>They experience sundry forms</l>
+                                                <l>Of unending suffering.<note place="end" xml:id="UT22084-060-002-39"> The Skt. reads “They
+                                                  are born and perish unceasingly in the five
+                                                  realms” (<foreign xml:lang="Sa-Ltn" type="quote">utpadyante nirudhyante ajasraṃ
+                                                  gatipañcasu</foreign>).</note>
+                        </l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-40"/>
+                                        <lg tid="36">
+                                                <l>“Oblivious to the ultimate,</l>
+                                                <l>Where worldly existence ceases,</l>
+                                                <l>They are born and cease.</l>
+                                                <l>Although birthless, they come and go.</l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-41"/>
+                                        <lg tid="37">
+                                                <l>“Fools who dwell on worldly phenomena</l>
+                                                <l>Will rove around like a wheel.</l>
+                                                <l>In saṃsāra, the place of suffering,</l>
+                                                <l>They will revolve again and again.<note place="end" xml:id="UT22084-060-002-42">
+                                                  <p>In the extant Sanskrit, the preceding
+                                                  two verses appear to have become conflated into a
+                                                  single verse of six lines:</p>
+                                                  <lg>
+                                                  <l>“Fools involved in worldly phenomena</l>
+                                                  <l>Wander round and round like a wheel.</l>
+                                                  <l>They do not know the ultimate,</l>
+                                                  <l>Where saṃsāra ceases.</l>
+                                                  <l>Trapped in the net of saṃsāra,</l>
+                                                  <l>They go round again and again.”</l>
+                                                  </lg>
+                                                  <p>(<foreign type="quote" xml:lang="Sa-Ltn">bhramanti cakravan mūḍhā
+                                                  lokadharmasamāvṛtāḥ | paramārthaṃ na jānanti bhavo
+                                                  yatra nirudhyate | veṣṭitā bhavajālena saṃsaranti
+                                                  punaḥ punaḥ</foreign>.)</p>
+                                                  </note>
+                                                </l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-43"/>
+                                        <lg tid="38">
+                                                <l>“Just as the sun and the moon </l>
+                                                <l>Continue to come and go, </l>
+                                                <l>Likewise, these beings, transmigrating in the
+                                                  world,</l>
+                                                <l>Come and go, again and again.</l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-44"/>
+                                        <lg tid="39">
+                                                <l>“The whole of saṃsāra<note place="end" xml:id="UT22084-060-002-45"> The Skt. reads “all
+                                                  compounded things” (<foreign xml:lang="Sa-Ltn" type="quote">sarvasaṃskārā</foreign>).</note> is
+                                                  impermanent and unstable, <ref cRef="F.7.a" type="folio" xml:id="UT22084-060-002-46"/>
+                        </l>
+                                                <l>Disintegrating at every moment.</l>
+                                                <l>That is why, by knowing the ultimate,</l>
+                                                <l>One abandons the state of relative reality.</l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-47"/>
+                                        <lg tid="40">
+                                                <l>“Devas from the higher realms,</l>
+                                                <l>As well as gandharvas, apsarases, and
+                                                  humans,<note place="end" xml:id="UT22084-060-002-48"> The Tib. reads “devas
+                                                  and humans” (<foreign xml:lang="Bo-Ltn">lha
+                                                  mi</foreign>). Since devas are already mentioned
+                                                  in the first line of this verse, we opted for the
+                                                  Skt. reading “apsaras.” Taishō 1643 has only
+                                                  “gandharva” (<foreign xml:lang="zh">乾闥婆</foreign>).</note>
+                        </l>
+                                                <l>Are all subject to transmigration—</l>
+                                                <l>All this is the result of the relative.</l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-49"/>
+                                        <lg tid="41">
+                                                <l>“Siddhas, vidyādharas, and yakṣas, </l>
+                                                <l>Gandharvas<note place="end" xml:id="UT22084-060-002-50">The Skt. reads
+                                                  “kinnaras” (<foreign xml:lang="Sa-Ltn" type="quote">
+                                    <term rend="ignore">kinnara</term>
+                                </foreign>). </note> and
+                                                  mahoragas,</l>
+                                                <l>Go again and again to hell— </l>
+                                                <l>All this is the result of the relative.</l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-51"/>
+                                        <lg tid="42">
+                                                <l>“Those with great perseverance who come to
+                                                  abide</l>
+                                                <l>In the abode of the devas due to good
+                                                  qualities</l>
+                                                <l>Must again pass away and fall from the higher
+                                                  realms—</l>
+                                                <l>All this is the result of the relative.<note place="end" xml:id="UT22084-060-002-52"> This
+                                                  verse is missing in the Skt. </note>
+                        </l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-53"/>
+                                        <lg tid="43">
+                                                <l>“Whoever attains the supreme state </l>
+                                                <l>Of Śakra or of a universal monarch </l>
+                                                <l>Will once again enter the birthplace of
+                                                  animals—</l>
+                                                <l>All this is the result of the relative.</l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-54"/>
+                                        <lg tid="44">
+                                                <l>“Abandoning the great bliss<note place="end" xml:id="UT22084-060-002-55"> According to the Skt.
+                                                  <foreign xml:lang="Sa-Ltn" type="term">mahāsukha</foreign>. The Tib. reads “pleasant
+                                                  truth” (<foreign xml:lang="Bo-Ltn" type="quote">bden pa bzang po</foreign>).
+                                                  <!--The Tib. <foreign xml:lang="Bo-Ltn" type="term">bden pa</foreign>
+                                                                (“reality/truth”) could be a corruption of <foreign xml:lang="Bo-Ltn" type="term">bde
+                                                                        ba</foreign> (<foreign xml:lang="Sa-Ltn" type="term">sukha</foreign>,
+                                                                “bliss”).-->
+                            </note>
+                        </l>
+                                                <l>Of the devas of the higher realms,</l>
+                                                <l>A yogin should always meditate</l>
+                                                <l>On the mind of awakening, which is
+                                                  luminosity.</l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-56"/>
+                                        <lg tid="45">
+                                                <l>“Essenceless, unapprehendable,</l>
+                                                <l>Entirely empty, groundless,</l>
+                                                <l>And beyond all conceptual elaboration—</l>
+                                                <l>Such is the definition of the mind of
+                                                  awakening.</l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-57"/>
+                                        <lg tid="46">
+                                                <l>“Neither hard nor soft, </l>
+                                                <l>Neither warm nor cold, </l>
+                                                <l>Neither tangible nor graspable— </l>
+                                                <l>Such is the definition of the mind of
+                                                  awakening.</l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-58"/>
+                                        <lg tid="47">
+                                                <l>“Neither long nor short, </l>
+                                                <l>Neither round nor triangular, </l>
+                                                <l>Neither thin nor thick—</l>
+                                                <l>Such is the definition of the mind of
+                                                  awakening.<note place="end" xml:id="UT22084-060-002-59">
+                                                  <p>The Skt. has two more stanzas
+                                                  here:</p>
+                                                    <lg>
+                                                  <l>“Neither white nor red,</l>
+                                                  <l>Neither dark blue nor yellow,</l>
+                                                  <l>Without color or form—</l>
+                                                  <l>Such is the definition of the mind of
+                                                  awakening.</l>
+                                                  </lg>
+                                                    <lg>
+                                                  <l>“Without transformation or manifestation,</l>
+                                                  <l>Without antagonism or bondage,</l>
+                                                  <l>Without form, like the sky—</l>
+                                                  <l>Such is the definition of the mind of
+                                                  awakening.”</l>
+                                                  </lg>
+                                                  <p>(<foreign xml:lang="Sa-Ltn" type="quote">na śvetaṃ nāpi raktaṃ ca na kṛṣṇaṃ na
+                                                  ca pītakam | avarṇaṃ ca nirākāraṃ bodhicittasya
+                                                  lakṣaṇam | nirvikāraṃ nirābhāsaṃ nirūhaṃ
+                                                  nirvibandhakam | arūpaṃ vyomasaṃkāśaṃ
+                                                  bodhicittasya lakṣaṇam</foreign>.)</p>
+                            </note>
+                                                </l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-60"/>
+                                        <lg tid="48">
+                                                <l>“Beyond meditation, </l>
+                                                <l>Out of range for tīrthikas,</l>
+                                                <l>And having the perfection of insight as its
+                                                  practice<note place="end" xml:id="UT22084-060-002-61"> The Skt. reads “form”
+                                                  (<foreign xml:lang="Sa-Ltn">rūpam</foreign>).</note>—</l>
+                                                <l>Such is the definition of the mind of
+                                                  awakening.</l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-62"/>
+                                        <lg tid="49">
+                                                <l>“Beyond analogy, it is nothing to meditate
+                                                  on.</l>
+                                                <l>The supreme unseen abode,</l>
+                                                <l>Completely pure by nature—</l>
+                                                <l>Such is the definition of the mind of awakening.
+                                                </l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-63"/>
+                                        <lg tid="50">
+                                                <l>“All things are like foam,</l>
+                                                <l>Essenceless like water bubbles, </l>
+                                                <l>Neither permanent nor having self.</l>
+                                                <l>They are similar to magical illusions and
+                                                  mirages.</l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-64"/>
+                                        <lg tid="51">
+                                                <l>“Like a vase that is made from a lump of clay,<note place="end" xml:id="UT22084-060-002-105">We are translating “vase” based on the Skt. (<foreign type="term" xml:lang="Sa-Ltn">ghaṭī</foreign>). The Tibetan translation reads “Assembled from a lump of clay,” (<foreign xml:lang="Bo-Ltn">gong bu bzhin du bsdus gyur pa</foreign>).</note>
+                        </l>
+                                                <l>Beings are filled with conceptual elaborations‍—</l>
+                                                <l>Desire, anger, and so forth‍—</l>
+                                                <l>They are utterly illusion-like.</l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-65"/>
+                                        <lg tid="52">
+                                                <l>“Just as in the morning where there was a dew drop </l>
+                                                <l>A moment later there is nothing to be seen, <ref cRef="F.7.b" type="folio" xml:id="UT22084-060-002-66"/>
+                        </l>
+                                                <l>So, too, when one sees the perfection of insight</l>
+                                                <l>The intellect gives way to the unconditioned.<note place="end" xml:id="UT22084-060-002-67">
+                                                  <p>Translation of this verse is
+                                                  tentative. The Sanskrit and the two Chinese
+                                                  translations all differ slightly.</p>
+                                                  <p>The Skt. reads:</p>
+                                                  <lg>
+                                                  <l>“Just as a lightning in the midst of
+                                                  clouds,</l>
+                                                  <l>Is no longer seen after a moment,</l>
+                                                  <l>With the view of transcendent insight,</l>
+                                                  <l>The supreme state should be cultivated.”</l>
+                                                  </lg>
+                                                  <p>(<foreign xml:lang="Sa-Ltn" type="quote">abhrāntare yathā vidyut kṣaṇād api na dṛśyate |
+                                                  prajñā­pāramitādṛṣṭyā bhāvayet paramaṃ
+                                                  padam ||</foreign>.)</p>
+                                                        <lb/>
+                                                  <p>Taishō 1643 reads:</p>
+                                                  <lg>
+                                                  <l>“Just as a moon in the midst of clouds</l>
+                                                  <l>Is no longer seen after a moment,</l>
+                                                  <l>Using profound insight,</l>
+                                                  <l>One realizes that the conditioned is like an
+                                                  illusion.”</l>
+                                                  </lg>
+                                                  <p>(<foreign xml:lang="zh" type="quote">如月處雲中 剎那而不現 以甚深般若 達有為如幻</foreign>.)</p>
+                                                  <lb/>
+                                                        <p>Taishō 846 reads:</p>
+                                                  <p>“Just as lightning is no longer seen after a
+                                                  moment, observe that the perfection of insight and
+                                                  virtuous actions are also thus.”</p>
+                                                  <p>(<foreign xml:lang="zh" type="quote">如電之住剎那不見。觀彼般若波羅蜜多。及作諸善。亦復如是</foreign>.)</p>
+                            </note>
+                        </l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-68"/>
+                                        <lg tid="53">
+                                                <l>“Continuous laughter and play,</l>
+                                                <l>Talking, singing, music,</l>
+                                                <l>The enjoyment of material things, and so
+                                                  forth</l>
+                                                <l>Are all similar to dreams. </l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-69"/>
+                                        <lg tid="54">
+                                                <l>“Things constructed by beings</l>
+                                                <l>Are all similar to dreams.</l>
+                                                <l>Dreams are imaginings of the mind. </l>
+                                                <l>Mind itself is like the sky. </l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-70"/>
+                                        <lg tid="55">
+                                                <l>“One who constantly meditates<note place="end" xml:id="UT22084-060-002-103">In the Tib. this line
+                                                  seems to have been rendered twice, in two slightly
+                                                  different ways. To leave both in place would make
+                                                  for an irregular verse of five lines, whereas the
+                                                  Skt. verse only has four lines. We have therefore
+                                                  followed the Skt. here.</note>
+                        </l>
+                                                <l>On this way of the perfection of insight</l>
+                                                <l>Becomes free of all entities</l>
+                                                <l>And attains the supreme state.<note place="end" xml:id="UT22084-060-002-104">The Sanskrit reads
+                                                  “Is liberated from all wrongdoing” (<foreign xml:lang="Sa-Ltn" type="quote">sarvapāpanirmuktaḥ</foreign>).</note>
+                        </l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-71"/>
+                                        <lg tid="56">
+                                                <l>“Those who uphold, with meditation,</l>
+                                                <l>The highest awakening</l>
+                                                <l>Cultivated by all the buddhas</l>
+                                                <l>Will gain the fruit of the Mahāyāna.”<note place="end" xml:id="UT22084-060-002-72">
+                                                  <p>The Skt. reads “nirvāṇa” instead of
+                                                  “Mahāyāna.” After this verse, the Sanskrit adds
+                                                  another verse and a concluding sentence:</p>
+                                                  <lg>
+                                                  <l>“As many faults as relative reality has,</l>
+                                                  <l>Just as many virtues does nirvāṇa have.</l>
+                                                  <l>Nirvāṇa is nonarising;</l>
+                                                  <l>It is unstained by any faults.</l>
+                                                  </lg>
+                                                  <p>“Then the tīrthikas, being satisfied,
+                                                  became free from conceptualization, and having
+                                                  concentrated on the practice, they acquired the
+                                                  wisdom of the Mahāyāna.”</p>
+                                                  <p>(<foreign xml:lang="Sa-Ltn" type="quote">yāvantaḥ saṃvṛter doṣās tāvanto
+                                                  nirvṛter guṇāḥ | nirvṛtiḥ syād anutpattiḥ
+                                                  sarvadoṣair na lipyate || atha te tīrthikāḥ tuṣṭā
+                                                  vikalpa­rahitāḥ | tadā bhāvanāṃ samādhāya
+                                                  mahāyāna­jñānalābhino 'bhūvann iti ||
+                                                  mahāyāna­nirdeśe nairātma­paripṛcchā
+                                                  samāptā ||</foreign>.)</p>
+                            </note>
+                        </l>
+                                        </lg>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-73"/>
+                                        <trailer tid="57">Here ends the noble Mahāyāna sūtra
+                                                “Questions on Selflessness.”</trailer>
+                                </div>
+                                <div type="colophon" xml:id="UT22084-060-002-colophon">
+                                        <head tid="58" type="colophon">Colophon</head>
+                                        <milestone unit="chunk" xml:id="UT22084-060-002-74"/>
+                                        <p tid="59">Translated, edited, and finalized by the Indian
+                                                preceptor Kamalagupta and the great Tibetan
+                                                editor-translator Bhikṣu Rinchen Sangpo.</p>
+                                </div>
+                        </div>
+                </body>
+                <back>
+                        <div type="notes">
+                                <head type="notes" tid="60">Notes</head>
+                        </div>
+                        <div type="listBibl">
+                                <head type="listBibl" tid="61">Bibliography</head>
+                                <div type="section" xml:id="UT22084-060-002-listBibl-1">
+                                        <head type="section" tid="62">Tibetan Sources</head>
+                                        <bibl xml:id="UT22084-060-002-75">
+                        <title xml:lang="Bo-Ltn">bdag med pa dris pa </title>(<title xml:lang="Sa-Ltn">Nairātmyaparipṛcchā</title>).
+                                                Toh 173, Degé Kangyur vol. 60 (mdo sde, ma), folios
+                                                5.b–7.b. </bibl>
+                                        <bibl xml:id="UT22084-060-002-76">
+                        <title xml:lang="Bo-Ltn">bdag med pa dris pa</title>. bka’ ’gyur (dpe
+                                                bsdur ma) [Comparative Edition of the Kangyur],
+                                                krung go’i bod rig pa zhib ’jug ste gnas kyi bka’
+                                                bstan dpe sdur khang (The Tibetan Tripitaka
+                                                Collation Bureau of the China Tibetology Research
+                                                Center). 108 volumes. Beijing: krung go’i bod rig pa
+                                                dpe skrun khang (China Tibetology Publishing House),
+                                                2006–9, vol. 60, pp. 14–19.</bibl>
+                                        <bibl xml:id="UT22084-060-002-77">
+                        <title xml:lang="Bo-Ltn">bdag med pa dris pa</title>. Stok Palace Kangyur
+                                                vol. 72 (mdo sde, zha), folios 322.b–326.a.</bibl>
+                                        <bibl xml:id="UT22084-060-002-78">Pekar Sangpo (pad dkar
+                                                bzang po). <title xml:lang="Bo-Ltn">mdo sde spyi’i
+                                                  rnam bzhag</title> [short title]. <title xml:lang="Bo-Ltn">bstan pa spyi’i rgyas byed las
+                                                  mdo sde spyi’i rnam bzhag bka’ bsdu ba bzhi pa
+                                                  zhes bya ba’i bstan bcos</title>. Beijing: mi rigs
+                                                dpe skrun khang, 2006. <ref target="https://www.tbrc.org/#!rid=W1PD76588">BDRC
+                                                  W1PD76588</ref>.</bibl>
+                                </div>
+                                <div type="section" xml:id="UT22084-060-002-listBibl-2">
+                                        <head type="section" tid="63">Sanskrit and Secondary Sources </head>
+                                        <bibl xml:id="UT22084-060-002-79">Bhattacharya, Biswanath.
+                                                “A Critical Appraisal of the Nairātmyaparipṛcchā
+                                                Ascribed to Aśvaghoṣa.” <title xml:lang="de">Wiener
+                                                  Zeitschrift für die Kunde Süd- und Ostasiens und
+                                                  Archiv für indische Philosophie</title> 10 (1966):
+                                                220–23.</bibl>
+                                        <bibl xml:id="UT22084-060-002-80">Feer, Léon, trans. <title xml:lang="da">Fragments extraits du
+                                                  Kandjour</title>. Annales du Musée Guimet 5.
+                                                Paris: Ernest Leroux, 1883. </bibl>
+                                        <bibl xml:id="UT22084-060-002-81">Lévi, Silvain. “Encore
+                                                Aśvaghoṣa.” <title xml:lang="fr">Journal
+                                                  Asiatique</title> 213 (1928): 193‒216.</bibl>
+                                        <bibl xml:id="UT22084-060-002-82">
+                        <ref target="http://catalogue.ngmcp.uni-hamburg.de/wiki/Main_Page">NGMPP</ref> (Nepal-German Manuscript Preservation
+                                                Project, now NGMCP, Nepalese-German Manuscript
+                                                Cataloguing Project). Accessed September 6,
+                                                2015.</bibl>
+                                        <bibl xml:id="UT22084-060-002-102">Nairātmaparipṛcchā Study
+                                                Group. “Nairātmaparipṛcchā: Re-editing Sanskrit text
+                                                collated with Tibetan and Chinese translations.”
+                                                  <title xml:lang="en">Journal of Indian and Tibetan
+                                                  Studies</title> 22 (2019): 111‒52.</bibl>
+                                        <bibl xml:id="UT22084-060-002-83">Vaidya, P. L. <title xml:lang="en">Mahāyāna-sūtra-saṁgraha: Part
+                                                  I</title>. Buddhist Sanskrit Texts 17. Darbhanga:
+                                                Mithila Institute, 1961. </bibl>
+                                </div>
+                                <div type="section" xml:id="UT22084-060-002-listBibl-3">
+                                        <head type="section" tid="64">Chinese Sources</head>
+                                        <bibl xml:id="UT22084-060-002-84">Fa Tian (<foreign xml:lang="zh">法天</foreign>), trans. <title xml:lang="Zh-Ltn">Wai dao wen sheng dasheng fa
+                                                  wuwo yi jing</title> (<title xml:lang="zh">外道問聖大乘無我義經</title>). <ptr target="https://cbetaonline.dila.edu.tw/en/T0846_001">Taishō 846</ptr>, vol. 17, pp.
+                                                934.a–935.a.</bibl>
+                                        <bibl xml:id="UT22084-060-002-85">Ri Cheng (<foreign xml:lang="zh">日稱</foreign>), trans. <title xml:lang="Zh-Ltn">Ni gan zi wen wuwo yi
+                                                  jing</title> (<title xml:lang="zh">尼乾子問無我義經</title>). <ptr target="https://cbetaonline.dila.edu.tw/en/T1643_001">Taishō 1643</ptr>, vol. 32, pp.
+                                                172.a–173.a.</bibl>
+                                </div>
+                        </div>
+                        <div type="glossary">
+                                <list type="glossary">
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-060-002-86">
+                            <term type="translationMain">tīrthika</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">tīrthika</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">mu stegs pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">མུ་སྟེགས་པ།</term>
+                            <note type="definition">
+                                <p>A follower of a
+                                                  non-Buddhist religious system or philosophy. It is
+                                                  of interest that in the first sentence of this text, “tīrthikas”
+                                                  are glossed as “those who hold views based on
+                                                  objectification and who engage in concepts and analysis.”
+                                                  </p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-060-002-87">
+                            <term type="translationMain">perfection of insight</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">prajñā­pāramitā</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">shes rab pha rol phyin</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ཤེས་རབ་ཕ་རོལ་ཕྱིན།</term>
+                            <note type="definition">
+                                <p>The sixth of the six
+                                                  perfections, it refers to the profound
+                                                  understanding of the emptiness of all phenomena,
+                                                  the realization of ultimate reality.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-060-002-88">
+                            <term type="translationMain">yakṣa</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">yakṣa</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">gnod sbyin</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">གནོད་སྦྱིན།</term>
+                            <note type="definition">
+                                <p>A class of semidivine
+                                                  beings who haunt or protect forests, rivers, and
+                                                  other natural spaces, or serve as guardians to
+                                                  villages and towns. They are traditionally
+                                                  propitiated for health, wealth, protection, and
+                                                  other boons.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-060-002-89">
+                            <term type="translationMain">vidyādhara</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">vidyādhara</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">rig ’dzin</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">རིག་འཛིན།</term>
+                            <note type="definition">
+                                <p>A class of semidivine
+                                                  beings who are famous for wielding (<foreign xml:lang="Sa-Ltn" type="term">dhara</foreign>)
+                                                  spells (<foreign xml:lang="Sa-Ltn" type="term">vidyā</foreign>). Loosely understood as
+                                                  “sorcerers,” these magical beings are frequently
+                                                  petitioned through dhāraṇī and Kriyātantra ritual
+                                                  to grant magical powers to the supplicant. The
+                                                  later Buddhist tradition, playing on the dual
+                                                  valences of <foreign xml:lang="Sa-Ltn" type="term">vidyā</foreign> as “spell” and “knowledge,” began
+                                                  to apply this term to realized figures in the
+                                                  Buddhist pantheon.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-060-002-90">
+                            <term type="translationMain">siddha</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">siddha</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">grub thob</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">གྲུབ་ཐོབ།</term>
+                            <note type="definition">
+                                <p>An accomplished being; a
+                                                  class of semidivine beings.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss xml:id="UT22084-060-002-91" type="term" mode="match">
+                            <term type="translationMain">mahoraga</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">mahoraga</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">lto ’phyed</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ལྟོ་འཕྱེད།</term>
+                            <note type="definition" rend="override">
+                                <p>Literally “large serpent.” A semidivine being that takes the form of a large serpent, sometimes with a human torso and head. They are a class of subterranean geomantic spirits whose movement through the seasons and months of the year is deemed significant for construction projects.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-060-002-92">
+                            <term type="translationMain">gandharva</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">gandharva</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">dri za</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">དྲི་ཟ།</term>
+                            <note type="definition">
+                                <p>In Indian religious
+                                                  mythology, a class of nonhuman beings who often
+                                                  appear as semidivine celestial musicians. The same
+                                                  term is used in certain Buddhist texts in a quite
+                                                  different sense: to denote a disembodied sentient
+                                                  being or anguished spirit in the intermediate
+                                                  state between two lives, seeking the conditions
+                                                  for a new birth as a human or other kind of
+                                                  embodied being. </p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-060-002-93">
+                            <term type="translationMain">apsaras</term>
+                            <term type="translationAlternative">apsarases</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">apsaras</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">lha mo</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ལྷ་མོ།</term>
+                            <note type="definition">
+                                <p>Popular figures in Indian
+                                                  culture, apsarases are said to be goddesses of the
+                                                  clouds and water and to be wives of the
+                                                  gandharvas.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-060-002-94">
+                            <term type="translationMain">kinnara</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">kinnara</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">mi’am ci</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">མིའམ་ཅི།</term>
+                            <note type="definition">
+                                <p>A semidivine being, half
+                                                  horse, half human, also often described as a
+                                                  celestial musician. </p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-060-002-95">
+                            <term type="translationMain">selflessness</term>
+                            <term type="translationAlternative">no self</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">anātman</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">bdag med</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">བདག་མེད།</term>
+                            <note type="definition">
+                                <p>Selflessness denotes the
+                                                  lack of inherent existence in self-identity and
+                                                  also, more subtly, in all physical and mental
+                                                  phenomena. </p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-060-002-96">
+                            <term type="translationMain">empty</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">śūnya</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">stong pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">སྟོང་པ།</term>
+                            <note type="definition">
+                                <p>A term used to express the
+                                                  absence of any intrinsic essence in all
+                                                  phenomena.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-060-002-97">
+                            <term type="translationMain">reality</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">satya</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">bden pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">བདེན་པ།</term>
+                            <note type="definition">
+                                <p>Refers in this text to the
+                                                  Buddhist distinction between relative and
+                                                  ultimate. Relative reality refers to the world of
+                                                  reified entities that are believed to have
+                                                  essential existence, whereas ultimate reality
+                                                  refers to the emptiness or lack of inherent
+                                                  existence in all phenomena.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="person" xml:id="UT22084-060-002-98">
+                            <term type="translationMain">Kamalagupta</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">kamalagupta</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">ka ma la gub ta</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ཀ་མ་ལ་གུབ་ཏ།</term>
+                            <note type="definition">
+                                <p>An Indian scholar who was
+                                                  involved in a number of translations during the
+                                                  eleventh century in Tibet.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="person" xml:id="UT22084-060-002-99">
+                            <term type="translationMain">Rinchen Sangpo</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">rin chen bzang po</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">རིན་ཆེན་བཟང་པོ།</term>
+                            <note type="definition">
+                                <p>A famous Tibetan
+                                                  translator who lived from 958 to 1055 <hi rend="small-caps">ce</hi>. He was mainly active in
+                                                  western Tibet, especially at Tholing monastery.
+                                                  </p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="person" xml:id="UT22084-060-002-100">
+                            <term type="translationMain">Śakra</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">śakra</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">brgya byin</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">བརྒྱ་བྱིན།</term>
+                            <note type="definition" rend="override">
+                                <p>An alternative name for
+                                                  Indra, lord of the devas, who, according to
+                                                  Buddhist cosmology, resides in the Heaven of the
+                                                  Thirty-Three.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss xml:id="UT22084-060-002-101" type="term" mode="match">
+                            <term type="translationMain">deva</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">deva</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">lha</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ལྷ།</term>
+                            <note type="definition" rend="override">
+                                <p>One of the five or six classes of sentient beings, specifically dominated by exaltation, indulgence, and pride. According to Buddhist cosmology, the devas are said to exist in many levels of celestial or divine realms, higher than that of the human realm, in the desire realm, in the form realm, and in the formless realm.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                </list>
+                        </div>
+                </back>
+
+        </text>
+</TEI>

@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/curjetarent/translation.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="mainTitle" xml:lang="Bo-Ltn">gsum la skyabs su ’gro ba</title>
+                <title type="mainTitle" xml:lang="bo">གསུམ་ལ་སྐྱབས་སུ་འགྲོ་བ།</title>
+                <title type="mainTitle" xml:lang="Sa-Ltn">Triśaraṇa­gamana</title>
+                <title type="mainTitle" xml:lang="en">Taking Refuge in the Three Jewels</title>
+                <title type="longTitle" xml:lang="bo">འཕགས་པ་གསུམ་ལ་སྐྱབས་སུ་འགྲོ་བ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</title>
+                <title type="longTitle" xml:lang="Bo-Ltn">’phags pa gsum la skyabs su ’gro ba zhes
+                    bya ba theg pa chen po’i mdo</title>
+                <title type="longTitle" xml:lang="en">The Noble Great Vehicle Sūtra “Taking Refuge
+                    in the Three Jewels”</title>
+                <title type="longTitle" xml:lang="Sa-Ltn">Ārya­triśaraṇa­gamana­nāma­mahāyāna­sūtra</title>
+                <title type="otherTitle" xml:lang="zh"/>
+                <author role="translatorMain" xml:id="UT22084-063-006-49">Translated by the
+                    Dharmachakra Translation Committee<lb/>under the patronage and supervision of
+                    84000: Translating the Words of the Buddha</author>
+                <author role="translatorEng" xml:id="UT22084-063-006-50">Benjamin Collet-Cassart</author>
+                <editor role="reviser" xml:id="UT22084-063-006-51">Dr. Andreas Doctor</editor>
+                <consultant role="dharmaMaster" xml:id="UT22084-063-006-52">Chokyi Nyima Rinpoche</consultant>
+                <editor role="copyEditor" xml:id="UT22084-063-006-53">Laura Goetz</editor>
+                <editor role="TEImarkupEditor" xml:id="UT22084-063-006-54">Laura Goetz</editor>
+                <editor role="finalReviewer" xml:id="UT22084-063-006-55">Rory Lindsay, Dr.</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>v 1.0.11 <date>2024</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>84000: Translating the Words of the Buddha</name> is a global non-profit
+                    initiative to translate all the Buddha’s words into modern languages, and to
+                    make them available to everyone. </publisher>
+                <availability status="1">
+                    <licence>
+                        <graphic url="http://i.creativecommons.org/l/by-nc-nd/2.0/88x31.png"/>
+                        <p>This work is provided under the protection of a Creative Commons CC
+                            BY-NC-ND (Attribution - Non-commercial - No-derivatives) 3.0 copyright.
+                            It may be copied or printed for fair use, but only with full
+                            attribution, and not for commercial advantage or personal compensation.
+                            For full details, see the Creative Commons license.</p>
+                    </licence>
+                </availability>
+                <idno xml:id="UT22084-063-006"/>
+                <note>An early mistake in the assigning of UT numbers within the 84000 project means
+                    that these ids diverge slightly from the standard logic.</note>
+                <date>2020-09-22</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl key="toh225" type="text">
+                    <ref>Toh 225</ref>
+                    <biblScope>Degé Kangyur, vol. 63 (mdo sde, dza), folios 174.a–175.a</biblScope>
+                    <author role="translatorTib" xml:id="UT22084-063-006-81">Sarvajñādeva</author>
+                    <author role="translatorTib" xml:id="UT22084-063-006-82">Paltsek</author>
+                    <location work="UT4CZ5369" count-pages="3">
+                        <volume number="63" start-page="347" end-page="349"/>
+                    </location>
+                    <idno parent-id="O1JC114941JC14668" work="http://read.84000.co/sections"/>
+                    <idno source-id="O1JC114941JC11868" work="W22084"/>
+                </bibl>
+            </sourceDesc>
+            <notesStmt/>
+            <revisionDesc>
+                <change who="#line-tofte" when="2020-09-14T06:37:39.325Z" type="translation-status" status="3" xml:id="UT22084-063-006-56">
+                    <desc>3</desc>
+                </change>
+                <change who="#line-tofte" when="2020-09-14T06:37:39.325Z" type="text-version" status="0.0.1" xml:id="UT22084-063-006-57">
+                    <desc>0.0.1</desc>
+                </change>
+                <change who="#line-tofte" when="2020-09-14T06:38:02.194Z" type="text-version" status="0.0.2" xml:id="UT22084-063-006-58">
+                    <desc>Auto
+                    (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2020-09-18T12:04:18.599Z" type="text-version" status="0.0.3" xml:id="UT22084-063-006-59">
+                    <desc>Auto
+                    (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2020-09-18T12:04:37.367Z" type="text-version" status="0.0.4" xml:id="UT22084-063-006-60">
+                    <desc>Auto
+                    (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2020-09-18T12:04:51.167Z" type="text-version" status="0.0.5" xml:id="UT22084-063-006-61">
+                    <desc>Auto
+                    (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2020-09-18T12:15:58.975Z" type="translation-status" status="2.e" xml:id="UT22084-063-006-62">
+                    <desc>2.e</desc>
+                </change>
+                <change who="#line-tofte" when="2020-09-18T12:15:58.975Z" type="text-version" status="0.0.6" xml:id="UT22084-063-006-63">
+                    <desc>Auto
+                    (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2020-09-18T12:19:35.987Z" type="text-version" status="0.0.7" xml:id="UT22084-063-006-64">
+                    <desc>Auto
+                    (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2020-09-21T07:27:04.989Z" type="text-version" status="0.1.2" xml:id="UT22084-063-006-65">
+                    <desc>Auto
+                    (update-contributors)</desc>
+                </change>
+                <change who="#mike" when="2020-09-21T09:36:07.032Z" type="translation-status" status="2" xml:id="UT22084-063-006-66">
+                    <desc>2</desc>
+                </change>
+                <change who="#mike" when="2020-09-21T09:36:07.032Z" type="text-version" status="0.1.3" xml:id="UT22084-063-006-67">
+                    <desc>0.1.3</desc>
+                </change>
+                <change who="#line-tofte" when="2020-09-21T13:51:19.697Z" type="text-version" status="0.1.4" xml:id="UT22084-063-006-68">
+                    <desc>Auto (update-contributors)</desc>
+                </change>
+                <change who="#mike" when="2020-09-22T09:48:56.871Z" type="translation-status" status="1" xml:id="UT22084-063-006-69">
+                    <desc>1</desc>
+                </change>
+                <change who="#admin" when="2020-09-22T09:48:56.871Z" type="translation-status" status="1.a" xml:id="UT22084-063-006-70">
+                    <desc>Note added retrospectively based on date of status '1'</desc>
+                </change>
+                <change who="#mike" when="2020-09-22T09:48:56.871Z" type="text-version" status="1.0.0" xml:id="UT22084-063-006-71">
+                    <desc>First Published version</desc>
+                </change>
+                <change who="#admin" when="2020-11-23T13:57:44.998Z" type="text-version" status="1.0.1" xml:id="UT22084-063-006-72">
+                    <desc>Auto (TEI migration 2.0.0)</desc>
+                </change>
+                <change who="#admin" when="2020-12-11T14:06:50.919Z" type="text-version" status="1.0.2" xml:id="UT22084-063-006-73">
+                    <desc>Auto (TEI migration 2.1.5)</desc>
+                </change>
+                <change who="#mike" when="2021-02-02T10:58:16.324Z" type="text-version" status="1.0.3" xml:id="UT22084-063-006-74">
+                    <desc>Andreas' corrections added</desc>
+                </change>
+                <change who="#celso" when="2021-11-22T16:09:18.3Z" type="text-version" status="1.0.4" xml:id="UT22084-063-006-75">
+                    <desc>added references to Peter Skillings 2021 anthology</desc>
+                </change>
+                <change who="#andre" when="2022-09-24T23:39:57.419Z" type="text-version" status="1.0.5" xml:id="UT22084-063-006-76">
+                    <desc>Update to the glossary</desc>
+                </change>
+                <change who="#celso" when="2023-01-16T16:58:52.361Z" type="text-version" status="1.0.6" xml:id="UT22084-063-006-77">
+                    <desc>Auto (script-increment-version-published)</desc>
+                </change>
+                <change who="#celso" when="2023-01-18T14:48:43.396Z" type="text-version" status="1.0.7" xml:id="UT22084-063-006-78">
+                    <desc>Auto (removing-tid-from-back-list-items)</desc>
+                </change>
+                <change who="#martina-cotter" when="2023-07-27T22:38:30.667Z" type="text-version" status="1.0.8" xml:id="UT22084-063-006-79">
+                    <desc>Updated "Blissful One" to "Well-Gone One"</desc>
+                </change>
+                <change who="#admin" when="2023-07-30T22:39:48.323Z" type="text-version" status="1.0.9" xml:id="UT22084-063-006-80">
+                    <desc>TEI migrated to 2.19.0</desc>
+                </change>
+                <change who="#celso" when="2023-10-13T11:48:10.305Z" type="text-version" status="1.0.10" xml:id="UT22084-063-006-83">
+                    <desc>reapplied capital letters in Wylie and covert to TibUni-glossary</desc>
+                </change>
+                <change who="#andre" when="2024-06-27T15:08:50.959Z" type="text-version" status="1.0.11" xml:id="UT22084-063-006-85">
+                    <desc>Approved rendering "Jetavana, Anāthapiṇḍada’s Park" applied</desc>
+                </change>
+            </revisionDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="summary">
+                <head type="summary" tid="1">Summary</head>
+                <milestone unit="chunk" xml:id="UT22084-063-006-1"/>
+                <p tid="2">In <title xml:lang="en">Taking Refuge in the Three Jewels</title>, the
+                    venerable Śāriputra wonders how much merit accrues to someone who takes refuge
+                    in the Three Jewels: the Buddha, the Dharma, and the Saṅgha. He therefore seeks
+                    out the Buddha Śākyamuni and requests a teaching on this topic. The Buddha
+                    proceeds to describe how even vast offerings, performed in miraculous ways,
+                    would not constitute a fraction of the merit gained by someone who takes refuge
+                    in the Three Jewels.</p>
+            </div>
+            <div type="acknowledgment">
+                <head type="acknowledgment" tid="3">Acknowledgements</head>
+                <milestone unit="chunk" xml:id="UT22084-063-006-2"/>
+                <p tid="4">This text was translated by the Dharmachakra Translation Committee under
+                    the guidance of Chokyi Nyima Rinpoche. Benjamin Collet-Cassart translated the
+                    text from Tibetan. Andreas Doctor compared the draft translation with the
+                    original Tibetan, edited the text, and wrote the introduction.</p>
+                <p tid="5">The translation was completed under the patronage and supervision of
+                    84000: Translating the Words of the Buddha.</p>
+                <!--<lb/>
+                <p>[Sponsored by XXXXXX]</p>-->
+            </div>
+            <div type="introduction">
+                <head type="introduction" tid="6">Introduction</head>
+                <div type="section" xml:id="UT22084-063-006-introduction-1">
+                    <milestone unit="chunk" xml:id="UT22084-063-006-3"/>
+                    <p tid="7">
+                        <title xml:lang="en">Taking Refuge in the Three Jewels</title>
+                        <note place="end" xml:id="UT22084-063-006-4"> Although the title in
+                            the Degé version only reads <title xml:lang="en">Taking Refuge in the
+                                Three</title>, we have added <distinct>Jewels</distinct> based on
+                            the title as it appears in the Stok Palace manuscript. This is also
+                            clearly the subject and meaning of the text.</note> unfolds in the Jeta’s
+                        Grove at Śrāvastī, where the Buddha Śākyamuni is residing with a large
+                        gathering of monks. The sūtra begins as the venerable Śāriputra, who is
+                        practicing meditation alone in the forest, wonders how much merit is
+                        obtained by those who take refuge in the Three Jewels: the Buddha, the
+                        Dharma, and the Saṅgha. After finishing his meditation practice,
+                        Śāriputra goes before the Buddha Śākyamuni and requests the Buddha to teach
+                        on that topic. In his answer, the Buddha presents an analogy that is meant
+                        to describe the enormous merit that such devotees obtain. Even if someone
+                        could magically erect a stūpa the size of the entire world and make vast,
+                        miraculous offerings to it for eons on end, the merit gained thereby would
+                        not constitute even a fraction of the merit gained by those who take refuge
+                        in the Three Jewels. After the Buddha has delivered this teaching, the earth
+                        quakes, lightning strikes, and the gods in the heavens play divine music to
+                        celebrate the teaching. Finally, the Buddha instructs Ānanda to remember the
+                        teaching so that he can pass it on to others.</p>
+                    <milestone unit="chunk" xml:id="UT22084-063-006-5"/>
+                    <p tid="8">Very little is known about the history of this text in India. The
+                        Sanskrit version of this sūtra is no longer extant, and it seems to have
+                        never been translated into Chinese. Hence, the only witness of this sūtra
+                        available today is the Tibetan translation included in the Kangyur. The
+                        colophon of the Tibetan translation states that it was produced by the
+                        Indian paṇḍita Sarvajñādeva and the Tibetan translator-editor Paltsek, thus locating its translation in the late eighth or early ninth
+                        century. This dating is also confirmed by the text’s inclusion in the
+                        Denkarma (<foreign xml:lang="Bo-Ltn">lhan/ldan dkar ma</foreign>) catalog of
+                        the early ninth century <hi rend="small-caps">ce</hi>.<note place="end" xml:id="UT22084-063-006-6">The Denkarma catalog is dated to
+                            ca. 812 <hi rend="small-caps">ce</hi>. See Denkarma, folio 301.a.3. See also Herrmann-Pfandt
+                            (2008), p. 162, no. 298. </note> The text has previously been translated
+                        into English by Kenneth Liberman with the assistance of Jampa Losel in 1988, and most recently, there is another English translation by Peter Skilling, along with some helpful 
+                        notes, found in his 2021 anthology <title xml:lang="en">Questioning the Buddha: A Selection of Twenty-Five Sutras</title>.<note place="end" xml:id="UT22084-063-006-47">Skilling (2021), pp. 189–98.</note> 
+                        The translation presented here was made primarily based on the
+                        Degé edition, in consultation with the Comparative Edition (<foreign xml:lang="Bo-Ltn">dpe bsdur ma</foreign>) and the Stok Palace manuscript
+                        edition. </p>
+                </div>
+            </div>
+        </front>
+        <body>
+            <div type="translation">
+                <head type="translation"> The Translation </head>
+                <head type="titleHon" tid="10">The Noble Great Vehicle Sūtra</head>
+                <head type="titleMain" tid="11">Taking Refuge in the Three Jewels</head>
+                <div type="section" xml:id="UT22084-063-006-section-1">
+                    <milestone unit="chunk" xml:id="UT22084-063-006-7"/>
+                    <p tid="12">
+                        <ref cRef="F.174.a" type="folio" xml:id="UT22084-063-006-44"/> Homage to the Three Jewels!</p>
+                    <lb/>
+                    <milestone unit="chunk" xml:id="UT22084-063-006-8"/>
+                    <p tid="14">Thus did I hear at one time. The Blessed One was residing in Śrāvastī, in Jeta’s
+                        Grove, Anāthapiṇḍada’s park, together with a great saṅgha of
+                        1,250 monks. </p>
+                    <milestone unit="chunk" xml:id="UT22084-063-006-9"/>
+                    <p tid="15">At that time, while the venerable Śāradvatīputra was alone in the
+                        forest, this thought arose in his mind: “I should go before the Teacher so
+                        that I can ask the Well-Gone One, the Dharma Lord, this question: ‘How much
+                        merit is accumulated by faithful noble sons or noble daughters who take
+                        refuge in the Buddha, the Dharma, and the Saṅgha of monks?’ ”</p>
+                    <milestone unit="chunk" xml:id="UT22084-063-006-10"/>
+                    <p tid="16">At dusk the venerable Śāriputra emerged from his meditative
+                        seclusion and went to see the Blessed One. When he arrived, he bowed his
+                        head to the Blessed One’s feet and sat to one side. While seated to the
+                        side, the venerable Śāriputra asked the Blessed One, “Honored One, while I
+                        was staying alone in the forest in meditative seclusion, this thought arose
+                        in my mind: ‘How much merit is accumulated by faithful noble sons or noble
+                        daughters who take refuge in the Buddha, the Dharma, and the Saṅgha of
+                        monks?’ ”</p>
+                    <milestone unit="chunk" xml:id="UT22084-063-006-11"/>
+                    <p tid="17">The Blessed One replied to the venerable Śāriputra, “Śāriputra, you
+                        have asked this question in order to benefit and bring happiness to many
+                        beings. Out of love for the world, you seek to help a vast number of beings,
+                            <ref cRef="F.174.b" type="folio" xml:id="UT22084-063-006-45"/> gods and humans alike, by
+                        accomplishing their welfare and happiness. That is excellent, excellent!
+                        Śāriputra, as you have thought to come and question the Thus-Gone One about
+                        this matter, I will reply with an analogy to make you understand.</p>
+                    <milestone unit="chunk" xml:id="UT22084-063-006-12"/>
+                    <p tid="18">“Imagine that someone endowed with magical powers were to transfer
+                        into another world all the beings that live in Jambudvīpa—the land of
+                        Jambudvīpa and its subcontinents, which measure seven thousand leagues
+                        across and lengthwise. Having made the ground even like the palm of a hand,
+                        that person would then build a stūpa made of the seven precious gems—gold,
+                        silver, beryl, crystal, red coral, emerald, and white coral. It would be the
+                        size of Jambudvīpa, and its summit would reach the Brahmā realms. That
+                        person would then worship that stūpa with offerings of divine incense,
+                        divine flowers, divine garlands, and divine parasols, banners, and flags.
+                        This person endowed with these magical powers would then pour all the water
+                        of the four great oceans into another world system and replace it with four
+                        oceans filled with maruka oil.<note place="end" xml:id="UT22084-063-006-13"> Tibetan: <foreign xml:lang="Bo-Ltn" type="quote">ma ru ka’i til mar</foreign>.</note> He would then
+                        place a wick the size of Mount Sumeru into the oceans so that for many eons
+                        this oil lamp would continuously burn.</p>
+                    <milestone unit="chunk" xml:id="UT22084-063-006-14"/>
+                    <p tid="19">“Śāriputra, tell me, would that person accumulate a lot of merit on
+                        that basis?”</p>
+                    <p tid="20">“Blessed One, yes, a lot! Well-Gone One, yes, a lot! This is beyond all the hearers and solitary buddhas. Blessed One, this is the
+                        domain of the thus-gone ones. Well-Gone One, this is the domain of the
+                        thus-gone ones.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-063-006-15"/>
+                    <p tid="21">“Śāriputra, that amount of merit would not match even a hundredth,
+                            <ref cRef="F.175.a" type="folio" xml:id="UT22084-063-006-46"/> a thousandth, or even a hundred
+                        thousandth of the merit created by a noble son or noble daughter who takes
+                        refuge in the Buddha, the Dharma, and the Saṅgha. This difference could not
+                        be illustrated by any numbers, examples, or calculations.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-063-006-16"/>
+                    <p tid="22">When this Dharma teaching was given, the whole great trichiliocosm
+                        began to quiver, tremble, quake, wobble, rock, sway, vibrate, shudder, and
+                        reel. Great lightning flashes struck, and the gods caused the sound of drums
+                        to be heard.</p>
+                    <milestone unit="chunk" xml:id="UT22084-063-006-17"/>
+                    <p tid="23">The venerable Ānanda asked the Blessed One, “Blessed One, what is
+                        the name of this Dharma teaching? How should it be remembered?”</p>
+                    <milestone unit="chunk" xml:id="UT22084-063-006-43"/>
+                    <p tid="24">The Blessed One replied, “Ānanda, you should remember this Dharma
+                        teaching as <title xml:lang="en">Accomplishing Limitless
+                            Gateways</title>.<note place="end" xml:id="UT22084-063-006-18"> Translated based on Choné, Lithang, Kangxi, Yongle, and
+                            Narthang: <foreign xml:lang="Bo-Ltn" type="quote">sgo mtha’ yas
+                                pa</foreign>. Degé and Stok: <foreign xml:lang="Bo-Ltn" type="quote">sgo mtha’ yas pas</foreign>.</note> This is how you should see its
+                        meaning, and this is how you should remember it.”</p>
+                    <milestone unit="chunk" xml:id="UT22084-063-006-19"/>
+                    <p tid="25">When the Blessed One had spoken, the venerable Śāriputra and the
+                        other monks praised the Blessed One’s words. </p>
+                    <milestone unit="chunk" xml:id="UT22084-063-006-20"/>
+                    <trailer tid="26">This concludes the noble Great Vehicle sūtra “Taking Refuge in
+                        the Three Jewels.”</trailer>
+                </div>
+                <div type="colophon" xml:id="UT22084-063-006-colophon">
+                    <head type="colophon" tid="27">Colophon</head>
+                    <milestone unit="chunk" xml:id="UT22084-063-006-21"/>
+                    <p tid="28">This was translated, edited, and finalized by the Indian upādhyāya
+                        Sarvajñādeva and the translator-editor Bandé Paltsek.</p>
+                </div>
+            </div>
+        </body>
+        <back>
+            <div type="notes">
+                <head type="notes" tid="29">Notes</head>
+            </div>
+            <div type="listBibl">
+                <head type="listBibl" tid="30">Bibliography</head>
+                <div type="section" xml:id="UT22084-063-006-listBibl-1">
+                    <bibl xml:id="UT22084-063-006-22">
+                        <title xml:lang="Bo-Ltn">’phags pa gsum la skyabs su ’gro ba zhes bya ba
+                            theg pa chen po’i mdo</title> (<title xml:lang="Sa-Ltn">Ārya­triśaraṇa­gamana­nāma­mahāyāna­sūtra</title>). Toh 225, Degé
+                        Kangyur vol. 63 (mdo sde, dza), folios 174.a–175.a. </bibl>
+                    <bibl xml:id="UT22084-063-006-23">
+                        <title xml:lang="Bo-Ltn">’phags pa gsum la skyabs su ’gro ba zhes bya ba
+                            theg pa chen po’i mdo</title> (<title xml:lang="Sa-Ltn">Ārya­triśaraṇa­gamana­nāma­mahāyāna­sūtra</title>). Stok 196, Stok
+                        Palace Kangyur (stog pho brang bris ma) vol. 72 (mdo sde, zha), folios
+                        336.a–338.a.</bibl>
+                    <bibl xml:id="UT22084-063-006-24">
+                        <title xml:lang="Bo-Ltn">’phags pa gsum la skyabs su ’gro ba zhes bya ba
+                            theg pa chen po’i mdo</title>. bka’ ’gyur (dpe bsdur ma) [Comparative
+                        Edition of the Kangyur], krung go’i bod rig pa zhib ’jug ste gnas kyi bka’
+                        bstan dpe sdur khang (The Tibetan Tripitaka Collation Bureau of the China
+                        Tibetology Research Center). 108 volumes. Beijing: krung go’i bod rig pa dpe
+                        skrun khang (China Tibetology Publishing House), 2006–2009, vol. 63, pp.
+                        471–74. </bibl>
+                    <bibl xml:id="UT22084-063-006-25">Denkarma (<title xml:lang="Bo-Ltn">pho brang
+                            stod thang ldan[/ lhan] dkar gyi chos ’gyur ro cog gi dkar
+                        chag</title>). Degé Tengyur, vol. 206 (sna tshogs, jo), folios
+                        294.b–310.a.</bibl>
+                    <bibl xml:id="UT22084-063-006-26">Herrmann-Pfandt, Adelheid. <title xml:lang="de">Die lHan kar ma: ein früher Katalog der ins Tibetische
+                            übersetzten buddhistischen Texte</title>. Vienna: Verlag der
+                        Österreichischen Akademie der Wissenschaften, 2008.</bibl>
+                    <bibl xml:id="UT22084-063-006-27">Liberman, Kenneth. “The Going for Refuge
+                        Sutra.” <title xml:lang="en">Bulletin of Tibetology</title>, new series no.
+                        1 (1988): 35–36.</bibl>
+                    <bibl xml:id="UT22084-063-006-48">Skilling, Peter. <title xml:lang="en">Questioning the Buddha: A Selection of Twenty-Five 
+                        Sutras</title>. Somerville: Wisdom Publications, 2021. </bibl>
+                </div>
+            </div>
+            <div type="glossary">
+                <list type="glossary">
+                    <item>
+                        <gloss type="term" xml:id="UT22084-063-006-28">
+                            <term type="translationMain">great trichiliocosm</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">tri­sāhasra­mahā­sāhasra­loka­dhātu</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">stong gsum gyi stong chen po’i ’jig rten gyi khams</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས།</term>
+                            <note type="definition" rend="override">
+                                <p>The largest universe spoken of in Buddhist
+                                cosmology, consisting of one billion smaller world systems.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-063-006-29">
+                            <term type="translationMain">hearer</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">śrāvaka</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">nyan thos</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ཉན་ཐོས།</term>
+                            <note type="definition" rend="override">
+                                <p>Primarily referring to those disciples of the
+                                Buddha who aspire to attain the state of a worthy one by seeking
+                                personal liberation. The term is usually defined as a person who
+                                hears the teaching from the Buddha and makes it heard to
+                                others.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-063-006-30">
+                            <term type="translationMain">meditative seclusion</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">prati­saṃlayana</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">nang du yang dag ’jog</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ནང་དུ་ཡང་དག་འཇོག</term>
+                            <note type="definition">
+                                <p>This term can mean both physical seclusion and a
+                                meditative state of withdrawal.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-063-006-31">
+                            <term type="translationMain">solitary buddha</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">pratyeka­buddha</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">rang sangs rgyas</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">རང་སངས་རྒྱས།</term>
+                            <note type="definition" rend="override">
+                                <p>Individuals who, in their last life, attain
+                                realization by realizing the nature of dependent origination without
+                                relying upon a spiritual guide.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss xml:id="UT22084-063-006-32" type="person" mode="match">
+                            <term type="translationMain">Ānanda</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">ānanda</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">kun dga’ bo</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ཀུན་དགའ་བོ།</term>
+                            <note type="definition" rend="override">
+                                <p>The personal attendant and cousin of the Buddha, who compiled the sūtras.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <!--<item>
+                        <gloss type="person" xml:id="UT22084-063-006-33">
+                            <term type="translationMain">Anāthapiṇḍada</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">anāthapiṇḍada</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">mgon med zas sbyin</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">མགོན་མེད་ཟས་སྦྱིན།</term>
+                            <note type="definition" rend="override">
+                                <p>A wealthy householder of Śrāvastī renowned for
+                                his generosity. He spent a small fortune to purchase the grove of
+                                Prince Jeta, built a monastery there, and offered both to the
+                                Buddha.</p>
+                            </note>
+                        </gloss>
+                    </item>-->
+                    <item>
+                        <gloss type="person" xml:id="UT22084-063-006-34">
+                            <term type="translationMain">Paltsek</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified"/>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">dpal brtsegs</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">དཔལ་བརྩེགས།</term>
+                            <!--<term type="definition"><term type="ignore">Paltsek</term>, from the
+                                village of Kawa north of Lhasa, was one of Tibet’s preeminent
+                                translators. He was one of the first seven Tibetans to be ordained
+                                by Śāntarakṣita and is counted as one of Guru Rinpoche’s twenty-five
+                                close disciples. In a famous verse by Ngok Lotsawa, <term type="ignore">Paltsek</term> is named along with Chokro Lui
+                                Gyaltsen and Zhang Nanam Yeshé as part of a group of translators
+                                whose skills were surpassed only by Vairotsana. He translated works
+                                from a wide variety of genres, including sūtra, śāstra, vinaya, and
+                                tantra, and was an author himself. <term type="ignore">Paltsek</term> was also one of the most important editors of
+                                the early period, one of nine translators installed by Trisong
+                                Detsen to supervise the translation of the Tripiṭaka and help
+                                catalog translated works for the first two of three imperial
+                                catalogs (the <title xml:lang="Bo-Ltn">ldan kar ma</title> and
+                                    <title xml:lang="Bo-Ltn">bsam yas mchims phu ma</title>
+                                catalogs).</term>-->
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-063-006-35">
+                            <term type="translationMain">Śāradvatīputra</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">śāradvatīputra</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">sha ra dwa ti’i bu</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ཤ་ར་དྭ་ཏིའི་བུ།</term>
+                            <note type="definition">
+                                <p>Along with Maudgalyāyana, <term rend="ignore">Śāradvatīputra</term> (also known as Śāriputra) was one of the
+                                two main disciples of the Buddha. He was renowned for his pure
+                                discipline and was praised by the Buddha as being foremost in terms
+                                of insight.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss xml:id="UT22084-063-006-36" type="person" mode="match">
+                            <term type="translationMain">Śāriputra</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">śāriputra</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">shA ri’i bu</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ཤཱ་རིའི་བུ།</term>
+                            <note type="definition">
+                                <p>The same as Śāradvatīputra.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="person" xml:id="UT22084-063-006-37">
+                            <term type="translationMain">Sarvajñādeva</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">sarvajñādeva</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">sarba dz+nyA de ba</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">སརྦ་ཛྙཱ་དེ་བ།</term>
+                            <!--<term type="definition">According to traditional accounts, the Kashmiri
+                                abbot <term type="ignore">Sarvajñādeva</term> was among the “one
+                                hundred” paṇḍitas invited by Trisong Detsen (r. 755–797/800) to
+                                assist with the translation of the Buddhist scriptures into Tibetan.
+                                    <term type="ignore">Sarvajñādeva</term> assisted in the
+                                translation of more than twenty-three works, including numerous
+                                sūtras and the first translations of Śāntideva’s <title xml:lang="Sa-Ltn">Bodhi­caryāvatāra</title> and Nāgārjuna’s
+                                    <title xml:lang="Sa-Ltn">Suhṛllekha</title>. Much of this work
+                                was likely carried out in the first years of the ninth century and
+                                may have continued into the reign of Ralpachen, who ascended the
+                                throne in 815 and died in 838 or 841 <hi rend="small-caps">ce</hi>.</term>-->
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="place" xml:id="UT22084-063-006-38">
+                            <term type="translationMain">Brahmā realms</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">brahmāloka</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">tshangs pa’i ’jig rten</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ཚངས་པའི་འཇིག་རྟེན།</term>
+                            <note type="definition">
+                                <p>The heaven of Brahmā, usually located just above
+                                the desire realm (<foreign xml:lang="Sa-Ltn" type="term">kāmadhātu</foreign>) as one of the first levels of the form
+                                realm (<foreign xml:lang="Sa-Ltn" type="term">rūpadhātu</foreign>)
+                                and equated with the state that one achieves in the first meditative
+                                absorption (<foreign xml:lang="Sa-Ltn" type="term">dhyāna</foreign>).</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="place" xml:id="UT22084-063-006-39">
+                            <term type="translationMain">Jambudvīpa</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">jambudvīpa</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">’dzam bu’i gling</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">འཛམ་བུའི་གླིང་།</term>
+                            <note type="definition" rend="override">
+                                <p>The continent (<foreign xml:lang="Sa-Ltn" type="term">dvīpa</foreign>) on which we live, shaped like a
+                                rose apple (<foreign xml:lang="Sa-Ltn" type="term">jambū</foreign>)
+                                according to ancient South Asian cosmology.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="place" xml:id="UT22084-063-006-40">
+                            <term type="translationMain">Jeta’s Grove</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">jetavana</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">rgyal bu rgyal byed kyi tshal</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ།</term>
+                            <note type="definition">
+                                <p>See “Jeta’s Grove, Anāthapiṇḍada’s Park.”</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="place" xml:id="UT22084-063-006-84">
+                            <term type="translationMain">Jeta’s Grove, Anāthapiṇḍada’s Park</term>
+                            <term xml:lang="Sa-Ltn" type="attestedOther" status="verified">jetavanam anāthapiṇḍadasyārāmaḥ</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">rgyal bu rgyal byed kyi tshal mgon med zas sbyin gyi kun dga’ ra ba</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ།</term>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss xml:id="UT22084-063-006-41" type="place" mode="match">
+                            <term type="translationMain">Mount Sumeru</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">sumeru</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">ri rab</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">རི་རབ།</term>
+                            <note type="definition" rend="override">
+                                <p>The great mountain at the center of the universe according to ancient Indian cosmology.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="place" xml:id="UT22084-063-006-42">
+                            <term type="translationMain">Śrāvastī</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">śrāvastī</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">mnyan yod</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">མཉན་ཡོད།</term>
+                            <note type="definition" rend="override">
+                                <p>During the life of the Buddha, <term rend="ignore">Śrāvastī</term> was a major city in the kingdom of
+                                Kosala, in present day Uttar Pradesh.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                </list>
+            </div>
+        </back>
+    </text>
+
+    
+    
+    
+    </TEI>

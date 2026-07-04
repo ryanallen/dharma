@@ -1,0 +1,1947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/current/translation.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title type="mainTitle" xml:lang="en">The Chapter on Mañjuśrī’s Magical Display</title>
+                                <title type="mainTitle" xml:lang="Sa-Ltn">Mañjuśrī­vikurvāṇa­parivarta</title>
+                                <title type="mainTitle" xml:lang="Bo-Ltn">’jam dpal rnam par ’phrul pa’i le’u</title>
+                                <title type="mainTitle" xml:lang="bo">འཇམ་དཔལ་རྣམ་པར་འཕྲུལ་པའི་ལེའུ།</title>
+                                <title type="longTitle" xml:lang="en">The Noble Great Vehicle Sūtra “The Chapter on Mañjuśrī’s Magical
+                                        Display”</title>
+                                <title type="longTitle" xml:lang="Sa-Ltn">Ārya­mañjuśrī­vikurvāṇa­parivarta­nāma­mahā­yāna­sūtra</title>
+                                <title type="longTitle" xml:lang="Bo-Ltn">’phags pa ’jam dpal rnam par ’phrul pa’i le’u zhes bya ba theg pa chen po’i
+                                        mdo</title>
+                                <title type="longTitle" xml:lang="bo">འཕགས་པ་འཇམ་དཔལ་རྣམ་པར་འཕྲུལ་པའི་ལེའུ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</title>
+                                <author role="translatorMain" xml:id="UT22084-046-003-361">Translated by the Dharmachakra Translation Committee<lb/>
+                                        under the patronage and supervision of 84000: Translating the Words of the Buddha</author>
+                                <editor role="copyEditor" xml:id="UT22084-046-003-362">Dion Blundell</editor>
+                                <editor role="reviser" xml:id="UT22084-046-003-363">Dr. Andreas Doctor</editor>
+                                <author role="translatorEng" xml:id="UT22084-046-003-364">Benjamin Ewing</author>
+                                <consultant role="projectManager" xml:id="UT22084-046-003-365">Dr. Andreas Doctor</consultant>
+                                <consultant role="dharmaMaster" xml:id="UT22084-046-003-366">Chokyi Nyima Rinpoche</consultant>
+                                <editor role="projectEditor" xml:id="UT22084-046-003-367">Dr. James Gentry</editor>
+                                <editor role="TEImarkupEditor" xml:id="UT22084-046-003-368">Celso Wilkinson</editor>
+                                <editor role="finalReviewer" xml:id="UT22084-046-003-369">Nathaniel Rich</editor>
+                                <editor role="finalReviewer" xml:id="UT22084-046-003-370">John Canti</editor>
+                                <sponsor xml:id="UT22084-046-003-371">May and George Gu</sponsor>
+                        </titleStmt>
+                        <editionStmt>
+                <edition>v 1.1.17 <date>2024</date>
+                </edition>
+            </editionStmt>
+                        <publicationStmt>
+                <publisher>
+                    <name>84000: Translating the Words of the Buddha</name> is a global non-profit initiative to translate all
+                                        the Buddha’s words into modern languages, and to make them available to everyone. </publisher>
+                <availability status="1">
+                                        <licence>
+                                                <graphic url="http://i.creativecommons.org/l/by-nc-nd/2.0/88x31.png"/>
+                                                <p>This work is provided under the protection of a Creative Commons CC BY-NC-ND (Attribution -
+                                                        Non-commercial - No-derivatives) 3.0 copyright. It may be copied or printed for fair use, but
+                                                        only with full attribution, and not for commercial advantage or personal compensation. For
+                                                        full details, see the Creative Commons license.</p>
+                                        </licence>
+                                </availability>
+                <idno xml:id="UT22084-046-003"/>
+                <note>An early mistake in the assigning of UT numbers within the 84000 project means that these ids diverge slightly
+                                        from the standard logic.</note>
+                <date>2021-02-04</date>
+            </publicationStmt>
+                        <sourceDesc>
+                                <bibl key="toh97" type="text">
+                                        <ref>Toh 97</ref>
+                                        <biblScope>Degé Kangyur, vol. 46 (mdo sde, kha), folios 242.a–257.b</biblScope>
+                                        <author role="translatorTib" xml:id="UT22084-046-003-407">Jinamitra</author>
+                                        <author role="translatorTib" xml:id="UT22084-046-003-408">Śīlendrabodhi</author>
+                                        <author role="translatorTib" xml:id="UT22084-046-003-409">Yeshé Dé</author>
+                                        <location work="UT4CZ5369" count-pages="32">
+                                                <volume number="46" start-page="483" end-page="514"/>
+                                        </location>
+                                        <idno parent-id="O1JC114941JC14668" work="http://read.84000.co/sections"/>
+                                        <idno source-id="O1JC114941JC11649" work="W22084"/>
+                                </bibl>
+                        </sourceDesc>
+                        <notesStmt/>
+                    <revisionDesc>
+                <change who="#andreas" when="2019-11-04T09:35:51.142Z" type="text-version" status="v 0.1.0" xml:id="UT22084-046-003-372">
+                    <desc>v
+                                        0.1.0</desc>
+                </change>
+                <change who="#andreas" when="2019-11-04T09:35:51.142Z" type="translation-status" status="2.e" xml:id="UT22084-046-003-373">
+                    <desc>2.e</desc>
+                </change>
+                <change who="#mike" when="2020-01-27T13:10:34.94Z" type="translation-status" status="2.f" xml:id="UT22084-046-003-374">
+                    <desc>2.f</desc>
+                </change>
+                <change who="#line-tofte" when="2020-03-13T12:47:09.292Z" type="translation-status" status="2.e" xml:id="UT22084-046-003-375">
+                    <desc>2.e</desc>
+                </change>
+                <change who="#line-tofte" when="2020-03-23T11:27:38.918Z" type="translation-status" status="2.d" xml:id="UT22084-046-003-376">
+                    <desc>2.d</desc>
+                </change>
+                <change who="#line-tofte" when="2020-03-23T11:29:50.931Z" type="translation-status" status="2.e" xml:id="UT22084-046-003-377">
+                    <desc>2.e</desc>
+                </change>
+                <change who="#line-tofte" when="2020-03-23T11:50:51.717Z" type="translation-status" status="2.d" xml:id="UT22084-046-003-378">
+                    <desc>2.d</desc>
+                </change>
+                <change who="#line-tofte" when="2020-07-08T12:21:27.531Z" type="translation-status" status="2.b" xml:id="UT22084-046-003-379">
+                    <desc>2.b</desc>
+                </change>
+                <change who="#mike" when="2020-07-09T05:29:56.216Z" type="translation-status" status="2.a" xml:id="UT22084-046-003-380">
+                    <desc>2.a</desc>
+                </change>
+                <change who="#mike" when="2020-07-21T10:45:28.613Z" type="text-version" status="v 0.0.1" xml:id="UT22084-046-003-381">
+                    <desc>v
+                                        0.0.1</desc>
+                </change>
+                <change who="#mike" when="2020-07-21T10:45:28.613Z" type="translation-status" status="2" xml:id="UT22084-046-003-382">
+                    <desc>2</desc>
+                </change>
+                <change who="#laura" when="2020-11-07T01:36:21.859Z" type="text-version" status="0.0.2" xml:id="UT22084-046-003-383">
+                    <desc>Corrected
+                                        typo in glossary</desc>
+                </change>
+                <change who="#admin" when="2020-11-23T13:57:44.998Z" type="text-version" status="0.0.3" xml:id="UT22084-046-003-384">
+                    <desc>Auto (TEI
+                                        migration 2.0.0)</desc>
+                </change>
+                <change who="#admin" when="2020-12-11T14:06:50.919Z" type="text-version" status="0.0.4" xml:id="UT22084-046-003-385">
+                    <desc>Auto (TEI
+                                        migration 2.1.5)</desc>
+                </change>
+                <change who="#laura" when="2021-01-04T21:30:33.887Z" type="text-version" status="0.0.5" xml:id="UT22084-046-003-386">
+                    <desc>Updated
+                                        colophon and glossary to Bandé</desc>
+                </change>
+                <change who="#line-tofte" when="2021-01-21T10:51:41.091Z" type="text-version" status="0.0.6" xml:id="UT22084-046-003-387">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#mike" when="2021-02-04T09:43:03.498Z" type="translation-status" status="1" xml:id="UT22084-046-003-388">
+                    <desc>1</desc>
+                </change>
+                <change who="#admin" when="2021-02-04T09:43:03.498Z" type="translation-status" status="1.a" xml:id="UT22084-046-003-389">
+                    <desc>Note added retrospectively based on date of status '1'</desc>
+                </change>
+                <change who="#mike" when="2021-02-04T09:43:03.498Z" type="text-version" status="1.0.0" xml:id="UT22084-046-003-390">
+                    <desc>First Published Version</desc>
+                </change>
+                <change who="#celso" when="2021-02-12T18:38:31.216Z" type="text-version" status="1.0.1" xml:id="UT22084-046-003-391">
+                    <desc>"scholar" to "preceptor" in colophon</desc>
+                </change>
+                <change who="#john" when="2021-02-16T18:51:27.386Z" type="text-version" status="1.0.2" xml:id="UT22084-046-003-392">
+                    <desc>Auto (update-contributors)</desc>
+                </change>
+                <change who="#john" when="2021-02-16T18:57:17.852Z" type="text-version" status="1.1.1" xml:id="UT22084-046-003-393">
+                    <desc>A few edits noted in Hypothesis, cross refs, added line spaces, </desc>
+                </change>
+                <change who="#john" when="2021-02-18T00:00:39.425Z" type="text-version" status="1.1.2" xml:id="UT22084-046-003-394">
+                    <desc>Chinese titles, other changes to intro and notes.</desc>
+                </change>
+                <change who="#mike" when="2021-02-19T03:44:40.476Z" type="text-version" status="1.1.3" xml:id="UT22084-046-003-395">
+                    <desc>1.1.3</desc>
+                </change>
+                <change who="#john" when="2021-02-19T17:46:16.342Z" type="text-version" status="1.1.4" xml:id="UT22084-046-003-396">
+                    <desc>Two further minor edits.</desc>
+                </change>
+                <change who="#celso" when="2021-04-22T13:10:49.387Z" type="text-version" status="1.1.5" xml:id="UT22084-046-003-397">
+                    <desc>added @xml:lang tag to  a few Chinese strings that were missing it</desc>
+                </change>
+                <change who="#celso" when="2022-03-02T18:31:00.388Z" type="text-version" status="1.1.6" xml:id="UT22084-046-003-398">
+                    <desc>recached glossary for missing notes on distribution</desc>
+                </change>
+                <change who="#cabie-sim" when="2022-10-25T04:07:58.295Z" type="text-version" status="1.1.7" xml:id="UT22084-046-003-399">
+                    <desc>Auto (update-sponsorship)</desc>
+                </change>
+                <change who="#cabie-sim" when="2022-10-25T04:16:52.062Z" type="text-version" status="1.1.8" xml:id="UT22084-046-003-400">
+                    <desc>Auto (update-sponsorship)</desc>
+                </change>
+                <change who="#cabie-sim" when="2022-10-25T04:18:36.876Z" type="text-version" status="1.1.9" xml:id="UT22084-046-003-401">
+                    <desc>Auto (update-sponsorship)</desc>
+                </change>
+                <change who="#martina-cotter" when="2022-11-17T18:03:15.92Z" type="text-version" status="1.1.10" xml:id="UT22084-046-003-402">
+                    <desc>added sponsorship acknowledgement</desc>
+                </change>
+                <change who="#celso" when="2023-01-16T16:58:52.361Z" type="text-version" status="1.1.11" xml:id="UT22084-046-003-403">
+                    <desc>Auto (script-increment-version-published)</desc>
+                </change>
+                <change who="#celso" when="2023-01-18T16:58:06.914Z" type="text-version" status="1.1.12" xml:id="UT22084-046-003-404">
+                    <desc>Auto (remove-tid-from-back-list-items)</desc>
+                </change>
+                <change who="#konchog" when="2023-05-27T15:32:50.961Z" type="text-version" status="1.1.13" xml:id="UT22084-046-003-405">
+                    <desc>Several small fixes and extensive streamlining of the dialogue.</desc>
+                </change>
+                <change who="#admin" when="2023-07-30T22:39:48.323Z" type="text-version" status="1.1.14" xml:id="UT22084-046-003-406">
+                    <desc>TEI migrated to 2.19.0</desc>
+                </change>
+                <change who="#celso" when="2023-10-13T11:48:10.305Z" type="text-version" status="1.1.15" xml:id="UT22084-046-003-410">
+                    <desc>reapplied capital letters in Wylie and covert to TibUni-glossary</desc>
+                </change>
+                <change who="#celso" when="2024-02-27T22:24:16.173Z" type="text-version" status="1.1.16" xml:id="UT22084-046-003-411">
+                    <desc>updated Kangyur sigla to match rKTS</desc>
+                </change>
+                <change who="#andre" when="2024-06-28T14:05:03.482Z" type="text-version" status="1.1.17" xml:id="UT22084-046-003-413">
+                    <desc>Approved rendering "Jetavana, Anāthapiṇḍada’s Park" applied</desc>
+                </change>
+            </revisionDesc>
+        </fileDesc>
+        </teiHeader>
+        <text>
+                <front>
+                        <tei:div xmlns:tei="http://www.tei-c.org/ns/1.0" type="summary">
+                                <head type="summary" tid="1">Summary</head>
+                                <milestone unit="chunk" xml:id="UT22084-046-003-1"/>
+                                <p tid="2">In <title xml:lang="en">The Chapter on Mañjuśrī’s Magical Display</title>, the bodhisattva Mañjuśrī answers
+                                        a series of questions posed by the god Great Light concerning the appropriate conduct for bodhisattvas and the
+                                        potential pitfalls and obstacles presented to bodhisattvas by Māra. Midway through the sūtra, the demon Māra
+                                        himself appears and, after being captured and converted by Mañjuśrī, he begins to teach the Buddha’s Dharma to
+                                        the audience. After revealing that Māra was never truly bound by anything other than his own perception,
+                                        Mañjuśrī resumes his teaching for the remainder of the sūtra. </p>
+                        </tei:div>
+                        <tei:div xmlns:tei="http://www.tei-c.org/ns/1.0" type="acknowledgment">
+                                <head type="acknowledgment" tid="3">Acknowledgements</head>
+                                <milestone unit="chunk" xml:id="UT22084-046-003-2"/>
+                                <p tid="4">Translated by the Dharmachakra Translation Committee under the supervision of Chokyi Nyima Rinpoche. The
+                                        translation was produced by Benjamin Ewing, who also wrote the introduction. Andreas Doctor and James Gentry
+                                        compared the translation with the original Tibetan and edited the text.</p>
+                                <p tid="5">The translation was completed under the patronage and supervision of 84000: Translating the Words of the
+                                        Buddha.</p>
+                                <lb/>
+                                <p tid="263">The generous sponsorship of May and George Gu and family, which helped make the work on this translation possible, is most gratefully acknowledged.</p>
+                        </tei:div>
+                        <tei:div xmlns:tei="http://www.tei-c.org/ns/1.0" type="introduction">
+                                <head type="introduction" tid="6">Introduction</head>
+                                <tei:div type="section" xml:id="UT22084-046-003-introduction-1">
+                    <milestone unit="chunk" xml:id="UT22084-046-003-3"/>
+                                <p tid="7">
+                        <title xml:lang="en">The Chapter on Mañjuśrī’s Magical Display</title>
+                        <note place="end" xml:id="UT22084-046-003-4"> The Sanskrit title of this text varies between two alternatives across the
+                                                Tibetan versions. Most attest to <title xml:lang="Sa-Ltn">Mañjuśrī­vikurvāṇa­parivarta</title> while some give <title xml:lang="Sa-Ltn">Mañjuśrī­vikurvita­parivarta</title>. The latter
+                                                title appears in the Stok, Ulaanbaatar, Shey, Hemis, Phukdrak, Namgyal, Chizhi, Dongkarla, Gangteng,
+                                                and Neyphug Kangyurs and the Basgo fragments, while the former title appears in the rest.</note>
+                                        provides a teaching on the subject of the appropriate conduct for bodhisattvas. Set in Jeta’s Grove, Anāthapiṇḍada’s Park, on the outskirts of Śrāvastī, the sūtra is framed primarily as a conversation between the bodhisattva
+                                        Mañjuśrī and the god Great Light, while the Buddha listens to their dialog and occasionally comments. The god
+                                        Great Light poses a series of questions to Mañjuśrī as to how bodhisattvas should conduct themselves properly
+                                        and avoid the negative influence of Māra. While these questions generally deal with basic tenets of Buddhism
+                                        and monastic conduct, Mañjuśrī’s answers prioritize intention and proper view over actions themselves.</p>
+                                <milestone unit="chunk" xml:id="UT22084-046-003-5"/>
+                                <p tid="8">Midway through the text, the evil demon Māra makes an appearance in the form of a dark cloud (<ptr target="#UT22084-046-003-117"/>). He is caught and bound by Mañjuśrī, who transforms him into a
+                                        propagator of the Buddha’s teaching. In the section that follows, Māra unwillingly responds to questions from
+                                        elder members of the sangha concerning proper conduct as well as the bodhisattva path. At the end of this
+                                        section, the god Susīma requests Mañjuśrī to free Māra (<ptr target="#UT22084-046-003-162"/>). Mañjuśrī
+                                        responds by saying that Māra was never physically bound, just as beings are not truly bound by suffering
+                                        either. In fact, both can be liberated by understanding the empty nature of their perceived bonds. Following
+                                        this section, Mañjuśrī resumes his answers to questions about the bodhisattva path.</p>
+                                <milestone unit="chunk" xml:id="UT22084-046-003-6"/>
+                                <p tid="9">Throughout the sūtra, conventional aspects of the Buddhist path, from generosity and discipline to insight
+                                        and wisdom, are framed within an understanding of the empty nature of phenomena. In response to questions
+                                        about the most appropriate conduct, Mañjuśrī teaches that the primary concern must be the proper view, rather
+                                        than physical actions. Likewise, while Māra is bound by Mañjuśrī’s power, he explains to the elder Upāli that
+                                        upholding monastic discipline, too, is dependent upon understanding the empty nature of phenomena. Although the
+                                        sūtra teaches that the view of ultimate truth is paramount, it also makes clear that bodhisattvas must engage
+                                        with beings on the conventional level for the sake of helping others. In this way, skillful means and insight,
+                                        which are so central to the path of the Mahāyāna, are united.</p>
+                                <milestone unit="chunk" xml:id="UT22084-046-003-7"/>
+                                <p tid="260">
+                        <title xml:lang="en">The Chapter on Mañjuśrī’s Magical Display</title> is prominently placed in the Degé Kangyur as
+                                        the fourth scripture in the General Sūtra section.<note place="end" xml:id="UT22084-046-003-8"> The
+                                                order of the sūtras varies across the different Kangyurs. <title xml:lang="en">The Magical Display of
+                                                        Mañjuśrī</title> is placed among the first texts of the General Sūtra section in Kangyurs
+                                                related to the Degé, while it appears later in some other Kangyurs.</note> It
+                                        appears to have been an influential scripture in both India and Tibet, as it is quoted by scholars as
+                                        prominent as Vasubandhu (fourth–fifth century <hi rend="small-caps">ce</hi>),<note place="end" xml:id="UT22084-046-003-9">
+                                                <title xml:lang="Bo-Ltn">
+                                <ref rend="pending" target="https://read.84000.co/translation/toh3994.html" inst="F.107.b">blo gros mi zad pas bstan pa rgya cher ’grel pa</ref>
+                            </title>.</note>
+                                        Gampopa Sönam Rinchen (<tei:foreign xml:lang="Bo-Ltn" type="term">sgam po pa bsod nams rin chen</tei:foreign>,
+                                                1079–1153),<note place="end" xml:id="UT22084-046-003-10"> The sūtra is quoted in the text
+                                                        <title xml:lang="Bo-Ltn">bstan bcos lung gi nyi ’od</title> (Sönam Rinchen 1998, folio
+                                                30.a).</note> and Longchen Rabjam (<tei:foreign xml:lang="Bo-Ltn" type="term">klong chen rab
+                                                ’byams</tei:foreign>, 1308–1364).<note place="end" xml:id="UT22084-046-003-11"> The sūtra is
+                                                quoted in the text <title xml:lang="Bo-Ltn">yid bzhin rin po che’i mdzod kyi dka’ gnad</title>. (Drimé
+                                                Özer 1999, folio 16.a).</note> It also appears that this sūtra was at times confused with a similarly
+                                        named sūtra, <title xml:lang="en">The Play of Mañjuśrī</title> 
+                                        (<title xml:lang="Sa-Ltn">
+                            <tei:term rend="ignore">Mañjuśrī</tei:term>­vikrīḍita­sūtra</title>, 
+                                        Toh 96).<note place="end" xml:id="UT22084-046-003-12">For an English translation of Toh 96, see Braarvig, Jens (tr.) 
+                                                <title xml:lang="Sa-Ltn">
+                                <ref target="https://read.84000.co/translation/toh96.html">The Play of 
+                                                        <tei:term rend="ignore">Mañjuśrī</tei:term>
+                                </ref>
+                            </title> (2020). For one 
+                                                example of the confusion of the two texts, see Jñānavajra’s commentary on the 
+                                                <title xml:lang="Sa-Ltn">Laṅkāvatāra­sūtra</title> in the Tengyur 
+                                                (<ref rend="pending" target="https://read.84000.co/translation/toh4019.html" inst="F.121.a">Toh 4019</ref>), 
+                                                folio 121.a, where a passage cited as being from this text, <title xml:lang="en">The Chapter on 
+                                                        Mañjuśrī’s Magical Display</title>, is in fact from <title xml:lang="en">The Play of Mañjuśrī</title> 
+                                                (<ref target="https://read.84000.co/translation/toh96.html#UT22084-046-002-360">1.195</ref>). </note>
+                    </p>
+                                <milestone unit="chunk" xml:id="UT22084-046-003-208"/>
+                                <p tid="261">While there is no extant Sanskrit or other Indic version of this text, we can trace its textual history back to at
+                                        least 289 <hi rend="small-caps">ce</hi>, when it was first translated into Chinese 
+                                        (Taishō 589).<note place="end" xml:id="UT22084-046-003-210">
+                            <title xml:lang="zh">佛說魔逆經</title> (<title xml:lang="Zh-Ltn">Foshuo 
+                                                moni jing</title>).</note> The
+                                        translator was the monk Dharmarakṣa, who was one of the most important translators of Mahāyāna Buddhist texts
+                                        in China; he was responsible for the translation of around 150 texts, including the first Chinese version of
+                                        the <title xml:lang="en">Lotus Sūtra</title>.<note place="end" xml:id="UT22084-046-003-13"> For more
+                                                on Dharmarakṣa, see Boucher 2006.</note> Another text identified with this title was translated into
+                                        Chinese in 427 <hi rend="small-caps">ce</hi> by Zhi Yan and Bao Yun 
+                                        (Taishō 590),<note place="end" xml:id="UT22084-046-003-212">
+                            <title xml:lang="zh">佛說四天王經</title> (<title xml:lang="Zh-Ltn">Foshuo 
+                                                si tianwang jing</title>).</note> although it is much shorter
+                                        and contains other differences in content that make its precise identity difficult to determine without
+                                        further research. We can reliably date the Tibetan translation to the early ninth century at the latest, as it
+                                        appears in the imperial Denkarma (<tei:foreign xml:lang="Bo-Ltn" type="term">ldan kar ma</tei:foreign>) catalog.<note place="end" xml:id="UT22084-046-003-14"> Denkarma, folio 298.b.2. See also Herrmann-Pfandt
+                                                2008, 84, no. 154.</note> The translators for the Tibetan version were the translator-editor Yeshé Dé
+                                        and the Indian preceptors Śīlendrabodhi and Jinamitra. This sūtra was also translated into Mongolian and Korean
+                                        and included in their respective canons. </p>
+                                <milestone unit="chunk" xml:id="UT22084-046-003-214"/>
+                                <p tid="262">This translation was prepared primarily based on the Degé Kangyur
+                                        version of <title xml:lang="en">The Magical Display of Mañjuśrī</title>. The Stok Palace manuscript and the
+                                        Comparative Edition (Tib. <tei:foreign xml:lang="Bo-Ltn">dpe bsdur ma</tei:foreign>) were also consulted for variant
+                                        readings.</p>
+                </tei:div>
+                        </tei:div>
+                </front>
+                <body>
+                        <tei:div xmlns:tei="http://www.tei-c.org/ns/1.0" type="translation">
+                                <head type="translation"> The Translation </head>
+                                <head type="titleHon" tid="12">The Noble Great Vehicle Sūtra</head>
+                                <head type="titleMain" tid="13">The Chapter on Mañjuśrī’s Magical Display</head>
+                                <tei:div type="section" xml:id="UT22084-046-003-section-1">
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-17"/>
+                                        <p tid="16">
+                        <ref cRef="F.242.a" type="folio" xml:id="UT22084-046-003-329"/> Homage to all buddhas and
+                                                bodhisattvas!</p>
+                                        <lb/>
+                                        <p tid="17">Thus did I hear at one time. The Blessed One was residing in Śrāvastī, in Jeta’s Grove, Anāthapiṇḍada’s Park, together with a great monastic assembly of 1,250 monks. Also in attendance was a
+                                                great assembly of bodhisattvas, as well as gods of the desire realm, gods of the form realm, and
+                                                various gods of the pure abodes. There, surrounded and revered by his retinue of many hundreds of
+                                                thousands, the Blessed One was teaching the Dharma. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-19"/>
+                                        <p tid="18">Present in the assembly at that time was a divine being known as Great Light. Also present in the
+                                                assembly was youthful
+                                                Mañjuśrī. The god Great Light asked youthful Mañjuśrī, “Mañjuśrī, when Māra creates obstacles to the
+                                                bodhisattvas’ unexcelled and perfect awakening, then, Mañjuśrī, what are the workings of Māra with
+                                                respect to bodhisattvas?” </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-20"/>
+                                        <p tid="19">Youthful Mañjuśrī replied to the god Great Light, “Divine being, as long as there are actions,
+                                                there are the workings of Māra. As long as there are aspirations, misapprehensions, or valuations,
+                                                there are the workings of Māra. As long as there are desires, conceptions, assumptions, or
+                                                superimpositions, there are the workings of Māra. Also, divine being, clinging to the mind of
+                                                awakening is the working of Māra. Clinging to an attitude of generosity is the working of Māra.
+                                                Clinging to thoughts of discipline, patience, diligence, concentration, and insight is also the
+                                                working of Māra. <ref cRef="F.242.b" type="folio" xml:id="UT22084-046-003-330"/> Being arrogant about
+                                                generosity, esteeming discipline, grasping at patience, adopting diligence, practicing concentration
+                                                with marks, and having discursive insight are also the workings of Māra. Liking and wishing for the
+                                                wilderness and falling into indifference are also the workings of Māra. Entertaining assumptions about
+                                                having few desires, being content, engaging in ascetic practices, and reducing one’s possessions is
+                                                also the working of Māra. To have assumptions and presumptions, such as ‘I abide in emptiness,’ ‘I
+                                                rest free from marks,’ ‘I rest without wishes,’ ‘I rest without conceptual elaborations,’ and ‘I have
+                                                obtained and adhere to the instructions of the Thus-Gone One,’ is also the working of Māra. Divine
+                                                being, as long as there are objects of thought, imagination, superimposition, sight, hearing,
+                                                discrimination, or cognition, there are the workings of Māra.” </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-21"/>
+                                        <p tid="20">“Mañjuśrī, from where do the workings of Māra arise?” asked the god.</p>
+
+                                        <p tid="21">“Divine being, the workings of Māra arise from exertion,” replied Mañjuśrī. “Why is that? Divine
+                                                being, in exertion, there is an opportunity for Māra. On the other hand, what could Māra accomplish
+                                                with nonexertion? So exertion itself is the working of Māra.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-23"/>
+                                        <p tid="22">“Mañjuśrī, how do bodhisattvas exert themselves, and how do they not exert
+                                                themselves?” asked the god.</p>
+
+                                        <p tid="23">“Divine being, even while they are engaged with duality, they are not exerting
+                                                themselves,” replied Mañjuśrī. “Why is that? To abide in the world is to have engagement with duality. Divine being,
+                                                        <distinct>exertion</distinct> is a synonym for proper engagement. <distinct>Proper
+                                                        engagement</distinct> is a synonym for nonengagement. <distinct>Nonengagement</distinct> is a
+                                                synonym for the absence of conceptual elaboration. <distinct>Absence of conceptual
+                                                        elaboration</distinct> is a synonym for proper engagement. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-25"/>
+                                        <p tid="24">“Divine being, not engaging with the eyes or form is known as the proper engagement of
+                                                bodhisattvas. Not engaging with the ear or sound, <ref cRef="F.243.a" type="folio" xml:id="UT22084-046-003-331"/> the nose or smell, the tongue or taste, the body or texture, or
+                                                the mind or mental phenomena is known as the proper engagement of bodhisattvas. Divine being,
+                                                moreover, bodhisattvas do not engage with any affliction, yet they exert themselves for the sake of
+                                                eliminating the afflictions of beings. This is known as the proper engagement of bodhisattvas. Divine
+                                                being, moreover, bodhisattvas do not engage with the three realms, yet they engage with the beings who
+                                                appear within the three realms. This is known as the proper engagement of bodhisattvas. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-26"/>
+                                        <p tid="25">“Moreover, bodhisattvas engage in generosity free from arrogance, yet they also engage in
+                                                attracting miserly beings. They engage in discipline without arrogance, yet they also engage in
+                                                attracting immoral beings. They engage in patience without arrogance, yet they also engage in
+                                                attracting vindictive beings. They engage in diligence without arrogance, yet they also engage in
+                                                attracting lazy beings. They engage in concentration without arrogance, yet they also engage in
+                                                attracting distracted beings. They engage in insight without arrogance, yet they also engage in
+                                                attracting ignorant beings. These, too, are known as the proper engagement of bodhisattvas. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-27"/>
+                                        <p tid="26">“Moreover, bodhisattvas engage in emptiness without arrogance. The absence of any view, while
+                                                also not being free from views, is to engage in emptiness. Emptiness is empty of emptiness. Due to
+                                                that emptiness, views are empty. Likewise, due to the emptiness by which views are empty, all
+                                                phenomena are empty. To understand this—without having special pride in that understanding—is the
+                                                proper engagement of bodhisattvas.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-28"/>
+                                        <p tid="27">“Moreover, divine being, bodhisattvas engage in the absence of marks without arrogance. The
+                                                absence of any thought, <ref cRef="F.243.b" type="folio" xml:id="UT22084-046-003-332"/> while also not
+                                                being free from thoughts, is engagement in the absence of marks. The thought through which the absence
+                                                of marks is conceived is the same as the absence of marks. Bodhisattvas understand the sameness of
+                                                conceptual thinking and the absence of marks by means of conceptual thinking that is devoid of marks.
+                                                To understand this—without having special pride in that understanding—is the proper engagement of
+                                                bodhisattvas. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-29"/>
+                                        <p tid="28">“Moreover, bodhisattvas engage in the absence of wishes without arrogance, yet they also engage in
+                                                willfully taking birth. Although they make aspirations, they do not form habitual thought patterns.
+                                                Although they make aspirations, they are not involved in discursive thoughts due to those aspirations.
+                                                Birth after birth, they are free of the views of the two extremes. They are free of the views of
+                                                clinging to <distinct>me</distinct> and <distinct>mine</distinct>. Birth after birth, they are free of
+                                                tumbling from death to rebirth. To understand this—without having special pride in that
+                                                understanding—is the proper engagement of bodhisattvas.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-30"/>
+                                        <p tid="29">“Moreover, divine being, the most excellent proper engagement of bodhisattvas is as follows: </p>
+
+                                        <p tid="30">“With their knowledge of insight, bodhisattvas do not exert themselves; yet they engage in
+                                                gathering all virtuous qualities, through their knowledge of skillful means.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-32"/>
+                                        <p tid="31">“With their knowledge of insight, bodhisattvas engage in the lack of a self, the lack of a being,
+                                                the lack of a life principle, the lack of a soul, and the lack of a person; yet they also engage in
+                                                the ripening of all beings, through their knowledge of skillful means.</p>
+
+                                        <p tid="32">“With their knowledge of insight, bodhisattvas engage in neither accepting nor rejecting anything;
+                                                yet they also engage in embracing all phenomena, through their knowledge of skillful means.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-34"/>
+                                        <p tid="33">“With their knowledge of insight, bodhisattvas engage in the indivisibility of all buddhas and the
+                                                realm of phenomena; yet they also engage in venerating, honoring, worshiping, and serving all buddhas,
+                                                through their knowledge of skillful means.</p>
+
+                                        <p tid="34">“With their knowledge of insight, bodhisattvas engage with all buddhafields as being the field of
+                                                space; yet they also fully engage with the ornamental array of qualities in the buddhafields, <ref cRef="F.244.a" type="folio" xml:id="UT22084-046-003-333"/> through their knowledge of skillful
+                                                means.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-36"/>
+                                        <p tid="35">“With their knowledge of insight, bodhisattvas engage with all noble ones as being manifestations
+                                                of the unconditioned nature; yet they also engage with all the noble ones by venerating, respecting,
+                                                and serving them, through their knowledge of skillful means. </p>
+
+                                        <p tid="36">“With their knowledge of insight, bodhisattvas engage with the buddha’s body by considering it to
+                                                be undefiled; yet they also engage with its major marks, minor marks, and adornments, through their
+                                                knowledge of skillful means.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-38"/>
+                                        <p tid="37">“With their knowledge of insight, bodhisattvas engage with all conditioned things by considering
+                                                them to be unborn and unarisen; yet they also engage with them by intentionally taking rebirth in
+                                                existence, through their knowledge of skillful means.</p>
+
+                                        <p tid="38">“With their knowledge of insight, bodhisattvas engage with emptiness, the absence of marks, and
+                                                the absence of wishes; yet they also engage in teaching the abandonment of views, thoughts, and
+                                                aspirations, through their knowledge of skillful means.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-40"/>
+                                        <p tid="39">“With their knowledge of insight, bodhisattvas engage with the superknowledges by considering them
+                                                to be unborn; yet they also engage with miraculous displays by means of all the superknowledges,
+                                                through their knowledge of skillful means.</p>
+
+                                        <p tid="40">“With their knowledge of insight, bodhisattvas engage with the aggregates, elements, and sense
+                                                sources as being unborn and uncompounded; yet they also engage in rejecting the aggregates, elements,
+                                                and sense sources, through their knowledge of skillful means. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-42"/>
+                                        <p tid="41">“With their knowledge of insight, bodhisattvas engage with the understanding that existence has
+                                                the nature of nirvāṇa; yet they also engage in ripening beings in saṃsāra, through their knowledge of
+                                                skillful means.</p>
+
+                                        <p tid="42">“With their knowledge of insight, bodhisattvas engage with the eye of insight; yet they also engage in
+                                                accomplishing the divine eye, through their knowledge of skillful means.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-44"/>
+                                        <p tid="43">“With their knowledge of insight, bodhisattvas engage in the understanding that the Dharma is
+                                                inexpressible; yet they also engage in teaching the Dharma by means of words and expressions, through
+                                                their knowledge of skillful means.</p>
+
+                                        <p tid="44">“With their knowledge of insight, bodhisattvas engage in the discernment of meaning and doctrine;
+                                                yet they also engage in the discernment of expression and eloquence, through their knowledge of
+                                                skillful means.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-46"/>
+                                        <p tid="45">“With their knowledge of insight, bodhisattvas engage in knowing the capacities—both high and
+                                                low—of all beings; <ref cRef="F.244.b" type="folio" xml:id="UT22084-046-003-334"/> yet they also
+                                                engage in teaching the Dharma appropriate to each being, through their knowledge of skillful
+                                                means.</p>
+
+                                        <p tid="46">“With their knowledge of insight, bodhisattvas engage in comprehending the 84,000 activities of
+                                                beings; yet they also teach the 84,000 collections of the Dharma, through their knowledge of skillful
+                                                means.</p>
+
+                                        <p tid="47">“This, divine being, is the most excellent proper engagement of bodhisattvas.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-49"/>
+                                        <p tid="48">As youthful Mañjuśrī gave this teaching on proper engagement, the intention to reach unexcelled
+                                                and perfect awakening arose within eight thousand gods from that assembly, and five thousand
+                                                bodhisattvas developed acceptance that phenomena are unborn. </p>
+
+                                        <p tid="49">The Blessed One gave his approval to youthful Mañjuśrī, saying, “Excellent, Mañjuśrī! You have
+                                                explained the proper engagement of bodhisattvas well.”</p>
+                                        <lb/>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-51"/>
+                                        <p tid="50">The god Great Light then asked youthful Mañjuśrī, “Mañjuśrī, were you pleased when the Thus-Gone
+                                                One gave you his approval?” </p>
+
+                                        <p tid="51">Mañjuśrī replied, “Divine being, tell me, when one emanation gives approval to another emanation,
+                                                does that emanation become pleased?” </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-53"/>
+                                        <p tid="52">“Mañjuśrī, if the emanation has no attachment or aversion, how could it become
+                                                pleased?” asked the god.</p>
+
+                                        <p tid="53">“Divine being,” replied Mañjuśrī, “all phenomena have the inherent characteristic of being
+                                                emanations, and so the Thus-Gone One and Mañjuśrī also have that characteristic. Therefore, why would
+                                                I become pleased by being praised? By way of analogy, divine being, an echo does not become attached
+                                                to pleasant or unpleasant sounds. Nor does it become averse to them. Divine being, in that way all
+                                                phenomena have the inherent nature of an echo. The Thus-Gone One and Mañjuśrī both have that nature.
+                                                        <ref cRef="F.245.a" type="folio" xml:id="UT22084-046-003-335"/> So how could I become pleased
+                                                by being praised?” </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-55"/>
+                                        <p tid="54">“Mañjuśrī, to whom did the Thus-Gone One give his approval?” asked the god.</p>
+
+                                        <p tid="55">“Divine being,” replied Mañjuśrī, “to one who teaches that consciousness is nonabiding; to one whose
+                                                mind is unobstructed concerning all the teachings; to one who does not perceive any being as a being;
+                                                to one who does not perceive any phenomenon as a phenomenon; to one whose intention is set on nirvāṇa,
+                                                while their activity is rooted in saṃsāra; to one who has understood the actions of Māra and knows the
+                                                actions of Māra to be buddha activity; and, moreover, to one who understands that if one becomes
+                                                attached to buddha activity, it too becomes the activity of Māra. It is to a bodhisattva who is
+                                                righteous in that way, divine being, that the Thus-Gone One gives his approval.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-57"/>
+                                        <p tid="56">“Mañjuśrī, why is it that because you are righteous in that way, the Thus-Gone
+                                                One gives you his approval?” asked the god.</p>
+
+                                        <p tid="57">Mañjuśrī replied, “Divine being, tell me, is there any difference within sameness?”</p>
+
+                                        <p tid="58">The god responded, “No, Mañjuśrī, there is no difference whatsoever within sameness.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-60"/>
+                                        <p tid="59">Mañjuśrī then said, “Divine being, whatever is the same as sameness is the same as the acts with
+                                                immediate retribution. Whatever is the same as the acts with immediate retribution is the same as me.
+                                                Whatever is the same as sameness is the same as views. Whatever is the same as views is the same as
+                                                me. Whatever is the same as sameness is the same as the misunderstandings. Whatever is the same as the
+                                                misunderstandings is the same as me. Whatever is the same as sameness is the same as keeping reference
+                                                points. Whatever is the same as keeping reference points is the same as me. Whatever is the same as
+                                                sameness is the same as the limit of saṃsāra. Whatever is the same as the limit of saṃsāra is the same
+                                                as the limit of nirvāṇa. Whatever is the same as the limit of nirvāṇa is the same as the limit of the
+                                                self. <ref cRef="F.245.b" type="folio" xml:id="UT22084-046-003-336"/> Whatever is the same as the
+                                                limit of the self is the same as the limit of reality. Whatever is the same as the limit of reality is
+                                                the same as the limit of ignorance, existence, and craving. Whatever is the same as the limit of
+                                                ignorance, existence, and craving is the same as the limit of knowledge and liberation. Whatever is
+                                                the same as the limit of knowledge and liberation is the same as the limit of desire, aggression, and
+                                                delusion. Whatever is the same as the limit of desire, aggression, and delusion is the same as the
+                                                limit of emptiness, the absence of marks, and the absence of wishes. Whatever is the same as the limit
+                                                of emptiness, the absence of marks, and the absence of wishes is the same as the limit of conditioned
+                                                phenomena. Whatever is the same as the limit of conditioned phenomena is the same as the limit of
+                                                unconditioned phenomena. Whatever is the same as the limit of unconditioned phenomena is the same as
+                                                youthful Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-61"/>
+                                        <p tid="60">“Divine being, this sameness means that all phenomena are the same. Therefore, all aspects of
+                                                giving approval—such as who speaks, what they say, where they say it, and to whom they say it—are all
+                                                the same, just like the sameness of the sky. Since the sky is unconditioned, it is beyond any sameness
+                                                or difference. Whoever conforms, without conforming, to these types of sameness is the one who
+                                                receives the Thus-Gone One’s approval.” </p>
+                                        <lb/>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-62"/>
+                                        <p tid="61">“Mañjuśrī, please clarify this with a Dharma teaching on the topic of what is
+                                                commendable and not commendable,” requested the god.</p>
+
+                                        <p tid="62">“Divine being,” replied Mañjuśrī, “setting out for awakening with altruistic intent is commendable,
+                                                while practicing trickery and deceit is not commendable. Not abandoning any being because of great
+                                                compassion is commendable, while harming beings is not commendable. Not having any aggression toward
+                                                beings is commendable, while a malicious attitude is not commendable. Confessing one’s transgressions
+                                                openly <ref cRef="F.246.a" type="folio" xml:id="UT22084-046-003-337"/> and declaring them without any
+                                                lapse of time is commendable, while concealing one’s transgressions is not commendable. Acknowledging
+                                                one’s own mistakes is commendable, while seeking out the faults of others is not commendable. Being
+                                                grateful, being appreciative, being thankful, and repaying others’ kindness is commendable, while not
+                                                being grateful, not being appreciative, not being thankful, and not repaying others’ kindness is not
+                                                commendable. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-64"/>
+                                        <p tid="63">“Becoming erudite is commendable, while mistaken learning is not commendable. Receiving the
+                                                precepts without transgressing them is commendable, while receiving the precepts and then forsaking
+                                                them is not commendable. Seeking out solitude and enjoying it is commendable, while enjoying
+                                                socializing is not commendable. Sacrificing life and limb to stay in the wilderness is commendable,
+                                                while being concerned for one’s life and limb is not commendable. Delighting in the noble tradition
+                                                and knowing moderation are commendable, while being insatiable and greedy and yearning for what is
+                                                unwholesome are not commendable. Being patient and caring toward the weak is commendable, while
+                                                denigrating others is not commendable. A pure livelihood is commendable, while being lazy is not
+                                                commendable. Not forsaking those who have gone for refuge is commendable, while being hostile to those
+                                                who have gone for refuge is not commendable. Not breaking one’s promises and being true to one’s word
+                                                is commendable, while deceiving anyone is not commendable. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-65"/>
+                                        <p tid="64">“Upholding the holy Dharma is commendable, while abandoning the holy Dharma is not commendable.
+                                                The teacher who is not stingy with his learning, who does not withhold the Dharma, and who teaches the
+                                                Dharma without concern for material possessions is commendable. The teacher who is stingy with the
+                                                Dharma, who withholds the Dharma, and who teaches the Dharma with concern for worldly things is not
+                                                commendable. <ref cRef="F.246.b" type="folio" xml:id="UT22084-046-003-338"/> Attracting beings with
+                                                the goal of fully ripening them is commendable, while the teacher who attracts beings without concern
+                                                for them and without the goal of ripening them is not commendable. Pursuing the six perfections is
+                                                commendable, while discordance with the six perfections is not commendable. Actions undertaken with
+                                                knowledge are commendable, while actions undertaken with pride are not commendable. Associating<note place="end" xml:id="UT22084-046-003-66"> Reading <tei:foreign xml:lang="Bo-Ltn" type="term">bsten pa</tei:foreign> here from K and N in place of <tei:foreign xml:lang="Bo-Ltn" type="term">brtan pa</tei:foreign>.</note> with close friends is
+                                                commendable, while befriending evil people is not commendable. Following the path of the ten virtuous
+                                                actions is commendable, while embarking on the path of the ten nonvirtuous actions is not commendable.
+                                                Avoiding all unwholesome deeds is commendable, while engaging in any unwholesome deed is not
+                                                commendable. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-67"/>
+                                        <p tid="65">“Divine being, the going forth of those who hold reference points is not commendable, while the
+                                                renunciation of those who espouse emptiness is commendable. Teaching the views of the lokāyatas from a
+                                                lion throne is not commendable, while teaching the true Dharma of the Bodhisattva Collection from a
+                                                lion throne is commendable. Partaking of gifts given out of faith while having flawed ethical
+                                                discipline is not commendable, while any gain, praise, or laud for someone who observes ethical
+                                                discipline is commendable. Knowledge endowed with special pride is not commendable, while
+                                                communicating knowledge without special pride is commendable. Having malice toward bodhisattvas is not
+                                                commendable, while having fondness for bodhisattvas as the only teachers is commendable. Pretending to
+                                                be a bodhisattva in order to make a living is not commendable, while the profit of a bodhisattva
+                                                committed to the authentic preaching of the Dharma is commendable. Divine being, in those ways,
+                                                anything that contradicts the words of the Thus-Gone One is not commendable. Likewise, anything that
+                                                accords with the words of the Thus-Gone One is commendable.” <ref cRef="F.247.a" type="folio" xml:id="UT22084-046-003-339"/>
+                                        </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-68"/>
+                                        <p tid="66">“Mañjuśrī, do you exert yourself in what is commendable, or in what is not
+                                                commendable?” asked the god.</p>
+
+                                        <p tid="67">“Divine being, I do not exert myself in what is commendable, nor do I exert
+                                                myself in what is not commendable,” replied Mañjuśrī. “Why is that? Divine being, I do not exert myself in any
+                                                phenomenon.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-70"/>
+                                        <p tid="68">“Mañjuśrī, do you not strive for commendable qualities?” asked the god.</p>
+
+                                        <p tid="69">“Divine being, I do not exert myself in virtuous phenomena, nor do I exert
+                                                myself in nonvirtuous phenomena,” replied Mañjuśrī. “Why is that? Divine being, <distinct>virtue</distinct> is
+                                                conditioned. <distinct>Nonvirtue</distinct> is conditioned. <distinct>Immovability</distinct>
+                        <note place="end" xml:id="UT22084-046-003-72"> This is a standard set of three terms
+                                                        characterizing actions and their karmic consequences: virtuous, nonvirtuous, and unmoving.
+                                                        This third term refers to acts that lead to rebirth in the formless realm and are so called
+                                                        because their result is unchangeable. See Edgerton’s entry on <tei:foreign xml:lang="Sa-Ltn" type="term">aniñjya</tei:foreign> (p. 24) for further information.</note> is conditioned
+                                                as well.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-73"/>
+                                        <p tid="70">“Mañjuśrī, are you unconditioned?” asked the god.</p>
+
+                                        <p tid="71">“Divine being, if seen from the perspective of being afraid of the
+                                                conditioned, I am unconditioned,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-75"/>
+                                        <p tid="72">“Mañjuśrī, are you not afraid of the conditioned?” asked the god.</p>
+
+                                        <p tid="73">“Divine being, if I saw a conditioned thing that truly existed, then I would be
+                                                afraid of the conditioned,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-77"/>
+                                        <p tid="74">“Mañjuśrī, have you not seen a conditioned thing that truly existed?” asked the god.</p>
+
+                                        <p tid="75">“Divine being, I have not seen a conditioned thing that truly existed, nor have I
+                                                seen such an unconditioned thing that truly existed,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-79"/>
+                                        <p tid="76">“Mañjuśrī, are you conditioned or unconditioned?” asked the god.</p>
+
+                                        <p tid="77">“Divine being, I am neither conditioned nor unconditioned,” replied Mañjuśrī. “Why is that? If I were
+                                                conditioned, I would be like all the childish, ordinary beings. If I were unconditioned, I would be
+                                                like all the hearers and solitary buddhas.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-81"/>
+                                        <p tid="78">“Mañjuśrī, if you cannot be classified as either conditioned <ref cRef="F.247.b" type="folio" xml:id="UT22084-046-003-340"/> or unconditioned, how should you be understood?” asked the god.</p>
+
+                                        <p tid="79">Mañjuśrī replied, “Divine being, what do you think? Is an emanation of the Thus-Gone One to be
+                                                considered as conditioned or unconditioned?”</p>
+
+                                        <p tid="80">“Mañjuśrī,” said the god, “an emanation of the Thus-Gone One is not considered as conditioned,
+                                                nor is it considered as unconditioned.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-83"/>
+                                        <p tid="81">Mañjuśrī then said, “Divine being, just as you understand the nature of the Thus-Gone One’s emanations,
+                                                so should you understand me. Divine being, tell me, where does the consciousness of the Thus-Gone One
+                                                abide? Is it in form?”</p>
+
+                                        <p tid="82">“No.”</p>
+
+                                        <p tid="83">“Does it abide in feeling, perception, or formations?”</p>
+
+                                        <p tid="84">“No.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-86"/>
+                                        <p tid="85">“Does it abide in the conditioned?”</p>
+
+                                        <p tid="86">“No.”</p>
+
+                                        <p tid="87">“Does it abide in the unconditioned?”</p>
+
+                                        <p tid="88">“No.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-90"/>
+                                        <p tid="89">“Where does the Thus-Gone One’s consciousness abide?”</p>
+
+                                        <p tid="90">“Mañjuśrī, the Thus-Gone One’s consciousness does not abide anywhere at all.”</p>
+
+                                        <p tid="91">“Divine being,” said Mañjuśrī, “you should understand that wherever the consciousness of the
+                                                Thus-Gone One abides, there I abide.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-95"/>
+                                        <p tid="92">The god then asked, “Mañjuśrī, are you a thus-gone one?”</p>
+
+                                        <p tid="93">Mañjuśrī replied, “Suchness has neither coming nor going. That is the way I go and the way a
+                                                thus-gone one goes. Therefore, I am a thus-gone one. I also come in the same way as suchness.
+                                                Therefore, I am a thus-gone one. I also abide in the same way as suchness. Therefore, I am a thus-gone
+                                                one. Divine being, <distinct>Mañjuśrī</distinct> is just like suchness. Therefore, I am a thus-gone one. Since suchness is
+                                                beyond concepts and peaceful, Mañjuśrī is also beyond concepts and peaceful. Therefore, I am a
+                                                thus-gone one.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-97"/>
+                                        <p tid="94">“Mañjuśrī, where should I search for suchness?” asked the god. <ref cRef="F.248.a" type="folio" xml:id="UT22084-046-003-341"/>
+                                        </p>
+
+                                        <p tid="95">“Divine being, look for suchness in the sixty-two wrong views,”<note place="end" xml:id="UT22084-046-003-99"> These are typically organized into two
+                                                        general groups: 18 views that are based on the assertion of the past and 44 views based on the
+                                                        assertion of the future. The first group includes assertions such as the permanence of the
+                                                        self and the world, impermanence, nihilism, or eternalism, and the second group includes
+                                                        assertions of perception, nonperception, both, or neither, as well as assertions of nihilism
+                                                        or that this is nirvāṇa. See also Nordrang Orgyen 2008, 3578.</note> replied Mañjuśrī.
+                                        </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-100"/>
+                                        <p tid="96">“Where should I look for the sixty-two wrong views?” asked the god.</p>
+
+                                        <p tid="97">“Divine being, you should look for the sixty-two wrong views in the Thus-Gone
+                                                One’s liberation, which has the character of imperturbability,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-102"/>
+                                        <p tid="98">“Mañjuśrī, where should I look for the Thus-Gone One’s liberation?” asked the god.</p>
+
+                                        <p tid="99">“Divine being, you should look for the Thus-Gone One’s liberation in the mental
+                                                states and thoughts of all beings,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-104"/>
+                                        <p tid="100">“Mañjuśrī, where should I look for all beings’ mental states and thoughts?” asked the god.</p>
+
+                                        <p tid="101">“Divine being, in the experience of the buddhas,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-106"/>
+                                        <p tid="102">“Mañjuśrī, where should I look for the experience of the buddhas?” asked the god.</p>
+
+                                        <p tid="103">“Divine being, you must search for this within the knowledge of the greater and
+                                                lesser faculties of beings,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-108"/>
+                                        <p tid="104">“Mañjuśrī, how would you explain this in terms of lesser knowledge?” asked the god.</p>
+
+                                        <p tid="105">“Divine being, no one is able to understand or cognize the wisdom of a buddha,” replied Mañjuśrī. “Why
+                                                is that? Divine being, the wisdom of a buddha is unobstructed, beyond thinking, inexpressible,
+                                                inexplicable, without engagement, and beyond words. It is separate from mind, mental faculty, and
+                                                cognition. Therefore, no one could possibly understand or cognize it.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-110"/>
+                                        <p tid="106">“Mañjuśrī, if the wisdom of a buddha cannot be understood, how can hearers gain
+                                                knowledge? How can bodhisattvas achieve the state of nonregression?” asked the god.</p>
+
+                                        <p tid="107">“Divine being,” replied Mañjuśrī, “the teaching of wisdom in words is the skillful means of the
+                                                thus-gone ones. This wisdom is without words. <ref cRef="F.248.b" type="folio" xml:id="UT22084-046-003-342"/> Divine being, fire does not arise from rubbing fire. Rather,
+                                                fire arises from rubbing kindling sticks together. Divine being, just as in that analogy, if the
+                                                thus-gone ones were to teach the vast wisdom of a buddha in full from the very beginning, then no one
+                                                at all would comprehend the thus-gone ones’ wisdom. Therefore, the thus-gone ones make use of verbal
+                                                teachings that are like kindling sticks to teach wisdom. Yet the wisdom itself is without words.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-112"/>
+                                        <p tid="108">“Mañjuśrī, what are these verbal teachings that are like kindling sticks like?” asked the god.</p>
+
+                                        <p tid="109">“Divine being, anything that is appropriate,” replied Mañjuśrī. “They can be teachings on vows and
+                                                having few belongings, teachings on practicing the perfections, or teachings pertaining to the factors
+                                                of awakening. These are known as <distinct>teachings that are like kindling sticks</distinct>.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-114"/>
+                                        <p tid="110">“Mañjuśrī, what teachings are not teachings that are like kindling sticks?” asked the god.</p>
+
+                                        <p tid="111">“Divine being,” replied Mañjuśrī, “teachings that are not about birth, destruction, or remaining;
+                                                teachings that do not induce or exclude; teachings that do not explain affliction; teachings that do
+                                                not cover the benefits of purification; teachings that do not inspire revulsion for saṃsāra; teachings
+                                                that do not cause delight in nirvāṇa; teachings that are not for the sake of knowledge, abandonment,
+                                                cultivation, or actualization; and teachings that are not for the sake of attainment or realization.
+                                                Divine being, those are pure,<note place="end" xml:id="UT22084-046-003-116"> Reading
+                                                        <tei:foreign xml:lang="Bo-Ltn" type="term">dag pa</tei:foreign> from Y<!--KY-->, K, S.</note> meaningful teachings.”</p>
+                                        <lb/>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-117"/>
+                                        <p tid="112">The god then said, “Mañjuśrī, when you give advice like this, Māra will surely not come to create
+                                                confusion. How wonderful!”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-204"/>
+                                        <p tid="113">No sooner had he spoken than the Evil One, Māra, manifested as a giant storm cloud in the sky above
+                                                that thundered with a loud roar. The entire assembly became frightened and thought, “Who roared like
+                                                that?”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-119"/>
+                                        <p tid="114">Then the Blessed One said <ref cRef="F.249.a" type="folio" xml:id="UT22084-046-003-343"/> to
+                                                youthful Mañjuśrī, “Mañjuśrī, do you see the manifestation of the Evil One, Māra?” </p>
+
+                                        <p tid="115">“Blessed One, I see it,” replied Mañjuśrī. “Well-Gone One, I see it.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-121"/>
+                                        <p tid="116">Just then youthful Mañjuśrī ensnared the evil Māra with tight bonds. Māra, worried that he was
+                                                going to fall down to earth, cried out, “I have been tied too tightly! I have been tied too
+                                                tightly!”</p>
+
+                                        <p tid="117">“Evil One, there are other bonds that are far tighter than these,” replied Mañjuśrī. “Although you
+                                                have always been bound by them, you have not realized it. What are they? They are the bond of the
+                                                prideful thought ‘I am,’ the bond of misconception, and the bonds of craving and views. Evil Māra,
+                                                those are far tighter bonds than the ones in which I have now ensnared you. Although they have always
+                                                bound you, you have not realized it.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-123"/>
+                                        <p tid="118">Māra responded, “Mañjuśrī, let me go! I will return to my abode. I will not commit any demonic
+                                                acts.”</p>
+
+                                        <p tid="119">“Evil One,” replied Mañjuśrī, “if you are meant to do the work of the Buddha, why would I let you
+                                                go?”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-125"/>
+                                        <p tid="120">Māra responded, “Mañjuśrī, I am here to cause obstacles to the teachings of the Buddha, so how
+                                                could I do the work of the Buddha?”</p>
+
+                                        <p tid="121">Mañjuśrī then said, “Evil One, to cause a māra to engage in the work of a buddha is a manifestation of
+                                                the bodhisattvas’ skills and knowledge. A buddha who performs buddha activity is not remarkable. A
+                                                māra who performs buddha activity is truly amazing.” Having said this, youthful Mañjuśrī transformed
+                                                the evil Māra so that he obtained the appearance of a buddha, sat on the lion throne of a buddha, and
+                                                had the eloquence of a buddha. </p>
+
+                                        <p tid="122">Then the evil Māra said, “Venerable ones, ask me anything you wish. <ref cRef="F.249.b" type="folio" xml:id="UT22084-046-003-344"/> I will then answer and put your minds at ease.” </p>
+                                        <lb/>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-128"/>
+                                        <p tid="123">The elder Mahākāśyapa inquired of the evil Māra, “Evil One, what are the bonds of a monk practitioner?” </p>
+
+                                        <p tid="124">Māra replied, “Venerable Mahākāśyapa, relishing the experience of concentration is a bond of a
+                                                monk practitioner. Also, attachment to tranquility, practicing attainment in the sense source of
+                                                neither perception nor nonperception, perceiving an essence in emptiness, perceiving wrong views as
+                                                something to eradicate, perceiving an essence in the absence of marks, perceiving marks as something
+                                                to eradicate, perceiving an essence in the absence of wishes, perceiving wishes as something to
+                                                eradicate, perceiving an essence in nirvāṇa, and perceiving saṃsāra as something to eradicate—these
+                                                are the bonds of a monk practitioner, Venerable Mahākāśyapa. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-130"/>
+                                        <p tid="125">“Why is that? Venerable Mahākāśyapa, emptiness is not something that must be cultivated once
+                                                views have been eradicated—rather, wrong views are themselves emptiness. The absence of marks is not
+                                                something that must be cultivated once marks have been eradicated—rather, the very essence of marks is
+                                                the absence of marks. The absence of wishes is not something to be cultivated once wishes have been
+                                                eradicated—rather, the very essence of wishes is the absence of wishes. Nirvāṇa is not something that
+                                                must be cultivated once saṃsāra has been eradicated—rather, the very apprehension of saṃsāra is
+                                                nirvāṇa. Venerable Mahākāśyapa, <distinct>nirvāṇa</distinct> does not partake of any notions,
+                                                assumptions, or apprehension of marks. Nirvāṇa is nothing other than birth, destruction, and
+                                                exhaustion—and yet, nonorigination is itself, by nature, nirvāṇa.”</p>
+                                        <lb/>
+
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-202"/>
+                                        <p tid="126">When this teaching was given, five hundred monks had their minds liberated from defilements, with
+                                                no further appropriation.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-132"/>
+                                        <p tid="127">The elder Subhūti addressed those monks, <ref cRef="F.250.a" type="folio" xml:id="UT22084-046-003-345"/> saying, “Noble ones, who has trained you?”</p>
+
+                                        <p tid="128">The monks responded, “One who has no attainment and no complete awakening.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-134"/>
+                                        <p tid="129">“What is that training like?” asked Subhūti.</p>
+
+                                        <p tid="130">The monks replied, “There is no guidance aimed at the abiding nature, yet there is also no
+                                                absence of such guidance; it is known, just as it is. There is neither producing nor obstructing it;
+                                                things are known to be sameness.”</p>
+
+                                        <p tid="131">When those monks gave that teaching, twelve hundred gods purified the Dharma eye regarding
+                                                phenomena, so that it became clear and immaculate. </p>
+                                        <lb/>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-137"/>
+                                        <p tid="132">Elder Subhūti then inquired of evil Māra, “Evil One, what monks are worthy of generosity?”</p>
+
+                                        <p tid="133">Māra replied, “Venerable Subhūti, those monks who do not receive or accept anything, but sustain
+                                                themselves exclusively on faith and devotion. Venerable Subhūti, monks are worthy of generosity when
+                                                they regard themselves, the recipient monks, as illusions, and the offering as a hallucination, and
+                                                they partake of it with neither grasping nor the absence of grasping.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-139"/>
+                                        <p tid="134">Śāradvatīputra then inquired, “Evil One, what is the Blessed One’s teaching on the imperturbable
+                                                absorption?”</p>
+
+                                        <p tid="135">Māra replied, “It is the absorption by which bodhisattvas do not bring even exhaustion to
+                                                exhaustion, since it is entirely exhausted. Likewise, they do not produce even the unborn, since it is
+                                                naturally unborn; nor do they invoke an experience of even the absence of experience, for they know
+                                                all phenomena to be naturally attained. Knowing this, they reach the attainment in which all feelings
+                                                are the attainment of cessation and are seen to be sameness. In this there is nothing whatsoever to be
+                                                seen, nor is there anything that is not seen. This is the Blessed One’s teaching on the imperturbable
+                                                absorption.” </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-141"/>
+                                        <p tid="136">Maudgalyāyana then inquired, “Evil One, how do monks attain power over all mind states?” </p>
+
+                                        <p tid="137">Māra replied, “Venerable Mahāmaudgalyāyana, <ref cRef="F.250.b" type="folio" xml:id="UT22084-046-003-346"/> this occurs when monks understand all phenomena to have the
+                                                characteristics of the liberated mind, without being attached to the characteristics of liberation. It
+                                                occurs when they know that the mind is primordially liberated and beyond bondage and liberation. It
+                                                occurs when they know that all phenomena are without form, because the mind is without form. It occurs
+                                                when they see that all phenomena do not abide, because the mind does not abide. It occurs when they
+                                                know that all phenomena cannot be grasped, because the mind cannot be grasped. And yet, even as there
+                                                is no knowing the mind by means of the mind, it occurs when they know the essential nature of the
+                                                realm of phenomena by means of the essential nature of the mind. It occurs when they attain the power
+                                                of independence by means of the essential nature of the realm of phenomena. This is also the
+                                                attainment of the miraculous powers of intention. Reverend Mahāmaudgalyāyana, monks like this have
+                                                power over all mind states.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-143"/>
+                                        <p tid="138">Pūrṇa then inquired, “Evil One, how do monks teach the Dharma purely?”</p>
+
+                                        <p tid="139">Māra replied, “Venerable Pūrṇa, monks do so by not being attached to any notions of
+                                                        <distinct>other</distinct> or <distinct>not other</distinct>, even though they know all
+                                                phenomena from each other. They do so by teaching that all phenomena are projections, and by
+                                                understanding that all forms of syllables, speech, voices, and words are like echoes. They do so by
+                                                seeing all those who listen to the Dharma as illusory beings, and by seeing the manifestations of
+                                                their bodies to be like the moon reflected in water. They do so by knowing that all afflictions arise
+                                                from superimpositions. They do so by not teaching the Dharma for the sake of possessing, discarding,
+                                                avoiding, or obtaining anything. They do so without any hope of attaining mastery of the four types of
+                                                correct understanding, and without any hope for approval. They do so by teaching the Dharma without
+                                                asking for material possessions, and by knowing that, since their own minds are intrinsically pure,
+                                                the minds of all beings are also intrinsically pure. Knowing that the mind is intrinsically pure, they
+                                                see the māra of the aggregates as void. <ref cRef="F.251.a" type="folio" xml:id="UT22084-046-003-347"/> They perceive the māra of the afflictions to be fabricated. They know that the māra of the Lord of
+                                                Death is unborn and beyond birth. With regard to the māra of the gods, these monks are unshakable and
+                                                free of all assumptions. Monks like this are pure teachers of the Dharma.” </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-145"/>
+                                        <p tid="140">Upāli then inquired, “Evil One, how do monks uphold the Vinaya?”</p>
+
+                                        <p tid="141">Māra replied, “Venerable Upāli, when monks know all phenomena to be fully tamed, they understand
+                                                that the limit of the beginning of transgression is identical with the limit of disengagement. They
+                                                clear away their remorse over the arising of faults and are no longer so strict. Since they can
+                                                overcome even the acts with immediate retribution, there is no need to mention minor wrongdoing
+                                                related to behavior and discipline. As such, they accomplish proper Dharma conduct. They are experts
+                                                at taming the afflictions. They perceive that temporary afflictions are not defiled, and that they
+                                                arise. They do not teach afflictions as being inside, outside, or neither. They know that such an
+                                                understanding of the afflictions is to know their nonexistence, so they do not try to eliminate them
+                                                or make them disappear. Rather, they know all afflictions to be like clouds, in that they use the wind
+                                                of wisdom and special insight to scatter them in a way that they do not go anywhere or to any place,
+                                                nor do they remain. They know that afflictions are like the moon in water, in that they show their
+                                                faces through the reflections of superimpositions. They know that afflictions are like a dark realm,
+                                                such that they use the lantern of wisdom to illuminate the darkness. They know that afflictions are
+                                                like thieves, ḍākinīs, yakṣas, and rākṣasas, in that if one investigates properly, they do not remain.
+                                                They know that afflictions always exploit our vulnerabilities, in that they proliferate with improper
+                                                mental engagement. <ref cRef="F.251.b" type="folio" xml:id="UT22084-046-003-348"/> They know that,
+                                                through the knowledge of emptiness, the absence of marks, and the absence of wishes, one prevents
+                                                afflictions from entering the mind. Thus, whoever knows afflictions to be as such has compassion for
+                                                beings tormented by afflictions, and they clearly perceive that there is no self and no being. When
+                                                this has occurred, they are known as true upholders of the Vinaya.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-206"/>
+                                        <p tid="142">In this way, all the great hearers asked evil Māra the questions they wished, and evil Māra
+                                                answered all of them conclusively, setting their minds at ease. </p>
+                                        <lb/>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-148"/>
+                                        <p tid="143">Present in the assembly at that time was the god Susīma, who asked the evil Māra, “Evil One, youthful
+                                                Mañjuśrī spoke about the workings of Māra in relation to the bodhisattvas, but would you please also
+                                                clarify? Evil One, what are the workings of Māra for the bodhisattvas?”</p>
+
+                                        <p tid="144">The Evil One replied to the god Susīma, “Divine being, there are twenty particularly severe
+                                                workings of Māra for the bodhisattvas. What are those twenty? (1) Pleasing, serving, and venerating
+                                                those practitioners who seek liberation and fear saṃsāra are the workings of Māra. (2) Contemplating
+                                                emptiness, yet forsaking beings, is the working of Māra. (3) Contemplating the unconditioned, yet
+                                                being weary of conditioned roots of virtue, is the working of Māra. (4) Generating concentration, yet
+                                                attempting to turn away from concentration, is the working of Māra. (5) Teaching the Dharma, yet not
+                                                having great compassion for the audience, is also the working of Māra. (6) Searching for those who
+                                                have qualities and who are worthy of generosity, while harboring anger toward those who are immoral,
+                                                is the working of Māra. (7) Teaching the discourses of the hearers and solitary buddhas, while
+                                                concealing the teachings of the Great Vehicle, is the working of Māra. (8) Hiding the profound
+                                                discourses, while teaching various other topics, is the working of Māra. (9) Knowing the path of the
+                                                bodhisattvas, <ref cRef="F.252.a" type="folio" xml:id="UT22084-046-003-349"/> yet not striving on the
+                                                path of the perfections, is also the working of Māra. (10) Praising those who are particularly
+                                                diligent, while not coaxing beings who are not diligent, is also the working of Māra. (11) Not
+                                                actualizing the mind of awakening, despite having accumulated roots of virtue, is also the working of
+                                                Māra. (12) Preventing others from grasping special insight, despite practicing special insight
+                                                oneself, is also the working of Māra. (13) Seeking to terminate afflictions entirely, while aspiring
+                                                for the afflictions in the continuation of saṃsāra, is also the working of Māra. (14) Using insight
+                                                for analysis, while not maintaining one’s focus on great compassion, is also the working of Māra. (15)
+                                                Any virtuous act that is performed unskillfully is also the working of Māra. (16) Not seeking the
+                                                bodhisattva teachings, but rather, receiving the secret words of the lokāyatas, is also the working of Māra. (17) Being learned, yet being
+                                                unwilling to share the Dharma out of anxiety that others will become learned, is also the working of
+                                                Māra. (18) Working on worldly affairs without seeking erudition is also the working of Māra. (19)
+                                                Failing to follow, serve, and venerate fellow bodhisattva Dharma teachers who practice the Great
+                                                Vehicle, while delighting in dissimilar teachers who practice the vehicles of the hearers and solitary
+                                                buddhas, is also the working of Māra. (20) When one has attained the greatness of resources, wealth,
+                                                jewels, and power of Śakra, Brahmā, a world protector, a king, a merchant,<note place="end" xml:id="UT22084-046-003-150"> Reading <tei:foreign xml:lang="Bo-Ltn" type="term">tshong</tei:foreign>
+                                                        from Y<!--KY-->, L, K, N, C, H.</note> or a householder, it is also the
+                                                working of Māra if one abstains from following, serving, and venerating those endowed with the
+                                                greatness of the Dharma. Divine being, these are the twenty particularly severe workings of Māra for
+                                                the bodhisattvas.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-151"/>
+                                        <p tid="145">Then the Blessed One praised the evil Māra: “Evil One, you have explained the workings of Māra
+                                                for the bodhisattvas very well—excellent! Bodhisattvas who hear about these workings of Māra and
+                                                subsequently abandon them <ref cRef="F.252.b" type="folio" xml:id="UT22084-046-003-350"/> will attain
+                                                twenty qualities that ripen awakening. What are those twenty? They are (1) great kindness, (2) great
+                                                compassion, (3) not being weary of saṃsāra, (4) being accepted by a spiritual friend, (5) encountering
+                                                buddhas, (6) hearing about the perfections, (7) taking part in the assembly of bodhisattvas, (8)
+                                                attaining dhāraṇī, (9) attaining perfect eloquence,
+                                                (10) realizing the superknowledges, (11) receiving teachings one has not heard, (12) manifesting the
+                                                mind of awakening in life after life, (13) always taking ordination without interruption, (14) having
+                                                all the freedoms, (15) accomplishing teachings exactly as they were heard, (16) using the knowledge of
+                                                skillful means and wisdom to attract beings and accept them, (17) upholding the true Dharma, (18)
+                                                being honest and nondeceptive, (19) abandoning all beloved things, and (20) not having anger toward
+                                                any being. They will attain these twenty qualities that ripen awakening.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-152"/>
+                                        <p tid="146">The god Susīma then said to the evil Māra, “Evil One, the Blessed One gave his approval to you.
+                                                Evil One, you have obtained a great boon.”</p>
+
+                                        <p tid="147">Māra said, “Divine being, I did not obtain any boon! Why do I say this? Divine being, by way of
+                                                analogy, the display of a person possessed by a spirit is regarded as the expression of the spirit,
+                                                not of the person. Divine being, in that same way, I am teaching due to the blessings of Mañjuśrī;
+                                                this should not be seen as my own doing.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-154"/>
+                                        <p tid="148">The god replied, “Evil One, you have the marks of a buddha’s body, you sit on a buddha’s lion
+                                                throne, and you teach the Dharma with a buddha’s eloquence. So are you not happy?”</p>
+
+                                        <p tid="149">Māra responded, “Although you see me as being ornamented, I know that I am tied with tight
+                                                bonds.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-156"/>
+                                        <p tid="150">“Evil One,” said the god, <ref cRef="F.253.a" type="folio" xml:id="UT22084-046-003-351"/> “ask
+                                                youthful Mañjuśrī for forgiveness, and he will release you.”</p>
+
+                                        <p tid="151">Then, by Mañjuśrī’s blessings, Māra replied to the god Susīma, “Divine being, one does not need
+                                                to ask the bodhisattva great beings who have entered the Great Vehicle for forgiveness. Why is that?
+                                                Because they are undisturbed and without anger. One needs to ask for forgiveness from individuals who
+                                                are disturbed and angry.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-158"/>
+                                        <p tid="152">The god inquired, “Evil One, what is the patience of the bodhisattvas like?”</p>
+
+                                        <p tid="153">“Divine being,” replied Māra, “the patience of the bodhisattvas has twelve aspects. What are those
+                                                twelve? It is intentional patience, because it is not artificial. It is altruistic patience, because
+                                                it is without anger. It is honest patience, because it deceives no one. It is kind and compassionate
+                                                patience, because it protects the poor and needy. It is patience in which actions are consistent with
+                                                words, because it does not regress. It is a patience of emptiness, because it is free of views. It is
+                                                a patience of confidence in the Dharma, because it is grounded in reality. It is profound patience,
+                                                because it is selfless. It is appropriate patience, because it emulates the noble ones. It is true
+                                                patience, because it is in harmony with dependent origination. It is a patience that is free from
+                                                conformity and antagonism, because it safeguards all beings. It is an unborn and nonarising patience,
+                                                because bodhisattvas have achieved acceptance that phenomena are unborn. Divine being, these are the
+                                                twelve aspects of the bodhisattvas’ patience.”</p>
+                                        <lb/>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-160"/>
+                                        <p tid="154">The god then asked, “Evil One, if you were released, would you be happy?”</p>
+
+                                        <p tid="155">“Divine being, I would be happy—exhilarated!” replied Māra.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-162"/>
+                                        <p tid="156">So the god Susīma said to youthful Mañjuśrī, “Mañjuśrī, please release the evil Māra, so that he
+                                                can return to his home.”</p>
+
+                                        <p tid="157">Youthful Mañjuśrī <ref cRef="F.253.b" type="folio" xml:id="UT22084-046-003-352"/> then asked the
+                                                evil Māra, “Evil One, who bound you? From what will you be released?”</p>
+
+                                        <p tid="158">“Mañjuśrī, I do not know who bound me,” replied Māra.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-165"/>
+                                        <p tid="159">Mañjuśrī then said, “Evil One, just as you think you are bound when you are not, so all childish
+                                                beings perceive the impermanent to be permanent, the painful to be pleasant, the selfless to be a
+                                                self, the repulsive to be beautiful, the absence of form to be form, and the absence of feeling,
+                                                perception, formation, and consciousness to be feeling, perception, formation, and consciousness. Evil
+                                                One, if I free you, from what would you be freed?”</p>
+
+                                        <p tid="160">“I would not be freed from anything,” replied Māra.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-168"/>
+                                        <p tid="161">“Evil One, in the same way, aside from understanding their mistaken perception, those who are
+                                                liberated are not liberated from anything whatsoever. Thus, it is said they are liberated through
+                                                understanding.”</p>
+
+                                        <p tid="162">At this point, youthful Mañjuśrī withdrew his blessing, so that the Evil One reassumed his own
+                                                appearance.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-169"/>
+                                        <p tid="163">The elder Mahākāśyapa then said to the evil Māra, “Excellent, Evil One—excellent! You have
+                                                performed the deeds of a buddha!”</p>
+
+                                        <p tid="164">Māra replied, “Venerable Mahākāśyapa, this is not my doing. It is the work of youthful
+                                                Mañjuśrī.”</p>
+                                        <lb/>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-171"/>
+                                        <p tid="165">The god Susīma then inquired of youthful Mañjuśrī, “Mañjuśrī, where should one seek the deeds of
+                                                a buddha?”</p>
+
+                                        <p tid="166">“Divine being, one should seek the deeds of a buddha in the afflictions of all
+                                                beings,” replied Mañjuśrī. “Why is that? Because if beings were not stricken with afflictions, the buddhas would have
+                                                nothing to do. Divine being, <ref cRef="F.254.a" type="folio" xml:id="UT22084-046-003-353"/> by way of
+                                                analogy, if beings did not fall sick, there would be nothing left for doctors to do. Divine being,
+                                                likewise, if beings were not stricken with afflictions, there would be nothing for the buddhas to
+                                                do.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-173"/>
+                                        <p tid="167">“Mañjuśrī, what must happen for a buddha to appear?” asked the god.</p>
+
+                                        <p tid="168">“Divine being, if there is birth, old age, sickness, and death, a buddha will
+                                                appear,” replied Mañjuśrī. “Why is that? Because the blessed buddhas appear for the sake of eliminating them.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-175"/>
+                                        <p tid="169">“Mañjuśrī, once a thus-gone one has found awakening, what does he create? What
+                                                does he prevent?” asked the god.</p>
+
+                                        <p tid="170">“Divine being, once a thus-gone one has found awakening, he does not create
+                                                anything, nor does he prevent anything,” replied Mañjuśrī. “Why is that? Because, divine being, all phenomena are unborn
+                                                and unceasing. Divine being, <distinct>the appearance of a buddha</distinct> is just an epithet for
+                                                the unborn inherent nature of things.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-177"/>
+                                        <p tid="171">“Mañjuśrī, how are bodhisattvas perfect in their intentions?” asked the god.</p>
+
+                                        <p tid="172">“By not engaging with any phenomenon by means of a view of observation,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-179"/>
+                                        <p tid="173">“How are they perfect in their altruistic intent?” asked the god.</p>
+
+                                        <p tid="174">“They are not attached to any inner or outer phenomenon whatsoever,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-181"/>
+                                        <p tid="175">“How are bodhisattvas perfect in their generosity?” asked the god.</p>
+
+                                        <p tid="176">“They have cast off all afflictions, but do not abandon any being,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-183"/>
+                                        <p tid="177">“How are bodhisattvas perfect in their discipline?” asked the god.</p>
+
+                                        <p tid="178">“They practice just as the teacher taught. They establish beings in discipline
+                                                and, because of their altruistic intentions, <ref cRef="F.254.b" type="folio" xml:id="UT22084-046-003-354"/> they do not abandon the mind of awakening,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-185"/>
+                                        <p tid="179">“How are bodhisattvas perfect in their patience?” asked the god.</p>
+
+                                        <p tid="180">“Understanding that all phenomena have the characteristic of destruction, they
+                                                do not relinquish their omniscient dispositions in order to eliminate beings’ malice, anger, and
+                                                aggression,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-187"/>
+                                        <p tid="181">“How are bodhisattvas perfect in their diligence?” asked the god.</p>
+
+                                        <p tid="182">“Bodhisattvas do not give special regard only to achieving the object of their
+                                                efforts, namely, unexcelled and perfect awakening, but also persist with diligence in order to rid all
+                                                beings of laziness,” replied Mañjuśrī. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-189"/>
+                                        <p tid="183">“How are bodhisattvas perfect in their concentration?” asked the god.</p>
+
+                                        <p tid="184">“Despite knowing that all phenomena are intrinsically in a state of equanimity,
+                                                they still practice concentration in order to tame the afflictions of all beings,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-191"/>
+                                        <p tid="185">“How are bodhisattvas perfect in their insight?” asked the god.</p>
+
+                                        <p tid="186">“When, having attained stillness, they are free of all conceptual elaboration,
+                                                yet they still engage in analytical insight for the sake of ridding all beings of their views. At that
+                                                time, bodhisattvas are perfect in their insight,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-193"/>
+                                        <p tid="187">“How do bodhisattvas abide in loving kindness?” asked the god.</p>
+
+                                        <p tid="188">“When they see all phenomena as being nirvāṇa by nature,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-195"/>
+                                        <p tid="189">“How do bodhisattvas abide in compassion?” asked the god.</p>
+
+                                        <p tid="190">“When they understand that the results of actions do not exist with regard to
+                                                any phenomenon,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-197"/>
+                                        <p tid="191">“How do bodhisattvas remain in joy?” asked the god. <ref cRef="F.255.a" type="folio" xml:id="UT22084-046-003-355"/>
+                    </p>
+
+                                        <p tid="192">“When they do not feel any joy or sorrow about any phenomenon,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-199"/>
+                                        <p tid="193">“How do bodhisattvas remain in equanimity?” asked the god.</p>
+
+                                        <p tid="194">“When they have become free of duality with regard to all phenomena,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-201"/>
+                                        <p tid="195">“How are bodhisattvas known as authentic bodhisattvas?” asked the god.</p>
+
+                                        <p tid="196">“When they know that all phenomena are unarisen, like illusions,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-203"/>
+                                        <p tid="197">“How are bodhisattvas great beings?” asked the god.</p>
+
+                                        <p tid="198">“When bodhisattvas see that all phenomena are selfless,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-205"/>
+                                        <p tid="199">“How are bodhisattvas supreme beings?” asked the god.</p>
+
+                                        <p tid="200">“When they know that all phenomena are ungraspable and groundless,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-207"/>
+                                        <p tid="201">“How have bodhisattvas donned the great armor?” asked the god.</p>
+
+                                        <p tid="202">“When they hear that all phenomena are as vast as the sky without trembling
+                                                or being scared or terrified, and without abandoning the great armor,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-209"/>
+                                        <p tid="203">“How are bodhisattvas gentle?” asked the god.</p>
+
+                                        <p tid="204">“When, out of great compassion, they do not distance themselves from beings,
+                                                but are not overly close through habitual attachment,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-211"/>
+                                        <p tid="205">“How are bodhisattvas easy to be with?” asked the god.</p>
+
+                                        <p tid="206">“When they do no harm to others with body, speech, or mind, since they do not
+                                                apprehend self or other,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-213"/>
+                                        <p tid="207">“How are bodhisattvas well-spoken?” asked the god.</p>
+
+                                        <p tid="208">“When they accomplish the teachings as they learned them <ref cRef="F.255.b" type="folio" xml:id="UT22084-046-003-356"/> and practice what they preach,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-215"/>
+                                        <p tid="209">“How do bodhisattvas act in accordance with the advice they have received?” asked the god.</p>
+
+                                        <p tid="210">“When they fully grasp their own minds, and therefore do not transgress the
+                                                directive of any being and remain on good terms with all beings,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-217"/>
+                                        <p tid="211">“How are bodhisattvas perfect in their modesty and decorum?” asked the god.</p>
+
+                                        <p tid="212">“When, in order to ripen all beings, they are peaceful inwardly while moving
+                                                about outwardly,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-219"/>
+                                        <p tid="213">“How are bodhisattvas endowed with faith?” asked the god.</p>
+
+                                        <p tid="214">“When they enjoy all desirable things without craving them,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-221"/>
+                                        <p tid="215">“How are bodhisattvas stable companions?” asked the god.</p>
+
+                                        <p tid="216">“When they do not interrupt the lineage of the buddhas,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-223"/>
+                                        <p tid="217">“How are bodhisattvas grateful?” asked the god.</p>
+
+                                        <p tid="218">“When they do not squander the roots of virtue performed,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-225"/>
+                                        <p tid="219">“How are bodhisattvas appreciative?” asked the god.</p>
+
+                                        <p tid="220">“When they do not long for other vehicles,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-227"/>
+                                        <p tid="221">“How do bodhisattvas have few desires?” asked the god.</p>
+
+                                        <p tid="222">“When they do not desire their own afflictions while also wishing to relinquish
+                                                the afflictions of all beings,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-229"/>
+                                        <p tid="223">“How are bodhisattvas content?”<note place="end" xml:id="UT22084-046-003-230"> The text reads <tei:foreign xml:lang="Bo-Ltn" type="term">cho ga
+                                                                shes pa</tei:foreign>, “know the procedure/behavior.” Since this makes little sense in the
+                                                        given context, and because of the easily confused orthography, we are emending it to <tei:foreign xml:lang="Bo-Ltn" type="term">chog shes pa</tei:foreign>, “content.”</note> asked the god.</p>
+
+                                        <p tid="224">“When, through knowledge of the noble ones’ insight, they do not appropriate
+                                                any phenomenon,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-232"/>
+                                        <p tid="225">“How are bodhisattvas satisfied?” asked the god. <ref cRef="F.256.a" type="folio" xml:id="UT22084-046-003-357"/>
+                    </p>
+
+                                        <p tid="226">“When they
+                                                abide in transcendent insight, yet wander the world in order to mature others,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-234"/>
+                                        <p tid="227">“How are bodhisattvas fully disengaged?” asked the god.</p>
+
+                                        <p tid="228">“When they are not afflicted by any affliction, yet still appear to strive to
+                                                eradicate the afflictions of all beings,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-236"/>
+                                        <p tid="229">“How are bodhisattvas free and independent?” asked the god.</p>
+
+                                        <p tid="230">“When they appear in all buddha fields with an undefiled body, thus mastering
+                                                wisdom without being governed by afflictions,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-238"/>
+                                        <p tid="231">“How do bodhisattvas become erudite?” asked the god.</p>
+
+                                        <p tid="232">“When they listen to teachings they have not previously heard and cause others
+                                                to hear new teachings,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-240"/>
+                                        <p tid="233">“How do bodhisattvas properly exert themselves?” asked the god.</p>
+
+                                        <p tid="234">“When they neither conceptualize nor abstain from conceptualizing phenomena,
+                                                knowing that they derive from all manner of observation,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-242"/>
+                                        <p tid="235">“How do bodhisattvas bring forth accomplishment?” asked the god.</p>
+
+                                        <p tid="236">“When they do not give rise to ideas in relation to others, and understand the
+                                                mind states of all beings to be void, while they also do not believe in their own mind states, and do
+                                                not bring forth accomplishment based on notions of self and other,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-244"/>
+                                        <p tid="237">“Mañjuśrī, how are bodhisattvas perfect in recall and eloquence?” asked the god.</p>
+
+                                        <p tid="238">“Divine being,” replied Mañjuśrī, “when they retain all that they have learned, yet by disclosing
+                                                it impartially according to the faculties of all beings, <ref cRef="F.256.b" type="folio" xml:id="UT22084-046-003-358"/> and knowing that language is like an echo, they do not cling to
+                                                it. That is how the bodhisattvas are perfect in recall and eloquence.”</p>
+                                        <lb/>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-246"/>
+                                        <p tid="239">Then the god Great Light inquired of youthful Mañjuśrī, “Mañjuśrī, who will understand the
+                                                meaning of what you have taught?”</p>
+
+                                        <p tid="240">“Divine being,” replied Mañjuśrī, “those who have been accepted by a spiritual friend, who have
+                                                excellent former connections, who have produced roots of virtue, and who partake in the state free of
+                                                observation will understand the meaning of what I have taught.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-248"/>
+                                        <p tid="241">“What will they be inclined toward? What will their attitude be?” asked the god.</p>
+
+                                        <p tid="242">“They will be inclined toward the profound. Their attitude will be without
+                                                special pride,” replied Mañjuśrī.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-250"/>
+                                        <p tid="243">“Mañjuśrī, how are monks without special pride?” asked the god.</p>
+
+                                        <p tid="244">“Divine being,” replied Mañjuśrī, “when monks train in the belief in the transitory collection as
+                                                being by its very nature the path of the single vehicle. When, by means of nonduality, they come to
+                                                understand that the essence of the belief in the transitory collection is the same as the essence of
+                                                the path of the single vehicle. When they search for what derives from ignorance, existence, and
+                                                craving, but in considering what derives from ignorance, existence, and craving, they understand that
+                                                the very essence of ignorance, existence, and craving is knowledge and liberation. This is how monks
+                                                are without special pride. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-252"/>
+                                        <p tid="245">“Moreover, divine being, it is also when monks understand that the extreme of attachment is the
+                                                same as the extreme of freedom from attachment, and when they understand that the nature of the
+                                                extreme of freedom from attachment is attachment. It is also when monks understand that the extreme of
+                                                anger is the same as the extreme of freedom from anger, and that the nature of the extreme of freedom from
+                                                anger is anger. It is also when they understand that the extreme of delusion is the same as the extreme of freedom from delusion, <ref cRef="F.257.a" type="folio" xml:id="UT22084-046-003-359"/> and
+                                                that the nature of the extreme of freedom from delusion is delusion. This is how monks are without
+                                                special pride. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-253"/>
+                                        <p tid="246">“Moreover, divine being, it is also when monks neither understand suffering, nor reject its
+                                                origin, nor actualize cessation, nor cultivate the path, but by knowing that suffering is unborn, they
+                                                come to understand the four truths of the noble ones. Knowing that suffering is unborn, it has no
+                                                origin. Knowing that suffering is unborn, it has no cessation. Knowing that suffering is unborn, there
+                                                is also no path. In that way, monks who properly exert themselves do not create anything, nor do they
+                                                cause anything to cease or remain. Whatever is unborn, unceasing, and nonabiding is unconditioned.
+                                                Such monks, therefore, cultivate the unconditioned nature, which is also the truth of the noble ones.
+                                                Divine being, this is how monks are without special pride.”</p>
+                                        <lb/>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-254"/>
+                                        <p tid="247">Then, the evil Māra, suffering and unhappy, burst into tears and sobbed, “Wherever this Dharma
+                                                teaching is delivered, the māras will stand no chance. Those who retain this teaching will prevent any
+                                                actions of Māra from affecting them.” Having said that, the evil Māra felt sad and unhappy. Dejected,
+                                                he disappeared at that very moment.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-255"/>
+                                        <p tid="248">The god Great Light now addressed youthful Mañjuśrī: “Mañjuśrī, as I have understood what you
+                                                have taught, any monk who hears this profound way of being free of special pride and rejects it will
+                                                no longer be a monk or ordained. The teacher of such householders, who are frightened by this
+                                                supremely profound way of being free of special pride, is not the Thus-Gone One. <ref cRef="F.257.b" type="folio" xml:id="UT22084-046-003-360"/> Any monk, nun, upāsaka, or upāsikā who hears this
+                                                supremely profound way of being free of special pride without being afraid, terrified, or frightened,
+                                                but rather trusts it, should be recognized as liberated.”</p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-256"/>
+                                        <p tid="249">Then the Blessed One addressed the god Great Light: “Divine being, that is correct. It is as you
+                                                said. Those monks, nuns, upāsakas, and upāsikās who hear this supremely profound way of being free of
+                                                special pride without being afraid, terrified, or frightened, but rather trust it, should be
+                                                recognized as liberated. Why is that? It is because by accepting this teaching, I prophesy that those
+                                                bodhisattvas will attain unexcelled and perfect awakening. Moreover, by accepting this teaching, any
+                                                hearer or solitary buddha will attain deliverance.”</p>
+                                        <lb/>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-257"/>
+                                        <p tid="250">The god Great Light asked, “Blessed One, what is the name of this Dharma teaching? How should it
+                                                be known?”</p>
+
+                                        <p tid="251">The Blessed One replied, “Divine being, you should know this teaching as <title xml:lang="en">The
+                                                        Chapter on Mañjuśrī’s Magical Display</title>. It should also be known as <title xml:lang="en">The Chapter on Taming Māra</title>.”</p>
+                                        <lb/>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-259"/>
+                                        <p tid="252">After the Blessed One had given these teachings, youthful Mañjuśrī, the god Great Light, the entire assembly,
+                                                and the world with its gods, humans, asuras, and gandharvas rejoiced and praised the Blessed One’s
+                                                words. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-260"/>
+                                        <trailer tid="254">This concludes the Noble Great Vehicle Sūtra “<title xml:lang="en">The Chapter on
+                                                        Mañjuśrī’s Magical Display</title>.”</trailer>
+
+                                </tei:div>
+                                <tei:div type="colophon" xml:id="UT22084-046-003-colophon">
+                                        <head type="colophon" tid="253">Colophon</head>
+                                        <milestone unit="chunk" xml:id="UT22084-046-003-328"/>
+                                        <p tid="259">Translated, edited, emended according to the new terminological register, and
+                                                finalized by the Indian preceptors Śīlendrabodhi and Jinamitra, as well as the chief editor-translator,
+                                                Bandé Yeshé Dé.</p>
+                                </tei:div>
+                        </tei:div>
+                </body>
+                <back>
+                        <tei:div xmlns:tei="http://www.tei-c.org/ns/1.0" type="notes">
+                                <head type="notes" tid="255">Notes</head>
+                                <list type="abbreviations">
+                                        <head type="abbreviations" tid="258">Abbreviations</head>
+                                        <item xml:id="UT22084-046-003-261">
+                        <abbr>Y<!--KY--></abbr>
+                        <expan>Yongle</expan>
+                                        </item>
+                                        <item xml:id="UT22084-046-003-262">
+                        <abbr>L</abbr>
+                        <expan>London (Shelkar)</expan>
+                    </item>
+                                        <item xml:id="UT22084-046-003-263">
+                        <abbr>K</abbr>
+                        <expan>Peking edition of 1684/92 (Kangxi)</expan>
+                    </item>
+                                        <item xml:id="UT22084-046-003-264">
+                        <abbr>N</abbr>
+                        <expan>Narthang</expan>
+                    </item>
+                                        <item xml:id="UT22084-046-003-265">
+                        <abbr>C</abbr>
+                        <expan>Choné</expan>
+                    </item>
+                                        <item xml:id="UT22084-046-003-266">
+                        <abbr>S</abbr>
+                        <expan>Stok Palace manuscript</expan>
+                    </item>
+                                        <item xml:id="UT22084-046-003-267">
+                        <abbr>H</abbr>
+                        <expan>Lhasa (Zhol)</expan>
+                    </item>
+                                </list>
+                        </tei:div>
+                        <tei:div xmlns:tei="http://www.tei-c.org/ns/1.0" type="listBibl">
+                                <head type="listBibl" tid="257">Bibliography</head>
+                                <tei:div type="section" xml:id="UT22084-046-003-listBibl-1">
+                                        <bibl xml:id="UT22084-046-003-268">
+                        <title xml:lang="Bo-Ltn">’phags pa ’jam dpal rnam par ’phrul pa’i le’u zhes
+                                                        bya ba theg pa chen po’i mdo</title> (<title xml:lang="Sa-Ltn">Mañjuśrī­vikurvāṇa­parivarta</title>). Toh 97, Degé Kangyur vol. 46 (mdo sde, kha), folios
+                                                242.a–257.b.</bibl>
+
+                                        <bibl xml:id="UT22084-046-003-269">
+                        <title xml:lang="Bo-Ltn">’phags pa ’jam dpal rnam par ’phrul pa’i le’u zhes
+                                                        bya ba theg pa chen po’i mdo</title>. bka’ ’gyur (dpe bsdur ma) [Comparative Edition of the
+                                                Kangyur], krung go’i bod rig pa zhib ’jug ste gnas kyi bka’ bstan dpe sdur khang (The Tibetan
+                                                Tripitaka Collation Bureau of the China Tibetology Research Center). 108 volumes. Beijing: krung go’i
+                                                bod rig pa dpe skrun khang (China Tibetology Publishing House), 2006–9, vol. 46, pp. 655–97.</bibl>
+
+                                        <bibl xml:id="UT22084-046-003-270">
+                        <title xml:lang="Bo-Ltn">’phags pa ’jam dpal rnam par ’phrul pa’i le’u zhes
+                                                        bya ba theg pa chen po’i mdo</title> (<title xml:lang="Sa-Ltn">Mañjuśrī­vikurvita­parivarta</title>). Stok Palace Kangyur vol. 60 (mdo sde, ta), folios
+                                                370.b–394.a.</bibl>
+
+                                        <bibl xml:id="UT22084-046-003-271">
+                        <title xml:lang="Bo-Ltn">
+                            <ref rend="pending" target="https://read.84000.co/translation/toh3994.html">’phags pa blo gros mi zad pas
+                                                                bstan pa rgya cher ’grel pa</ref>
+                        </title>. Toh 3994, Degé Tengyur vol. 114, folios
+                                                1.a–269.b.</bibl>
+
+                                        <bibl xml:id="UT22084-046-003-272">Jñānavajra. <title xml:lang="Bo-Ltn">
+                            <ref rend="pending" target="https://read.84000.co/translation/toh4019.html">’phags pa lang dkar gshegs pa
+                                                                zhes bya ba theg pa chen po’i mdo’i ’grel pa de bzhin gshegs pa’i snying po’i
+                                                                rgyan</ref>
+                        </title> 
+                                                (<title xml:lang="Sa-Ltn">Laṅkāvatāra­nāma­mahā­yāna­sūtra­vṛtti­tathāgata­hṛdayālaṃkāra</title>). 
+                                                Toh 4019, Degé Tengyur vol. 122, folios 1.a–310.a.</bibl>
+
+                                        <bibl xml:id="UT22084-046-003-273">Boucher, Daniel. “Dharmarakṣa and the Transmission of Buddhism to China.”
+                                                        <title xml:lang="en">Asia Major</title> Third Series 19.1 (2006): 13–37.</bibl>
+
+                                        <bibl xml:id="UT22084-046-003-275">Buswell, Robert E., and Donald S. Lopez Jr. <title xml:lang="en">The
+                                                        Princeton Dictionary of Buddhism</title>. Princeton: Princeton University Press, 2013.</bibl>
+
+                                        <bibl xml:id="UT22084-046-003-276">
+                        <ref rend="pending" target="https://read.84000.co/translation/toh4364.html">Denkarma</ref> (<title xml:lang="Bo-Ltn">pho brang stod thang ldan [/ lhan] dkar gyi chos
+                                                        ’gyur ro cog gi dkar chag</title>). Degé Tengyur, vol. 206 (sna tshogs, jo), folios
+                                                294.b–310.a.</bibl>
+
+                                        <bibl xml:id="UT22084-046-003-277">Drimé Özer (dri med ’od zer) [Longchen Rabjam]. <title xml:lang="Bo-Ltn">mdzod bdun</title>.
+                                                        <ref target="https://www.tbrc.org/#!rid=W22920">TBRC W22920</ref>. 7 vols. Chengdu: [bum
+                                                skyabs?], 1999.</bibl>
+
+                                        <bibl xml:id="UT22084-046-003-278">Edgerton, Franklin. <title xml:lang="en">Buddhist Hybrid Sanskrit Grammar
+                                                        and Dictionary</title>. New Haven: Yale University Press, 1953.</bibl>
+
+                                        <bibl xml:id="UT22084-046-003-279">Herrmann-Pfandt, Adelheid. <title xml:lang="de">Die lHan kar ma: ein früher
+                                                        Katalog der ins Tibetische übersetzten buddhistischen Texte</title>. Vienne: Verlag der
+                                                österreichischen Akademie der Wissenschaften, 2008.</bibl>
+
+                                        <bibl xml:id="UT22084-046-003-280">Nordrang Orgyen (nor brang o rgyan). <title xml:lang="en">Compendium of
+                                                        Buddhist Numeric Terms</title> (<title xml:lang="Bo-Ltn">chos rnam kun btus</title>). 3 vols.
+                                                Beijing: krung go’i bod rig pa dpe skrun khang (China Tibetology Publishing House), 2008.</bibl>
+
+                                        <bibl xml:id="UT22084-046-003-274">Sönam Rinchen (bsod nams rin chen) [Gampopa]. <title xml:lang="Bo-Ltn">gsung ’bum/
+                                                        sgam po pa</title>. <ref target="http://www.tbrc.org/#!rid=W22393">TBRC W22393</ref>. 2 vols.
+                                                Degé: sde dge par khang chen mo, 1998.</bibl>
+                                </tei:div>
+                        </tei:div>
+                        <tei:div xmlns:tei="http://www.tei-c.org/ns/1.0" type="glossary">
+                                <list type="glossary">
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-281">
+                            <tei:term type="translationMain">acceptance that phenomena are unborn</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">anutpattika­dharma­kṣānti</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">mi skye ba’i chos la bzod pa</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ།</tei:term>
+                            <note type="definition">
+                                <p>An attainment characteristic of the effortless and spontaneous
+                                                                wakefulness of the eighth ground of the bodhisattvas.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-282">
+                            <tei:term type="translationMain">belief in the transitory collection</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">satkāyadṛṣṭi</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">’jig tshogs la lta ba</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">འཇིག་ཚོགས་ལ་ལྟ་བ།</tei:term>
+                            <note type="definition">
+                                <p>The mistaken view that identifies the self with the ultimately
+                                                                transient collection of mind and body.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-283">
+                            <tei:term type="translationMain">ḍākinī</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">ḍākinī</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">mkha’ ’gro ma</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">མཁའ་འགྲོ་མ།</tei:term>
+                            <note type="definition">
+                                <p>A class of female deities.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-284">
+                            <tei:term type="translationMain">dhāraṇī</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">dhāraṇī</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">gzungs</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">གཟུངས།</tei:term>
+                            <note type="definition">
+                                <p>This term is used in various ways. In this case it appears to refer to
+                                                                the mental capacity of not forgetting. It is also very commonly used as a term for
+                                                                mystical verses similar to mantras, the usage of which will grant a particular
+                                                                power.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-285">
+                            <tei:term type="translationMain">factors of awakening</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">bodhi­pakṣa­dharma</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">byang chub kyi phyogs kyi chos</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">བྱང་ཆུབ་ཀྱི་ཕྱོགས་ཀྱི་ཆོས།</tei:term>
+                            <note type="definition">
+                                <p>The set of practices that lead to awakening, traditionally listed as
+                                                                thirty-seven.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                        <gloss xml:id="UT22084-046-003-286" type="term" mode="match">
+                            <tei:term type="translationMain">five acts with immediate retribution</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">pañcānantarya</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">mtshams med lnga</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">མཚམས་མེད་ལྔ།</tei:term>
+                            <note type="definition">
+                                <p>These are killing one’s mother, father, or an arhat; drawing blood from a thus-gone one; or causing a schism in the saṅgha.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-327">
+                            <tei:term type="translationMain">immediate retribution</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">ānantarya</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">mtshams med</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">མཚམས་མེད།</tei:term>
+                            <note type="definition">
+                                <p>See “five acts with immediate retribution.”</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-287">
+                            <tei:term type="translationMain">four types of correct understanding</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">catasraḥ pratisaṃvidaḥ</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">catuḥ­pratisaṃvid</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">so so yang dag par rig pa bzhi</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">སོ་སོ་ཡང་དག་པར་རིག་པ་བཞི།</tei:term>
+                            <note type="definition">
+                                <p>Genuine discrimination with respect to phenomena, meaning, language,
+                                                                and eloquence.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss xml:id="UT22084-046-003-288" type="term" mode="match">
+                            <tei:term type="translationMain">Hearer</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">śrāvaka</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">nyan thos</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">ཉན་ཐོས།</tei:term>
+                            <note type="definition">
+                                <p>Someone who practices according to the Vehicle of the <tei:term rend="ignore">Hearers</tei:term> (“those who hear” the Buddha's teaching, i.e.,
+                                                                his disciples). In a Mahāyāna context it refers to those disciples of the Buddha who
+                                                                aspire to attain the state of an arhat.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-289">
+                            <tei:term type="translationMain">limit of reality</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">bhūtakoṭi</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">yang dag pa’i mtha’</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">ཡང་དག་པའི་མཐའ།</tei:term>
+                            <note type="definition" rend="override">
+                                <p>This term has three meanings: (1) the ultimate nature, (2) the
+                                                                experience of the ultimate nature, and (3) the quiescent state of a worthy one
+                                                                        (<tei:foreign xml:lang="Sa-Ltn" type="term">arhat</tei:foreign>) to be avoided by
+                                                                bodhisattvas. </p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-290">
+                            <tei:term type="translationMain">lokāyata</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">lokāyata</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">’jig rten rgyang phan pa</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">འཇིག་རྟེན་རྒྱང་ཕན་པ།</tei:term>
+                            <note type="definition">
+                                <p>While this term is used a name for the ancient Indian school of
+                                                                materialist philosophy, it can also refer to non-Buddhists in general.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-291">
+                            <tei:term type="translationMain">māra of the afflictions</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">kleśamāra</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">nyon mongs pa’i bdud</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">ཉོན་མོངས་པའི་བདུད།</tei:term>
+                            <note type="definition">
+                                <p>This is the figurative or embodied demon of emotional
+                                                                disturbances.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-292">
+                            <tei:term type="translationMain">māra of the aggregates</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">skandhamāra</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">phung po’i bdud</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">ཕུང་པོའི་བདུད།</tei:term>
+                            <note type="definition">
+                                <p>This is the figurative or embodied demon of the constituents in a
+                                                                being.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                        <gloss xml:id="UT22084-046-003-293" type="term" mode="match">
+                            <tei:term type="translationMain">māra of the gods</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">devaputramāra</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">lha’i bu’i bdud</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">ལྷའི་བུའི་བདུད།</tei:term>
+                            <note type="definition">
+                                <p>This is the figurative or embodied demon of pleasure.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-294">
+                            <tei:term type="translationMain">māra of the Lord of Death</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">mṛtyumāra</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">’chi bdag gi bdud</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">འཆི་བདག་གི་བདུད།</tei:term>
+                            <note type="definition">
+                                <p>This is the figurative or embodied demon of death. </p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-295">
+                            <tei:term type="translationMain">noble tradition</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">āryavaṁśa</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">’phags pa’i rigs</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">འཕགས་པའི་རིགས།</tei:term>
+                            <note type="definition">
+                                <p>Being content with one’s garments, food, and lodging and observing
+                                                                ethical behavior.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-296">
+                            <tei:term type="translationMain">nonregression</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">avinivarta</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">avaivartika</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">phyir mi ldog pa</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">ཕྱིར་མི་ལྡོག་པ།</tei:term>
+                            <note type="definition">
+                                <p>A stage on the bodhisattva path where the practitioner will never turn back, or be turned back, from progress toward the full awakening of a buddha.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                        <gloss xml:id="UT22084-046-003-297" type="term" mode="match">
+                            <tei:term type="translationMain">rākṣasa</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">rākṣasa</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">srin po</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">སྲིན་པོ།</tei:term>
+                            <note type="definition" rend="override">
+                                <p>A class of nonhuman beings that are often, but not always, considered demonic in the Buddhist tradition.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-298">
+                            <tei:term type="translationMain">realm of phenomena</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">dharmadhātu</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">chos kyi dbyings</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">ཆོས་ཀྱི་དབྱིངས།</tei:term>
+                            <note type="definition">
+                                <p>The element, or nature, of ultimate reality.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-299">
+                            <tei:term type="translationMain">sense source</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">āyatana</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">skye mched</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">སྐྱེ་མཆེད།</tei:term>
+                            <note type="definition">
+                                <p>One way of describing experience and the world in terms of twelve
+                                                                        <tei:term rend="ignore">sense sources</tei:term>: eye and form, ear and sound, nose
+                                                                and odor, tongue and taste, body and touch, and mind and mental objects.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-300">
+                            <tei:term type="translationMain">sense source of neither perception nor nonperception</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">naiva­saṃjñānāsaṃjñāyatana</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">’du shes med ’du shes med min skye mched</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན་སྐྱེ་མཆེད།</tei:term>
+                            <note type="definition">
+                                <p>The highest of the four divine concentration realms in the formless
+                                                                realm, and the fourth of the four formless absorptions. The other three are infinite
+                                                                space, infinite consciousness, and nothingness.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-301">
+                            <tei:term type="translationMain">solitary buddha</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">pratyekabuddha</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">rang sangs rgyas</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">རང་སངས་རྒྱས།</tei:term>
+                            <note type="definition" rend="override">
+                                <p>An individual who, in their last life, attains liberation by realizing
+                                                                the nature of interdependent origination without relying upon a spiritual
+                                                                guide.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-302">
+                            <tei:term type="translationMain">superknowledges</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">abhijñā</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">mngon par shes pa</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">མངོན་པར་ཤེས་པ།</tei:term>
+                            <note type="definition">
+                                <p>Supernormal cognitive powers possessed to different degrees by
+                                                                bodhisattvas and buddhas. The five <tei:term rend="ignore">superknowledges</tei:term> are
+                                                                clairvoyance, clairaudience, knowledge of others’ minds, miraculous abilities, and
+                                                                knowledge of past lives; a sixth, mentioned in some lists and possessed only by fully
+                                                                awakened buddhas, is knowlege of the exhaustion of outflows.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-303">
+                            <tei:term type="translationMain">ten nonvirtuous actions</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">daśākuśala</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">mi dge ba bcu</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">མི་དགེ་བ་བཅུ།</tei:term>
+                            <note type="definition">
+                                <p>Killing, taking what is not given, sexual misconduct, lying, uttering
+                                                                divisive talk, speaking harsh words, gossiping, covetousness, ill will, and wrong
+                                                                views.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-304">
+                            <tei:term type="translationMain">ten virtuous actions</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">daśakuśala</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">dge ba bcu</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">དགེ་བ་བཅུ།</tei:term>
+                            <note type="definition">
+                                <p>Abstaining from the ten nonvirtuous actions. Namely, abstaining from
+                                                                killing, taking what is not given, sexual misconduct, lying, uttering divisive talk,
+                                                                speaking harsh words, gossiping, covetousness, ill will, and wrong views.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-305">
+                            <tei:term type="translationMain">upāsaka</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">upāsaka</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">dge bsnyen</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">དགེ་བསྙེན།</tei:term>
+                            <note type="definition">
+                                <p>Lay male devotees who uphold the five precepts.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-306">
+                            <tei:term type="translationMain">upāsikā</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">upāsikā</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">dge bsnyen ma</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">དགེ་བསྙེན་མ།</tei:term>
+                            <note type="definition">
+                                <p>Lay female devotees who uphold the five precepts.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="term" xml:id="UT22084-046-003-307">
+                            <tei:term type="translationMain">world protector</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">lokapāla</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">’jig rten skyong ba</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">འཇིག་རྟེན་སྐྱོང་བ།</tei:term>
+                            <note type="definition">
+                                <p>A group of four nonhuman beings who stand guard over the four
+                                                                directions.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                        <gloss xml:id="UT22084-046-003-308" type="term" mode="match">
+                            <tei:term type="translationMain">yakṣa</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">yakṣa</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">gnod sbyin</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">གནོད་སྦྱིན།</tei:term>
+                            <note type="definition" rend="override">
+                                <p>A class of powerful nonhuman beings that haunt or protect natural places and cities. They can be malevolent or benevolent, and are known for bestowing wealth and worldly boons.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        
+                                        <item>
+                                                <gloss type="person" xml:id="UT22084-046-003-310">
+                            <tei:term type="translationMain">Brahmā</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">brahmā</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">tshangs pa</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">ཚངས་པ།</tei:term>
+                            <note type="definition" rend="override">
+                                <p>A high-ranking deity, presiding over a divine world where other beings
+                                                                consider him the creator; he is also considered to be the “Lord of the Sahā-world”
+                                                                (our universe).</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="person" xml:id="UT22084-046-003-311">
+                            <tei:term type="translationMain">Great Light</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified"/>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">’od mang po</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">འོད་མང་པོ།</tei:term>
+                            <note type="definition">
+                                <p>A divine being.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="person" xml:id="UT22084-046-003-312">
+                            <tei:term type="translationMain">Jinamitra</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">jinamitra</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">dzi na mi tra</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">ཛི་ན་མི་ཏྲ།</tei:term>
+                            <note type="definition">
+                                <p>An Indian <tei:foreign xml:lang="Sa-Ltn" type="term">paṇḍita</tei:foreign>
+                                                                resident in Tibet during the late eighth and early ninth centuries.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss xml:id="UT22084-046-003-313" type="person" mode="match">
+                            <tei:term type="translationMain">Mahākāśyapa</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">mahākāśyapa</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">’od srung chen po</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">འོད་སྲུང་ཆེན་པོ།</tei:term>
+                            <note type="definition">
+                                <p>One of the principal students of the Buddha, known for his ascetic
+                                                                practice.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                        <gloss xml:id="UT22084-046-003-314" type="person" mode="match">
+                            <tei:term type="translationMain">Mañjuśrī</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">mañjuśrī</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">’jam dpal</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">འཇམ་དཔལ།</tei:term>
+                            <note type="definition" rend="override">
+                                <p>A bodhisattva known for his mastery of wisdom.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss xml:id="UT22084-046-003-315" type="person" mode="match">
+                            <tei:term type="translationMain">Māra</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">māra</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">bdud</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">བདུད།</tei:term>
+                            <note type="definition" rend="override">
+                                <p>The personification of negativity. Four <tei:term rend="ignore">māras</tei:term> are usually listed: the aggregates, the afflictions, the māra of the gods (= the god of infatuation), and death.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                                                <gloss type="person" xml:id="UT22084-046-003-316">
+                            <tei:term type="translationMain">Maudgalyāyana</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">maudgalyāyana</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">maud gal gyi bu</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">མཽད་གལ་གྱི་བུ།</tei:term>
+                            <note type="definition">
+                                <p>An elder monk in the Buddha’s retinue, famous for his mastery of
+                                                                supranormal powers.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="person" xml:id="UT22084-046-003-317">
+                            <tei:term type="translationMain">Pūrṇa</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">pūrṇa</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">gang po</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">གང་པོ།</tei:term>
+                            <note type="definition">
+                                <p>One of the closest disciples of the Buddha, famous for his ability to
+                                                                teach.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="person" xml:id="UT22084-046-003-318">
+                            <tei:term type="translationMain">Śakra</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">śakra</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">brgya byin</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">བརྒྱ་བྱིན།</tei:term>
+                            <note type="definition" rend="override">
+                                <p>The lord of the gods in the Heaven of the Thirty-Three.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="person" xml:id="UT22084-046-003-319">
+                            <tei:term type="translationMain">Śāradvatīputra</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">śāradvatīputra</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">sha ra dwa t’i bu</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">ཤ་ར་དྭ་ཏའི་བུ།</tei:term>
+                            <note type="definition" rend="override">
+                                <p>An elder monk in the Buddha’s retinue, known for his pure observance
+                                                                of discipline and unparalleled knowledge of the teachings.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="person" xml:id="UT22084-046-003-320">
+                            <tei:term type="translationMain">Śīlendrabodhi</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">śīlendrabodhi</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">shI len dra bo dhi</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">ཤཱི་ལེན་དྲ་བོ་དྷི།</tei:term>
+                            <note type="definition">
+                                <p>An Indian <tei:foreign xml:lang="Sa-Ltn" type="term">paṇḍita</tei:foreign>
+                                                                resident in Tibet during the late eighth and early ninth centuries.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="person" xml:id="UT22084-046-003-321">
+                            <tei:term type="translationMain">Subhūti</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">subhūti</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">rab ’byor</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">རབ་འབྱོར།</tei:term>
+                            <note type="definition">
+                                <p>One of the closest disciples of the Buddha, known for his profound
+                                                                understanding of emptiness.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                                                <gloss type="person" xml:id="UT22084-046-003-322">
+                            <tei:term type="translationMain">Susīma</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">susīma</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">mtshams bzangs</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">མཚམས་བཟངས།</tei:term>
+                            <note type="definition">
+                                <p>The name of a god.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                        <item>
+                        <gloss xml:id="UT22084-046-003-323" type="person" mode="match">
+                            <tei:term type="translationMain">Upāli</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">upāli</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">nye bar ’khor</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1" status="verified">ཉེ་བར་འཁོར།</tei:term>
+                            <note type="definition">
+                                <p>An elder monk in the Buddha’s retinue, famous for his knowledge of monastic discipline (<tei:foreign xml:lang="Sa-Ltn" type="term">vinaya</tei:foreign>).</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss xml:id="UT22084-046-003-324" type="person" mode="match">
+                            <tei:term type="translationMain">Yeshé Dé</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified"/>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">ye shes sde</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">ཡེ་ཤེས་སྡེ།</tei:term>
+                            <note type="definition" rend="override">
+                                <p>A prolific Tibetan translator active during the late eighth and early ninth centuries.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss xml:id="UT22084-046-003-412" type="place" mode="match">
+                            <term type="translationMain">Jeta’s Grove, Anāthapiṇḍada’s Park</term>
+                            <term xml:lang="Sa-Ltn" type="attestedOther" status="verified">jetavanam anāthapiṇḍadasyārāmaḥ</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">rgyal bu rgyal byed kyi tshal mgon med zas sbyin gyi kun dga’ ra ba</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ།</term>
+                        </gloss>
+                    </item>
+                                        <item>
+                                                <gloss type="place" xml:id="UT22084-046-003-326">
+                            <tei:term type="translationMain">Śrāvastī</tei:term>
+                            <tei:term xml:lang="Sa-Ltn" type="sourceUnspecified">śrāvastī</tei:term>
+                            <tei:term xml:lang="Bo-Ltn" type="attestedSource" n="1">mnyan yod</tei:term>
+                            <tei:term xml:lang="bo" type="attestedSource" n="1">མཉན་ཡོད།</tei:term>
+                            <note type="definition" rend="override">
+                                <p>The ancient Indian kingdom of Kosala.</p>
+                            </note>
+                        </gloss>
+                                        </item>
+                                </list>
+                        </tei:div>
+                </back>
+        </text>
+
+
+
+
+</TEI>

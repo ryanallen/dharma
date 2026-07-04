@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/current/translation.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title type="mainTitle" xml:lang="en">Teaching the Benefits of Generosity</title>
+                                <title type="mainTitle" xml:lang="Sa-Ltn">Dānānuśaṃsā­nirdeśa</title>
+                                <title type="mainTitle" xml:lang="Bo-Ltn">sbyin pa’i phan yon bstan pa</title>
+                                <title type="mainTitle" xml:lang="bo">སྦྱིན་པའི་ཕན་ཡོན་བསྟན་པ།</title>
+                                <title type="longTitle" xml:lang="en">The Noble “Teaching the Benefits of Generosity”</title>
+                                <title type="longTitle" xml:lang="Sa-Ltn">Ārya­dānānuśaṃsā­nirdeśa</title>
+                                <title type="longTitle" xml:lang="bo">འཕགས་པ་སྦྱིན་པའི་ཕན་ཡོན་བསྟན་པ།</title>
+                                <title type="longTitle" xml:lang="Bo-Ltn">’phags pa sbyin pa’i phan yon bstan pa</title>
+                                <title type="otherTitle" xml:lang="zh">《布施利益經》（大正藏：《佛說布施經》）</title>
+                                <author role="translatorMain" xml:id="UT22084-061-003-99">
+                                        Translated by the Sakya Pandita Translation Group<lb/>
+                                        under the patronage and supervision of 84000: Translating the Words of the Buddha</author>
+                                <consultant role="dharmaMaster" xml:id="UT22084-061-003-100">Ven. Khenpo Kalsang Gyaltsen</consultant>
+                                <author role="translatorEng" xml:id="UT22084-061-003-101">Chodrungma Kunga Chodron</author>
+                                <editor role="projectEditor" xml:id="UT22084-061-003-102">Nathaniel Rich</editor>
+                                <editor role="copyEditor" xml:id="UT22084-061-003-103">Laura Goetz</editor>
+                                <editor role="projectEditor" xml:id="UT22084-061-003-104">Andreas Doctor</editor>
+                                <editor role="TEImarkupEditor" xml:id="UT22084-061-003-105">Celso Wilkinson</editor>
+                                <editor role="finalReviewer" xml:id="UT22084-061-003-106">Andreas Doctor</editor>
+                                <consultant role="advisor" xml:id="UT22084-061-003-107">Venerable Bhiksuni Heng-Ching Shih</consultant>
+                        </titleStmt>
+                        <editionStmt>
+                <edition>v 1.1.9 <date>2024</date>
+                </edition>
+            </editionStmt>
+                        <publicationStmt>
+                <publisher>
+                    <name>84000: Translating the Words of the Buddha</name> is a global non-profit initiative to translate all the
+                                        Buddha’s words into modern languages, and to make them available to everyone. </publisher>
+                <availability status="1">
+                                        <licence>
+                                                <graphic url="http://i.creativecommons.org/l/by-nc-nd/2.0/88x31.png"/>
+                                                <p>This work is provided under the protection of a Creative Commons CC BY-NC-ND (Attribution - Non-commercial -
+                                                        No-derivatives) 3.0 copyright. It may be copied or printed for fair use, but only with full attribution,
+                                                        and not for commercial advantage or personal compensation. For full details, see the Creative Commons
+                                                        license.</p>
+                                        </licence>
+                                </availability>
+                <idno xml:id="UT22084-061-003"/>
+                <note>An early mistake in the assigning of UT numbers within the 84000 project means that these ids diverge slightly from the
+                                        standard logic.</note>
+                <date>2021-08-06</date>
+            </publicationStmt>
+                        <sourceDesc>
+                                <bibl key="toh183" type="text">
+                                        <ref>Toh 183</ref>
+                                        <biblScope>Degé Kangyur, vol. 61 (mdo sde, tsa), folios 95.b–96.b</biblScope>
+                                        <author role="translatorTib" xml:id="UT22084-061-003-143">Surendrabodhi</author>
+                                        <author role="translatorTib" xml:id="UT22084-061-003-144">Yeshé Dé</author>
+                                        <location work="UT4CZ5369" count-pages="3">
+                                                <volume number="61" start-page="190" end-page="192"/>
+                                        </location>
+                                        <idno parent-id="O1JC114941JC14668" work="http://read.84000.co/sections"/>
+                                        <idno source-id="O1JC114941JC11800" work="W22084"/>
+                                </bibl>
+                        </sourceDesc>
+                        <notesStmt/>
+                    <revisionDesc>
+                <change who="#admin" when="2019-12-20T12:44:26.954Z" type="text-version" status="v 0.0.1" xml:id="UT22084-061-003-108">
+                    <desc>Automated version
+                                        increment</desc>
+                </change>
+                <change who="#line-tofte" when="2020-03-06T13:15:21.681Z" type="text-version" status="v 0.0.1" xml:id="UT22084-061-003-109">
+                    <desc>v 0.0.1</desc>
+                </change>
+                <change who="#line-tofte" when="2020-05-11T14:41:43.472Z" type="translation-status" status="2.h" xml:id="UT22084-061-003-110">
+                    <desc>2.h</desc>
+                </change>
+                <change who="#line-tofte" when="2021-04-22T13:04:54.764Z" type="translation-status" status="2.g" xml:id="UT22084-061-003-111">
+                    <desc>2.g</desc>
+                </change>
+                <change who="#line-tofte" when="2021-04-22T13:04:54.764Z" type="text-version" status="0.0.2" xml:id="UT22084-061-003-112">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-04-22T13:11:07.73Z" type="text-version" status="0.0.3" xml:id="UT22084-061-003-113">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-04-30T09:06:58.459Z" type="translation-status" status="2.f" xml:id="UT22084-061-003-114">
+                    <desc>2.f</desc>
+                </change>
+                <change who="#line-tofte" when="2021-04-30T09:06:58.459Z" type="text-version" status="0.0.4" xml:id="UT22084-061-003-115">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-04-30T09:07:23.316Z" type="translation-status" status="2.e" xml:id="UT22084-061-003-116">
+                    <desc>2.e</desc>
+                </change>
+                <change who="#line-tofte" when="2021-04-30T09:07:23.316Z" type="text-version" status="0.0.5" xml:id="UT22084-061-003-117">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-04-30T09:07:45.599Z" type="text-version" status="0.0.6" xml:id="UT22084-061-003-118">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-05-03T06:55:23.586Z" type="translation-status" status="2.d" xml:id="UT22084-061-003-119">
+                    <desc>2.d</desc>
+                </change>
+                <change who="#line-tofte" when="2021-05-03T06:55:23.586Z" type="text-version" status="0.0.7" xml:id="UT22084-061-003-120">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-05-03T09:27:14.007Z" type="translation-status" status="2.b" xml:id="UT22084-061-003-121">
+                    <desc>2.b</desc>
+                </change>
+                <change who="#line-tofte" when="2021-05-03T09:27:14.007Z" type="text-version" status="0.0.8" xml:id="UT22084-061-003-122">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-05-03T09:27:38.763Z" type="text-version" status="0.0.9" xml:id="UT22084-061-003-123">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#mike" when="2021-05-26T09:07:56.041Z" type="text-version" status="0.0.10" xml:id="UT22084-061-003-124">
+                    <desc>Auto
+                                        (update-contributors)</desc>
+                </change>
+                <change who="#mike" when="2021-05-26T09:08:23.113Z" type="translation-status" status="2.a" xml:id="UT22084-061-003-125">
+                    <desc>2.a</desc>
+                </change>
+                <change who="#mike" when="2021-05-26T09:08:23.113Z" type="text-version" status="0.0.11" xml:id="UT22084-061-003-126">
+                    <desc>Auto
+                                        (update-publication-status)</desc>
+                </change>
+                <change who="#mike" when="2021-05-31T05:29:09.402Z" type="translation-status" status="2" xml:id="UT22084-061-003-127">
+                    <desc>2</desc>
+                </change>
+                <change who="#mike" when="2021-05-31T05:29:09.402Z" type="text-version" status="0.0.2" xml:id="UT22084-061-003-128">
+                    <desc>Auto (update-publication-status)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-08-04T12:50:01.604Z" type="text-version" status="0.0.3" xml:id="UT22084-061-003-129">
+                    <desc>Auto (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-08-04T12:51:40.269Z" type="text-version" status="0.0.4" xml:id="UT22084-061-003-130">
+                    <desc>Auto (update-contributors)</desc>
+                </change>
+                <change who="#mike" when="2021-08-06T12:08:50.366Z" type="translation-status" status="1" xml:id="UT22084-061-003-131">
+                    <desc>1</desc>
+                </change>
+                <change who="#admin" when="2021-08-06T12:08:50.366Z" type="translation-status" status="1.a" xml:id="UT22084-061-003-132">
+                    <desc>Note added retrospectively based on date of status '1'</desc>
+                </change>
+                <change who="#mike" when="2021-08-06T12:08:50.366Z" type="text-version" status="1.0.0" xml:id="UT22084-061-003-133">
+                    <desc>First published version </desc>
+                </change>
+                <change who="#mike" when="2021-09-22T05:53:34.197Z" type="text-version" status="1.0.1" xml:id="UT22084-061-003-134">
+                    <desc>typo corrected </desc>
+                </change>
+                <change who="#john" when="2021-11-18T23:27:08.147Z" type="text-version" status="1.0.2" xml:id="UT22084-061-003-135">
+                    <desc>Added references to the Sanskrit texts and to corresponding translations.</desc>
+                </change>
+                <change who="#john" when="2021-11-21T20:16:57.137Z" type="text-version" status="1.1.1" xml:id="UT22084-061-003-136">
+                    <desc>Further small edits</desc>
+                </change>
+                <change who="#celso" when="2021-11-22T16:04:19.203Z" type="text-version" status="1.1.2" xml:id="UT22084-061-003-137">
+                    <desc>added references to Peter Skillings 2021 anthology</desc>
+                </change>
+                <change who="#admin" when="2022-06-27T10:06:48.1Z" type="text-version" status="1.1.3" xml:id="UT22084-061-003-138">
+                    <desc>Auto (script-increment-version-published)</desc>
+                </change>
+                <change who="#cabie-sim" when="2022-07-26T06:27:08.48Z" type="text-version" status="1.1.4" xml:id="UT22084-061-003-139">
+                    <desc>Auto (update-titles)</desc>
+                </change>
+                <change who="#celso" when="2023-01-16T16:58:52.361Z" type="text-version" status="1.1.5" xml:id="UT22084-061-003-140">
+                    <desc>Auto (script-increment-version-published)</desc>
+                </change>
+                <change who="#celso" when="2023-01-18T16:58:06.914Z" type="text-version" status="1.1.6" xml:id="UT22084-061-003-141">
+                    <desc>Auto (remove-tid-from-back-list-items)</desc>
+                </change>
+                <change who="#admin" when="2023-07-30T22:39:48.323Z" type="text-version" status="1.1.7" xml:id="UT22084-061-003-142">
+                    <desc>TEI migrated to 2.19.0</desc>
+                </change>
+                <change who="#celso" when="2023-10-13T11:48:10.305Z" type="text-version" status="1.1.8" xml:id="UT22084-061-003-145">
+                    <desc>reapplied capital letters in Wylie and covert to TibUni-glossary</desc>
+                </change>
+                <change who="#andre" when="2024-06-27T19:20:24.215Z" type="text-version" status="1.1.9" xml:id="UT22084-061-003-147">
+                    <desc>Approved rendering "Jetavana, Anāthapiṇḍada’s Park" applied</desc>
+                </change>
+            </revisionDesc>
+        </fileDesc>
+        </teiHeader>
+        <text>
+                <front>
+                        <div type="summary">
+                                <head type="summary" tid="1">Summary</head>
+                                <milestone unit="chunk" xml:id="UT22084-061-003-1"/>
+                                <p tid="2">This short discourse was taught to an audience of monks in Śrāvastī, in the Jetavana. The Buddha details thirty-seven
+                                        ways in which the wise give gifts, how those gifts are properly given, and the positive results that ripen from giving
+                                        such gifts. The Buddha makes clear that the result that ripens is similar to the gift that was given or the manner in
+                                        which the gift was given.</p>
+                        </div>
+                        <div type="acknowledgment">
+                                <head type="acknowledgment" tid="3">Acknowledgements</head>
+                                <milestone unit="chunk" xml:id="UT22084-061-003-2"/>
+                                <p tid="4">This sūtra was translated from Tibetan into English by Khenpo Kalsang Gyaltsen and Chodrungma Kunga Chodron.
+                                        Venerable Bhiksuni Heng-Ching Shih kindly assisted with comparison to the Chinese version. The sūtra was then edited and
+                                        introduced by the 84000 editorial team.</p>
+                                
+                                <p tid="5">The translation was completed under the patronage and supervision of 84000: Translating the Words of the Buddha.</p>
+                        
+                        </div>
+                        <div type="introduction">
+                                <head type="introduction" tid="8">Introduction</head>
+                                <div type="section" xml:id="UT22084-061-003-introduction-1">
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-6"/>
+                                        <p tid="10">The setting for this discourse is the Jetavana, Anāthapiṇḍada’s Park, where the Buddha spent many
+                                                rainy-season retreats and where many of the Buddha’s discourses are said to have been delivered. In this
+                                                particular discourse, the Buddha succinctly describes thirty-seven ways in which the wise give gifts, as well as
+                                                the results that ripen from their gift giving. More specifically, the first five ways in which the wise give
+                                                gifts that the Buddha enumerates are relatively general and pertain primarily to the manner in which gifts are
+                                                given and the purpose for which gifts are given. The wise are said, for example, to give gifts with faith in
+                                                order to dispel stinginess, or respectfully in order to dispel mental agitation. For each of the remaining
+                                                thirty-two ways in which gifts are given, the Buddha describes the result that ripens from the particular act,
+                                                and in each case the result that ripens is similar to the gift that was its cause. For example, giving a gift of
+                                                food ripens as the elimination of hunger in all one’s future lives. The discourse concludes with the Buddha
+                                                proclaiming the thirty-seventh and final way in which the wise give gifts, namely, without any expectation of
+                                                reward, the full ripening of which is the unsurpassed and perfect awakening of a buddha.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-90"/>
+                                        <p tid="66">No Sanskrit text that completely matches the content of this sūtra is known to be extant, but a version 
+                                                in Sanskrit known as the <title xml:lang="Sa-Ltn">Dānādhikaraṇa</title> is preserved in the 
+                                                Nepalese manuscripts of the <title xml:lang="Sa-Ltn">Divyāvadāna</title>, a collection of avadāna narratives
+                                                drawn mostly from the Mūla­sarvāstivāda vinaya that may have been compiled from earlier sources in late medieval times 
+                                        (although no manuscripts exist from earlier than the seventeenth century). The text, like the version of the sūtra 
+                                        translated here, contains thirty-seven ways of giving gifts, although some differ to a varying degree in their detail. 
+                                        A much earlier Sanskrit text that probably resembled the present version more closely is represented by a fragment 
+                                        identified among the manuscripts in the Schøyen Collection by Matsuda in 2003. It is written on a piece of leather, 
+                                        in a Gupta Brāhmī script that allows it to be dated to the fifth or sixth centuries, but the fragment includes only the last seven 
+                                        ways of giving.<note place="end" xml:id="UT22084-061-003-91">See Rotman (2017), pp. 197–99 and 396 n.559; 
+                                                also Skilling (2021) pp. 173–74.</note> </p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-7"/>
+                                        <p tid="67">The Tibetan translation of this sūtra, the colophon tells us, was made by the Indian preceptor 
+                                                Surendrabodhi and the Tibetan
+                                                translator-editor Yeshé Dé. It is also listed in the Denkarma
+                                                        (<foreign xml:lang="Bo-Ltn">ldan dkar ma</foreign>)<note place="end" xml:id="UT22084-061-003-8">
+                                                                Denkarma, <ref rend="pending" inst="299.b.7" target="https://read.84000.co/translation/toh4364.html">299.b.7</ref>. See also Herrmann-Pfandt (2008), p. 122, no. 231.</note> and Phangthangma (<foreign xml:lang="Bo-Ltn">’phang thang ma</foreign>)<note place="end" xml:id="UT22084-061-003-9"> See
+                                                        Phangthangma (2003), p. 18.</note> imperial catalogs, so we can infer that this sūtra was translated
+                                                from Sanskrit sometime during the late eighth- to early ninth-century. In the Degé Kangyur, this sūtra is placed
+                                                after <title xml:lang="en">The Perfection of Generosity</title>,<note place="end" xml:id="UT22084-061-003-10">
+                                                        See Dharmachakra Translation Committee, trans., <title xml:lang="en">
+                                <ref target="https://read.84000.co/translation/toh182.html">The Perfection of
+                                                                        Generosity</ref>
+                            </title>, Toh 182 (84000: Translating the Words of the Buddha,
+                                                        2019).</note> a longer, explicitly Mahāyāna sūtra, also translated by Yeshé Dé during the imperial
+                                                period, that also treats the topic of generosity. Not only is the present sūtra significantly shorter than
+                                                        <title xml:lang="en">The Perfection of Generosity</title>, but its content, apart from a small number of
+                                                references to the result of buddhahood, is not in the same way explicitly or exclusively concerned with the
+                                                bodhisattva path. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-11"/>
+                                        <p tid="12">A version of the sūtra is also included in the Chinese Buddhist canon (Taishō 705, 
+                                                <title xml:lang="zh">佛說布施經</title>), translated in the tenth century by Faxian. The opening section, 
+                                                which describes the circumstances under which the discourse was delivered, is the same in 
+                                                the Tibetan and Chinese versions, as is the closing section. However, the enumerated
+                                                gifts, the descriptions of how these gifts should be given, and the ripened results are a close match only 
+                                                in just over half of the stanzas.<note place="end" xml:id="UT22084-061-003-12"> Both the gifts and their results are
+                                                        identical in nineteen of the thirty-seven stanzas. Interestingly, where there are differences, they are
+                                                        usually in the result rather than the gift itself. An example is where the Tibetan reads, “When they
+                                                        have given a gift while abiding in loving kindness, the result is that they will acquire freedom from
+                                                        ill will.” The corresponding verse appears in Chinese as “If a gift is given in loving kindness, your
+                                                        appearance will be benevolent and without anger.”</note>
+                                        </p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-92"/>
+                                        <p tid="68">The <title xml:lang="Sa-Ltn">Divyāvadāna</title> version of the sūtra 
+                                                was translated from the Sanskrit into English by James Ware in 1929 
+                                                (along with passages from the Tibetan version), and more recently by Andy Rotman in the second
+                                                volume of his translations from that collection.<note place="end" xml:id="UT22084-061-003-98">Rotman (2017), 
+                                                        pp. 197–99.</note> An abbreviated translation of the sūtra made by Kalpana Upreti appeared
+                                                in 1989, and the most recent version in English is Peter Skilling’s translation, with helpful 
+                                                notes, in his 2021 anthology <title xml:lang="en">Questioning the Buddha: A Selection of Twenty-Five 
+                                                        Sutras</title>.<note place="end" xml:id="UT22084-061-003-93"> Skilling (2021), pp. 171–79.</note> 
+                                        </p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-13"/>
+                                        <p tid="69">The present translation is based on the version in the Degé Kangyur, with reference to the Comparative
+                                                Edition (<foreign xml:lang="Bo-Ltn">dpe bsdur ma</foreign>). </p>
+                                </div>
+                        </div>
+                </front>
+                <body>
+                        <div type="translation">
+                                <head type="translation"> The Translation </head>
+                                <head type="titleHon" tid="15">The Noble</head>
+                                <head type="titleMain" tid="16">Teaching the Benefits of Generosity</head>
+                                <div type="section" xml:id="UT22084-061-003-section-1">
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-15"/>
+                                        <p tid="19">
+                        <ref cRef="F.95.b" type="folio" xml:id="UT22084-061-003-82"/> Homage to all buddhas and bodhisattvas!</p>
+                                        
+                                        <lb/>
+                                        
+                                        <p tid="21">Thus did I hear at one time. The Blessed One was dwelling in Śrāvastī, in the Jetavana, Anāthapiṇḍada’s Park. Then the Blessed One said to the monks, “Monks, the wise give gifts in thirty-seven ways. What
+                                                are those thirty-seven? They are as follows:</p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-18"/>
+                                        <p tid="22">“They give gifts with faith in order to rid themselves of stinginess.</p>
+                                        
+                                        <p tid="23">“They give gifts at the right time.</p>
+                                        
+                                        <p tid="24">“They give gifts, in a pure manner, of the three things suitable to be given by the Thus-Gone One.<note place="end" xml:id="UT22084-061-003-21"> Translation tentative. Tib: <foreign xml:lang="Bo-Ltn" type="quote">de bzhin gshegs pas gnang ba’i rung ba dngos po gsum yongs su dag par sbyin par
+                                                                sbyin no</foreign>.</note>
+                    </p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-22"/>
+                                        <p tid="25">“They give gifts respectfully in order to rid themselves of all the faults of mental agitation.</p>
+                                        
+                                        <p tid="26">“They give gifts with their own hands in order to take hold of the essence from the essenceless body. </p>
+                                        
+                                        <p tid="27">“When they have given a gift that does not harm others, the ripening is that they will acquire great
+                                                generosity.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-24"/>
+                                        <p tid="28">“When they have given a gift with exquisite colors, the ripening is that they will acquire a beautiful
+                                                complexion.</p>
+                                        
+                                        <p tid="29">“When they have given a gift with an exquisite scent, the ripening is that they will acquire the scent of
+                                                fame.</p>
+                                        
+                                        <p tid="30">“When they have given a gift with an exquisite taste, the ripening is that they will acquire the excellent
+                                                marks of supreme taste.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-28"/>
+                                        <p tid="31">“When they have given a gift that is abundant, the ripening is that they will acquire abundant wealth.</p>
+                                        
+                                        <p tid="32">“When they have given a gift that is vast, the ripening is that they will acquire vast wealth.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-30"/>
+                                        <p tid="33">“When they have given a gift of food, the ripening is that they will acquire the elimination of hunger in
+                                                all future lives.</p>
+                                        
+                                        <p tid="34">“When they have given a gift of drink, <ref cRef="F.96.a" type="folio" xml:id="UT22084-061-003-83"/> the ripening is that they will acquire the elimination of
+                                                thirst in all future lives.</p>
+                                        
+                                        <p tid="35">“When they have given a gift of clothing, the ripening is that they will acquire a manifold wealth of
+                                                clothing.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-33"/>
+                                        <p tid="36">“When they have given the gift of a dwelling, the ripening is that they will acquire houses with parapets
+                                                and multiple stories, and they will acquire courtyards, mansions, palaces, gardens, parks, and land.</p>
+                                        
+                                        <p tid="37">“When they have given a gift of bedding, the ripening is that they will acquire a higher caste-status.</p>
+                                        
+                                        <p tid="38">“When they have given the gift of a conveyance, the ripening is that they will acquire the four bases<note place="end" xml:id="UT22084-061-003-36"> Literally “feet” (<foreign xml:lang="Bo-Ltn" type="term">rkang
+                                                                pa</foreign>), hence the connection to the gift of a conveyance.</note> of miraculous power.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-37"/>
+                                        <p tid="39">“When they have given a gift of medicine, the ripening is that they will acquire the nirvāṇa that is free
+                                                from aging and death and is the cessation of sorrow and defilement. </p>
+                                        
+                                        <p tid="40">“When they have given a gift of Dharma, the ripening is that they will acquire the recollection of former
+                                                lives.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-39"/>
+                                        <p tid="41">“When they have given a gift of flowers, the ripening is that they will acquire the flowers that are the
+                                                branches of awakening.</p>
+                                        
+                                        <p tid="42">“When they have given a gift of garlands, the ripening is that they will acquire the purification of the
+                                                stains of attachment, aversion, and ignorance.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-41"/>
+                                        <p tid="43">“When they have given a gift of incense, the ripening is that they will acquire total freedom from the
+                                                stench of the defilements.</p>
+                                        
+                                        <p tid="44">“When they have given a gift of a parasol, the ripening is that they will acquire sovereign mastery of the
+                                                Dharma.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-43"/>
+                                        <p tid="45">“When they have given a gift of a bell, the ripening is that they will acquire a pleasing voice.</p>
+                                        
+                                        <p tid="46">“When they have given a gift of cymbals, the ripening is that they will acquire a voice like Brahmā’s.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-45"/>
+                                        <p tid="47">“When they have given a gift of a lamp, the ripening is that they will acquire the divine eye, unobscured
+                                                and pure.</p>
+                                        
+                                        <p tid="48">“When they have given a gift of silk, the ripening is that they will acquire the silken bond of liberation
+                                                among gods and humans. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-47"/>
+                                        <p tid="49">“When they have made an offering of fragrant oil or perfumed bathing water to a stūpa of the Thus-Gone One
+                                                or an image of the Thus-Gone One, the ripening is that they will acquire the thirty-two marks <ref cRef="F.96.b" type="folio" xml:id="UT22084-061-003-84"/> and
+                                                eighty excellent signs of a great being.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-85"/>
+                                        <p tid="50">“When they have given a gift of bathing necessities, the ripening is that in all their future lives they
+                                                will acquire few illnesses, birth in the highest caste, and great beauty.</p>
+                                        
+                                        <p tid="51">“When they have given a gift of the five essential substances,<note place="end" xml:id="UT22084-061-003-50">
+                                                        Possibly a reference to molasses, ghee, honey, sesame oil, and salt. </note> the ripening is that in all
+                                                future lives they will acquire great power and irrepressible great joy. </p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-51"/>
+                                        <p tid="52">“When they have given a gift while abiding in loving kindness, the ripening is that they will acquire
+                                                freedom from ill will.</p>
+                                        
+                                        <p tid="53">“When they have given a gift while abiding in compassion, the ripening is that they will acquire
+                                                harmlessness.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-86"/>
+                                        <p tid="54">“When they have given a gift while abiding in joy, the ripening is that they will acquire the ability to
+                                                bestow fearlessness.</p>
+                                        
+                                        <p tid="55">“When they have given a gift while abiding in equanimity, the ripening is that they will rid themselves of
+                                                sadness.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-55"/>
+                                        <p tid="56">“When they have given gifts of various kinds, the ripening is that they will acquire various riches.</p>
+                                        
+                                        <p tid="57">“When they have given a gift while abiding with no expectation of reward, the ripening is that they will
+                                                acquire unsurpassed and perfect awakening.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-57"/>
+                                        <p tid="58">“Monks, the wise give gifts in these thirty-seven ways.” </p>
+                                        
+                                        <p tid="59">The Blessed One having spoken thus, the monks rejoiced and praised what the Blessed One said.</p>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-59"/>
+                                        <trailer tid="60">This completes the noble “Teaching the Benefits of Generosity.”</trailer>
+                                </div>
+                                <div type="colophon" xml:id="UT22084-061-003-colophon">
+                                        <head type="colophon" tid="61">Colophon</head>
+                                        <milestone unit="chunk" xml:id="UT22084-061-003-60"/>
+                                        <p tid="62">This was translated, edited, and finalized by the Indian preceptor Surendrabodhi and the translator-editor Bandé
+                                                Yeshé Dé.</p>
+                                </div>
+                        </div>
+                </body>
+                <back>
+                        <div type="notes">
+                                <head type="notes" tid="63">Notes</head>
+                        </div>
+                        <div type="listBibl">
+                                <head type="listBibl" tid="65">Bibliography</head>
+                                <div type="section" xml:id="UT22084-061-003-listBibl-1">
+                                        <bibl xml:id="UT22084-061-003-61">
+                        <title xml:lang="Bo-Ltn">sbyin pa’i phan yon bstan pa</title> (<title xml:lang="Sa-Ltn">Dānānuśaṃsā­nirdeśa</title>). Toh 183, Degé Kangyur vol. 61 (mdo sde, tsa), folios
+                                                95.b–96.b.</bibl>
+                                        <bibl xml:id="UT22084-061-003-62">
+                        <title xml:lang="Bo-Ltn">sbyin pa’i phan yon bstan pa</title>. bka’ ’gyur (dpe bsdur
+                                                ma) [Comparative Edition of the Kangyur], krung go’i bod rig pa zhib ’jug ste gnas kyi bka’ bstan dpe sdur khang
+                                                (The Tibetan Tripitaka Collation Bureau of the China Tibetology Research Center). 108 volumes. Beijing: krung
+                                                go’i bod rig pa dpe skrun khang (China Tibetology Publishing House), 2006-9, vol. 61, pp. 279–82.</bibl>
+                                        <bibl xml:id="UT22084-061-003-63">
+                        <title xml:lang="Bo-Ltn">sbyin pa’i pha rol tu phyin pa</title> (<title xml:lang="Sa-Ltn">Dānapāramitā</title>). Toh 182, Degé Kangyur vol. 61 (mdo sde, tsa), folios 77.a–95.b.
+                                                English translation in Dharmachakra Translation Committee (2019).</bibl>
+                                        <bibl xml:id="UT22084-061-003-64">Denkarma (<title xml:lang="Bo-Ltn">pho brang stod thang ldan [/ lhan] dkar gyi chos
+                                                        ’gyur ro cog gi dkar chag</title>). Toh 4364, Degé Tengyur vol. 206 (sna tshogs, jo), folios
+                                                299.b–300.a.<ref rend="pending" target="https://read.84000.co/translation/toh4364.html"/>
+                    </bibl>
+                                        <bibl xml:id="UT22084-061-003-65">Dharmachakra Translation Committee, trans. <title xml:lang="en">
+                            <ref target="https://read.84000.co/translation/toh182.html">The Perfection of
+                                                        Generosity</ref>
+                        </title> (<title xml:lang="Sa-Ltn">Dānapāramitā</title>, Toh 182). 84000: Translating
+                                                the Words of the Buddha, 2019. </bibl>
+                                        <bibl xml:id="UT22084-061-003-66">Herrmann-Pfandt, Adelheid. <title xml:lang="de">Die lHan kar ma: ein früher Katalog
+                                                        der ins Tibetische übersetzten buddhistischen Texte</title>. Vienna: Verlag der österreichischen
+                                                Akademie der Wissenschaften, 2008.</bibl>
+                                        <bibl xml:id="UT22084-061-003-67">Phangthangma (<title xml:lang="Bo-Ltn">dkar chag ’phang thang ma</title>). Beijing: mi
+                                                rigs dpe skrun khang, 2003.</bibl>
+                                        <bibl xml:id="UT22084-061-003-97">Rotman, Andy. <title xml:lang="en">Divine Stories: Divyāvadāna Part 2</title>. 
+                                                Somerville: Wisdom Publications, 2017.</bibl>
+                                        <bibl xml:id="UT22084-061-003-94">Skilling, Peter. <title xml:lang="en">Questioning the Buddha: A Selection of Twenty-Five 
+                                                Sutras</title>. Somerville: Wisdom Publications, 2021. </bibl>
+                                        <bibl xml:id="UT22084-061-003-96">Upreti, Kalpana. “The Rationale of the Mahāyāna Sūtra 
+                                                <title xml:lang="Sa-Ltn">Dānādhikāraṇa-nāma-Mahā­yāna-Sūtra</title> in the Hīna­yāna Text 
+                                                <title xml:lang="Sa-Ltn">Divyāvadāna</title>.” In <title xml:lang="en">Buddhist Studies</title> 13, pp. 89–93 (1989).</bibl>
+                                        <bibl xml:id="UT22084-061-003-95">Ware, James. “Studies in the Divyāvadāna II: 
+                                                <title xml:lang="Sa-Ltn">Dānādhikāra­mahāyāna­sūtra</title>.” In <title xml:lang="en">Journal of 
+                                                        the American Oriental Society</title> 49, pp. 40–51 (1929).</bibl>
+                                </div>
+                        </div>
+                        <div type="glossary">
+                                <list type="glossary">
+                                        <item>
+                        <gloss xml:id="UT22084-061-003-69" type="term" mode="match">
+                            <term type="translationMain">blessed one</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">bhagavat</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">bcom ldan ’das</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">བཅོམ་ལྡན་འདས།</term>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss xml:id="UT22084-061-003-70" type="term" mode="match">
+                            <term type="translationMain">thus-gone one</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">tathāgata</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">de bzhin gshegs pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">དེ་བཞིན་གཤེགས་པ།</term>
+                            <note type="definition" rend="override">
+                                <p>A frequently used synonym for buddha. In Sanskrit, <foreign xml:lang="Sa-Ltn" type="term">gata</foreign>, though literally meaning “gone,” is a past passive participle used to describe a state or condition of existence. <foreign xml:lang="Sa-Ltn" type="term">Tatha</foreign>(<foreign type="term" xml:lang="Sa-Ltn">tā</foreign>) is the quality or condition of things as they really are, which cannot be conveyed in conceptual, dualistic terms, and is often rendered as “suchness” or “thusness.” Therefore, this epithet is interpreted in different ways but general implies one who has departed in the wake of the buddhas of the past, or one who has manifested the supreme awakening dependent on the reality (<foreign xml:lang="Sa-Ltn">dharmatā</foreign>) that does not abide in the two extremes of existence and quiescence.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-061-003-71">
+                            <term type="translationMain">four bases of miraculous power</term>
+                            <term type="translationAlternative">miraculous power</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">catvāra­ṛddhi­pādā</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">rdzu ’phrul gyi rkang pa bzhi</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">རྫུ་འཕྲུལ་གྱི་རྐང་པ་བཞི།</term>
+                            <note type="definition">
+                                <p>Determination, discernment, diligence, and concentration.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-061-003-72">
+                            <term type="translationMain">branches of awakening</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">bodhyaṅga</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">byang chub kyi yan lag</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">བྱང་ཆུབ་ཀྱི་ཡན་ལག</term>
+                            <note type="definition">
+                                <p>Mindfulness, discrimination, diligence, joy, pliability, absorption, and
+                                                                equanimity.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="term" xml:id="UT22084-061-003-73">
+                            <term type="translationMain">ripening</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">vipāka</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">rnam par smin pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">རྣམ་པར་སྨིན་པ།</term>
+                            <note type="definition">
+                                <p>The manifest result of a former action.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss xml:id="UT22084-061-003-74" type="term" mode="match">
+                            <term type="translationMain">thirty-two marks of a great being</term>
+                            <term type="translationAlternative">thirty-two marks</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">dvātriṃśa­mahā­puruṣa­lakṣaṇa</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">skyes bu chen po’i mtshan sum cu rtsa gnyis</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས།</term>
+                            <note type="definition">
+                                <p>The main identifying physical characteristics of both buddhas and universal monarchs, to which are added the eighty excellent signs.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss xml:id="UT22084-061-003-75" type="term" mode="match">
+                            <term type="translationMain">Eighty excellent signs</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">aśītyanuvyañjana</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">dpe byad bzang po brgyad cu</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">དཔེ་བྱད་བཟང་པོ་བརྒྱད་ཅུ།</term>
+                            <note type="definition">
+                                <p>A set of eighty bodily characteristics and insignia borne by both buddhas and universal emperors. They are considered “minor” in terms of being secondary to the thirty-two marks of a great being.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <!--<item><gloss type="person" xml:id="UT22084-061-003-77">
+                            <term type="translationMain">Anāthapiṇḍada</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">anāthapiṇḍada</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">mgon med zas sbyin</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">མགོན་མེད་ཟས་སྦྱིན།</term>
+                            <note type="definition" rend="override">
+                                <p>A wealthy layman and famous benefactor of the Buddha who purchased the Jetavana
+                                                                and donated it to the Buddhist community. He is better known in the West by the alternative Pāli
+                                                                form Anāthapiṇḍika.</p>
+                            </note>
+                        </gloss></item>-->
+                                        <item>
+                        <gloss type="person" xml:id="UT22084-061-003-78">
+                            <term type="translationMain">Brahmā</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">brahmā</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">tshangs pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ཚངས་པ།</term>
+                            <note type="definition" rend="override">
+                                <p>A high-ranking deity who presides over a divine world where other beings
+                                                                consider him the creator; he is also considered to be the lord of the Sahā world (our
+                                                                universe).</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="place" xml:id="UT22084-061-003-80">
+                            <term type="translationMain">Jetavana</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">jetavana</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">rgyal bu rgyal byed kyi tshal</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ།</term>
+                            <note type="definition">
+                                    <p>See “Jetavana, Anāthapiṇḍada’s Park.”</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss xml:id="UT22084-061-003-146" type="place" mode="match">
+                            <term type="translationMain">Jetavana, Anāthapiṇḍada’s Park</term>
+                            <term xml:lang="Sa-Ltn" type="attestedOther" status="verified">jetavanam anāthapiṇḍadasyārāmaḥ</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">rgyal bu rgyal byed kyi tshal mgon med zas sbyin gyi kun dga’ ra ba</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ།</term>
+                        </gloss>
+                    </item>
+                                        
+                                        <item>
+                        <gloss type="place" xml:id="UT22084-061-003-81">
+                            <term type="translationMain">Śrāvastī</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">śrāvastī</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">mnyan yod</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">མཉན་ཡོད།</term>
+                            <note type="definition" rend="override">
+                                <p>The capital of the ancient Indian kingdom of Kośala, and the setting for many
+                                                                sūtras, as the Buddha spent most rainy seasons outside the city. It has been identified with the
+                                                                present-day Sāhet Māhet in Uttar Pradesh on the banks of the river Rapti.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                        <item>
+                        <gloss type="person" xml:id="UT22084-061-003-87">
+                            <term type="translationMain">Surendrabodhi</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">surendrabodhi</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">su ren dra bo d+hi</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">སུ་རེན་དྲ་བོ་དྷི།</term>
+                            <note type="definition">
+                                <p>One of the Indian teachers invited to Tibet at the time of the emperor Ralpacan (early ninth century). He was one of the great Indian pandits who assisted the Tibetan translators such as Yeshé Dé with the translation of Buddhist texts from Sanskrit.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                                <item>
+                        <gloss xml:id="UT22084-061-003-88" type="person" mode="match">
+                            <term type="translationMain">Yeshé Dé</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">ye shes sde</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ཡེ་ཤེས་སྡེ།</term>
+                            <note type="definition" rend="override">
+                                <p>A prolific Tibetan translator active during the late eighth and early ninth centuries.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                                </list>
+                        </div>
+                </back>
+        </text>
+</TEI>

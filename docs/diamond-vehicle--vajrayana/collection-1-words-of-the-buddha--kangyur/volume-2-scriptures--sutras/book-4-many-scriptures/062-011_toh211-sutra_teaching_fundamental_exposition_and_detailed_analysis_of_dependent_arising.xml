@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/current/translation.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="mainTitle" xml:lang="Bo-Ltn">rten cing ’brel bar ’byung ba dang po dang
+                    rnam par dbye ba bstan pa</title>
+                <title type="mainTitle" xml:lang="bo">རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་དང་པོ་དང་རྣམ་པར་དབྱེ་བ་བསྟན་པ།</title>
+                <title type="mainTitle" xml:lang="Sa-Ltn">Pratītyasamutpādādivibhaṅganirdeśa</title>
+                <title type="mainTitle" xml:lang="en">Teaching the Fundamental Exposition and
+                    Detailed Analysis of Dependent Arising</title>
+                <title type="longTitle" xml:lang="Bo-Ltn">rten cing ’brel bar ’byung ba dang po dang
+                    rnam par dbye ba bstan pa zhes bya ba’i mdo</title>
+                <title type="longTitle" xml:lang="bo">རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་དང་པོ་དང་རྣམ་པར་དབྱེ་བ་བསྟན་པ་ཞེས་བྱ་བའི་མདོ།</title>
+                <title type="longTitle" xml:lang="Sa-Ltn">Pratītyasamutpādādivibhaṅganirdeśanāmasūtra</title>
+                <title type="longTitle" xml:lang="en">The Sūtra “Teaching the Fundamental Exposition
+                    and Detailed Analysis of Dependent Arising”</title>
+                <title type="otherTitle" xml:lang="zh"/>
+                <author role="translatorMain" xml:id="UT22084-062-011-77">Translated by Annie
+                    Bien<lb/> under the patronage and supervision of 84000: Translating the Words of
+                    the Buddha.</author>
+                <author role="translatorEng" xml:id="UT22084-062-011-78">Annie Bien</author>
+                <editor role="externalReviewer" xml:id="UT22084-062-011-79">James Duncan Gentry</editor>
+                <editor role="copyEditor" xml:id="UT22084-062-011-80">Tracy Davis</editor>
+                <editor role="projectEditor" xml:id="UT22084-062-011-81">David Higgins</editor>
+                <editor role="TEImarkupEditor" xml:id="UT22084-062-011-82">Celso Wilkinson</editor>
+                <editor role="copyEditor" xml:id="UT22084-062-011-83">Laura Goetz</editor>
+                <editor role="copyEditor" xml:id="UT22084-062-011-84">Konchog Norbu</editor>
+                <editor role="projectEditor" xml:id="UT22084-062-011-85">Andreas Doctor</editor>
+                <editor role="finalReviewer" xml:id="UT22084-062-011-86">John Canti</editor>
+                <editor role="reviser" xml:id="UT22084-062-011-87">Leslie Kriesel</editor>
+                <consultant role="advisor" xml:id="UT22084-062-011-88">Paul Hackett</consultant>
+                <consultant role="dharmaMaster" xml:id="UT22084-062-011-89">Geshe Dorji Damdul</consultant>
+                <consultant role="projectManager" xml:id="UT22084-062-011-90">Annie Bien</consultant>
+                <editor role="finalReviewer" xml:id="UT22084-062-011-91">Ryan Damron</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>v 1.1.20 <date>2024</date>
+                </edition>
+            </editionStmt>
+
+            <publicationStmt>
+                <publisher>
+                    <name>84000: Translating the Words of the Buddha</name> is a global non-profit
+                    initiative to translate all the Buddha’s words into modern languages, and to
+                    make them available to everyone. </publisher>
+                <availability status="1">
+                    <licence>
+                        <graphic url="http://i.creativecommons.org/l/by-nc-nd/2.0/88x31.png"/>
+                        <p>This work is provided under the protection of a Creative Commons CC
+                            BY-NC-ND (Attribution - Non-commercial - No-derivatives) 3.0 copyright.
+                            It may be copied or printed for fair use, but only with full
+                            attribution, and not for commercial advantage or personal compensation.
+                            For full details, see the Creative Commons license.</p>
+                    </licence>
+                </availability>
+                <idno xml:id="UT22084-062-011"/>
+                <note>An early mistake in the assigning of UT numbers within the 84000 project means
+                    that these ids diverge slightly from the standard logic.</note>
+                <date>2020-03-20</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl key="toh211" type="text">
+                    <ref>Toh 211</ref>
+                    <biblScope>Degé Kangyur, vol. 62 (mdo sde, tsha), folios 123.a–125.b</biblScope>
+                    <location work="UT4CZ5369" count-pages="4">
+                        <volume number="62" start-page="246" end-page="249"/>
+                    </location>
+                    <idno parent-id="O1JC114941JC14668" work="http://read.84000.co/sections"/>
+                    <idno source-id="O1JC114941JC11846" work="W22084"/>
+                </bibl>
+            </sourceDesc>
+            <notesStmt/>
+            <revisionDesc>
+                <change who="#john" when="2019-11-28T08:33:49.738Z" type="text-version" status="v 0.1.0" xml:id="UT22084-062-011-92">
+                    <desc>v 0.1.0</desc>
+                </change>
+                <change who="#mike" when="2020-01-28T06:17:47.228Z" type="translation-status" status="2.d" xml:id="UT22084-062-011-93">
+                    <desc>2.d</desc>
+                </change>
+                <change who="#line-tofte" when="2020-03-16T11:56:49.67Z" type="translation-status" status="2.a" xml:id="UT22084-062-011-94">
+                    <desc>2.a</desc>
+                </change>
+                <change who="#celso" when="2020-03-16T18:14:29.964Z" type="text-version" status="v 1.0" xml:id="UT22084-062-011-95">
+                    <desc>v 1.0</desc>
+                </change>
+                <change who="#celso" when="2020-03-16T18:14:29.964Z" type="translation-status" status="2" xml:id="UT22084-062-011-96">
+                    <desc>2</desc>
+                </change>
+                <change who="#john" when="2020-03-20T21:03:20.583Z" type="text-version" status="v 1.1.1" xml:id="UT22084-062-011-97">
+                    <desc>First published version.</desc>
+                </change>
+                <change who="#john" when="2020-03-20T21:03:20.583Z" type="translation-status" status="1" xml:id="UT22084-062-011-98">
+                    <desc>First published version.</desc>
+                </change>
+                <change who="#admin" when="2020-03-20T21:03:20.583Z" type="translation-status" status="1.a" xml:id="UT22084-062-011-99">
+                    <desc>Note added retrospectively based on date of status '1'</desc>
+                </change>
+                <change who="#celso" when="2020-03-31T13:34:46.588Z" type="text-version" status="v 1.1.2" xml:id="UT22084-062-011-100">
+                    <desc>edited acknowledgements</desc>
+                </change>
+                <change who="#celso" when="2020-04-15T15:28:20.313Z" type="text-version" status="v 1.1.3" xml:id="UT22084-062-011-101">
+                    <desc>removed space typo in folio ref</desc>
+                </change>
+                <change who="#laura" when="2020-05-28T13:13:56.166Z" type="text-version" status="v 1.1.4" xml:id="UT22084-062-011-102">
+                    <desc>Added line to acknowledgement</desc>
+                </change>
+                <change who="#admin" when="2020-11-23T13:57:44.998Z" type="text-version" status="1.1.5" xml:id="UT22084-062-011-103">
+                    <desc>Auto (TEI migration 2.0.0)</desc>
+                </change>
+                <change who="#celso" when="2020-11-25T15:48:11.209Z" type="text-version" status="1.1.6" xml:id="UT22084-062-011-104">
+                    <desc>Updated pending links</desc>
+                </change>
+                <change who="#admin" when="2020-12-11T14:06:50.919Z" type="text-version" status="1.1.7" xml:id="UT22084-062-011-105">
+                    <desc>Auto (TEI migration 2.1.5)</desc>
+                </change>
+                <change who="#mike" when="2021-01-15T06:44:21.477Z" type="text-version" status="1.1.8" xml:id="UT22084-062-011-106">
+                    <desc>1.1.8</desc>
+                </change>
+                <change who="#mike" when="2021-01-15T06:45:38.358Z" type="text-version" status="1.1.9" xml:id="UT22084-062-011-107">
+                    <desc>1.1.9</desc>
+                </change>
+                <change who="#line-tofte" when="2021-01-28T13:25:11.016Z" type="text-version" status="1.1.10" xml:id="UT22084-062-011-108">
+                    <desc>Auto (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-04-14T14:26:30.59Z" type="text-version" status="1.1.11" xml:id="UT22084-062-011-109">
+                    <desc>Auto (update-contributors)</desc>
+                </change>
+                <change who="#line-tofte" when="2021-04-14T14:27:56.619Z" type="text-version" status="1.1.12" xml:id="UT22084-062-011-110">
+                    <desc>Auto (update-contributors)</desc>
+                </change>
+                <change who="#celso" when="2021-04-23T00:01:19.244Z" type="text-version" status="1.1.13" xml:id="UT22084-062-011-111">
+                    <desc>fixed a minor typo</desc>
+                </change>
+                <change who="#martina-cotter" when="2022-07-06T18:45:30.543Z" type="text-version" status="1.1.14" xml:id="UT22084-062-011-112">
+                    <desc>Updated typo in Sanskrit.</desc>
+                </change>
+                <change who="#celso" when="2023-01-16T16:58:52.361Z" type="text-version" status="1.1.15" xml:id="UT22084-062-011-113">
+                    <desc>Auto (script-increment-version-published)</desc>
+                </change>
+                <change who="#celso" when="2023-01-18T14:48:43.396Z" type="text-version" status="1.1.16" xml:id="UT22084-062-011-114">
+                    <desc>Auto (removing-tid-from-back-list-items)</desc>
+                </change>
+                <change who="#admin" when="2023-07-30T22:39:48.323Z" type="text-version" status="1.1.17" xml:id="UT22084-062-011-115">
+                    <desc>TEI migrated to 2.19.0</desc>
+                </change>
+                <change who="#celso" when="2023-10-13T11:48:10.305Z" type="text-version" status="1.1.18" xml:id="UT22084-062-011-116">
+                    <desc>reapplied capital letters in Wylie and covert to TibUni-glossary</desc>
+                </change>
+                <change who="#martina-cotter" when="2023-10-23T21:08:37.087Z" type="text-version" status="1.1.19" xml:id="UT22084-062-011-117">
+                    <desc>updated ellipsis.</desc>
+                </change>
+                <change who="#andre" when="2024-06-27T16:40:45.812Z" type="text-version" status="1.1.20" xml:id="UT22084-062-011-119">
+                    <desc>Approved rendering "Jetavana, Anāthapiṇḍada’s Park" applied</desc>
+                </change>
+            </revisionDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="summary">
+                <head type="summary" tid="1">Summary</head>
+                <milestone unit="chunk" xml:id="UT22084-062-011-43"/>
+                <p tid="39">In the Jeta’s Grove outside Śrāvastī, monks have gathered to listen to the
+                    Buddha as he presents the foundational doctrine of dependent arising. The Buddha
+                    first gives the definition of dependent arising and then teaches the twelve
+                    factors that form the causal chain of <term rend="ignore">existence</term> in saṃsāra as well as the
+                    defining characteristics of these twelve factors.</p>
+            </div>
+            <div type="acknowledgment">
+                <head type="acknowledgment" tid="2">Acknowledgements</head> 
+                <milestone unit="chunk" xml:id="UT22084-062-011-44"/>
+                <p tid="40">This translation was
+                produced by Annie Bien with assistance from Dr. Paul Hackett and Geshe Dorji Damdul.
+                Dr. Shrikant Bahulkar, Dr. David Mellins, and Dr. Peter Skilling also kindly offered
+                advice. Leslie Kriesel assisted by editing the translation.</p> 
+                <p tid="41">The translation was completed under the patronage and supervision of 84000: Translating the Words of the Buddha.</p>
+            </div>
+            <div type="introduction">
+                <head type="introduction" tid="3">Introduction</head>
+                <div type="section" xml:id="UT22084-062-011-introduction-1">
+                    <milestone unit="chunk" xml:id="UT22084-062-011-1"/>
+                    <p tid="5">Dependent arising is one of the core teachings of Buddhism. The
+                        canonical accounts of the Buddha’s awakening relate how at first he
+                        hesitated to describe the profound realization he had attained, given how
+                        difficult it would be for others to comprehend. At last, persuaded to speak
+                        of his discovery, the Buddha began by teaching the four truths of the noble
+                        ones. Then, to explain in more detail the causes of suffering and its
+                        cessation, he taught the aggregates, how they are misconstrued as a self,
+                        and the theory of dependent arising, based in part on the pan-Indian idea of moral
+                        causation, as a means to gain insight into the nature of reality. This
+                        teaching was later analyzed in great detail by the various Buddhist
+                        philosophical schools. It is a topic discussed in many other sūtras and has
+                        been widely interpreted in commentaries by the Buddhist traditions. </p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-2"/>
+                    <p tid="6">
+                        <title xml:lang="en">Teaching the Fundamental Exposition and Detailed
+                            Analysis of Dependent Arising</title> takes place in Śrāvastī, the
+                        ancient capital of the Kośala state located near the Rapti River in what is
+                        today northeastern Uttar Pradesh. In Buddhist India, Śrāvastī was famous for
+                        housing the Jeta’s Grove monastery. This monastery was erected in a park,
+                        outside the city, which had been donated to the Buddha and his community by
+                        the wealthy benefactor Anāthapiṇḍada. Tradition relates that the Buddha
+                        spent twenty-four rainy seasons at this important monastery. The sūtra
+                        begins with the Buddha teaching a congregation of monks. He
+                        first presents the topic of dependent arising and summarizes the
+                        doctrine: “If this exists, that arises; by this having been produced, that
+                        is produced.” Whatever is born has arisen in reliance on causes and
+                        conditions, with no cause or condition being primary or absolute. In this
+                        there is no phenomenon that exists independently. This general meaning of
+                        dependent arising applies to both animate and inanimate objects. In his
+                        teaching the Buddha then explains how twelve progressively arising factors cause
+                        beings to continuously take birth, age, and die, only to become born anew.
+                        These twelve factors are described as the progressive chain of events that
+                        accounts for the perpetual suffering of saṃsāra. After presenting the twelve
+                        links, the Buddha elucidates them with a detailed analysis, subdividing and defining each of
+                        the twelve factors. </p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-3"/>
+                    <p tid="42">The sūtra is today extant in Sanskrit as well as Chinese, Tibetan,
+                        Korean, and Mongolian translations. The Sanskrit is found as part of the
+                            <title xml:lang="Sa-Ltn">Nidānasaṃyukta</title> collection.<note place="end" xml:id="UT22084-062-011-4"> The <title xml:lang="Sa-Ltn">Nidānasaṃyukta</title> is a collection of canonical texts that present the topic of causation. The collection is part of the <title xml:lang="Sa-Ltn">Saṃyuktāgama</title> of the Sarvāstivāda school. It has partially survived in Sanskrit in the form of manuscript fragments discovered in Central Asia. This collection was also translated in its entirety into Chinese (Taishō 99). 
+                                Many of the texts in the <title xml:lang="Sa-Ltn">Nidānasaṃyukta</title> (although not the sūtra translated here) are also included in the Pāli <title xml:lang="Pi-Ltn">Nidānasaṃyutta</title> collection of the <title xml:lang="Pi-Ltn">Saṃyuttanikāya</title>. For a Sanskrit
+                                edition of <title xml:lang="en">Teaching the Fundamental Exposition and Detailed Analysis of Dependent Arising</title>, see Tripathi (1962). See also Ānandajoti (2009) for an
+                                online edition by P.L. Vaidya. See also Mejor (1997) for a study of this sūtra.</note>
+                         Indian commentaries on this text (today extant only in Tibetan translation)
+                        were written by Vasubandhu (fourth–fifth century <hi rend="small-caps">ce</hi>, Toh 3995<note place="end" xml:id="UT22084-062-011-5">
+                                <title xml:lang="Sa-Ltn">Pratītyasamutpādādivibhaṅganirdeśa</title>
+                                    (<title xml:lang="Bo-Ltn">rten cing ’brel bar ’byung ba dang po ’i rnam par dbye ba bshad
+                                pa</title>).</note>
+                        <ref rend="pending" target="https://read.84000.co/translation/toh3995.html"/>) and Guṇamati (sixth century <hi rend="small-caps">ce</hi>, Toh 3996<note place="end" xml:id="UT22084-062-011-6">
+                                <title xml:lang="Sa-Ltn">Pratītyasamutpādādivibhaṅganirdeśaṭīkā</title> (<title xml:lang="Bo-Ltn">rten cing ’brel bar ’byung ba dang po dang rnam par dbye ba
+                                    bstan pa’i rgya cher bshad pa</title>).</note>
+                        <ref rend="pending" target="https://read.84000.co/translation/toh3996.html"/>). The text was translated several times into
+                        Chinese, first by Kumārajīva in the early fifth century <hi rend="small-caps">ce</hi> (Taishō 123) and later by Hsüan-tsang in 661
+                        <hi rend="small-caps">ce</hi> (Taishō 124). Apart from these two independent translations, the sūtra was also translated by Guṇabhadra in the early fifth century CE as part of his translation of the <title xml:lang="Sa-Ltn">Saṃyuktāgama</title> (Taishō 99). </p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-71"/>
+                    <p tid="43">The Tibetan translation has no colophon, so we do not know
+                        when or by whom it was produced. It is, however,
+                        included in the Denkarma inventory of translated texts, compiled at a date in the early ninth 
+                        century thought to have been 812 <hi rend="small-caps">ce</hi>, so it must have been translated 
+                        at the latest by that date.<note place="end" xml:id="UT22084-062-011-7">See 
+                            Denkarma, F.301.a.3. See also Herrmann-Pfandt (2008), 161–162, no. 297.</note>
+                    </p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-72"/>
+                    <p tid="44">This English translation is based on the Tibetan translation
+                        in the Degé Kangyur in consultation with the Comparative Edition (Tib. <foreign xml:lang="Bo-Ltn">dpe bsdur
+                            ma</foreign>). We also consulted the Sanskrit editions by Tripathi (1962) and Vaidya (Ānandajoti 2009). </p>
+                </div>
+            </div>
+        </front>
+        <body>
+            <div type="translation">
+                <head type="translation"> The Translation </head>
+                <head type="titleHon" tid="9">The Sūtra</head>
+                <head type="titleMain" tid="10">Teaching the Fundamental Exposition and Detailed
+                    Analysis of Dependent Arising</head>
+                <div type="section" xml:id="UT22084-062-011-section-1">
+                    <milestone unit="chunk" xml:id="UT22084-062-011-10"/>
+                    <p tid="14">
+                        <ref cRef="F.123.b" type="folio" xml:id="UT22084-062-011-73"/> Homage to the Three Jewels.<note place="end" xml:id="UT22084-062-011-11"> This phrase is
+                                omitted in Vaidya’s Sanskrit edition.</note>
+                    </p>
+                    <lb/>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-13"/>
+                    <p tid="16">Thus did I hear at one time. The Bhagavān was dwelling in Śrāvastī, in Jeta’s Grove, Anāthapiṇḍada’s Park.<note place="end" xml:id="UT22084-062-011-14"> The Sanskrit in
+                            Vaidya’s edition continues this sentence: “…together with a great
+                                saṅgha of monks containing twelve hundred and fifty monks.”</note>
+                    </p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-15"/>
+                    <p tid="17">Then the Bhagavān spoke to the monks: “Monks,<note place="end" xml:id="UT22084-062-011-16"> Tripathi’s
+                                Sanskrit edition begins here.</note>
+                         I shall teach you the fundamental exposition and detailed analysis of
+                        dependent arising. Listen very well and bear this in mind as I explain.
+                        What is the fundamental exposition of dependent arising? It is thus: if this
+                        exists, that arises; by this having been produced, that is produced.</p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-17"/>
+                    <p tid="18">“It is thus: through the condition of ignorance, formations arise;
+                        through the condition of formations, consciousness arises; through the
+                        condition of consciousness, name-and-form arises; through the condition of
+                        name-and-form, the six sense sources arise; through the condition of the six
+                        sense sources, contact arises; through the condition of contact, feeling
+                        arises; through the condition of feeling, craving arises; through the
+                        condition of craving, grasping arises; through the condition of grasping,
+                        existence arises; through the condition of existence, birth arises; through
+                        the condition of birth, aging and death—as well as sorrow, lamentation,
+                        suffering, unhappiness, and strife—arise. In this way, this sole great heap
+                        of suffering arises. This is the fundamental
+                            exposition of dependent arising.</p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-18"/>
+                    <p tid="19">“What is the detailed analysis of dependent arising? What is
+                        <distinct>ignorance</distinct> in the statement, ‘Through the condition of ignorance, formations
+                        arise’? It is not knowing the past, not knowing the future, and not knowing
+                        either the past or the future. It is not knowing the inner, not knowing the
+                        outer, and not knowing either the inner or the outer. It is not knowing
+                        actions, not knowing their maturation, and not knowing either actions
+                        <ref cRef="F.124.a" type="folio" xml:id="UT22084-062-011-74"/> or their maturation. It is not knowing the Buddha, not knowing the
+                        Dharma, not knowing the Saṅgha. It is not knowing suffering, origin,
+                        cessation, or the path. It is not knowing the causes and not knowing that
+                        phenomena arise from causes. It is not knowing virtue and nonvirtue. It is
+                        not knowing unseemliness and not knowing the absence of unseemliness. It is
+                        not knowing what to engage in and what not to engage in. It is not knowing
+                        what is bad, sublime, negative, or positive. It is not knowing the phenomena
+                        that dependently arise within such divisions. It is failing to understand
+                        the six sense sources of contact just as they are. It is not knowing what is
+                        and how it is. It is not seeing and not understanding. It is being confused,
+                        deluded, ignorant, and obscured. This is ignorance. </p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-19"/>
+                    <p tid="20">“What are <distinct>formations</distinct> in the statement, ‘Through the condition of
+                        ignorance, formations arise’? They are threefold. What are the three?<note place="end" xml:id="UT22084-062-011-20"> This question
+                                is omitted in Tripathi’s and Vaidya’s editions.</note>
+                         They are the formations of the body, the formations of speech, and the
+                        formations of the mind. </p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-21"/>
+                    <p tid="21">“What is <distinct>consciousness</distinct> in the statement, ‘Through the condition of
+                        formations, consciousness arises’? It is the six collections of
+                        consciousness: the consciousnesses of the eye, ear, nose, tongue, body, and
+                        mind.</p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-22"/>
+                    <p tid="22">“What is <distinct>name</distinct> in the statement, ‘Through the condition of
+                        consciousness, name-and-form arises’? It is the four formless aggregates.
+                        They are the aggregate of feeling, the aggregate of perception, the
+                        aggregate of formations, and the aggregate of consciousness. </p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-23"/>
+                    <p tid="23">“What is <distinct>form</distinct>? Whatever form there may be, it is all the four great
+                        elements and form derived from the four great elements. In this way, when
+                        both form and the aforementioned name are taken together, they are called
+                            <distinct>name-and-form</distinct>.<note place="end" xml:id="UT22084-062-011-24"> Tripathi’s
+                                Sanskrit edition reads: “In this way, when both form and the
+                                aforementioned name are taken together, they are
+                                    <distinct>name-and-form</distinct>. This is called
+                                <distinct>name-and-form</distinct>.”</note>
+                    </p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-25"/>
+                    <p tid="24">“What are <distinct>the six sense sources</distinct> in the statement, ‘Through the
+                        condition of name-and-form, the six sense sources arise’? There are six
+                        inner sense sources: the inner sense sources of the eye, ear, nose, tongue,
+                        body, and mind. <ref cRef="F.124.b" type="folio" xml:id="UT22084-062-011-75"/> </p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-26"/>
+                    <p tid="25">“What is <distinct>contact</distinct> in the statement, ‘Through the condition of the six
+                        sense sources, contact arises’? There are six collections of contact: being
+                        conjoined with the eye, ear, nose, tongue, body, and mind. This is
+                            contact. </p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-27"/>
+                    <p tid="26">“What is <distinct>feeling</distinct> in the statement, ‘Through the condition of
+                        contact, feeling arises’? There are three feelings: pleasure, pain, and
+                        neither pleasure nor pain.</p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-28"/>
+                    <p tid="27">“What is <distinct>craving</distinct> in the statement, ‘Through the condition of
+                        feeling, craving arises’? There are three cravings: the craving of the
+                        desire realm, the craving of the form realm, and the craving of the formless
+                        realm. </p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-29"/>
+                    <p tid="28">“What is <distinct>grasping</distinct> in the statement, ‘Through the condition of
+                        craving, grasping arises’? Grasping is of four types: grasping at desire,
+                        grasping at views, grasping at moral rules and vows and rites,
+                        and grasping at theories that assert the self.</p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-30"/>
+                    <p tid="29">“What is <distinct>existence</distinct> in the statement, ‘Through the condition of
+                        grasping, existence arises’? There are three existences: the existences of
+                        the desire realm, the form realm, and the formless realm. </p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-31"/>
+                    <p tid="30">“What is <distinct>birth</distinct> in the statement, ‘Through the condition of
+                        existence, birth arises’? <distinct>Birth</distinct> refers to the way a being is born into a
+                        particular class of beings. It refers to conception, entrance, maturation,
+                        manifestation, obtaining aggregates, obtaining elements, obtaining sense
+                        sources, fully developing aggregates, and the manifestation of the life
+                        faculty.</p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-32"/>
+                    <p tid="31">“What is <distinct>aging</distinct> in the statement, ‘Through the
+                        condition of birth, aging and death arise’? <distinct>Aging</distinct> refers to becoming
+                            bald, white haired, wrinkled, worn out, slack, hunched like a cow
+                            drinking water, covered with liver spots, having drooping limbs, being
+                            afflicted with rheumatism, breathing heavily, walking hunched over,
+                            walking with a stick, feeling unwell and lethargic, being weakened,
+                            being exhausted, having impaired faculties, losing one’s memory, and
+                            becoming old and decrepit. This is called 
+                        aging.
+                    </p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-33"/>
+                    <p tid="32">“What is <distinct>death</distinct>? <ref cRef="F.125.a" type="folio" xml:id="UT22084-062-011-76"/> <distinct>Death</distinct> is the departure or passing away
+                        of each and every being from their respective class of sentient beings; it
+                        is their disintegration, internal deterioration, loss of life, fading of
+                        bodily warmth, cessation of the life faculty, discarding of the aggregates,
+                        dying, and decease. Combining the two into one, death with the
+                        aforementioned aging, this is known as <distinct>aging and death</distinct>.
+                        This is the detailed analysis of dependent
+                            arising. </p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-34"/>
+                    <p tid="33">“O monks, I said that I would explain to you the fundamental
+                        exposition and detailed analysis of dependent arising, and they are 
+                        as I have now described them.”<note place="end" xml:id="UT22084-062-011-35"> Tripathi’s
+                                Sanskrit edition ends here. After this paragraph, Vaidya’s edition
+                                includes the customary statement: “The monks, uplifted, rejoiced in
+                                the teaching of the Blessed One.”</note>
+                    </p>
+                    <milestone unit="chunk" xml:id="UT22084-062-011-45"/>
+                <trailer tid="34">This concludes “<title xml:lang="en">The Sūtra Teaching the Fundamental Exposition
+                    and Detailed Analysis of Dependent Arising</title>.”</trailer>
+                </div>
+            </div>
+        </body>
+        <back>
+            <div type="notes">
+                <head type="notes" tid="35">Notes</head>
+            </div>
+            <div type="listBibl">
+                <head type="listBibl" tid="37">Bibliography</head>
+                <div type="section" xml:id="UT22084-062-011-listBibl-1">
+                    <bibl xml:id="UT22084-062-011-36">
+                        <title xml:lang="Bo-Ltn">rten cing ’brel par ’byung ba dang po dang rnam par
+                            dbye ba bstan pa zhes bya ba’i mdo</title> (<title xml:lang="Sa-Ltn">Pratītya­samutpādādivibhaṅga­nirdeśa­nāma­sūtra</title>). Toh 211, Degé Kangyur vol. 62 (mdo sde tsha), folios
+                        123.b–125.a.</bibl>
+                    <bibl xml:id="UT22084-062-011-37">
+                        <title xml:lang="Bo-Ltn">rten cing ’brel par ’byung ba dang po dang rnam par
+                            dbye ba bstan pa zhes bya ba’i mdo</title>. bka’ ’gyur (dpe bsdur ma) [Comparative Edition
+                            of the Kangyur], krung go’i bod rig pa zhib ’jug ste gnas kyi bka’ bstan
+                            dpe sdur khang (The Tibetan Tripitaka Collation Bureau of the China
+                            Tibetology Research Center). 2006–2009. 108 vols. Beijing: krung go’i
+                            bod rig pa dpe skrun khang (China Tibetology Publishing House), vol. 62,
+                            pp. 336–41.
+                    </bibl>
+                    <bibl xml:id="UT22084-062-011-38">Ānandajoti Bhikkhu, trans., and P. L. Vaidya,
+                        ed. (2009). “<title xml:lang="Sa-Ltn">
+                            <ref target="http://www.ancient-buddhist-texts.net/Texts-and-Translations/Short-Pieces-in-Sanskrit/Pratityasamutpadadivibhanganirdesasutram.htm">Pratītya­samutpādādivibhaṅga­nirdeśa­sūtram</ref>
+                        </title>: The Discourse giving
+                        the Explanation and Analysis of Conditional Origination from the Beginning.”
+                            <title xml:lang="en">Ancient Buddhist Texts</title>. Last updated December 4, 2019.
+                        </bibl>
+                    <bibl xml:id="UT22084-062-011-39">Denkarma (<title xml:lang="Bo-Ltn">pho brang
+                            stod thang ldan [/ lhan] dkar gyi chos ’gyur ro cog gi dkar
+                        chag</title>). Toh 4364, Degé Tengyur vol. 206 (sna tshogs, jo), folios
+                        294.b–310.a. <ref rend="pending" target="https://read.84000.co/translation/toh4364.html"/>
+                    </bibl>
+                    <bibl xml:id="UT22084-062-011-40">Herrmann-Pfandt, Adelheid. <title xml:lang="de">Die lHan kar ma: ein früher Katalog der ins
+                            Tibetische übersetzten buddhistischen Texte</title>. Wien: Verlag der Österreichischen Akademie der Wissenschaften,
+                        2008.</bibl>
+                    <bibl xml:id="UT22084-062-011-41">Mejor, Marek. “On the Formulation of the
+                            <title xml:lang="Sa-Ltn">Pratītyasamutpāda</title>: Some Observations
+                        from Vasubandhu’s <title xml:lang="Sa-Ltn">Pratītya­samutpāda­vyākhyā</title>.” In <title xml:lang="en">Aspects of
+                            Buddhism: Proceedings of the International Seminar on Buddhist
+                            Studies</title>, edited by Agata Bareja-Starzyńska and Marek Mejor,
+                        125–137. Warsaw: Oriental Institute, 1997.</bibl>
+                    <bibl xml:id="UT22084-062-011-42">Tripathi, Chandrabhal. <title xml:lang="de">Fünfundzwanzig Sūtras des Nidānasaṃyukta</title>.
+                        Berlin: Akademie-Verlag, 1962. </bibl>
+
+                </div>
+            </div>
+            <div type="glossary">
+                <list type="glossary">
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-46">
+                            <term type="translationMain">aging and death</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">jarāmaraṇa</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">rga shi</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">རྒ་ཤི།</term>
+                            <note type="definition">
+                                <p>The twelfth link of dependent arising. </p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss xml:id="UT22084-062-011-47" type="term" mode="match">
+                            <term type="translationMain">bhagavān</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">bhagavān</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">bcom ldan ’das</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">བཅོམ་ལྡན་འདས།</term>
+                            <note type="definition" rend="override">
+                                <p>“Blessed One.” Epithet of the Buddha.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-48">
+                            <term type="translationMain">birth</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">jāti</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">skye ba</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">སྐྱེ་བ།</term>
+                            <note type="definition">
+                                <p>The eleventh link of dependent arising. </p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-49">
+                            <term type="translationMain">consciousness</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">vijñāna</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">rnam par shes pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">རྣམ་པར་ཤེས་པ།</term>
+                            <note type="definition">
+                                <p>The third link of dependent arising. The fifth of the five aggregates.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-50">
+                            <term type="translationMain">contact</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">sparśa</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">reg pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">རེག་པ།</term>
+                            <note type="definition">
+                                <p>The sixth link of dependent arising. </p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-51">
+                            <term type="translationMain">craving</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">tṛṣṇā</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">sred pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">སྲེད་པ།</term>
+                            <note type="definition">
+                                <p>The eighth link of dependent arising. </p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-52">
+                            <term type="translationMain">dependent arising</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">pratītyasamutpāda</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">rten cing ’brel par ’byung ba</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བ།</term>
+                            <note type="definition">
+                                <p>Arising based on the law of causality: whatever has arisen
+                                does not have an independent <term rend="ignore">existence</term>. </p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-53">
+                            <term type="translationMain">existence</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">bhava</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">srid pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">སྲིད་པ།</term>
+                            <note type="definition">
+                                <p>The tenth link of dependent arising. </p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-54">
+                            <term type="translationMain">feeling</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">vedanā</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">tshor ba</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ཚོར་བ།</term>
+                            <note type="definition">
+                                <p>The seventh link of dependent arising. The second of the five aggregates.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-55">
+                            <term type="translationMain">formations</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">saṃskāra</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">’du byed</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">འདུ་བྱེད།</term>
+                            <note type="definition">
+                                <p>The second link of dependent arising. The fourth of the five aggregates.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-56">
+                            <term type="translationMain">grasping</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">upādāna</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">len pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">ལེན་པ།</term>
+                            <note type="definition">
+                                <p>The ninth link of dependent arising. </p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-57">
+                            <term type="translationMain">great element</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">mahābhūta</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">’byung ba chen po</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">འབྱུང་བ་ཆེན་པོ།</term>
+                            <note type="definition">
+                                <p>The four great or gross elements are earth, water, fire, and
+                                air. </p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-58">
+                            <term type="translationMain">ignorance</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">avidyā</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">ma rig pa</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">མ་རིག་པ།</term>
+                            <note type="definition">
+                                <p>The first link of dependent arising. </p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-59">
+                            <term type="translationMain">name-and-form</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">nāmarūpa</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">ming dang gzugs</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">མིང་དང་གཟུགས།</term>
+                            <note type="definition">
+                                <p>The fourth link of dependent arising. </p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-60">
+                            <term type="translationMain">sense source</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">āyatana</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">skye mched</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">སྐྱེ་མཆེད།</term>
+                            <note type="definition">
+                                <p>See “six sense sources.”</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-61">
+                            <term type="translationMain">six sense sources</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">ṣaḍāyatana</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">skye mched drug</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">སྐྱེ་མཆེད་དྲུག</term>
+                            <note type="definition">
+                                <p>The fifth link of dependent arising. </p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <!--<item>
+                        <gloss type="person" xml:id="UT22084-062-011-62">
+                            <term type="translationMain">Anāthapiṇḍada</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">anāthapiṇḍada</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">mgon med zas sbyin</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">མགོན་མེད་ཟས་སྦྱིན།</term>
+                            <note type="definition" rend="override">
+                                <p>A wealthy householder of Śrāvastī renowned for his
+                                generosity. He spent a small fortune to purchase the grove of Prince Jeta,
+                                built a monastery there, and offered both to the Buddha.</p>
+                            </note>
+                        </gloss>
+                    </item>-->
+                    <item>
+                        <gloss xml:id="UT22084-062-011-118" type="place" mode="match">
+                            <term type="translationMain">Jeta’s Grove, Anāthapiṇḍada’s Park</term>
+                            <term type="translationAlternative">Jeta’s Grove</term>
+                            <term xml:lang="Sa-Ltn" type="attestedOther" status="verified">jetavanam anāthapiṇḍadasyārāmaḥ</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1" status="verified">rgyal bu rgyal byed kyi tshal mgon med zas sbyin gyi kun dga’ ra ba</term>
+                            <term xml:lang="bo" type="attestedSource" n="1" status="verified">རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ།</term>
+                        </gloss>
+                    </item>
+                    
+                    <item>
+                        <gloss type="place" xml:id="UT22084-062-011-65">
+                            <term type="translationMain">Śrāvastī</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">śrāvastī</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">mnyan yod</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">མཉན་ཡོད།</term>
+                            <note type="definition">
+                                <p>Capital city of the Kośala state, ruled by one of the Buddha’s royal patrons, King Prasenajit. One of the six largest cities in India during the time of the Buddha.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-66">
+                            <term type="translationMain">perception</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">saṃjñā</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">’du shes</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">འདུ་ཤེས།</term>
+                            <note type="definition">
+                                <p>The third of the five aggregates.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-67">
+                            <term type="translationMain">form</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">rūpa</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">gzugs</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">གཟུགས།</term>
+                            <note type="definition">
+                                <p>The first of the five aggregates.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-68">
+                            <term type="translationMain">desire realm</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">kamadhātu</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">’dod pa’i khams</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">འདོད་པའི་ཁམས།</term>
+                            <note type="definition">
+                                <p>One of the three realms of saṃsāra, characterized by a prevalence of desire.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-69">
+                            <term type="translationMain">form realm</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">rūpadhātu</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">gzugs kyi khams</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">གཟུགས་ཀྱི་ཁམས།</term>
+                            <note type="definition">
+                                <p>One of the three realms of saṃsāra, characterized by coarse materiality similar to the desire realm.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                    <item>
+                        <gloss type="term" xml:id="UT22084-062-011-70">
+                            <term type="translationMain">formless realm</term>
+                            <term xml:lang="Sa-Ltn" type="sourceUnspecified">ārūpyadhātu</term>
+                            <term xml:lang="Bo-Ltn" type="attestedSource" n="1">gzugs med pa’i khams</term>
+                            <term xml:lang="bo" type="attestedSource" n="1">གཟུགས་མེད་པའི་ཁམས།</term>
+                            <note type="definition">
+                                <p>One of the three realms of saṃsāra, characterized by having only a subtle mental form.</p>
+                            </note>
+                        </gloss>
+                    </item>
+                </list>
+            </div>
+        </back>
+    </text>
+</TEI>
