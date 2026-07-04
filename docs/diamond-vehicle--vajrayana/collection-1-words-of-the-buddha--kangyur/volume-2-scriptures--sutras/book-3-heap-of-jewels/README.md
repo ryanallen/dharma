@@ -21,3 +21,5 @@ Forty-nine selected sūtras (Toh 45–93) on a range of themes, compiled as a se
 ## [Inspiring Determination](toh69-inspiring_determination.xml) </br><sub>`Toh. 69` `84k`</sub>
 ## [Subāhu's Question](toh70-question_of_subahu.xml) </br><sub>`Toh. 70` `84k`</sub>
 ## [Surata’s Questions](toh71-suratas_questions.xml) </br><sub>`Toh. 71` `84k`</sub>
+## [Vīradatta the Householder's Questions](toh72-sutra_of_viradattas_questions.xml) </br><sub>`Toh. 72` `84k`</sub>
+## [King Udayana's Questions](toh73-king_udayana_of_vatsas_questions.xml) </br><sub>`Toh. 73` `84k`</sub>
