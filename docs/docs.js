@@ -21,7 +21,6 @@
 // ---------------------------------------------------------------------------
 
 import { renderMarkdown } from '../site/markdown.js';
-import { applyDocumentHtml } from '../site/progressive-render.js';
 import { renderTEI, isTEI } from '../site/tei-xml.js';
 import { initMinimap } from '../site/minimap.js';
 import { highlightCode, decorateCodeBlocks } from '../site/codeblocks.js';
@@ -493,57 +492,51 @@ async function render(route, anchor) {
     const text = await res.text();
     const isXML = isXmlRoute || isTEI(text);
 
-    // Put the page on screen. A large page (e.g. a long sutra or the full
-    // glossary) streams in behind a determinate progress bar (see
-    // progressive-render.js); everything that depends on the finished DOM runs
-    // once it is fully inserted.
-    const html = isXML ? renderTEI(text) : renderMarkdown(text);
-    applyDocumentHtml(contentEl, html, () => {
-      decorateBlockquoteLines(contentEl);
-      // An in-page outline (table of contents) from this page's headings, tucked
-      // just under the title — distinct from the left nav sidebar, which lists
-      // pages, not the sections within a page. Works for both Markdown and TEI/XML
-      // because both renderers emit slug-bearing <h1>–<h6>. Built before the anchor
-      // pass so its link-only entries stay out of the block-numbering scheme.
-      buildOutline(contentEl, { label: 'Outline' });
-      statusEl.hidden = true;
-      displayedRoute = route;
+    contentEl.innerHTML = isXML ? renderTEI(text) : renderMarkdown(text);
+    decorateBlockquoteLines(contentEl);
+    // An in-page outline (table of contents) from this page's headings, tucked
+    // just under the title — distinct from the left nav sidebar, which lists
+    // pages, not the sections within a page. Works for both Markdown and TEI/XML
+    // because both renderers emit slug-bearing <h1>–<h6>. Built before the anchor
+    // pass so its link-only entries stay out of the block-numbering scheme.
+    buildOutline(contentEl, { label: 'Outline' });
+    statusEl.hidden = true;
+    displayedRoute = route;
 
-      const firstHeading = contentEl.querySelector('h1, h2, h3');
-      const heading = firstHeading ? firstHeading.textContent.trim() : '';
-      document.title = (heading ? heading.slice(0, 70) + ' — ' : '') + BRAND;
-      setHeadMetadata(route, heading);
+    const firstHeading = contentEl.querySelector('h1, h2, h3');
+    const heading = firstHeading ? firstHeading.textContent.trim() : '';
+    document.title = (heading ? heading.slice(0, 70) + ' — ' : '') + BRAND;
+    setHeadMetadata(route, heading);
 
-      highlightActive(route);
-      buildPager(route);
+    highlightActive(route);
+    buildPager(route);
 
-      // Rebuild the minimap from scratch (initMinimap appends a fresh rail).
-      document.querySelectorAll('.document-minimap').forEach((el) => el.remove());
+    // Rebuild the minimap from scratch (initMinimap appends a fresh rail).
+    document.querySelectorAll('.document-minimap').forEach((el) => el.remove());
 
-      // Mermaid, math, and code highlighting are Markdown-only; TEI/XML documents
-      // carry none of them, so skip those passes (matches site/reader.js).
-      if (!isXML) {
-        renderMermaidDiagrams();
-        renderMath();
-        highlightCode(contentEl, HLJS_SRC);
-        decorateCodeBlocks(contentEl);
-      }
-      decorateAnchorLinks(contentEl);
-      delete contentEl.dataset.speedReaderProcessed;
-      applySpeedReaderIfEnabled(contentEl);
-      initMinimap(contentEl);
+    // Mermaid, math, and code highlighting are Markdown-only; TEI/XML documents
+    // carry none of them, so skip those passes (matches site/reader.js).
+    if (!isXML) {
+      renderMermaidDiagrams();
+      renderMath();
+      highlightCode(contentEl, HLJS_SRC);
+      decorateCodeBlocks(contentEl);
+    }
+    decorateAnchorLinks(contentEl);
+    delete contentEl.dataset.speedReaderProcessed;
+    applySpeedReaderIfEnabled(contentEl);
+    initMinimap(contentEl);
 
-      scrollToAnchor(anchor);
+    scrollToAnchor(anchor);
 
-      // Auto-link glossary terms after paint. Terms already wrapped by hand (real
-      // ../GLOSSARY.md#slug links) are skipped, so manual and automatic linking do
-      // not conflict. The glossary lives one level above /docs.
-      installAutoGlossary({
-        contentEl,
-        renderMarkdown,
-        renderTEI,
-        glossaryUrl: ['../GLOSSARY.md', '../GLOSSARY.xml', '../glossary.xml'],
-      });
+    // Auto-link glossary terms after paint. Terms already wrapped by hand (real
+    // ../GLOSSARY.md#slug links) are skipped, so manual and automatic linking do
+    // not conflict. The glossary lives one level above /docs.
+    installAutoGlossary({
+      contentEl,
+      renderMarkdown,
+      renderTEI,
+      glossaryUrl: ['../GLOSSARY.md', '../GLOSSARY.xml', '../glossary.xml'],
     });
   } catch (err) {
     statusEl.hidden = false;
