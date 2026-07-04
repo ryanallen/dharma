@@ -15,3 +15,7 @@ Forty-nine selected sūtras (Toh 45–93) on a range of themes, compiled as a se
 ## [Pūrṇa's Questions](toh61-questions_of_purna.xml) </br><sub>`Toh. 61` `84k`</sub>
 ## [Rāṣṭrapāla's Questions](toh62-the_questions_of_rastrapala.xml) </br><sub>`Toh. 62` `84k`</sub>
 ## [Vidyutprāpta’s Questions](toh64-the_sutra_of_vidyutpraptas_questions.xml) </br><sub>`Toh. 64` `84k`</sub>
+## [Prophecy for Bhadra the Illustionist](toh65-the_prophecy_for_bhadra_the_illusionist.xml) </br><sub>`Toh. 65` `84k`</sub>
+## [Lion's Roar](toh67_the_great_lions_roar.xml) </br><sub>`Toh. 67` `84k`</sub>
+## [Upāli’s Discipline Questions](toh68-ascertaining_the_discipline_the_sutra_of_upalis_questions.xml) </br><sub>`Toh. 68` `84k`</sub>
+## [Inspiring Determination](toh69-inspiring_determination.xml) </br><sub>`Toh. 69` `84k`</sub>
