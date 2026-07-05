@@ -87,3 +87,5 @@ The principal collection of 266 sūtras, varied in length, subject, interlocutor
 ## [Assessing Progress](toh202-evaluating_whether_progress_is_certain_or_uncertain.xml) </br><sub>`Toh. 202` `84k`</sub>
 ## [Dharma Seal](toh203-the_seal_of_dharma.xml) </br><sub>`Toh. 203` `84k`</sub>
 ## [Beggar Woman](toh205-the_city_beggar_woman.xml) </br><sub>`Toh. 205` `84k`</sub>
+## [Food](toh206_pure_sustenance_of_food.xml) </br><sub>`Toh. 206` `84k`</sub>
+## [Elephant Strength](toh207-the_strength_of_the_elephant.xml) </br><sub>`Toh. 207` `84k`</sub>
