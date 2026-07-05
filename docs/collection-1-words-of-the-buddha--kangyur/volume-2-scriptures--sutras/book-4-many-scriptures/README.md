@@ -48,3 +48,8 @@ The principal collection of 266 sūtras, varied in length, subject, interlocutor
 ## [King Druma's Questions](toh157-questions_of_the_kinnara_king_druma.xml) </br><sub>`Toh. 157` `84k`</sub>
 ## [Brahmā’s Question](toh158-the_noble_mahayana_sutra_brahmas_question.xml) </br><sub>`Toh. 158` `84k`</sub>
 ## [Brahmadatta's Questions](toh159-the_sutra_of_the_questions_of_brahmadatta.xml) </br><sub>`Toh. 159` `84k`</sub>
+## [Brahma­viśeṣacintin's Questions](toh160-the_sutra_of_the_questions_of_brahmavisesacintin.xml) </br><sub>`Toh. 160` `84k`</sub>
+## [Śrīvasu's Questions](toh162-the_sutra_of_the_questions_of_srivasu.xml) </br><sub>`Toh. 162` `84k`</sub>
+## [Ratnajālin's Questions](toh163-the_sutra_of_the_questions_of_ratnajalin.xml) </br><sub>`Toh. 163` `84k`</sub>
+## [Ratna­candra's Questions](toh164-the_sutra_of_the_questions_of_ratnacandra.xml) </br><sub>`Toh. 164` `84k`</sub>
+## [Kṣemaṅkara's Question](toh165-question_of_ksemamkara.xml) </br><sub>`Toh. 165` `84k`</sub>
