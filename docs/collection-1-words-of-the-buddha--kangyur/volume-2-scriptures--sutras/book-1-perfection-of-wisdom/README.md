@@ -7,7 +7,7 @@ The collection of discourses on the Perfection of Wisdom (Toh 8-30).
 
 ## [The Perfection of Wisdom in Eighteen Thousand Lines](toh10-the_perfection_of_wisdom_in_eighteen_thousand_lines.xml) </br><sub>[*(Aṣṭā­daśa­sāhasrikā­prajñā­pāramitā)*](toh10-the_perfection_of_wisdom_in_eighteen_thousand_lines.xml)</sub> </br><sub>`Toh. 10` `84k`</sub>
 
-## [The Transcendent Perfection of Wisdom in Ten Thousand Lines](toh11_perfection_of_wisdom_in_ten_thousand_lines.xml) </br><sub>[*(Daśa­sāhasrikā­prajñā­pāramitā)*](toh11_perfection_of_wisdom_in_ten_thousand_lines.xml)</sub> </br><sub>`Toh. 11` `84k`</sub>
+## [The Transcendent Perfection of Wisdom in Ten Thousand Lines](toh11_perfection_of_wisdom_in_ten_thousand_lines.xml) </br><sub>[*(Daśa­sāhasrikā­prajñā­pāramitā)*](toh11-perfection_of_wisdom_in_ten_thousand_lines.xml)</sub> </br><sub>`Toh. 11` `84k`</sub>
 
 ## [The Perfection of Wisdom for Kauśika](toh19-the_perfection_of_wisdom_for_kausika.xml) </br><sub>[*(Kauśika­prajñā­pāramitā)*](toh19-the_perfection_of_wisdom_for_kausika.xml)</sub> </br><sub>`Toh. 19` `84k`</sub>
 

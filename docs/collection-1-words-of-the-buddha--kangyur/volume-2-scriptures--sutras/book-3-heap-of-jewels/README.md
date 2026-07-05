@@ -5,7 +5,7 @@ Forty-nine selected sūtras (Toh 45–93) on a range of themes, compiled as a se
 ## [Secrets of the Realized Ones](toh47-the_secrets_of_the_realized_ones.xml) </br><sub>`Toh. 47` `84k`</sub>
 ## [Dreams](toh48-the_teaching_on_dreams.xml) </br><sub>`Toh. 48` `84k`</sub>
 ## [Armor Array](toh51-the_teaching_on_the_armor_array.xml) </br><sub>`Toh. 51` `84k`</sub>
-## [Indivisible Nature](toh52_indivisible_nature.xml)  </br><sub>`Toh. 52` `84k`</sub>
+## [Indivisible Nature](toh52-indivisible_nature.xml)  </br><sub>`Toh. 52` `84k`</sub>
 ## [Universal Gateway](toh54-the_exposition_on_the_universal_gateway.xml)  </br><sub>`Toh. 54` `84k`</sub>
 ## [Shining Light](toh55-the_complete_effulgence_of_light_teaching.xml) </br><sub>`Toh. 55` `84k`</sub>
 ## [Bodhisatva](toh56-the_collected_teachings_on_the_Bodhisatva.xml) </br><sub>`Toh. 56` `84k`</sub>
@@ -29,8 +29,8 @@ Forty-nine selected sūtras (Toh 45–93) on a range of themes, compiled as a se
 ## [Guṇaratnasaṅkusumita's Questions](toh78-the_sutra_of_gunaratnasankusumitas_questions.xml) </br><sub>`Toh. 78` `84k`</sub>
 ## [Inconceivable Realm of a Buddha](toh79-the_sutra_teaching_the_unfathomable_sphere_of_a_buddha.xml) </br><sub>`Toh. 79` `84k`</sub>
 ## [Siṃha’s Questions](toh81-simhas_questions.xml)  </br><sub>`Toh. 81` `84k`</sub>
-## [Bhadrapāla the Merchant's Questions](toh83_questions_of_bhadrapala.xml) </br><sub>`Toh. 83` `84k`</sub>
+## [Bhadrapāla the Merchant's Questions](toh83-questions_of_bhadrapala.xml) </br><sub>`Toh. 83` `84k`</sub>
 ## [Vimalaśraddhā the Girl's Questions](toh84-the_sutra_of_the_girl_vimalasraddhas_questions.xml) </br><sub>`Toh. 84` `84k`</sub>
-## [Maitreya's Question](toh85_question_of_maitreya.xml) </br><sub>`Toh. 85` `84k`</sub>
-## [Maitreya's Question on the Eight Qualities](toh86_question_of_maitreya_on_eight_qualities.xml)  </br><sub>`Toh. 86` `84k`</sub>
+## [Maitreya's Question](toh85-question_of_maitreya.xml) </br><sub>`Toh. 85` `84k`</sub>
+## [Maitreya's Question on the Eight Qualities](toh86-question_of_maitreya_on_eight_qualities.xml)  </br><sub>`Toh. 86` `84k`</sub>
 ## [Vyāsa the Seer's Questions](toh93-the_sutra_of_the_rsi_vyasas_questions.xml) </br><sub>`Toh. 93` `84k`</sub>
