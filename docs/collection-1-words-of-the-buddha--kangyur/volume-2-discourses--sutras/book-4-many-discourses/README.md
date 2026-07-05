@@ -83,3 +83,7 @@ The principal collection of 266 sūtras, varied in length, subject, interlocutor
 ## [Speech's Nectar](toh197-the_nectar_of_speech.xml) </br><sub>`Toh. 197` `84k`</sub>
 ## [Maitreya’s Setting Out](toh198-maitreyas_setting_out.xml) </br><sub>`Toh. 198` `84k`</sub>
 ## [Maitreya's Heaven of Joy](toh199-the_sutra_on_the_bodhisattva_maitreya_taking_birth_in_tusita.xml) </br><sub>`Toh. 199` `84k`</sub>
+## [Engaged Faith](toh201-the_seal_of_engagement_in_kindling_the_power_of_faith.xml) </br><sub>`Toh. 201` `84k`</sub>
+## [Assessing Progress](toh202-evaluating_whether_progress_is_certain_or_uncertain.xml) </br><sub>`Toh. 202` `84k`</sub>
+## [Dharma Seal](toh203-the_seal_of_dharma.xml) </br><sub>`Toh. 203` `84k`</sub>
+## [Beggar Woman](toh205-the_city_beggar_woman.xml) </br><sub>`Toh. 205` `84k`</sub>
