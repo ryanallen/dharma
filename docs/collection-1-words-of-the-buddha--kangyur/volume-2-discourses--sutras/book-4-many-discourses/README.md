@@ -89,3 +89,14 @@ The principal collection of 266 sūtras, varied in length, subject, interlocutor
 ## [Beggar Woman](toh205-the_city_beggar_woman.xml) </br><sub>`Toh. 205` `84k`</sub>
 ## [Food](toh206_pure_sustenance_of_food.xml) </br><sub>`Toh. 206` `84k`</sub>
 ## [Elephant Strength](toh207-the_strength_of_the_elephant.xml) </br><sub>`Toh. 207` `84k`</sub>
+## [Great Rumble](toh208-the_great_rumble.xml) </br><sub>`Toh. 208` `84k`</sub>
+## [Rice Seedling](toh210-rice_seedling.xml) </br><sub>`Toh. 209` `84k`</sub>
+## [Dependent Arising](toh211-sutra_teaching_fundamental_exposition_and_detailed_analysis_of_dependent_arising.xml) </br><sub>`Toh. 211` `84k`</sub>
+## [Stūpa's Dependent Arising](toh212-sutra_on_dependent_arising.xml) </br><sub>`Toh. 212` `84k`</sub>
+## [Advice for King Bimbisāra](toh214-advice_for_the_king_1.xml) </br><sub>`Toh. 214` `84k`</sub>
+## [Advice for King Udayana](toh215-advice_for_the_king_2.xml) </br><sub>`Toh. 215` `84k`</sub>
+## [Eliminating Ajātaśatru’s Remorse](toh216-eliminating_ajatasatrus_remorse.xml) </br><sub>`Toh. 216` `84k`</sub>
+## [Śrīgupta](toh217-srigupta_sutra.xml) </br><sub>`Toh. 217` `84k`</sub>
+## [Purifying Karmic Obscurations](toh218_purification_of_karmic_obscurations.xml) </br><sub>`Toh. 218` `84k`</sub>
+## [Ending Karmic Obscurations](toh219-putting_an_end_to_karmic_obscurations.xml) </br><sub>`Toh. 219 `84k`</sub>
+## [Disciplining Violators](toh220-eliminating_those_with_corrupted_discipline.xml) </br><sub>`Toh. 220 `84k`</sub>
