@@ -1,4 +1,4 @@
-# <div align="center">Many Scriptures </br><sub>(*Sūtras*)</sub></div>
+# <div align="center">Many Discourses </br><sub>(*Sūtras*)</sub></div>
 The principal collection of 266 sūtras, varied in length, subject, interlocutors and origins (Toh 94-359).
 
 ## [Good Æon](toh94-sutra_of_the_good_eon.xml) </br><sub>`Toh. 94` `84k`</sub>
@@ -72,3 +72,14 @@ The principal collection of 266 sūtras, varied in length, subject, interlocutor
 ## [Inconceivable Wisdom](toh185-inconceivable_wisdom_of_the_tathagatas.xml) </br><sub>`Toh. 185` `84k`</sub>
 ## [Buddha's Powers](toh186_miracle_of_attaining_the_buddhas_powers.xml) </br><sub>`Toh. 186` `84k`</sub>
 ## [Dīpaṅkara's Prophecy](toh188-the_sutra_of_the_prophecy_by_dipamkara.xml) </br><sub>`Toh. 188` `84k`</sub>
+## [Brahmaśrī's Prophecy](toh189-the_prediction_for_brahmasri.xml) </br><sub>`Toh. 189` `84k`</sub>
+## [Strīvivarta's Prophecy](toh190-the_sutra_of_the_prophecy_concerning_strivivarta.xml) </br><sub>`Toh. 190` `84k`</sub>
+## [Candrottarā Girl's Prophecy](toh191-the_prophecy_of_the_girl_candrottara.xml) </br><sub>`Toh. 191` `84k`</sub>
+## [Kṣemavatī's Prophecy](toh192-the_prophecy_of_ksemavati.xml) </br><sub>`Toh. 192` `84k`</sub>
+## [Śrī Mahādevī's Prophecy](toh193-prophecy_of_shri_mahadevi.xml) </br><sub>`Toh. 193` `84k`</sub>
+## [Jayamati's Question](toh194-inquiry_of_jayamati.xml) </br><sub>`Toh. 194` `84k`</sub>
+## [Avalokinī](toh195-the_sutra_of_avalokini.xml) </br><sub>`Toh. 195` `84k`</sub>
+## [Mañjuśrī's Realms](toh196-the_dwelling_place_of_manjusri.xml) </br><sub>`Toh. 196` `84k`</sub>
+## [Speech's Nectar](toh197-the_nectar_of_speech.xml) </br><sub>`Toh. 197` `84k`</sub>
+## [Maitreya’s Setting Out](toh198-maitreyas_setting_out.xml) </br><sub>`Toh. 198` `84k`</sub>
+## [Maitreya's Heaven of Joy](toh199-the_sutra_on_the_bodhisattva_maitreya_taking_birth_in_tusita.xml) </br><sub>`Toh. 199` `84k`</sub>
