@@ -98,5 +98,9 @@ The principal collection of 266 sūtras, varied in length, subject, interlocutor
 ## [Eliminating Ajātaśatru’s Remorse](toh216-eliminating_ajatasatrus_remorse.xml) </br><sub>`Toh. 216` `84k`</sub>
 ## [Śrīgupta](toh217-srigupta_sutra.xml) </br><sub>`Toh. 217` `84k`</sub>
 ## [Purifying Karmic Obscurations](toh218_purification_of_karmic_obscurations.xml) </br><sub>`Toh. 218` `84k`</sub>
-## [Ending Karmic Obscurations](toh219-putting_an_end_to_karmic_obscurations.xml) </br><sub>`Toh. 219 `84k`</sub>
-## [Disciplining Violators](toh220-eliminating_those_with_corrupted_discipline.xml) </br><sub>`Toh. 220 `84k`</sub>
+## [Ending Karmic Obscurations](toh219-putting_an_end_to_karmic_obscurations.xml) </br><sub>`Toh. 219` `84k`</sub>
+## [Disciplining Violators](toh220-eliminating_those_with_corrupted_discipline.xml) </br><sub>`Toh. 220` `84k`</sub>
+## [Dṛḍhādhyāśaya](toh224-the_episode_of_drdhadhyasaya.xml) </br><sub>`Toh. 224` `84k`</sub>
+## [Three Jewels' Refuge](toh225-the_sutra_on_the_threefold_going_for_refuge.xml) </br><sub>`Toh. 225` `84k`</sub>
+## [Transmigration Through Existences](toh226-the_sutra_on_transmigration_through_existences.xml) </br><sub>`Toh. 226` `84k`</sub>
+## [Thus-Gone One's Discussions](toh229-discussions_of_thus-gone_ones.xml) </br><sub>`Toh. 229` `84k`</sub>
