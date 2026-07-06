@@ -113,3 +113,21 @@ The principal collection of 266 sūtras, varied in length, subject, interlocutor
 ## [Dharma Sections](toh245-the_sections_of_dharma.xml) </br><sub>`Toh. 245`</sub>
 ## [Victory of the Ultimate Dharma](toh246-the_sutra_of_the_victory_of_the_ultimate_dharma.xml) </br><sub>`Toh. 246`</sub>
 ## [Phenomena and What Is Meaningful](toh247-distinguishing_phenomena_and_what_is_meaningful.xml) </br><sub>`Toh. 247`</sub>
+## [Prātimokṣa's Fourfold Accomplishments](toh248-the_accomplishment_of-the-sets_of_four_qualities_the_bodhisattvas_pratimoksa.xml) </br><sub>`Toh. 248`</sub>
+## [Four Factors to Overcome Negative Deeds](toh249-the_sutra_teaching_four_factors.xml) </br><sub>`Toh. 249`</sub>
+## [Four Beliefs to Not Hold](toh250-the_four_factors.xml) </br><sub>`Toh. 250`</sub>
+## [Four Factors to Not Abandon](toh251-the_noble_mahayana_sutra_on_the_four_factors.xml) </br><sub>`Toh. 251`</sub>
+## [Fourfold Bodhisattva Practices](toh252-the_fourfold_accomplishment.xml) </br><sub>`Toh. 252`</sub>
+## [Dharmaketu](toh254-the_sutra_of_dharmaketu.xml) </br><sub>`Toh. 254`</sub>
+## [Ocean of Dharma](toh255-the_ocean_of_the_dharma.xml) </br><sub>`Toh. 255`</sub>
+## [Sun's Quintessence](toh257-the_sutra_of_the_quintessence_of_the_sun.xml) </br><sub>`Toh. 257`</sub>
+## [Illuminator’s Matrix](toh259-quintessence_that_illuminates_the_basket_without_words.xml) </br><sub>`Toh. 259`</sub>
+## [Ākāśagarbha](toh260_akashagarbha_sutra.xml) </br><sub>`Toh. 260`</sub>
+## [Taming Beings Through Perfect Conduct](toh263-tames_beings_with_the_sky_colored_method_of_perfect_conduct.xml) </br><sub>`Toh. 263`</sub>
+## [Bouquet of Flowers](toh266-bouquet_of_flowers.xml) </br><sub>`Toh. 266`</sub>
+## [Calling Witness with a Hundred Prostrations](toh267_calling_witness_with_hundred_prostrations.xml) </br><sub>`Toh. 267`</sub>
+## [King of the Inconceivable](toh268-the_sutra_of_king_of_the_inconceivable.xml)  </br><sub>`Toh. 268`</sub>
+## [Dispelling Ten Directions' Darkness](toh269-dispelling_the_darkness_of_the_ten_directions.xml) </br><sub>`Toh. 269`</sub>
+## [Seven Buddhas](toh270-the_seven_buddhas.xml) </br><sub>`Toh. 270`</sub>
+## [Eight Buddhas](toh271-the_eight_buddhas.xml) </br><sub>`Toh. 271`</sub>
+## [Twelve Buddhas](toh273-the_twelve_buddhas.xml) </br><sub>`Toh. 273`</sub>
