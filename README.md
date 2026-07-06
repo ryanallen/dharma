@@ -1,6 +1,6 @@
 # <div align="center">Empty Guru </br><sub>The Clear Light of the Ego-less Guide</sub></div>
 
-## [Words of the Buddha](docs/collection-1-words-of-the-buddha--kangyur/README.md) </br><sub>[*(Kangyur)*](docs/collection-1-words-of-the-buddha--kangyur/README.md)</sub>
+## [Words of the Buddha](docs/collection-1-words-of-the-buddha--kangyur/README.md) </br><sub>*(Kangyur)*</sub>
 ## Commentarial Treatises </br><sub>(*Tengyur*)</sub>
 
 
