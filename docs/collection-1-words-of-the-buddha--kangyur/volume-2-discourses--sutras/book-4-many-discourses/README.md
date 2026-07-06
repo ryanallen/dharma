@@ -134,3 +134,16 @@ The principal collection of 266 sūtras, varied in length, subject, interlocutor
 ## [Not Rejecting the Buddha](toh276-the_sutra_on_not_rejecting_the_buddha.xml) </br><sub>`Toh. 276`</sub>
 ## [Eight Auspicious Ones](toh278-the_eight_auspicious_ones.xml) </br><sub>`Toh. 278`</sub>
 ## [Three Trainings](toh282_sutra_on_threefold_training.xml) </br><sub>`Toh. 282`</sub>
+## [Three Bodies (*Kayas*)](toh283_sutra_on_three_bodies.xml) </br><sub>`Toh. 283`</sub>
+## [Dedication to Fulfilling All Aspirations](toh285-the_dedication_fulfilling_all_aspirations.xml) </br><sub>`Toh. 285`</sub>
+## [Dedication to Protecting All Beings](toh286-the_dedication_protecting_all_beings.xml) </br><sub>`Toh. 286`</sub>
+## [Mindfulness of Dharma](toh287-mindfulness_of_the_true_dharma.xml) </br><sub>`Toh. 286`</sub>
+## [Illusion's Net](toh288-the_mahasutra_illusions_net.xml) </br><sub>`Toh. 288`</sub>
+## [Overcoming Fear (Long)](toh292-the_mahasutra_the_crest_insignia_1.xml) </br><sub>`Toh. 292`</sub>
+## [Overcoming Fear (Short)](toh293-the_mahasutra_the_crest_insignia_(2).xml) </br><sub>`Toh. 293`</sub>
+## [Many Constituents](toh297-multitude_of_constituents.xml) </br><sub>`Toh. 297`</sub>
+## [Wooden Gong](toh298-gandi_sutra.xml) </br><sub>`Toh. 298`</sub>
+## [Wooden Gong Timings](toh299-the_sutra_on_timings_for_the_gandhi.xml) </br><sub>`Toh. 299`</sub>
+## [Relying on a Virtuous Spiritual Friend](toh300_reliance_upon_virtuous_spiritual_friend.xml) </br><sub>`Toh. 300`</sub>
+## [Mendicants Dearest Holdings ](toh302-what_medicants_hold_most_dear.xml) </br><sub>`Toh. 302`</sub>
+## [Moral Discipline](toh303-the_sutra_on_having_moral_discipline.xml) </br><sub>`Toh. 303`</sub>
