@@ -131,3 +131,6 @@ The principal collection of 266 sūtras, varied in length, subject, interlocutor
 ## [Seven Buddhas](toh270-the_seven_buddhas.xml) </br><sub>`Toh. 270`</sub>
 ## [Eight Buddhas](toh271-the_eight_buddhas.xml) </br><sub>`Toh. 271`</sub>
 ## [Twelve Buddhas](toh273-the_twelve_buddhas.xml) </br><sub>`Toh. 273`</sub>
+## [Not Rejecting the Buddha](toh276-the_sutra_on_not_rejecting_the_buddha.xml) </br><sub>`Toh. 276`</sub>
+## [Eight Auspicious Ones](toh278-the_eight_auspicious_ones.xml) </br><sub>`Toh. 278`</sub>
+## [Three Trainings](toh282_sutra_on_threefold_training.xml) </br><sub>`Toh. 282`</sub>
