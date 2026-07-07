@@ -167,4 +167,25 @@ The principal collection of 266 sūtras, varied in length, subject, interlocutor
 ## [Nāga King Drum's Verses](toh325-verses_of_naga_king_drum.xml) </br><sub>`Toh. 325`</sub>
 ## [Good Person](toh327-the_good_person.xml) </br><sub>`Toh. 327`</sub>
 ## [Nanda’s Going Forth](toh328-the_sutra_of_nandas_going_forth.xml) </br><sub>`Toh. 328`</sub>
-## [Devatās](toh329-the_devata_sutra.xml) </br><sub>`Toh. 328`</sub>
+## [Devatās (Long)](toh329-the_devata_sutra.xml) </br><sub>`Toh. 329`</sub>
+## [Devatās (Short)](toh330-the_shorter_devata_sutra.xml) </br><sub>`Toh. 330`</sub>
+## [Moon](toh331-the_sutra_of_the_moon.xml) </br><sub>`Toh. 331`</sub>
+## [Vasiṣṭha](toh333-the_sutra_of_vasistha.xml) </br><sub>`Toh. 333`</sub>
+## [Nandika](toh334-the_sutra_of_nandika.xml) </br><sub>`Toh. 334`</sub>
+## [Ringing Staff](toh335-the_khakkhara_sutra.xml) </br><sub>`Toh. 335`</sub>
+## [Ringing Staff Rite](toh336-the_rite_of_the_commitment_to_bear_the_mendicants_staff.xml) </br><sub>`Toh. 336`</sub>
+## [Dharma Wheel](toh337_wheel_of_dharma.xml) </br><sub>`Toh. 337`</sub>
+## [Karma](toh338-the_exposition_of_karma.xml) </br><sub>`Toh. 338`</sub>
+## [Transformation of Karma](toh339-dharma_scripture_exposition_of_karma.xml) </br><sub>`Toh. 339`</sub>
+## [Hundred Deeds](toh340-the_hundred_deeds.xml) </br><sub>`Toh. 340`</sub>
+## [Dīrghanakha the Wandering Mendicant's Questions](toh342-the_questions_of_dirghanakha_the_wandering_mendicant.xml) </br><sub>`Toh. 342`</sub>
+## [Jñānaka](toh344-the_sutra_of_jnanaka.xml) </br><sub>`Toh. 344`</sub>
+## [Pig](toh345-the_exemplary_tale_about_a_sow.xml) </br><sub>`Toh. 345`</sub>
+## [Sumāgadhā](toh346-the_account_of_the_noble_deeds_of_sumagadha.xml) </br><sub>`Toh. 346`</sub>
+## [Puṇyabala](toh347-the_exemplary_tale_of_punyabala.xml) </br><sub>`Toh. 347`</sub>
+## [Śrīsena](toh349-the_exemplary_tale_of_srisena.xml) </br><sub>`Toh. 349`</sub>
+## [Past Endeavor of Kanakavarṇa](toh350-the_past_endeavor_of_kanakavarna.xml) </br><sub>`Toh. 350`</sub>
+## [Good and Bad](toh354-teaching_the_causes_and_results_of_good_and_ill.xml) </br><sub>`Toh. 354`</sub>
+## [Fruit of Actions](toh355-the_sutra_that_teaches_the_ripening_of_virtuous_and_nonvirtuous_actions.xml) </br><sub>`Toh. 355`</sub>
+## [Mount Gośṛṅga's Prophecy](toh357-the_prophecy_of_gosrnga.xml) </br><sub>`Toh. 357`</sub>
+## [Śārdūlakarṇa](toh358-the_exemplary_tale_of_sardulakarna.xml) </br><sub>`Toh. 358`</sub>
