@@ -147,3 +147,24 @@ The principal collection of 266 sūtras, varied in length, subject, interlocutor
 ## [Relying on a Virtuous Spiritual Friend](toh300_reliance_upon_virtuous_spiritual_friend.xml) </br><sub>`Toh. 300`</sub>
 ## [Mendicants Dearest Holdings ](toh302-what_medicants_hold_most_dear.xml) </br><sub>`Toh. 302`</sub>
 ## [Moral Discipline](toh303-the_sutra_on_having_moral_discipline.xml) </br><sub>`Toh. 303`</sub>
+## [Declaring what is Supreme](toh305-sutra_of_the_highest_designation.xml) </br><sub>`Toh. 305`</sub>
+## [Life's Limits](toh307-sutra_on_the_limits_of_lifes_duration.xml) </br><sub>`Toh. 307`</sub>
+## [Death and Transmigration](toh308_questions_regarding_death_and_transmigration.xml) </br><sub>`Toh. 308`</sub>
+## [Impermanence of existence](toh309_sutra_on_Impermanence.xml) </br><sub>`Toh. 309`</sub>
+## [Impermanence of conditioned states](toh310-the_sutra_on_impermanence.xml) </br><sub>`Toh. 310`</sub>
+## [Eleven Thoughts](toh311-teaching_the_eleven_thoughts.xml) </br><sub>`Toh. 311`</sub>
+## [Entering Vaiśālī](toh312-the_mahasutra_entering_the_city_of_vaisali.xml) </br><sub>`Toh. 312`</sub>
+## [Auspicious Night](toh313-auspicious_night.xml) </br><sub>`Toh. 313`</sub>
+## [Entering the Gloomy Forest](toh314-the_sutra_of_the_entry_into_the_gloomy_forest.xml) </br><sub>`Toh. 313`</sub>
+## [Your Mom and Dad](toh315-the_sutra_on_ones_father_and_mother.xml) </br><sub>`Toh. 315`</sub>
+## [Ascertaining the Meanings](toh317-distinctly_ascertaining_the_meanings.xml) </br><sub>`Toh. 317`</sub>
+## [Marvelous Dharma](toh319-the_marvelous_dharma_discourse.xml) </br><sub>`Toh. 319`</sub>
+## [Benefits of Producing Buddha Images](toh320-benefits_of_establishing_representations_of_the_tathagatha.xml) </br><sub>`Toh. 320`</sub>
+## [Circumambulating Shrines](toh321-the_verses_on_circumambulating_shrines.xml) </br><sub>`Toh. 321`</sub>
+## [King Prasenajit's Verses](toh322-verses_for_prasenajit.xml) </br><sub>`Toh. 322`</sub>
+## [Singe Stanza](toh323-the_single_stanza.xml) </br><sub>`Toh. 323`</sub>
+## [Four Stanzas](toh324-the_four_stanzas.xml) </br><sub>`Toh. 324`</sub>
+## [Nāga King Drum's Verses](toh325-verses_of_naga_king_drum.xml) </br><sub>`Toh. 325`</sub>
+## [Good Person](toh327-the_good_person.xml) </br><sub>`Toh. 327`</sub>
+## [Nanda’s Going Forth](toh328-the_sutra_of_nandas_going_forth.xml) </br><sub>`Toh. 328`</sub>
+## [Devatās](toh329-the_devata_sutra.xml) </br><sub>`Toh. 328`</sub>
