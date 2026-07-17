@@ -1,3 +1,5 @@
+<sub><a href="../README.md">← Words of the Buddha (Kangyur)</a></sub>
+
 # <div align="center">Advanced Doctrines </br><sub>(*Tantra*)</sub></div>
 The scriptures of the Vajrayāna intended for experienced practitioners, often cryptic and hard to understand without instruction and commentary (Toh 360-845).
 

@@ -1,3 +1,5 @@
+<sub><a href="../README.md">← Advanced Doctrines (Tantras)</a></sub>
+
 # <div align="center">Unexcelled Advanced Union Doctrines </br><sub>(*Anuttarayoga / Yoganiruttaratantra*)</sub></div>
 Tantras of the highest class, divided into “non-dual,” “mother,” and “father,” and within the two latter categories into six “families” of principal deities (Toh 360-478).
 

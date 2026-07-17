@@ -1,3 +1,5 @@
+<sub><a href="../README.md">← Advanced Doctrines (Tantra)</a></sub>
+
 # <div align="center">Advanced Doctrines </br><sub>(*Tantras*)</sub></div>
 The principal tantra collection of 468 canonical tantras, mainly from the “later spread” of Vajrayāna to Tibet, arranged by level (Toh 360-827).
 

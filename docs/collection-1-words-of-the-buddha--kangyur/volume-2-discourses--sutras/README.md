@@ -1,3 +1,5 @@
+<sub><a href="../README.md">← Words of the Buddha (Kangyur)</a></sub>
+
 # <div align="center">Discourses </br><sub>(*Sūtras*)</sub></div>
 The collected scriptures: the Tibetan translations of the Indian texts that are considered to be the words of the Buddha.
 

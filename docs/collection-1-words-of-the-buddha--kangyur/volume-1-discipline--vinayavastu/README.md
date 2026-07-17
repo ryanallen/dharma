@@ -1,3 +1,5 @@
+<sub><a href="../README.md">← Words of the Buddha (Kangyur)</a></sub>
+
 # <div align="center">Monastic Discipline </br><sub>(*Vinayavastu*)</sub></div>
 Works focusing primarily on the monastic rules and their origins, but also containing a wealth of historical, biographical, and cultural material (Toh 1-7).
 
