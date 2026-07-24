@@ -16,4 +16,4 @@ Tantras of the highest class, divided into “non-dual,” “mother,” and “
 ## [Dream Visions](toh460a-dream-visions.xml) </br><sub>`Toh 460a`</sub>
 ## [Black Yamāri](toh467-the_tantra_of_black_yamari.xml) </br><sub>(*Kṛṣṇayamāri­tantra*) </br>`Toh 467`</sub>
 ## [Myth](toh471-the_myth_chapter.xml) </br><sub>`Toh 471`</sub>
-## [Musk Shrew's Rite](toh472-the_ritual_practices_of_the_muskrat.xml) </br><sub>(*Chucchundara­kalpa*) </br>`Toh `</sub>
+## <span id="17"></span>[Musk Shrew's Rite](toh472-the_ritual_practices_of_the_muskrat.xml) <br><sub>(*Chucchundara­kalpa*) <br>`Toh 472`</sub>
