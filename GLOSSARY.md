@@ -18,7 +18,7 @@ The central province of Tibet surrounding Lhasa.
 ## a bodhisattva’s full maturity
 *byang chub sems dpa’i skyon med pa*, Skt. *bodhi­sattva­nyāma*, See also “immaturity” and .
 
-## [a body] that is beautiful in all respects
+## a body that is beautiful in all respects
 *kun nas mdzes pa*, Skt. *samanta­prāsādika*, Thirty-ninth of the eighty minor signs.
 
 ## a feeling of remorse
