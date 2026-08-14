@@ -1,120 +1,43 @@
 // glossary.js
 // ---------------------------------------------------------------------------
-// Shared bottom-sheet glossary behaviour for the web reading views (the root
-// README reader in reader.js and the /docs site in docs.js).
+// Shared bottom-sheet glossary behavior for the web reading views (the root README reader in reader.js and the /docs site in docs.js).
 //
-// A "glossary link" is any in-page link whose target file is the glossary
-// (its basename is GLOSSARY_FILE) and that carries a "#anchor" — for example
-// `[karma](../../GLOSSARY.md#karma)`. Clicking one slides the matching entry up
-// in a sheet over the reading view instead of navigating away, so the doc
-// underneath keeps its scroll position. Links inside the sheet that point at
-// other glossary terms swap the entry in place; any other link dismisses the
-// sheet first and hands the navigation back to the host.
+// A "glossary link" is any in-page link whose target file is the glossary (its basename is GLOSSARY_FILE) and that carries a "#anchor" — for example `[karma](../../GLOSSARY.md#karma)`. Clicking one slides the matching entry up in a sheet over the reading view instead of navigating away, so the doc underneath keeps its scroll position. Links inside the sheet that point at other glossary terms swap the entry in place; any other link dismisses the sheet first and hands the navigation back to the host.
 //
-// The host owns its own click handling, so this module does NOT register a
-// document-wide listener. It returns `handleClick(event)`: call it first in the
-// host's content click handler and bail out when it returns true.
+// The host owns its own click handling, so this module does NOT register a document-wide listener. It returns `handleClick(event)`: call it first in the host's content click handler and bail out when it returns true.
 // ---------------------------------------------------------------------------
 
-import { slugify } from './slugger.js';
-import { stripToText } from './markdown.js';
-
-// The on-disk convention is GLOSSARY.md (like README.md). This is the
-// comparison key only; the basename is lowercased before comparing, so a
-// link to GLOSSARY.md or a legacy glossary.md both match.
+// The on-disk convention is GLOSSARY.md (like README.md). This is the comparison key only; the basename is lowercased before comparing, so a link to GLOSSARY.md or a legacy glossary.md both match.
 const GLOSSARY_FILE = 'glossary.md';
 
-// ---------------------------------------------------------------------------
-// Lightweight glossary index
-//
-// The glossary is one enormous Markdown file (tens of thousands of `## Term`
-// entries, multiple megabytes). Rendering the whole thing in the browser just
-// to show one entry — or to harvest the term list — is what makes the sheet
-// "never open" on a phone: parsing a multi-megabyte HTML string into a
-// ~200k-node DOM blows past mobile Safari's memory ceiling.
-//
-// Instead we fetch the raw text once and scan it into a compact index: for each
-// heading, its level, the SAME slug the renderer would assign (built with the
-// shared `stripToText` + `slugify` and one dedupe counter across all headings,
-// in document order, skipping fenced code — mirroring markdown.js), the plain
-// term text, and the line where the heading sits. From that we can slice a
-// single entry's source and render only those few lines, and list the terms
-// without rendering anything.
-// ---------------------------------------------------------------------------
-
-// ATX heading, matched exactly as markdown.js does (up to 3 leading spaces,
-// optional trailing #'s). Group 1 = the #'s, group 2 = the heading text.
-const GLOSSARY_HEADING_RE = /^ {0,3}(#{1,6})\s+(.*?)(?:\s+#+)?\s*$/;
-const GLOSSARY_FENCE_RE = /^ {0,3}(`{3,}|~{3,})/;
-
-function buildGlossaryIndex(source) {
-  const lines = String(source).replace(/\r\n?/g, '\n').split('\n');
-  const slugOcc = Object.create(null);
-  const headings = []; // { level, slug, term, line }
-  const bySlug = new Map();
-  let inFence = false;
-  let fenceCh = '';
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i];
-    const fm = line.match(GLOSSARY_FENCE_RE);
-    if (fm) {
-      if (!inFence) {
-        inFence = true;
-        fenceCh = fm[1][0];
-      } else if (line.trim()[0] === fenceCh) {
-        inFence = false;
-      }
-      continue;
-    }
-    if (inFence) continue;
-    const h = line.match(GLOSSARY_HEADING_RE);
-    if (!h) continue;
-    const term = stripToText(h[2]);
-    const slug = slugify(term, slugOcc);
-    const entry = { level: h[1].length, slug, term, line: i };
-    headings.push(entry);
-    if (!bySlug.has(slug)) bySlug.set(slug, headings.length - 1);
+/**
+ * One entry, cut out of the whole rendered glossary by its heading id.
+ *
+ * Cut from the **rendered** document rather than from the Markdown, because the heading ids are the renderer's and the links pointing at them were slugged by that same renderer — a second slug rule here is how a link stops finding its entry. Only the cut subtree is ever put on the page, so a large glossary costs one parse into a detached element rather than the layout of all of it, which is what used to hang the sheet on a memory-limited phone.
+ *
+ * Returns the entry's HTML, or null when no heading carries that id.
+ */
+export function entrySection(html, anchor) {
+  const held = document.createElement('div');
+  held.innerHTML = html;
+  // The renderer draws a Previous/Next strip at the foot of every document, and it would otherwise be swept into whichever entry comes last.
+  held.querySelectorAll('.docs-pager').forEach((strip) => strip.remove());
+  let heading = null;
+  try {
+    heading = held.querySelector(`[id="${CSS.escape(anchor)}"]`);
+  } catch (error) {
+    return null;
   }
-  return { lines, headings, bySlug };
-}
-
-// The Markdown source for a single entry: from its heading line up to (but not
-// including) the next heading of the same or higher level — the same span the
-// old DOM-walking extractEntry captured, but sliced from raw text.
-function sliceGlossaryEntry(index, anchor) {
-  const at = index.bySlug.get(anchor);
-  if (at === undefined) return null;
-  const start = index.headings[at];
-  let endLine = index.lines.length;
-  for (let j = at + 1; j < index.headings.length; j++) {
-    if (index.headings[j].level <= start.level) {
-      endLine = index.headings[j].line;
-      break;
-    }
+  if (!heading) return null;
+  const level = /^h([1-6])$/i.exec(heading.tagName);
+  const depth = level ? Number(level[1]) : 6;
+  const entry = [heading];
+  for (let node = heading.nextElementSibling; node; node = node.nextElementSibling) {
+    const stop = /^h([1-6])$/i.exec(node.tagName);
+    if (stop && Number(stop[1]) <= depth) break;
+    entry.push(node);
   }
-  return index.lines.slice(start.line, endLine).join('\n');
-}
-
-// Fetch + index each glossary URL at most once; shared by the sheet and the
-// auto-linker so the multi-megabyte file is downloaded and scanned a single time.
-const glossaryIndexCache = new Map(); // url -> Promise<{lines, headings, bySlug}>
-function loadGlossaryIndex(url) {
-  let promise = glossaryIndexCache.get(url);
-  if (!promise) {
-    promise = (async () => {
-      const res = await fetch(url, { cache: 'no-cache' });
-      if (!res.ok) throw new Error('HTTP ' + res.status);
-      return buildGlossaryIndex(await res.text());
-    })();
-    // Don't cache a failure — a transient error shouldn't poison the session.
-    promise.catch(() => glossaryIndexCache.delete(url));
-    glossaryIndexCache.set(url, promise);
-  }
-  return promise;
-}
-
-function isMarkdownGlossaryUrl(url) {
-  return /\.md(?:[?#]|$)/i.test(url);
+  return entry.map((node) => node.outerHTML).join('\n');
 }
 
 function decodeAnchor(raw) {
@@ -141,66 +64,36 @@ function basename(path) {
 // The glossary anchor a link points to, or '' when it is not a glossary link.
 function glossaryAnchor(href) {
   if (!href) return '';
-  // Preferred form: a fake `glossary:slug` URL with no file path, so it works at
-  // any folder depth. The sheet always loads from the configured glossaryUrl.
+  // Preferred form: a fake `glossary:slug` URL with no file path, so it works at any folder depth. The sheet always loads from the configured glossaryUrl.
   const scheme = /^glossary:(.*)$/i.exec(href);
   if (scheme) return decodeAnchor(scheme[1].replace(/^#/, ''));
   if (/^[a-z]+:\/\//i.test(href) || href.startsWith('mailto:')) return '';
-  // Real form: a `…/GLOSSARY.md#slug` relative link (what /check expands the
-  // shorthand into; also a working link in plain Markdown viewers).
+  // Real form: a `…/GLOSSARY.md#slug` relative link (what /check expands the shorthand into; also a working link in plain Markdown viewers).
   const [path, anchor] = splitHref(href);
   if (!anchor) return '';
   if (basename(path) !== GLOSSARY_FILE) return '';
   return anchor;
 }
 
-function headingLevel(el) {
-  const match = /^H([1-6])$/.exec(el.tagName);
-  return match ? Number(match[1]) : 0;
-}
-
-// Pull one entry out of the rendered glossary: the heading whose id is `anchor`
-// plus every following sibling up to the next heading of the same or higher
-// level. Returns a DocumentFragment, or null when the anchor is not found.
-function extractEntry(root, anchor) {
-  const start = Array.from(root.querySelectorAll('[id]')).find((el) => el.id === anchor);
-  if (!start) return null;
-  const level = headingLevel(start) || 6;
-  const frag = document.createDocumentFragment();
-  frag.appendChild(start.cloneNode(true));
-  let node = start.nextElementSibling;
-  while (node) {
-    const lvl = headingLevel(node);
-    if (lvl && lvl <= level) break;
-    frag.appendChild(node.cloneNode(true));
-    node = node.nextElementSibling;
-  }
-  return frag;
-}
-
 // Wire up the glossary sheet for one reading view.
-//   glossaryUrl    where to fetch the glossary Markdown from (fetched once, lazily)
-//   renderMarkdown the shared Markdown -> HTML renderer
+//   glossaryUrl    where to fetch the glossary from (fetched once, lazily)
+//   render         the app's own renderer: (text, path) -> a drawn document
 //   onNavigate     optional; called with an href when a non-glossary link inside
 //                  the sheet is followed, so the host can route to it
-export function installGlossary({ glossaryUrl, renderMarkdown, onNavigate }) {
+export function installGlossary({ glossaryUrl, render, onNavigate }) {
   let loadPromise = null;
   let sheet = null;
   let backdrop = null;
   let bodyEl = null;
   let lastFocus = null;
 
-  // Fallback only: render the WHOLE glossary into a detached DOM. Used for a
-  // non-Markdown (.xml) glossary, or the rare case where the index does not
-  // contain a requested slug. The fast path (slicing one entry) avoids this.
-  function loadGlossaryFull() {
+  // Fetch and draw the glossary once, and cache the HTML. Nothing of it reaches the page: open() cuts out the one entry it needs and puts only that on screen, so what a large glossary costs is one render and one parse into a detached element rather than the layout of all of it — which is what used to make the sheet hang on a memory-limited phone.
+  function loadGlossaryHtml() {
     if (!loadPromise) {
       loadPromise = (async () => {
         const res = await fetch(glossaryUrl, { cache: 'no-cache' });
         if (!res.ok) throw new Error('HTTP ' + res.status);
-        const root = document.createElement('div');
-        root.innerHTML = renderMarkdown(await res.text());
-        return root;
+        return render(await res.text(), glossaryUrl).html;
       })();
     }
     return loadPromise;
@@ -249,9 +142,7 @@ export function installGlossary({ glossaryUrl, renderMarkdown, onNavigate }) {
     document.body.appendChild(sheet);
   }
 
-  // Clicks inside the sheet: another glossary term (or a bare "#anchor", which
-  // can only mean another entry within this glossary) swaps the entry in place;
-  // anything else leaves the glossary and is handed to the host.
+  // Clicks inside the sheet: another glossary term (or a bare "#anchor", which can only mean another entry within this glossary) swaps the entry in place; anything else leaves the glossary and is handed to the host.
   function onSheetClick(event) {
     const link = event.target.closest('a');
     if (!link) return;
@@ -299,36 +190,27 @@ export function installGlossary({ glossaryUrl, renderMarkdown, onNavigate }) {
   async function open(anchor) {
     show();
     bodyEl.innerHTML = '<p class="glossary-sheet-status">Loading…</p>';
+    let html;
     try {
-      // Fast path: slice just this entry from the raw glossary and render only
-      // those few lines — no multi-megabyte render, so the sheet opens instantly
-      // even on a phone.
-      if (isMarkdownGlossaryUrl(glossaryUrl)) {
-        const index = await loadGlossaryIndex(glossaryUrl);
-        const src = sliceGlossaryEntry(index, anchor);
-        if (src !== null) {
-          bodyEl.innerHTML = renderMarkdown(src);
-          bodyEl.scrollTop = 0;
-          return;
-        }
-      }
-      // Fallback: a non-Markdown glossary, or a slug the index did not produce —
-      // render the whole file once and pluck the entry out of the DOM.
-      const root = await loadGlossaryFull();
-      const entry = extractEntry(root, anchor);
-      bodyEl.innerHTML = '';
-      if (entry) bodyEl.appendChild(entry);
-      else bodyEl.innerHTML = '<p class="glossary-sheet-status">No glossary entry for “' + anchor + '”.</p>';
-      bodyEl.scrollTop = 0;
+      html = await loadGlossaryHtml();
     } catch (err) {
       bodyEl.innerHTML =
         '<p class="glossary-sheet-status">Could not load the glossary (' + err.message + ').</p>';
+      return;
     }
+    // Cut out just this entry and put only that on the page, so the sheet opens instantly and cheaply regardless of how large the glossary is.
+    const entryHtml = entrySection(html, anchor);
+    if (entryHtml != null) {
+      bodyEl.innerHTML = entryHtml;
+    } else {
+      bodyEl.innerHTML =
+        '<p class="glossary-sheet-status">No glossary entry for “' + anchor + '”.</p>';
+    }
+    bodyEl.scrollTop = 0;
   }
 
   return {
-    // Call first in the host's content click handler. Returns true when the
-    // click was a glossary link (and was handled), false otherwise.
+    // Call first in the host's content click handler. Returns true when the click was a glossary link (and was handled), false otherwise.
     handleClick(event) {
       if (
         event.defaultPrevented ||
@@ -356,53 +238,20 @@ export function installGlossary({ glossaryUrl, renderMarkdown, onNavigate }) {
 // ---------------------------------------------------------------------------
 // Dynamic auto-glossary linking
 //
-// After the document content is rendered, call this to asynchronously fetch
-// the glossary (GLOSSARY.md or GLOSSARY.xml / glossary.xml) and wrap every
-// occurrence of each glossary term in the content with a `glossary:slug` link.
+// After the document content is rendered, call this to asynchronously fetch the glossary (GLOSSARY.md or GLOSSARY.xml / glossary.xml) and wrap every occurrence of each glossary term in the content with a `glossary:slug` link.
 //
-// Terms from ## (h2) headings are used. Matching is whole-word, case-insensitive.
-// Text inside existing <a>, <code>, and <pre> elements is skipped.
+// Terms from ## (h2) headings are used. Matching is whole-word, case-insensitive. Text inside existing <a>, <code>, and <pre> elements is skipped.
 //
 // Usage:
-//   installAutoGlossary({ contentEl, renderMarkdown, renderTEI })
+//   installAutoGlossary({ contentEl, render, glossaryUrl })
 //
 // Returns a promise that resolves when linking is done (or quietly fails).
 // ---------------------------------------------------------------------------
 
 const SKIP_TAGS = new Set(['a', 'code', 'pre', 'script', 'style', 'head']);
 
-// First-word term index per glossary URL, so repeated renders (the docs viewer
-// swaps pages without reloading) reuse one fetch + one index build.
-const autoGlossaryCache = new Map();
-
-// Word characters, matched exactly as the old whole-word boundary did (letters,
-// combining marks, digits). GLOSSARY_WORD_RE walks the document word by word so
-// we never compile one giant alternation of every term: a 25k-alternative regex
-// is what iOS Safari refuses to build, which left a large glossary completely
-// unlinkable on a phone. GLOSSARY_WORD_CHAR_RE tests a single boundary char.
-const GLOSSARY_WORD_RE = /[\p{L}\p{M}\d]+/gu;
-const GLOSSARY_WORD_CHAR_RE = /[\p{L}\p{M}\d]/u;
-
-// Index terms by their first word (lowercased) → the term's lowercased text, its
-// slug, and how many characters precede that first word (`off`, so a term that
-// starts with punctuation — e.g. a quoted phrase — still anchors correctly).
-// Each bucket is sorted longest-first so the longest matching term wins, exactly
-// mirroring the longest-first alternation order of the old single regex.
-function buildFirstWordIndex(terms) {
-  const byFirstWord = new Map();
-  for (const { term, slug } of terms) {
-    const wm = term.match(/[\p{L}\p{M}\d]+/u);
-    if (!wm) continue;
-    const key = wm[0].toLowerCase();
-    let list = byFirstWord.get(key);
-    if (!list) {
-      list = [];
-      byFirstWord.set(key, list);
-    }
-    list.push({ lower: term.toLowerCase(), slug, off: wm.index });
-  }
-  for (const list of byFirstWord.values()) list.sort((a, b) => b.lower.length - a.lower.length);
-  return byFirstWord;
+function escapeRegex(str) {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
 /**
@@ -430,53 +279,37 @@ function collectTextNodes(root) {
 }
 
 /**
- * Wrap glossary-term occurrences in one text node with `glossary:slug` links —
- * whole-word, case-insensitive, longest term first, the same result the old
- * single regex produced, but by scanning the node word by word against the
- * first-word index instead of executing a 25k-alternative regex (which iOS
- * Safari cannot compile). Matches never overlap: once one is taken the scan
- * resumes after it.
+ * Replace term occurrences in a single text node with glossary links.
  * @param {Text} textNode
- * @param {Map<string, {lower: string, slug: string, off: number}[]>} byFirstWord
+ * @param {RegExp} pattern   — built from all terms
+ * @param {Map<string, string>} termMap — term.toLowerCase() → slug
  */
-function linkTextNode(textNode, byFirstWord) {
+function linkTextNode(textNode, pattern, termMap) {
   const text = textNode.textContent;
-  GLOSSARY_WORD_RE.lastIndex = 0;
-  const segs = [];
-  let cursor = 0;
-  let m;
-  while ((m = GLOSSARY_WORD_RE.exec(text)) !== null) {
-    const candidates = byFirstWord.get(m[0].toLowerCase());
-    if (!candidates) continue;
-    for (const c of candidates) {
-      const start = m.index - c.off; // the term may begin a few chars before its first word
-      if (start < cursor) continue; // would overlap a match already taken
-      const end = start + c.lower.length;
-      if (
-        end <= text.length &&
-        (start === 0 || !GLOSSARY_WORD_CHAR_RE.test(text[start - 1])) &&
-        text.slice(start, end).toLowerCase() === c.lower &&
-        (end === text.length || !GLOSSARY_WORD_CHAR_RE.test(text[end]))
-      ) {
-        segs.push({ start, end, slug: c.slug });
-        cursor = end;
-        GLOSSARY_WORD_RE.lastIndex = end;
-        break;
-      }
-    }
-  }
-  if (!segs.length) return;
+  pattern.lastIndex = 0;
+  if (!pattern.test(text)) return;
+  pattern.lastIndex = 0;
 
   const frag = document.createDocumentFragment();
   let last = 0;
-  for (const seg of segs) {
-    if (seg.start > last) frag.appendChild(document.createTextNode(text.slice(last, seg.start)));
-    const a = document.createElement('a');
-    a.href = 'glossary:' + seg.slug;
-    a.textContent = text.slice(seg.start, seg.end);
-    frag.appendChild(a);
-    last = seg.end;
+  let match;
+
+  while ((match = pattern.exec(text)) !== null) {
+    if (match.index > last) {
+      frag.appendChild(document.createTextNode(text.slice(last, match.index)));
+    }
+    const slug = termMap.get(match[0].toLowerCase());
+    if (slug) {
+      const a = document.createElement('a');
+      a.href = 'glossary:' + slug;
+      a.textContent = match[0];
+      frag.appendChild(a);
+    } else {
+      frag.appendChild(document.createTextNode(match[0]));
+    }
+    last = match.index + match[0].length;
   }
+
   if (last < text.length) frag.appendChild(document.createTextNode(text.slice(last)));
   textNode.parentNode.replaceChild(frag, textNode);
 }
@@ -501,28 +334,21 @@ function extractTerms(html) {
 }
 
 /**
- * Get the glossary term list, longest term first, trying each candidate URL in
- * order (first that exists wins). A Markdown glossary is read straight from the
- * shared raw-text index — no rendering — so the huge file is never turned into a
- * DOM just to list its terms. A `.xml` glossary still renders through the TEI
- * path (those files are small).
- * @returns {Promise<{term: string, slug: string}[]>}
+ * Fetch the glossary and return rendered HTML, or null when none is reachable.
+ * `glossaryUrl` is one path or a list to try in order, each relative to the page
+ * asking. Ours sits in docs/, not at the site root, so the caller has to say
+ * where — a default of `GLOSSARY.md` is a silent no-op from anywhere else.
+ *
+ * The name is handed to the renderer along with the text, because that name is
+ * what decides the format: an `.xml` glossary reads as TEI and an `.md` one as
+ * Markdown with nothing here choosing between them.
+ * @param {Function} render
+ * @param {string|string[]} glossaryUrl
+ * @returns {Promise<string|null>}
  */
-async function glossaryTermsFor(candidates, renderMarkdown, renderTEI) {
+async function fetchGlossaryHtml(render, glossaryUrl) {
+  const candidates = Array.isArray(glossaryUrl) ? glossaryUrl : [glossaryUrl];
   for (const name of candidates) {
-    if (isMarkdownGlossaryUrl(name)) {
-      let index;
-      try {
-        index = await loadGlossaryIndex(name);
-      } catch {
-        continue;
-      }
-      const terms = index.headings
-        .filter((h) => h.level === 2 && h.term)
-        .map((h) => ({ term: h.term, slug: h.slug }));
-      terms.sort((a, b) => b.term.length - a.term.length);
-      return terms;
-    }
     let res;
     try {
       res = await fetch(name, { cache: 'no-cache' });
@@ -530,11 +356,9 @@ async function glossaryTermsFor(candidates, renderMarkdown, renderTEI) {
       continue;
     }
     if (!res.ok) continue;
-    const text = await res.text();
-    const html = name.endsWith('.xml') && renderTEI ? renderTEI(text) : renderMarkdown(text);
-    return extractTerms(html);
+    return render(await res.text(), name).html;
   }
-  return [];
+  return null;
 }
 
 /**
@@ -543,37 +367,32 @@ async function glossaryTermsFor(candidates, renderMarkdown, renderTEI) {
  *
  * @param {object} opts
  * @param {Element} opts.contentEl     — the rendered document element
- * @param {Function} opts.renderMarkdown
- * @param {Function} [opts.renderTEI]  — optional; used for .xml glossary files
- * @param {string|string[]} [opts.glossaryUrl]  — where to fetch the glossary from;
- *        a single URL or a list tried in order (first that exists wins). Needed when
- *        the page is not next to the glossary (e.g. /docs uses ../GLOSSARY.*). Defaults
- *        to trying GLOSSARY.md / GLOSSARY.xml / glossary.xml next to the page.
+ * @param {Function} opts.render       — the app's own renderer: (text, path) -> a drawn document
+ * @param {string|string[]} opts.glossaryUrl — where the glossary is, from this page
  */
-export async function installAutoGlossary({ contentEl, renderMarkdown, renderTEI, glossaryUrl }) {
-  const candidates = glossaryUrl
-    ? Array.isArray(glossaryUrl)
-      ? glossaryUrl
-      : [glossaryUrl]
-    : ['GLOSSARY.md', 'GLOSSARY.xml', 'glossary.xml'];
-
-  // Build (or reuse) the first-word term index for this glossary URL. The
-  // glossary is large (tens of thousands of entries) and the docs viewer
-  // re-renders on every navigation, so caching avoids re-fetching and
-  // re-indexing each time.
-  const cacheKey = candidates.join('|');
-  let byFirstWord = autoGlossaryCache.get(cacheKey);
-  if (!byFirstWord) {
-    let terms;
-    try {
-      terms = await glossaryTermsFor(candidates, renderMarkdown, renderTEI || null);
-    } catch {
-      return;
-    }
-    if (!terms.length) return;
-    byFirstWord = buildFirstWordIndex(terms);
-    autoGlossaryCache.set(cacheKey, byFirstWord);
+export async function installAutoGlossary({ contentEl, render, glossaryUrl }) {
+  if (!glossaryUrl) return;
+  let glossaryHtml;
+  try {
+    glossaryHtml = await fetchGlossaryHtml(render, glossaryUrl);
+  } catch {
+    return;
   }
+  if (!glossaryHtml) return;
+
+  const terms = extractTerms(glossaryHtml);
+  if (!terms.length) return;
+
+  // Build a single regex from all terms (whole-word boundaries)
+  const pattern = new RegExp(
+    '(?<![\\p{L}\\p{M}\\d])(' +
+      terms.map((t) => escapeRegex(t.term)).join('|') +
+      ')(?![\\p{L}\\p{M}\\d])',
+    'giu'
+  );
+
+  // Map lowercase term → slug for O(1) lookup during replacement
+  const termMap = new Map(terms.map((t) => [t.term.toLowerCase(), t.slug]));
 
   // Collect text nodes first (modifying the DOM during traversal is unsafe)
   const textNodes = collectTextNodes(contentEl);
@@ -583,7 +402,7 @@ export async function installAutoGlossary({ contentEl, renderMarkdown, renderTEI
   for (let i = 0; i < textNodes.length; i += BATCH) {
     const batch = textNodes.slice(i, i + BATCH);
     for (const node of batch) {
-      if (node.parentNode) linkTextNode(node, byFirstWord);
+      if (node.parentNode) linkTextNode(node, pattern, termMap);
     }
     // Yield to the browser between batches
     await new Promise((r) => setTimeout(r, 0));

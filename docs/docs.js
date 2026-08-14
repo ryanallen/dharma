@@ -16,12 +16,13 @@
 // (or shows nothing if there is no README). The raw .md files stay viewable on
 // GitHub, and in-page links between them are intercepted and turned into routes.
 //
-// The renderer (markdown.js) and minimap (minimap.js) are reused verbatim from
+// The renderer is Leaftext's own, fetched as a module from leaftext.com
+// (../site/leaftext-core.js); the minimap (minimap.js) is reused verbatim from
 // the root site one level up.
 // ---------------------------------------------------------------------------
 
-import { renderMarkdown } from '../site/markdown.js';
-import { renderTEI, isTEI } from '../site/tei-xml.js';
+import { createLeaftext } from '../site/leaftext-core.js';
+import { fillPager } from '../site/pager.js';
 import { initMinimap } from '../site/minimap.js';
 import { highlightCode, decorateCodeBlocks } from '../site/codeblocks.js';
 import { decorateAnchorLinks } from '../site/anchors.js';
@@ -46,6 +47,10 @@ const TITLE_PARTS = SITE_TITLE.split(/\s[—–-]\s/);
 const BRAND = (TITLE_PARTS[0] || SITE_TITLE).trim();
 const SUBTITLE = (TITLE_PARTS[1] || '').trim();
 const SITE_HREF = new URL('../', location.href).href; // site root, one up from /docs
+// The folder this reader is serving, as a path in the repository — read off the
+// page's own address rather than written down, so nothing here says "docs" and a
+// reader dropped in any folder serves that one.
+const BASE = new URL('./', location.href).pathname.replace(/^\/+|\/+$/g, '');
 // Resolved in boot(): REPO from the README, then the GitHub footer link appended.
 let REPO = null;
 let FOOTER_LINKS = [{ href: SITE_HREF, label: '← ' + location.hostname }];
@@ -61,10 +66,40 @@ async function deriveRepo() {
     if (!res.ok) return null;
     const match = (await res.text()).match(/github\.com\/([\w.-]+)\/([\w.-]+)/i);
     if (!match) return null;
-    return { owner: match[1], repo: match[2].replace(/\.git$/i, ''), branch: 'main', base: 'docs' };
+    return { owner: match[1], repo: match[2].replace(/\.git$/i, ''), branch: 'main', base: BASE };
   } catch (e) {
     return null;
   }
+}
+
+// The renderer, loaded once in boot(). Every call into it is behind a page that
+// already said the module arrived.
+let leaf = null;
+
+// The document, drawn by Leaftext's own renderer. One place, so the sheet, the
+// auto-linker and the page itself cannot end up drawing three different
+// documents.
+function renderDocument(text, path) {
+  const drawn = leaf.render(text, path);
+  if (!drawn) throw new Error('the renderer refused ' + path);
+  return drawn;
+}
+
+// The file to fetch for a route: a route drops ".md" and keeps every other
+// extension, so a route that already names a file the renderer opens is fetched
+// as it stands.
+function fileForRoute(route) {
+  if (route === '') return 'README.md';
+  return leaf && leaf.opens(route) ? route : route + '.md';
+}
+
+// Any link the renderer would open is an in-app route. Which extensions those
+// are is the app's own one table, read off the module rather than written out
+// again here — so a JSON, YAML or email file beside a page becomes a page by
+// that table naming it.
+function isDocumentHref(href) {
+  const path = String(href).split(/[?#]/)[0];
+  return leaf ? leaf.opens(path) : /\.md$/i.test(path);
 }
 
 // Filled in once the live tree is loaded.
@@ -89,7 +124,6 @@ const sidebarEl = document.getElementById('sidebar');
 const mobileNavEl = document.getElementById('mobileNav');
 const contentEl = document.getElementById('content');
 const statusEl = document.getElementById('status');
-const pagerEl = document.getElementById('pager');
 // The tooltip's line count needs the URL of the file a link points at. Here a
 // relative `.md` link resolves to a route against the page on screen, and the
 // file behind that route is `<route>.md` under this /docs base — not a URL under
@@ -98,11 +132,11 @@ installLinkTooltip(document, {
   resolveDocUrl: (link) => {
     const href = (link.getAttribute('href') || '').trim();
     if (!href || href.startsWith('#') || /^[a-z][a-z0-9+.-]*:/i.test(href)) return null;
-    if (!/\.md(?:[#?].*)?$/i.test(href)) return null;
+    if (!isDocumentHref(href)) return null;
     const { route } = routeAndAnchorFromHref(href, displayedRoute);
     if (!route) return null;
     try {
-      return new URL(route + '.md', location.href).href;
+      return new URL(fileForRoute(route), location.href).href;
     } catch (error) {
       return null;
     }
@@ -329,13 +363,12 @@ function buildPager(route) {
   const idx = route === '' ? -1 : PAGES.findIndex((p) => p.route === route);
   const prev = idx > 0 ? PAGES[idx - 1] : null;
   const next = route === '' ? PAGES[0] || null : idx >= 0 && idx < PAGES.length - 1 ? PAGES[idx + 1] : null;
-  const prevHtml = prev
-    ? `<a class="docs-pager-prev" href="#/${prev.route}"><span class="docs-pager-label">Previous</span>${prev.label}</a>`
-    : '<span></span>';
-  const nextHtml = next
-    ? `<a class="docs-pager-next" href="#/${next.route}"><span class="docs-pager-label">Next</span>${next.label}</a>`
-    : '<span></span>';
-  pagerEl.innerHTML = prevHtml + nextHtml;
+  // The strip is the renderer's own, drawn waiting at the foot of every document
+  // it renders. Here the sidebar's order is what knows a page's neighbors, so
+  // this is where that promise is kept — and a document with nothing either side
+  // loses the strip rather than keeping a skeleton nobody will fill.
+  const entry = (page) => (page ? { href: '#/' + page.route, label: page.label } : null);
+  fillPager(contentEl, entry(prev), entry(next));
 }
 
 // ---- in-page link handling ----------------------------------------------
@@ -349,6 +382,13 @@ contentEl.addEventListener('click', (event) => {
   if (!link) return;
   const href = link.getAttribute('href');
   if (!href) return;
+
+  // A route, not a place in this page. The Previous/Next strip is drawn by the
+  // renderer at the foot of the document, so its buttons are inside the content
+  // element now and the in-page-anchor branch below would swallow them: it would
+  // look for an element with the id "/openmind", find none, and cancel the
+  // click. Left alone, the address changes and the hashchange listener renders.
+  if (href.startsWith('#/')) return;
 
   if (href.startsWith('#')) {
     event.preventDefault();
@@ -366,7 +406,7 @@ contentEl.addEventListener('click', (event) => {
     return;
   }
 
-  if (/\.(md|xml)(?:[#?].*)?$/i.test(href) && !/^[a-z]+:\/\//i.test(href)) {
+  if (isDocumentHref(href) && !/^[a-z]+:\/\//i.test(href)) {
     const { route, anchor } = routeAndAnchorFromHref(href, displayedRoute);
     if (route) {
       event.preventDefault();
@@ -480,19 +520,19 @@ async function render(route, anchor) {
     return;
   }
 
-  // A route ending in .xml names a TEI/XML file to render directly; anything
-  // else is Markdown fetched as "<route>.md".
-  const isXmlRoute = /\.xml$/i.test(route);
-  const file = route === '' ? 'README.md' : isXmlRoute ? route : route + '.md';
+  const file = fileForRoute(route);
   try {
     statusEl.hidden = false;
     statusEl.textContent = 'Loading…';
     const res = await fetch(file, { cache: 'no-cache' });
     if (!res.ok) throw new Error('HTTP ' + res.status + ' fetching ' + file);
     const text = await res.text();
-    const isXML = isXmlRoute || isTEI(text);
 
-    contentEl.innerHTML = isXML ? renderTEI(text) : renderMarkdown(text);
+    // The path, not just the text: the renderer's one format table is what
+    // decides whether this is Markdown, TEI, data or a message, and nothing
+    // here chooses.
+    const drawn = renderDocument(text, file);
+    contentEl.innerHTML = drawn.html;
     decorateBlockquoteLines(contentEl);
     // An in-page outline (table of contents) from this page's headings, tucked
     // just under the title — distinct from the left nav sidebar, which lists
@@ -504,7 +544,7 @@ async function render(route, anchor) {
     displayedRoute = route;
 
     const firstHeading = contentEl.querySelector('h1, h2, h3');
-    const heading = firstHeading ? firstHeading.textContent.trim() : '';
+    const heading = drawn.title || (firstHeading ? firstHeading.textContent.trim() : '');
     document.title = (heading ? heading.slice(0, 70) + ' — ' : '') + BRAND;
     setHeadMetadata(route, heading);
 
@@ -514,14 +554,12 @@ async function render(route, anchor) {
     // Rebuild the minimap from scratch (initMinimap appends a fresh rail).
     document.querySelectorAll('.document-minimap').forEach((el) => el.remove());
 
-    // Mermaid, math, and code highlighting are Markdown-only; TEI/XML documents
-    // carry none of them, so skip those passes (matches site/reader.js).
-    if (!isXML) {
-      renderMermaidDiagrams();
-      renderMath();
-      highlightCode(contentEl, HLJS_SRC);
-      decorateCodeBlocks(contentEl);
-    }
+    // Run over every format: a document with no diagram and no fence in it costs
+    // each of these one query that finds nothing.
+    renderMermaidDiagrams();
+    renderMath();
+    highlightCode(contentEl, HLJS_SRC);
+    decorateCodeBlocks(contentEl);
     decorateAnchorLinks(contentEl);
     delete contentEl.dataset.speedReaderProcessed;
     applySpeedReaderIfEnabled(contentEl);
@@ -534,8 +572,7 @@ async function render(route, anchor) {
     // not conflict. The glossary lives one level above /docs.
     installAutoGlossary({
       contentEl,
-      renderMarkdown,
-      renderTEI,
+      render: renderDocument,
       glossaryUrl: ['../GLOSSARY.md', '../GLOSSARY.xml', '../glossary.xml'],
     });
   } catch (err) {
@@ -553,6 +590,20 @@ async function render(route, anchor) {
 let lastRoute = null;
 
 (async function boot() {
+  // The renderer first: everything below it draws a document, and a page that
+  // could not reach the module has to say so rather than sit on a document that
+  // never arrives. It is served from leaftext.com, which may be down.
+  try {
+    leaf = await createLeaftext();
+  } catch (err) {
+    statusEl.hidden = false;
+    statusEl.textContent =
+      'The reader could not be loaded (' +
+      err.message +
+      '), so these pages cannot be drawn. Every page here is a plain file you can read as it stands — the full list is at ../sitemap-md.txt.';
+    return;
+  }
+
   // Derive the repo from the README before building the nav, and add the GitHub
   // footer link once it is known.
   REPO = await deriveRepo();
@@ -562,7 +613,7 @@ let lastRoute = null;
     ]);
   }
   try {
-    const tree = await loadDocsNav(REPO);
+    const tree = await loadDocsNav(REPO, leaf.formats);
     NAV = tree.nav;
     HAS_INDEX = tree.hasIndex;
   } catch (err) {
@@ -577,7 +628,7 @@ let lastRoute = null;
   // glossary") routes through the docs router; an external link opens normally.
   glossary = installGlossary({
     glossaryUrl: '../GLOSSARY.md',
-    renderMarkdown,
+    render: renderDocument,
     onNavigate: (href) => {
       if (/^[a-z]+:\/\//i.test(href)) {
         window.open(href, '_blank', 'noopener');
