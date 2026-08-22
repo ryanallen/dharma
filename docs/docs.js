@@ -22,6 +22,7 @@
 // ---------------------------------------------------------------------------
 
 import { createLeaftext } from '../site/leaftext-core.js';
+import { fetchWatched } from '../site/fetches.js';
 import { fillPager } from '../site/pager.js';
 import { initMinimap } from '../site/minimap.js';
 import { highlightCode, decorateCodeBlocks } from '../site/codeblocks.js';
@@ -62,7 +63,7 @@ let FOOTER_LINKS = [{ href: SITE_HREF, label: '← ' + location.hostname }];
 // fallback is unavailable.
 async function deriveRepo() {
   try {
-    const res = await fetch('../README.md', { cache: 'no-cache' });
+    const res = await fetchWatched('../README.md', { cache: 'no-cache' });
     if (!res.ok) return null;
     const match = (await res.text()).match(/github\.com\/([\w.-]+)\/([\w.-]+)/i);
     if (!match) return null;
@@ -522,9 +523,9 @@ async function render(route, anchor) {
 
   const file = fileForRoute(route);
   try {
-    statusEl.hidden = false;
-    statusEl.textContent = 'Loading…';
-    const res = await fetch(file, { cache: 'no-cache' });
+    // The page already drawn stands until the next one arrives: the status line says nothing while a route is on its way, and the fetch under it now always ends.
+    statusEl.hidden = true;
+    const res = await fetchWatched(file, { cache: 'no-cache' });
     if (!res.ok) throw new Error('HTTP ' + res.status + ' fetching ' + file);
     const text = await res.text();
 

@@ -97,7 +97,10 @@
     <a class="skip-link" href="#content">Skip to content</a>
     <main class="page">
       <article class="markdown-body" id="content" tabindex="-1"></article>
-      <p class="status" id="status">Loading…</p>
+      <!-- The status line speaks only when something failed. It carries no waiting
+           text: a page that cannot say when it will finish should not promise
+           that it will. -->
+      <p class="status" id="status" hidden></p>
     </main>
     <script type="module" src="site/reader.js"></script>
     <script type="module">

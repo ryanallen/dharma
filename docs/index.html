@@ -71,7 +71,10 @@
     <main class="page">
       <select class="docs-mobile-nav" id="mobileNav" aria-label="Documentation pages"></select>
       <article class="markdown-body" id="content" tabindex="-1"></article>
-      <p class="status" id="status">Loading…</p>
+      <!-- The status line speaks only when something failed. It carries no waiting
+           text: a page that cannot say when it will finish should not promise
+           that it will. -->
+      <p class="status" id="status" hidden></p>
       <!-- The Previous/Next strip is part of what the renderer draws, filled
            from the sidebar's order — this page no longer holds one of its own. -->
     </main>

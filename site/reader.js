@@ -11,6 +11,7 @@
 // ---------------------------------------------------------------------------
 
 import { createLeaftext } from './leaftext-core.js';
+import { fetchWatched } from './fetches.js';
 import { fillPager } from './pager.js';
 import { initMinimap } from './minimap.js';
 import { highlightCode, decorateCodeBlocks } from './codeblocks.js';
@@ -160,7 +161,7 @@ function scrollToHash() {
 async function fetchDocument() {
   for (const ext of leaf.formats) {
     const path = './README.' + ext;
-    const res = await fetch(path, { cache: 'no-cache' });
+    const res = await fetchWatched(path, { cache: 'no-cache' });
     if (res.ok) return { text: await res.text(), path };
   }
   throw new Error('no README this reader can open beside this page');
