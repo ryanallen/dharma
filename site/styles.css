@@ -81,7 +81,13 @@
   --line-height: 1.6;
 
   /* ---- Layout ------------------------------------------------------- */
-  --content-width: 1012px; /* max width of the reading column */
+  /* The reading column: 75 characters, Leaftext's own measure. It is in `ch`
+     because the type above grows with the window and a pixel width does not —
+     at 1012px the line ran 104 characters on a 1280-wide window and 66 on a
+     2530, and the document drawn inside it stayed 784 wide, so the slack piled
+     up against the right edge. The padding is added back because `.page` is a
+     border box: a bare 75ch leaves 68 characters for words. */
+  --content-width: calc(75ch + var(--content-pad) * 2);
   --content-pad: 32px; /* space between text and the window edge */
   --radius: 6px; /* rounded corners on code blocks, etc. */
   --scroll-offset: 16px; /* gap above a heading you jumped to */
@@ -212,6 +218,13 @@ body {
   word-wrap: break-word;
   /* Reserve the rail's footprint so the centered column never slides under it. */
   padding-right: var(--minimap-width);
+}
+
+/* The front page has no left-hand chrome, so reserving the rail on the right
+   alone leaves the column half a rail left of center. The docs reader is left
+   out: it spends that side on its sidebar. */
+body.front-page {
+  padding-left: var(--minimap-width);
 }
 
 .page {
@@ -706,6 +719,10 @@ body {
 :root[data-minimap='off'] body {
   padding-right: 0;
 }
+/* The front page reserves the rail on both sides, so both come back when it goes. */
+:root[data-minimap='off'] body.front-page {
+  padding-left: 0;
+}
 
 /* "Show library" hides the docs navigation (the sidebar and its mobile select).
    These elements only exist on the /docs reader; on the plain README site the
@@ -715,7 +732,9 @@ body {
   display: none;
 }
 @media (min-width: 901px) {
-  :root[data-library='off'] body {
+  /* Reclaiming the sidebar is the docs reader's alone; on the front page that
+     side is the rail's reserve, and taking it draws the column off center. */
+  :root[data-library='off'] body:not(.front-page) {
     padding-left: 0;
   }
 }
@@ -734,6 +753,9 @@ body {
 @media (max-width: 720px) {
   body {
     padding-right: 0;
+  }
+  body.front-page {
+    padding-left: 0;
   }
   .document-minimap {
     display: none;
