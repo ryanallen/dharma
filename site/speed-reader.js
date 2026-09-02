@@ -22,13 +22,27 @@ const SPEED_READER_SKIP_SELECTOR = [
   '.speed-reader-anchor',
 ].join(',');
 
-const wordSegmenter =
-  typeof Intl !== 'undefined' && Intl.Segmenter
-    ? new Intl.Segmenter(undefined, { granularity: 'grapheme' })
-    : null;
+// Building the splitter is the browser standing a language service up, and on a
+// published page nothing asks for one before this — so it waits for the first
+// word a reader actually starts on rather than being paid by every page that
+// loads the module. Kept from that call on; `null` where the browser has no
+// `Intl.Segmenter`, which is why the held answer is told apart by `undefined`
+// rather than by being falsy.
+let heldWordSegmenter;
+
+function wordSegmenter() {
+  if (heldWordSegmenter === undefined) {
+    heldWordSegmenter =
+      typeof Intl !== 'undefined' && Intl.Segmenter
+        ? new Intl.Segmenter(undefined, { granularity: 'grapheme' })
+        : null;
+  }
+  return heldWordSegmenter;
+}
 
 function graphemes(text) {
-  if (wordSegmenter) return Array.from(wordSegmenter.segment(text), (part) => part.segment);
+  const segmenter = wordSegmenter();
+  if (segmenter) return Array.from(segmenter.segment(text), (part) => part.segment);
   return Array.from(text);
 }
 
@@ -49,6 +63,8 @@ function isAcronym(word) {
   return /^\p{Lu}+$/u.test(word);
 }
 
+const DIRECT_SLICE_WORD = /^[A-Za-z]+(?:['\u2019][A-Za-z]+)?$/;
+
 export function leadAnchorPrefixLength(count) {
   if (count <= 1) return 0;
   if (count <= 3) return 1;
@@ -59,16 +75,18 @@ export function leadAnchorPrefixLength(count) {
 }
 
 function appendAnchoredWord(fragment, word) {
-  const chars = graphemes(word);
-  const prefixLength = isAcronym(word) ? chars.length : leadAnchorPrefixLength(chars.length);
+  const chars = DIRECT_SLICE_WORD.test(word) ? null : graphemes(word);
+  const count = chars ? chars.length : word.length;
+  const prefixLength = isAcronym(word) ? count : leadAnchorPrefixLength(count);
   if (prefixLength === 0) {
     fragment.append(document.createTextNode(word));
     return;
   }
   const anchor = document.createElement('span');
   anchor.className = 'speed-reader-anchor';
-  anchor.textContent = chars.slice(0, prefixLength).join('');
-  fragment.append(anchor, document.createTextNode(chars.slice(prefixLength).join('')));
+  anchor.textContent = chars ? chars.slice(0, prefixLength).join('') : word.slice(0, prefixLength);
+  const tail = chars ? chars.slice(prefixLength).join('') : word.slice(prefixLength);
+  fragment.append(anchor, document.createTextNode(tail));
 }
 
 function appendCandidate(fragment, token) {
