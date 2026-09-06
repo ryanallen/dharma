@@ -43,6 +43,7 @@ export function initMinimap(source) {
   let pointerOffsetY = null; // grab offset inside the viewport rect, or null for a click-jump
   let previewFrame = 0;
   let viewportFrame = 0;
+  let drawnGeometry = null;
 
   // The stylesheet decides whether the rail is on the page — the width breakpoint
   // and the reader's own toggle both — and a rail that is on the page always has a
@@ -53,19 +54,34 @@ export function initMinimap(source) {
   // ---- measurements -------------------------------------------------------
   // Everything the renderers below need, gathered in one place so a single
   // layout read drives both the preview scale and the viewport rectangle.
-  function measure() {
+  //
+  // A scroll moves one number in here and nothing else, so the rest is measured
+  // once and kept: asking the page for all of it on every frame of a wheel costs
+  // about 40µs of script a frame the rail never has to spend. Everything that
+  // can move it drops the hold — a resize, the visual viewport, either
+  // ResizeObserver, and a rebuild.
+  let geometry = null;
+  const forgetGeometry = () => {
+    geometry = null;
+  };
+
+  const currentScroll = () => window.scrollY || scrollEl.scrollTop || 0;
+
+  function measureGeometry() {
     const rect = source.getBoundingClientRect();
     const sourceWidth = Math.max(1, Math.ceil(rect.width));
     const contentWidth = Math.max(1, content.clientWidth);
     const scrollHeight = Math.max(1, Math.ceil(scrollEl.scrollHeight));
     const viewportHeight = Math.max(1, Math.ceil(window.innerHeight));
     const scrollable = Math.max(0, scrollHeight - viewportHeight);
-    const rawScroll = window.scrollY || scrollEl.scrollTop || 0;
-    const scrollTop = Math.min(scrollable, Math.max(0, rawScroll));
     // Where the document's content actually begins, INCLUDING the blank space the
     // page leaves above it. The thumbnail starts here too, so it's a faithful
     // picture of the top — the box's "0" (document top) lines up with the rail.
-    const sourceTop = Math.max(0, Math.round(rect.top + rawScroll));
+    // Measured from the page's own top rather than from the window's, which is
+    // why the scroll offset goes in here and why the sum is held rather than
+    // re-added: a later frame adding a fresher offset onto the rectangle this one
+    // read would walk the thumbnail down the rail as the page scrolled.
+    const sourceTop = Math.max(0, Math.round(rect.top + currentScroll()));
     // Fit the thumbnail to the rail's width (real proportions, never stretched).
     const previewScale = contentWidth / sourceWidth;
     const scaledDocHeight = Math.max(1, scrollHeight * previewScale);
@@ -76,18 +92,41 @@ export function initMinimap(source) {
     const trackHeight = Math.max(1, Math.min(viewportHeight, scaledDocHeight));
     return {
       sourceWidth, contentWidth, trackHeight, scrollHeight, viewportHeight,
-      scrollable, scrollTop, sourceTop, previewScale, scaledDocHeight,
+      scrollable, sourceTop, previewScale, scaledDocHeight,
     };
+  }
+
+  function measure() {
+    if (!geometry) geometry = measureGeometry();
+    // The one value a scroll moves, and the only one read fresh. Holding this too
+    // is the way to get the hold wrong, and it freezes the rail rather than
+    // failing anything.
+    const scrollTop = Math.min(geometry.scrollable, Math.max(0, currentScroll()));
+    return { ...geometry, scrollTop };
   }
 
   // ---- the thumbnail ------------------------------------------------------
   // Clone the live document, strip ids/links (so nothing is focusable or
   // duplicated for assistive tech), and shrink it to the rail width with a
-  // transform. Rebuilt whenever the document reflows (images decoding, resize).
+  // transform. Rebuilt when the thumbnail geometry changes.
   function buildPreview() {
     previewFrame = 0;
+    // A rebuild is the document itself having changed shape, so nothing measured
+    // before it stands.
+    forgetGeometry();
     if (isHidden()) return;
     const m = measure();
+    if (drawnGeometry
+      && drawnGeometry.sourceWidth === m.sourceWidth
+      && drawnGeometry.contentWidth === m.contentWidth
+      && drawnGeometry.scrollHeight === m.scrollHeight) {
+      if (viewportFrame) {
+        cancelAnimationFrame(viewportFrame);
+        viewportFrame = 0;
+      }
+      updateViewport(m);
+      return;
+    }
     const preview = source.cloneNode(true);
     preview.removeAttribute('id');
     preview.querySelectorAll('[id]').forEach((node) => node.removeAttribute('id'));
@@ -101,17 +140,26 @@ export function initMinimap(source) {
     content.style.height = `${m.scaledDocHeight}px`;
     track.style.height = `${m.trackHeight}px`;
     content.replaceChildren(preview);
-    updateViewport();
+    drawnGeometry = {
+      sourceWidth: m.sourceWidth,
+      contentWidth: m.contentWidth,
+      scrollHeight: m.scrollHeight,
+    };
+    if (viewportFrame) {
+      cancelAnimationFrame(viewportFrame);
+      viewportFrame = 0;
+    }
+    updateViewport(m);
   }
 
   // ---- the viewport rectangle --------------------------------------------
   // Place the rectangle (and slide the thumbnail) to reflect the current
   // scroll position. When the thumbnail is taller than the rail it scrolls
   // inside the rail, the way a code-editor minimap does on long files.
-  function updateViewport() {
+  function updateViewport(measurement) {
     viewportFrame = 0;
     if (isHidden()) return;
-    const m = measure();
+    const m = measurement || measure();
     const scaledDocHeight = m.scaledDocHeight;
     content.style.height = `${scaledDocHeight}px`;
     track.style.height = `${m.trackHeight}px`;
@@ -126,8 +174,16 @@ export function initMinimap(source) {
       Math.max(0, previewTop + viewportDocumentTop)
     );
 
-    content.style.top = `${previewTop}px`;
-    viewport.style.top = `${viewportTop}px`;
+    // Both of these move on every frame of a scroll, so both are written as a
+    // transform rather than as `top`. Measured in a browser over a 60,748px
+    // published page: either one written as `top` lays the whole page out on
+    // every frame it moves — 120 frames, 120 layouts — and moving only the lane
+    // left that count exactly where it was, because the box beside it was still a
+    // layout property. Both on a transform: no layout at all. The `top: 0` both
+    // stylesheets give them is the origin these offsets are measured from, so the
+    // number written is the same number.
+    content.style.transform = `translateY(${previewTop}px)`;
+    viewport.style.transform = `translateY(${viewportTop}px)`;
     viewport.style.height = `${boundedViewportHeight}px`;
   }
 
@@ -137,7 +193,7 @@ export function initMinimap(source) {
   }
   function scheduleViewport() {
     if (viewportFrame) return;
-    viewportFrame = requestAnimationFrame(updateViewport);
+    viewportFrame = requestAnimationFrame(() => updateViewport());
   }
 
   // ---- pointer: click to jump, drag to scrub ------------------------------
@@ -213,6 +269,7 @@ export function initMinimap(source) {
 
   // ---- keep it in sync ----------------------------------------------------
   const refresh = () => {
+    forgetGeometry();
     scheduleBuild();
     scheduleViewport();
   };
