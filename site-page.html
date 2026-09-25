@@ -1,0 +1,71 @@
+<!--
+  empty.guru's own lines, and nothing else. The page a visitor is served is Leaftext's own, written by Leaftext's `export-web.mjs --in-place` with these lines in its head and the noscript block in its body, the README already drawn into it, and its front end fetched from leaftext.com — so every address on the site is the app, and this file is what makes it empty.guru.
+-->
+<head>
+    <title>Teachings (Dharma)</title>
+    <meta
+      name="description"
+      content="Teachings (Dharma): the Words of the Buddha and commentarial treatises, translated and modernized for readability."
+    />
+    <link rel="canonical" href="https://empty.guru/" />
+    <meta name="robots" content="index, follow" />
+    <!-- The page renders this Markdown file client-side; expose it as the
+         machine-readable alternate so crawlers and AI fetchers read the text
+         without running JavaScript. -->
+    <link rel="alternate" type="text/markdown" href="README.md" />
+    <!-- The two AI indexes: every page of the site as a raw Markdown address. -->
+    <link rel="alternate" type="text/plain" href="llms.txt" title="AI index — every page as Markdown" />
+    <link rel="alternate" type="text/plain" href="llms-full.txt" title="AI index, with a description per page" />
+    <!-- Open Graph (link previews on social and chat apps). -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="empty.guru" />
+    <meta property="og:title" content="Teachings (Dharma)" />
+    <meta
+      property="og:description"
+      content="The Words of the Buddha and commentarial treatises, translated and modernized for readability."
+    />
+    <meta property="og:url" content="https://empty.guru/" />
+    <meta property="og:locale" content="en_US" />
+    <!-- Twitter / X card. -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Teachings (Dharma)" />
+    <meta
+      name="twitter:description"
+      content="The Words of the Buddha and commentarial treatises, translated and modernized for readability."
+    />
+    <!-- Structured data: identifies the site and its publisher to search and
+         AI systems. -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://empty.guru/#website",
+            "url": "https://empty.guru/",
+            "name": "empty.guru",
+            "alternateName": "Teachings (Dharma)",
+            "description": "The Words of the Buddha and commentarial treatises, translated and modernized for readability.",
+            "inLanguage": "en"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://empty.guru/#org",
+            "name": "empty.guru",
+            "url": "https://empty.guru/",
+            "sameAs": ["https://github.com/ryanallen/dharma"]
+          }
+        ]
+      }
+    </script>
+</head>
+<body>
+    <noscript>
+      <p>
+        This page is drawn from Markdown. Its source is
+        <a href="README.md">README.md</a>, beside this page. Every page of the site as Markdown:
+        <a href="llms.txt">llms.txt</a>, <a href="llms-full.txt">llms-full.txt</a>,
+        <a href="sitemap-md.txt">sitemap-md.txt</a>.
+      </p>
+    </noscript>
+</body>

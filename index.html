@@ -1,20 +1,225 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Teachings (Dharma)</title>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<!-- `leaf-site` is the open HTML page's own folder, and it is named here because a frame drawn from `srcdoc` inherits this policy and enforces its own on top: the two are additive, so a contained page can only ever be tighter than this and never looser. Without these four the page's own stylesheet, pictures, fonts and media would be refused by the app page before its own policy was ever asked. Nothing on this page can reach that folder itself — the app's markup is written here, and the sanitizer a note's raw HTML crosses allows neither a style block nor a stylesheet link. -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https: data: blob:; script-src 'self' https://leaftext.com 'unsafe-inline' 'unsafe-eval'; style-src 'self' https://leaftext.com 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://leaftext.com data: https://fonts.gstatic.com; connect-src 'self' https://leaftext.com">
+
+<script>window.__leafPending=[];window.ipc={postMessage:(m)=>window.__leafPending.push(m)};</script><script>window.__leafSettings = {"calendarField":"field:due","codeIntelEnabled":true,"codeUnlocked":false,"graphScope":"small","hintLastLaunch":0,"hintLaunches":0,"hintsSeen":[],"libraryClosed":false,"libraryProjectPath":"","libraryWidth":240,"readingUnlocked":false,"speedReaderEnabled":false,"splitFraction":0.5,"themeFamily":"random","themeMode":"daylight","themeRandomUsed":[],"updateLastChecked":0,"updateStagedVersion":""};
+window.__leafInitialState = {"active":null,"document":null,"favorites":[],"recent":[],"tabs":[]};
+window.__leafDocumentExts = ["md","markdown","mdown","mdc","xml","json","yaml","yml","eml","mht","mhtml","html","htm","txt","ini","docx","docm","xlsx","xlsm","pptx","pptm","odt","ods","odp","epub","ts","tsx","js","jsx","jsonc","css","scss","sh","bash","zsh","toml","rs","py","sql","diff","patch","env","graphql","gql"];
+window.__leafVersion = "3.25.6";
+window.__leafRepository = "https://github.com/ryanallen/leaftext";
+window.__leafUpdateAsset = "";
+window.__leafEmbedded = false;</script><script>window.__leafSite=true;window.__leafAssetBase="https://leaftext.com/assets/leaftext/app/";</script><script src="https://leaftext.com/assets/leaftext/app/settings.js"></script><script>// Where the vendored runtimes are served from. Injected rather than written into the fragments, because the asset scheme differs by platform and a fragment that carries a placeholder cannot be served as a static file.
+window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://leaftext.com/assets/leaftext/app/mermaid.min.js","katex":"https://leaftext.com/assets/leaftext/app/katex/katex.min.js","pixi":"https://leaftext.com/assets/leaftext/app/pixi.min.js","pixiUnsafeEval":"https://leaftext.com/assets/leaftext/app/pixi-unsafe-eval.min.js","d3Force":"https://leaftext.com/assets/leaftext/app/d3-force.min.js","monaco":"https://leaftext.com/assets/leaftext/app/monaco/monaco.js","monacoCss":"https://leaftext.com/assets/leaftext/app/monaco/monaco.css"} });
+(() => {
+  // Themes are two axes: a family (github/nightshade/amaranth/…) and an appearance mode. Light/dark pick a fixed variant, system follows the OS, and daylight is light between DAY_START and DAY_END local time, dark otherwise. The built-in theme families, injected from the theme registry (theme.rs theme_families) so this list can never drift from the registered sources.
+  const VALID_FAMILIES = new Set(["amaranth","arabica","birch","bloodleaf","camellia","eucalyptus","fern","foxglove","ginger","github","goldenrod","halcyon","ivy","laurel","lavender","nightshade","pippin","saffron","sage","sumac","woad"]);
+  // The concrete families the 'random' preference draws from, in registration order. 'random' is a preference, never itself a concrete family.
+  const REAL_FAMILIES = Array.from(VALID_FAMILIES);
+  // The families a reader earns with seeds in the Grove, from the unlock catalog. One is worn only once its unlock is owned, read off the record the host hands over before this runs; a host that keeps no record owns none of them.
+  const EARNED_FAMILIES = new Set(["woad","sumac","laurel","saffron","lavender","birch"]);
+  const ownedUnlocks = (profile) => new Set(Object.keys((profile && profile.unlocks) || {}).filter((id) => Number(profile.unlocks[id]) > 0));
+  let owned = ownedUnlocks(window.__leafProfile);
+  const wearable = (fam) => VALID_FAMILIES.has(fam) && (!EARNED_FAMILIES.has(fam) || owned.has(fam));
+  const wearableFamilies = () => REAL_FAMILIES.filter(wearable);
+  const RANDOM = 'random';
+  const VALID_MODES = new Set(['system', 'light', 'dark', 'daylight']);
+  const FAMILY_FALLBACK = 'fern';
+  const MODE_FALLBACK = 'system';
+  // Family -> Google Fonts stylesheet URL. Fonts are fetched from Google (never bundled); only the active family's font is requested and WebView2 caches it. Families absent from the map (e.g. github) use the OS's native fonts.
+  const FAMILY_FONTS = {"amaranth":"https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500;600;700&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600&display=swap","arabica":"https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Rubik:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap","birch":"https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=Noto+Sans+Mono:wght@400;500;600;700&display=swap","bloodleaf":"https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Roboto+Mono:wght@400;500;700&display=swap","camellia":"https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Karla:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;600&display=swap","eucalyptus":"https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400&family=IBM+Plex+Mono:wght@400;600&display=swap","fern":"https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Noto+Serif:ital,wght@0,400;0,600;0,700;0,900;1,400&family=Noto+Sans+Mono:wght@400;500;600;700&display=swap","foxglove":"https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Instrument+Serif:ital,wght@0,400;1,400&display=swap","ginger":"https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;500;600;700&family=Nunito:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap","goldenrod":"https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap","halcyon":"https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap","ivy":"https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400&display=swap","laurel":"https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Noto+Sans+Mono:wght@400;500;600;700&display=swap","lavender":"https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Noto+Sans+Mono:wght@400;500;600;700&display=swap","nightshade":"https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&family=Fraunces:ital,wght@0,400;0,600;0,700;0,900;1,400&family=Inter:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap","pippin":"https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,400;0,500;1,400&family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap","saffron":"https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;700&family=Noto+Sans+Mono:wght@400;500;600;700&display=swap","sage":"https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=JetBrains+Mono:wght@400;500;700&display=swap","sumac":"https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&family=Noto+Sans+Mono:wght@400;500;600;700&display=swap","woad":"https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Noto+Sans+Mono:wght@400;500;600;700&display=swap"};
+  const DAY_START = 9;
+  const DAY_END = 18;
+  const root = document.documentElement;
+  const media = window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)') : null;
+  const listeners = new Set();
+  const normalizeFamily = (value) => (wearable(value) ? value : FAMILY_FALLBACK);
+  // The picker preference is a concrete family or the special 'random', which resolves to a concrete family at launch (and each time it is re-picked).
+  const normalizePreference = (value) => (value === RANDOM ? RANDOM : normalizeFamily(value));
+  const normalizeMode = (value) => (VALID_MODES.has(value) ? value : MODE_FALLBACK);
+  // The host injects the persisted theme as window.__leafSettings before this runs, so the theme resolves on the first paint. The host owns persistence for the same front end in both the desktop and browser.
+  const settings = (window.__leafSettings && typeof window.__leafSettings === 'object') ? window.__leafSettings : {};
+  // Families already shown in the current random cycle, persisted by the host so the no-repeat run survives restarts. Ask the host to save the bag whenever a draw mutates it; wry's window.ipc is ready before this inline script runs.
+  let randomBag = Array.isArray(settings.themeRandomUsed)
+    ? settings.themeRandomUsed.filter((fam) => wearable(fam))
+    : [];
+  const persistRandomBag = () => {
+    if (window.ipc && typeof window.ipc.postMessage === 'function') {
+      window.ipc.postMessage(JSON.stringify({ command: 'setThemeRandomBag', used: randomBag }));
+    }
+  };
+  // Draw the next family at random, not repeating until every family has shown, then reset — while avoiding an immediate repeat of the just-shown family across the reset. Mutates and persists the bag.
+  const drawRandomFamily = () => {
+    const pool = wearableFamilies();
+    let available = pool.filter((fam) => !randomBag.includes(fam));
+    if (available.length === 0) {
+      const last = randomBag[randomBag.length - 1];
+      randomBag = [];
+      available = pool.filter((fam) => fam !== last);
+      if (available.length === 0) { available = pool.slice(); }
+    }
+    const choice = available[Math.floor(Math.random() * available.length)];
+    randomBag = randomBag.concat([choice]);
+    persistRandomBag();
+    return choice;
+  };
+  // Two axes of family state: the persisted preference (drives the picker and may be 'random') and the concrete family actually applied (drives the CSS).
+  let familyPreference = normalizePreference(settings.themeFamily);
+  let family = familyPreference === RANDOM ? drawRandomFamily() : familyPreference;
+  let mode = normalizeMode(settings.themeMode);
+
+  const isDaytime = () => {
+    const hour = new Date().getHours();
+    return hour >= DAY_START && hour < DAY_END;
+  };
+  const resolvedTheme = () => {
+    if (mode === 'light') return 'light';
+    if (mode === 'dark') return 'dark';
+    if (mode === 'daylight') return isDaytime() ? 'light' : 'dark';
+    return media && media.matches ? 'dark' : 'light';
+  };
+  const snapshot = () => ({ family, mode, resolvedTheme: resolvedTheme() });
+  // Point a single <link> at the active family's Google Fonts stylesheet, so the font is fetched and applied on activation and swaps when the theme changes. Families with no entry (system-font themes) get the link removed.
+  const applyFamilyFont = (fam) => {
+    const href = FAMILY_FONTS[fam];
+    let link = document.getElementById('leafThemeFont');
+    if (!href) { if (link) { link.remove(); } return; }
+    if (!link) {
+      link = document.createElement('link');
+      link.id = 'leafThemeFont';
+      link.rel = 'stylesheet';
+      document.head.appendChild(link);
+    }
+    if (link.getAttribute('href') !== href) { link.setAttribute('href', href); }
+  };
+  const apply = () => {
+    const theme = snapshot();
+    // The Leaf-owned attributes that drive the compiled theme CSS.
+    root.dataset.leafTheme = family;
+    root.dataset.leafAppearance = theme.resolvedTheme;
+    root.dataset.themeMode = mode;
+    root.dataset.themeFamily = family;
+    root.dataset.theme = theme.resolvedTheme;
+    root.style.colorScheme = theme.resolvedTheme;
+    applyFamilyFont(family);
+    listeners.forEach((listener) => listener(theme));
+  };
+
+  // Daylight boundary timer: re-apply at the next DAY_START/DAY_END crossing so the appearance flips without a restart. Rescheduled after each fire, and cleared whenever the mode leaves daylight.
+  let daylightTimer = 0;
+  const scheduleDaylight = () => {
+    if (daylightTimer) { clearTimeout(daylightTimer); daylightTimer = 0; }
+    if (mode !== 'daylight') return;
+    const now = new Date();
+    const next = new Date(now);
+    const hour = now.getHours();
+    if (hour < DAY_START) { next.setHours(DAY_START, 0, 0, 0); }
+    else if (hour < DAY_END) { next.setHours(DAY_END, 0, 0, 0); }
+    else { next.setDate(next.getDate() + 1); next.setHours(DAY_START, 0, 0, 0); }
+    const delay = Math.max(1000, next.getTime() - now.getTime());
+    daylightTimer = setTimeout(() => { apply(); scheduleDaylight(); }, delay);
+  };
+
+  // Held while a page is being rendered for paper. A print render emulates a light color scheme, which fires the system listener below and repaints the whole app in the light family for the duration — so a dark theme came out on white paper in dark ink. What is being printed is what is on screen, and the screen has not changed.
+  //
+  // The text size is held with it, and for the same reason. Every size in the app is a multiple of one that grows with the window, and the window a render lays out in is the sheet — so the paper came out in smaller type than the screen, a shorter document than the page had measured, and the difference as blank paper under the last line. Pinned to the size on screen for the render and let go after, so the sheet is the page as it stands.
+  //
+  // The room a lane has on the paper is written down with it. On screen a wide picture or table breaks out of the text measure through a container query, and in the print render that query is self-referential — the container spans whatever the layout overflows to, growing with the very overflow it causes — so the page does the container's arithmetic here and the paper rules read the one finished number.
+  let holdingAppearance = 0;
+  // A style element rather than inline properties on the root: the print render lays the page out from the stylesheets and never sees an inline style script wrote onto the root, which is how a pin that held on screen was silently ignored on paper.
+  let paperStyle = null;
+  window.leafHoldAppearance = (held) => {
+    holdingAppearance = Math.max(0, holdingAppearance + (held ? 1 : -1));
+    // The page as paper: the stylesheet's whole print block is on this class, so the same rules the render lays out under are the ones the page measured itself under.
+    document.body.classList.toggle('leaf-paper', holdingAppearance > 0);
+    if (!holdingAppearance) {
+      if (paperStyle) paperStyle.remove();
+      paperStyle = null;
+      return;
+    }
+    if (paperStyle) return;
+    // Read off the document rather than off the custom property: a property answers with the arithmetic it was written as, and what is wanted is what that came to.
+    const drawn = document.querySelector('.document-body');
+    const size = drawn && getComputedStyle(drawn).fontSize;
+    const surface = document.getElementById('appSurface');
+    let lane = 0;
+    if (surface) {
+      const worn = getComputedStyle(surface);
+      const inset = parseFloat(worn.getPropertyValue('--reader-lane-inset')) || 0;
+      const pad = parseFloat(worn.getPropertyValue('--reader-content-pad')) || 0;
+      lane = surface.getBoundingClientRect().width - 2 * inset - 2 * pad;
+    }
+    paperStyle = document.createElement('style');
+    paperStyle.textContent = `body.leaf-paper {${size ? ` --type-base: ${size};` : ''}${lane > 0 ? ` --leaf-paper-lane: ${lane}px;` : ''} }`;
+    document.head.appendChild(paperStyle);
+  };
+  window.addEventListener('beforeprint', () => window.leafHoldAppearance(true));
+  window.addEventListener('afterprint', () => window.leafHoldAppearance(false));
+
+  window.leafTheme = {
+    getMode: () => mode,
+    getFamily: () => familyPreference,
+    getResolvedTheme: resolvedTheme,
+    // The picker loads each theme's font while open; hand it the same family -> stylesheet map this bootstrap uses for the active theme.
+    getFamilyFontHref: (fam) => FAMILY_FONTS[fam] || '',
+    setMode(nextMode) {
+      mode = normalizeMode(nextMode);
+      apply();
+      scheduleDaylight();
+    },
+    setFamily(nextFamily) {
+      familyPreference = normalizePreference(nextFamily);
+      family = familyPreference === RANDOM ? drawRandomFamily() : familyPreference;
+      apply();
+    },
+    // A purchase or a fresh record: Random's pool and what a saved family may be follow what is owned now. Nothing worn is taken off.
+    setOwnedUnlocks(profile) {
+      owned = ownedUnlocks(profile);
+      randomBag = randomBag.filter((fam) => wearable(fam));
+    },
+    isWearable: (fam) => wearable(fam),
+    subscribe(listener) {
+      listeners.add(listener);
+      listener(snapshot());
+      return () => listeners.delete(listener);
+    },
+  };
+
+  if (media) {
+    const onSystemThemeChange = () => { if (mode === 'system' && !holdingAppearance) { apply(); } };
+    if (media.addEventListener) {
+      media.addEventListener('change', onSystemThemeChange);
+    } else if (media.addListener) {
+      media.addListener(onSystemThemeChange);
+    }
+  }
+  // A machine that slept across a boundary wakes with a stale appearance; re-run the clock check (and reschedule) when the window regains focus.
+  window.addEventListener('focus', () => { if (mode === 'daylight') { apply(); scheduleDaylight(); } });
+
+  apply();
+  scheduleDaylight();
+})();
+</script>
+<link rel="stylesheet" href="https://leaftext.com/assets/leaftext/app/katex/katex.min.css">
+<link rel="stylesheet" href="https://leaftext.com/assets/leaftext/app/app.css" crossorigin="anonymous">
+<title>Teachings (Dharma)</title>
     <meta
       name="description"
       content="Teachings (Dharma): the Words of the Buddha and commentarial treatises, translated and modernized for readability."
     />
     <link rel="canonical" href="https://empty.guru/" />
     <meta name="robots" content="index, follow" />
-    <meta name="theme-color" content="#0b0b0b" />
     <!-- The page renders this Markdown file client-side; expose it as the
          machine-readable alternate so crawlers and AI fetchers read the text
          without running JavaScript. -->
     <link rel="alternate" type="text/markdown" href="README.md" />
+    <!-- The two AI indexes: every page of the site as a raw Markdown address. -->
+    <link rel="alternate" type="text/plain" href="llms.txt" title="AI index — every page as Markdown" />
+    <link rel="alternate" type="text/plain" href="llms-full.txt" title="AI index, with a description per page" />
     <!-- Open Graph (link previews on social and chat apps). -->
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="empty.guru" />
@@ -56,71 +261,561 @@
           }
         ]
       }
-    </script>
-    <link rel="stylesheet" href="site/noto-fonts.css" />
-    <link rel="stylesheet" href="site/vendor/katex/katex.min.css" />
-    <!-- Where Leaftext's own renderer is served from, and the stylesheet it
-         draws a document with. Both are built when leaftext.com publishes and
-         are served from there, so nothing of either is copied into this repo. -->
-    <meta name="leaftext-renderer" content="https://leaftext.com/assets/leaftext/" />
-    <link rel="stylesheet" href="https://leaftext.com/assets/leaftext/leaftext.css" />
-    <link rel="stylesheet" href="site/styles.css" />
-    <!-- Apply the saved theme and panel toggles before first paint (no flash).
-         Keys mirror site/settings.js; "System" resolves to the device theme. -->
-    <script>
-      (function () {
-        try {
-          var d = document.documentElement,
-            s = window.localStorage;
-          var m = s.getItem('leaf.theme') || 'system';
-          var t =
-            m === 'light' || m === 'dark' || m === 'dracula'
-              ? m
-              : matchMedia('(prefers-color-scheme: dark)').matches
-                ? 'dark'
-                : 'light';
-          d.dataset.theme = t;
-          // The document's own paint comes from Leaftext's stylesheet, which
-          // keys on a theme family and an appearance.
-          d.dataset.leafTheme = t === 'dracula' ? 'nightshade' : 'github';
-          d.dataset.leafAppearance = t === 'light' ? 'light' : 'dark';
-          if (s.getItem('leaf.minimap') === '0') d.dataset.minimap = 'off';
-          if (s.getItem('leaf.library') === '0') d.dataset.library = 'off';
-          // Gutter line numbers default OFF so the page reads clean and crawlers
-          // never scrape a block's number into the result snippet.
-          if (s.getItem('leaf.lineNumbers') !== '1') d.dataset.lineNumbers = 'off';
-        } catch (e) {}
-      })();
-    </script>
-  </head>
-  <body class="front-page">
-    <a class="skip-link" href="#content">Skip to content</a>
-    <main class="page">
-      <article class="markdown-body" id="content" tabindex="-1"></article>
-      <!-- The status line speaks only when something failed. It carries no waiting
-           text: a page that cannot say when it will finish should not promise
-           that it will. -->
-      <p class="status" id="status" hidden></p>
-    </main>
-    <script type="module" src="site/reader.js"></script>
-    <script type="module">
-      // Intercept clicks on docs/*.md links in the rendered README and send
-      // them to the docs viewer (#/route) instead of serving raw markdown.
-      document.getElementById('content').addEventListener('click', (event) => {
-        const link = event.target.closest('a');
-        if (!link) return;
-        const href = link.getAttribute('href');
-        if (!href) return;
-        // Match docs/<path>.md at any nesting depth (docs/a/b/c.md), with an
-        // optional #anchor. Absolute URLs (http://…/docs/x.md) start with a
-        // scheme and are left alone.
-        const m = href.match(/^docs[/\\](.+?)\.md(?:#(.*))?$/i);
-        if (!m) return;
-        event.preventDefault();
-        const route = m[1].replace(/\\/g, '/');
-        const anchor = m[2] || '';
-        location.href = 'docs/#/' + route + (anchor ? '#' + anchor : '');
-      });
-    </script>
-  </body>
+    </script></head>
+<body class="leaf-app">
+<!-- The window's shadow band: four straight strips and four corner pieces rather than one full-window layer. Nothing takes a press here because the band is the resize edge. See .window-band in reading/base.css. -->
+<div class="window-band window-band-top" aria-hidden="true"></div>
+<div class="window-band window-band-bottom" aria-hidden="true"></div>
+<div class="window-band window-band-left" aria-hidden="true"></div>
+<div class="window-band window-band-right" aria-hidden="true"></div>
+<div class="window-band window-band-corner window-band-top-left" aria-hidden="true"><span class="window-band-ring window-band-ring-top-left window-band-ring-0"></span><span class="window-band-ring window-band-ring-top-left window-band-ring-1"></span><span class="window-band-ring window-band-ring-top-left window-band-ring-2"></span><span class="window-band-ring window-band-ring-top-left window-band-ring-3"></span><span class="window-band-ring window-band-ring-top-left window-band-ring-4"></span><span class="window-band-ring window-band-ring-top-left window-band-ring-5"></span><span class="window-band-ring window-band-ring-top-left window-band-ring-6"></span></div>
+<div class="window-band window-band-corner window-band-top-right" aria-hidden="true"><span class="window-band-ring window-band-ring-top-right window-band-ring-0"></span><span class="window-band-ring window-band-ring-top-right window-band-ring-1"></span><span class="window-band-ring window-band-ring-top-right window-band-ring-2"></span><span class="window-band-ring window-band-ring-top-right window-band-ring-3"></span><span class="window-band-ring window-band-ring-top-right window-band-ring-4"></span><span class="window-band-ring window-band-ring-top-right window-band-ring-5"></span><span class="window-band-ring window-band-ring-top-right window-band-ring-6"></span></div>
+<div class="window-band window-band-corner window-band-bottom-left" aria-hidden="true"><span class="window-band-ring window-band-ring-bottom-left window-band-ring-0"></span><span class="window-band-ring window-band-ring-bottom-left window-band-ring-1"></span><span class="window-band-ring window-band-ring-bottom-left window-band-ring-2"></span><span class="window-band-ring window-band-ring-bottom-left window-band-ring-3"></span><span class="window-band-ring window-band-ring-bottom-left window-band-ring-4"></span><span class="window-band-ring window-band-ring-bottom-left window-band-ring-5"></span><span class="window-band-ring window-band-ring-bottom-left window-band-ring-6"></span></div>
+<div class="window-band window-band-corner window-band-bottom-right" aria-hidden="true"><span class="window-band-ring window-band-ring-bottom-right window-band-ring-0"></span><span class="window-band-ring window-band-ring-bottom-right window-band-ring-1"></span><span class="window-band-ring window-band-ring-bottom-right window-band-ring-2"></span><span class="window-band-ring window-band-ring-bottom-right window-band-ring-3"></span><span class="window-band-ring window-band-ring-bottom-right window-band-ring-4"></span><span class="window-band-ring window-band-ring-bottom-right window-band-ring-5"></span><span class="window-band-ring window-band-ring-bottom-right window-band-ring-6"></span></div>
+<!-- One box that means "the app", holding everything the page has. It is what a fixed position is measured from and what a fixed position is clipped to, so a sheet, a scrim or a menu belongs to the app rather than to the window — which are the same rectangle today and are not once the window's outer edge is a shadow the app draws. Nothing is added beside it: see .app-surface in reading/base.css and appSurface in shell/state.js. -->
+<div id="appSurface" class="app-surface">
+<!-- The shadow band's alpha curve, which --lt-grain-shadow-curve names as url(#lt-shadow-halftone). It is markup rather than a data URI in the token because WebKit resolves no filter reference outside the page, which left the band an opaque white slab on every Mac. Every page that serves the reading stylesheet carries this block, byte for byte, and reading_css_grain_curve.rs holds them to each other. -->
+<svg width="0" height="0" aria-hidden="true" focusable="false" style="position:absolute"><filter id="lt-shadow-halftone" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1" result="coverage"/><feComponentTransfer in="coverage" result="cut"><feFuncA type="linear" slope="4.5" intercept="-0.949"/></feComponentTransfer><feComposite in="cut" in2="SourceGraphic" operator="in"/></filter></svg>
+<!-- What a launch shows while the page is still coming: the leaf, a turning ring
+     and the app's name, in a window 256 pixels square. It is first in the box and
+     over everything, because the app underneath it is still being built and there
+     is no half-drawn state worth showing. Nothing in it can be pressed and it has
+     no state of its own — the host takes it off in the same step that grows the
+     window into the one the reader left, so it never has to fade against a layout
+     that is still moving. Declared here rather than built in script, so it is in
+     the page from the first parse and is what the first pixel draws. -->
+<div id="startupCard" class="startup-card" role="status" aria-label="Leaftext is starting">
+  <span class="lt-icon lt-icon-leaf startup-card-mark" aria-hidden="true"></span>
+  <span class="lt-spinner startup-card-spinner" aria-hidden="true"></span>
+  <span class="startup-card-name">Leaftext</span>
+</div>
+<header id="appBar" class="app-bar">
+  <div class="app-bar-lead">
+    <button type="button" id="homeButton" class="brand-button" aria-label="Home" title="Home">
+      <span class="lt-icon lt-icon-leaf"></span>
+    </button>
+    <button type="button" id="libraryOpen" class="icon-button library-open" title="Toggle library" aria-label="Toggle library"><span class="lt-icon lt-icon-open-library"></span></button>
+    <nav class="history-actions" aria-label="Document history">
+      <button type="button" id="backButton" class="icon-button history-button" aria-label="Back" title="Back" disabled>
+        <span class="lt-icon lt-icon-back-long"></span>
+      </button>
+      <button type="button" id="refreshButton" class="icon-button history-button" aria-label="Refresh" title="Refresh" disabled>
+        <span class="lt-icon lt-icon-refresh"></span>
+      </button>
+      <button type="button" id="forwardButton" class="icon-button history-button" aria-label="Forward" title="Forward" disabled>
+        <span class="lt-icon lt-icon-forward-long"></span>
+      </button>
+    </nav>
+  </div>
+  <!-- The open documents, in a group per card: with one card there is one group
+       across the strip, and with two the groups are the cards' own shares, so a
+       tab sits over the page it opens. Both live in the bar's own band rather
+       than on the cards, because a tab hangs off the bar's bottom edge and that
+       edge is what its top corners round against. -->
+  <div class="tab-bar" id="tabBar" role="tablist" aria-label="Open documents">
+    <div class="strip-part" id="stripKeys"></div>
+    <div class="strip-part strip-part-beside" id="stripBeside" hidden></div>
+    <!-- The end of the strip, where the last tab ends and the next one begins.
+         A plain child of the strip rather than of a group: the groups are
+         written on every draw and this button keeps its element, its hover and
+         its focus across all of them. Out of the trailing group it is no longer
+         a candidate for the fold, which is the point — the tabs it belongs to
+         are never folded away, so neither is it. -->
+    <button type="button" id="newButton" class="icon-button new-button" aria-label="New document" title="New document"><span class="lt-icon lt-icon-new"></span></button>
+  </div>
+  <div class="app-trailing">
+    <button type="button" id="overflowToggle" class="icon-button overflow-toggle" aria-haspopup="true" aria-expanded="false" aria-label="More options" title="More options"><span class="lt-icon lt-icon-chevron-down"></span></button>
+    <div class="app-trailing-items" id="appTrailingItems">
+    <div class="app-actions-items" id="appActionsItems">
+    <!-- Only there when there is news: a ring while the new version downloads, a
+         dot once a restart would install it, and nothing at all otherwise. -->
+    <details class="update-menu" id="updateMenu" hidden>
+      <summary id="updateSummary" class="icon-button" aria-label="Update" title="Update">
+        <span class="lt-icon lt-icon-update"></span>
+        <span class="update-alert-dot" id="updateAlertDot" aria-hidden="true" hidden></span>
+      </summary>
+      <div class="update-panel" role="group" aria-labelledby="updateSummary">
+        <!-- Which version is out and why this copy cannot install it: the one thing the button under it cannot say. -->
+        <button type="button" class="update-button" id="updateButton" hidden>
+          <!-- Progress fill behind the label: the download's only honest signal
+               that bytes are moving. Width is set from the percent. -->
+          <span class="update-button-fill" id="updateButtonFill" aria-hidden="true"></span>
+          <span class="lt-spinner update-button-spinner" id="updateButtonSpinner" aria-hidden="true" hidden></span>
+          <span class="update-button-label" id="updateButtonLabel"></span>
+        </button>
+      </div>
+    </details>
+    <button type="button" id="openButton" class="icon-button open-button" aria-label="Open" title="Open Markdown file"><span class="lt-icon lt-icon-open"></span></button>
+    <!-- The page as it stands, written to a PDF the host renders itself, with no
+         print panel on either desktop. Last in the group because it is about the
+         document on screen rather than about opening or starting one, and it
+         stands only while there is a rendered page to write. -->
+    <button type="button" id="exportPdfButton" class="icon-button export-button" aria-label="Export" title="Export the page" hidden><span class="lt-icon lt-icon-export"></span></button>
+    </div>
+    <div class="window-controls" id="windowControls" hidden aria-hidden="true">
+      <button type="button" class="window-control" id="winMinimize" tabindex="-1" aria-label="Minimize" title="Minimize"><span class="lt-icon lt-icon-window-minimize"></span></button>
+      <button type="button" class="window-control" id="winMaximize" tabindex="-1" aria-label="Maximize" title="Maximize"><span class="lt-icon wc-maximize lt-icon-window-maximize"></span><span class="lt-icon wc-restore lt-icon-window-restore"></span></button>
+      <button type="button" class="window-control window-control-close" id="winClose" tabindex="-1" aria-label="Close" title="Close"><span class="lt-icon lt-icon-window-close"></span></button>
+    </div>
+    </div>
+    <!-- Where actions land as the tab strip runs out of room, one at a time.
+         Empty until something folds; the window controls never do. -->
+    <div class="app-overflow-panel" id="appOverflowPanel"></div>
+  </div>
+  <!-- The card's top-right corner, where the bar's divider turns down into the
+       card's right border. See .reader-corner. -->
+  <div class="reader-corner reader-corner-tr" aria-hidden="true"></div>
+</header>
+<div id="libraryShell" class="library-shell">
+<aside id="libraryPane" class="library-pane">
+  <div class="library-scroll">
+    <!-- The open document's headings. One of the two lists this box holds, and
+         one of them shows at a time. -->
+    <div id="libraryOutline" class="library-outline" hidden></div>
+    <div id="libraryTree" class="library-tree"></div>
+    <!-- The documents of the day picked in the calendar: the third list, standing in for the other two until the day is cleared. -->
+    <div id="libraryCalendarDay" class="library-calendar-day" hidden></div>
+  </div>
+  <!-- Where you are: the folder path, one crumb per level, with the graph
+       toggle on the right. Its own band under the app bar. -->
+  <div class="library-crumbs" id="libraryCrumbs">
+    <button type="button" id="libraryVaultSwitch" class="library-vault-switch" aria-haspopup="menu" aria-expanded="false" title="Vaults" aria-label="Vaults"><span class="library-crumb-caret" aria-hidden="true">▾</span><span class="lt-icon lt-icon-computer"></span></button>
+    <nav class="library-crumb-trail" id="libraryCrumbTrail" aria-label="Folder path"></nav>
+    <!-- Present only when this vault has work that has not reached GitHub. A
+         button that is always there says nothing; one that appears is the
+         message. -->
+    <button type="button" id="librarySyncButton" class="library-sync" aria-label="Sync" hidden><span class="lt-icon lt-icon-sync"></span><span class="library-sync-count"></span></button>
+  </div>
+  <!-- How far along a push is, on a hover or a keyboard focus of the spinning
+       Sync button. The update bell's own panel and button, markup unchanged and
+       in the same disabled state the bell wears while it counts; a child of the
+       pane rather than of the crumb band, which is 28px tall and clips. -->
+  <div class="update-panel library-sync-progress" id="librarySyncProgress" role="status" hidden>
+    <button type="button" class="update-button" disabled>
+      <span class="update-button-fill" id="librarySyncProgressFill" aria-hidden="true"></span>
+      <span class="lt-spinner update-button-spinner" aria-hidden="true"></span>
+      <span class="update-button-label" id="librarySyncProgressLabel"></span>
+    </button>
+  </div>
+  <div id="libraryDivider" class="library-divider" title="Resize library" role="separator" aria-orientation="vertical"></div>
+  <!-- The card's top-left corner. A child of the pane so it is placed by the same
+       grid line as the card's left border and can't drift off it. See
+       .reader-corner. -->
+  <div class="reader-corner reader-corner-tl" aria-hidden="true"></div>
+  <!-- Home's lists and vault search, one press from inside a document. Last in the pane so it paints over the list's end. pane-foot.js draws only the launchers that have something to open. -->
+  <div class="library-foot" id="libraryFoot">
+    <div class="library-foot-rail" id="libraryFootRail" role="toolbar" aria-label="Lists and search">
+      <!-- The app bar's chevron, turned over because this panel opens upward. Last in the rail, where what folds went, and drawn only once something has. -->
+      <button type="button" id="libraryFootToggle" class="icon-button overflow-toggle" aria-haspopup="true" aria-expanded="false" aria-label="More" title="More" hidden><span class="lt-icon lt-icon-chevron-down find-step-back"></span></button>
+    </div>
+    <div class="app-overflow-panel library-foot-panel" id="libraryFootPanel"></div>
+    <!-- The reading record, under the launchers. profile.js shows it only where the host keeps a record. -->
+    <button type="button" id="libraryProfile" class="library-profile" aria-haspopup="dialog" hidden><span class="lt-icon lt-icon-leaf library-profile-mark" aria-hidden="true"></span><span class="library-profile-label" id="libraryProfileLabel">Grove</span><span class="library-profile-bar" id="libraryProfileBar" aria-hidden="true"><span class="library-profile-bar-fill" id="libraryProfileBarFill"></span></span></button>
+  </div>
+</aside>
+<main id="app" class="reader-shell reader-column is-keyed"><div class="reader-layout baked-page"><article class="document-body"><article class="document-body"><h1 id="empty-guru-the-clear-light-of-the-ego-less-guide"><div align="center">Empty Guru <br><sub>The Clear Light of the Ego-less Guide</sub></div></h1>
+<h2 id="words-of-the-buddha-kangyur-"><span id="2"></span><a href="docs/collection-1-words-of-the-buddha--kangyur/README.md" rel="noopener noreferrer">Words of the Buddha</a> <br><sub>*(Kangyur)&nbsp;*</sub></h2>
+<h2 id="commentarial-treatises-tengyur">Commentarial Treatises <br><sub>(<em>Tengyur</em>)</sub></h2>
+<p><strong>Sources</strong></p>
+<ol>
+<li><code>84k</code> = <a href="https://84000.co/" rel="noopener noreferrer">84000</a>: Translating the Words of the <a href="GLOSSARY.md#buddha" rel="noopener noreferrer">Buddha</a>. License: CC BY-NC-ND 4.0.</li>
+<li><a href="https://github.com/ryanallen/dharma" rel="noopener noreferrer"><code>EG</code></a> = <a href="https://github.com/ryanallen/dharma" rel="noopener noreferrer">GitHub source</a> for <a href="https://empty.guru" rel="noopener noreferrer">https://empty.guru</a>.</li>
+</ol>
+<nav class="docs-pager docs-pager-loading" aria-label="Document navigation" aria-busy="true"><span class="docs-pager-skeleton"><span class="lt-skeleton docs-pager-label-skeleton"></span><span class="lt-skeleton docs-pager-title-skeleton"></span></span><span class="docs-pager-skeleton docs-pager-next"><span class="lt-skeleton docs-pager-label-skeleton"></span><span class="lt-skeleton docs-pager-title-skeleton"></span></span></nav></article></article></div></main>
+<!-- The graph, in the page rather than the pane. A map of the whole vault needs
+     the room the reader has; at 240px in the sidebar its labels were unreadable
+     and clicking a node shoved the answer somewhere you were not looking. Same
+     grid cell as the reader, shown in its place. -->
+<div id="readerGraph" class="reader-graph" hidden>
+  <div id="readerGraphCanvas" class="reader-graph-canvas"></div>
+  <!-- Shown only when the drawn map has a web address in it. A ring and a domain
+       name are close to self-explanatory, but "close to" is not the same as "is",
+       and clicking one leaves the app for the browser. -->
+  <p id="readerGraphLegend" class="reader-graph-legend" hidden>
+    <span class="graph-key graph-key-document" aria-hidden="true"></span>your documents<span class="graph-key graph-key-external" aria-hidden="true"></span>web addresses
+  </p>
+  <p id="readerGraphStatus" class="reader-graph-status" aria-live="polite" hidden></p>
+</div>
+<!-- Soft edges for the page. The card's top slides under an opaque bar and its
+     bottom stops at a hairline, so text would end mid-stroke at both. This
+     overlays the same grid cell (it can't live inside the scroller — an absolute
+     child there scrolls with the content) and washes the last few pixels back to
+     the page color. -->
+<!-- Views and edits, floating over the foot of the page rather than crowded
+     into the top-right strip beside Settings and Open. Which view you are in is
+     the pressed button, so the bar answers "where am I" as well as "what can I
+     do". Its own grid cell placement, not a child of the scroller, or it would
+     scroll away with the document. -->
+<div id="readerToolbar" class="reader-toolbar" role="toolbar" aria-label="Views and edits" hidden>
+  <!-- What the view you are in can do, held in a tray that stands as a small
+       nub above the bar's top edge over the button of the view whose tools
+       these are, and grows upward into the whole tray on hover or on the
+       keyboard reaching it. One element the whole time: the nub is the tray at
+       its shortest, so the tools come out of the thing that was already there
+       rather than arriving over the page. The padlock is the app's one answer
+       to "can I type here", so it stands in both editable views; the speed
+       reader and the wand each belong to one, and the map's one setting is how
+       big a graph to draw. Sunk and grained rather than same-level buttons,
+       which would read as more views. Absolutely positioned inside the bar, so
+       it is out of the row and the bar narrows by its width; graph.js anchors
+       it to the active button and measures what it grows to. -->
+  <div id="readerToolTray" class="reader-tool-tray" hidden>
+    <span class="reader-tool-tray-clip">
+      <span id="readerViewTools" class="reader-view-tools" role="group" aria-label="View tools" hidden>
+        <!-- No words beside it: nothing else in the bar is labeled, the list says
+             what it is, and the name it needs for a screen reader is on the
+             control rather than drawn in the tray. -->
+        <label class="reader-subselect leaf-select" id="graphScopeTool" hidden>
+          <select id="graphScope" aria-label="Graph size" title="How many documents the graph view draws. Smaller is faster.">
+            <option value="small">Focus</option>
+            <option value="medium">Medium</option>
+            <option value="large">Large</option>
+            <option value="xl">Everything</option>
+          </select>
+          <span class="lt-icon lt-icon-chevron-down" aria-hidden="true"></span>
+        </label>
+        <button type="button" id="readerLockButton" class="reader-subtool" aria-pressed="false" aria-label="Unlock to edit" title="Unlock to edit"><span class="reader-swap-glyph reader-glyph-off"><span class="lt-icon lt-icon-lock-closed"></span></span><span class="reader-swap-glyph reader-glyph-on"><span class="lt-icon lt-icon-lock-open"></span></span></button>
+        <button type="button" id="speedReaderButton" class="reader-subtool" aria-pressed="false" aria-label="Speed reader" title="Speed reader"><span class="reader-swap-glyph reader-glyph-off"><span class="lt-icon lt-icon-speed-reader-off"></span></span><span class="reader-swap-glyph reader-glyph-on"><span class="lt-icon lt-icon-speed-reader-on"></span></span></button>
+        <button type="button" id="codeIntelButton" class="reader-subtool" aria-pressed="true" aria-label="Typing help" title="Typing help"><span class="lt-icon lt-icon-wand"></span></button>
+      </span>
+    </span>
+  </div>
+  <div class="reader-tool-group" role="group" aria-label="Views">
+    <span class="reader-tool-chip" aria-hidden="true"></span>
+    <button type="button" id="viewReadingButton" class="reader-tool" data-view="reading" aria-pressed="true" aria-label="Reading" title="Reading"><span class="lt-icon lt-icon-document"></span></button>
+    <button type="button" id="viewCodeButton" class="reader-tool" data-view="code" aria-pressed="false" aria-label="View source" title="View source"><span class="lt-icon lt-icon-code-view"></span></button>
+    <button type="button" id="viewGraphButton" class="reader-tool" data-view="graph" aria-pressed="false" aria-label="Graph" title="Show how these documents link"><span class="lt-icon lt-icon-graph"></span></button>
+  </div>
+  <span class="reader-tool-divider" aria-hidden="true"></span>
+  <button type="button" id="undoButton" class="reader-tool undo-button" aria-label="Undo" title="Undo last edit" hidden><span class="lt-icon lt-icon-undo"></span></button>
+  <!-- The other half of the same history, beside its twin so a press too many
+       has a visible way back rather than a key somebody has to know. -->
+  <button type="button" id="redoButton" class="reader-tool redo-button" aria-label="Redo" title="Redo last edit" hidden><span class="lt-icon lt-icon-redo"></span></button>
+  <button type="button" id="saveButton" class="reader-tool-save" aria-label="Save" title="Save" hidden>Save</button>
+</div>
+<!-- Find, over whichever view is on screen. One bar for both: the source view's
+     editor ships without a find widget, and a second bar in one view only would
+     be two keyboard paths to learn. Its own grid cell placement, like the
+     toolbar's, so it does not scroll away with the document. See find-bar.js. -->
+<div id="findBar" class="find-bar" role="search" aria-label="Find in this document" hidden>
+  <div class="find-row">
+    <span class="find-field">
+      <!-- What the field searches, in the well's own left end the way a shop's
+           search bar carries its department menu: it takes its width from the
+           field, so the bar does not grow. Its rows are the app's own menu. -->
+      <button type="button" id="findScope" class="find-scope" aria-haspopup="menu" aria-expanded="false" aria-label="What to search" title="What to search"><span id="findScopeLabel" class="find-scope-label">This file</span><span class="find-scope-caret" aria-hidden="true">▾</span></button>
+      <input id="findInput" class="find-input" type="text" autocomplete="off" spellcheck="false" placeholder="Find" aria-label="Find">
+      <!-- Which match you are on, out of how many, as you type. -->
+      <span id="findCount" class="find-count" aria-live="polite"></span>
+    </span>
+    <span class="find-flags" role="group" aria-label="How to match">
+      <button type="button" id="findMatchCase" class="find-flag icon-button" aria-pressed="false" aria-label="Match case" title="Match case (Alt+C)">Aa</button>
+      <button type="button" id="findWholeWord" class="find-flag icon-button" aria-pressed="false" aria-label="Whole word" title="Whole word (Alt+W)">ab|</button>
+      <button type="button" id="findRegex" class="find-flag icon-button" aria-pressed="false" aria-label="Regular expression" title="Regular expression (Alt+R)">.*</button>
+      <button type="button" id="findInSelection" class="find-flag icon-button" aria-pressed="false" aria-label="Find in selection" title="Find in selection (Alt+L)"><span class="lt-icon lt-icon-text"></span></button>
+    </span>
+    <button type="button" id="findPrev" class="find-step icon-button" aria-label="Previous match" title="Previous match (Shift+Enter)"><span class="lt-icon lt-icon-chevron-down find-step-back"></span></button>
+    <button type="button" id="findNext" class="find-step icon-button" aria-label="Next match" title="Next match (Enter)"><span class="lt-icon lt-icon-chevron-down"></span></button>
+    <!-- With Previous and Next, not down in Replace: it takes hold of matches rather than rewriting them. -->
+    <button type="button" id="findSelectAll" class="find-step icon-button" aria-label="Put a cursor on every match" title="Put a cursor on every match (Alt+Enter)"><span class="lt-icon lt-icon-select-all"></span></button>
+    <!-- An action, so it stands with the other actions rather than with the
+         toggles: it opens the Replace row below. -->
+    <button type="button" id="findReplaceToggle" class="find-step icon-button" aria-pressed="false" aria-label="Replace" title="Replace (Ctrl+H)"><span class="lt-icon lt-icon-replace"></span></button>
+    <button type="button" id="findClose" class="find-step icon-button" aria-label="Close find" title="Close (Escape)"><span class="lt-icon lt-icon-close"></span></button>
+  </div>
+  <!-- Down only when asked for: most finding is reading, not rewriting. -->
+  <div class="find-row find-replace-row folds" id="findReplaceRow" hidden>
+    <span class="find-field">
+      <input id="findReplaceInput" class="find-input" type="text" autocomplete="off" spellcheck="false" placeholder="Replace with" aria-label="Replace with">
+    </span>
+    <button type="button" id="findReplaceOne" class="find-action icon-button">Replace</button>
+    <button type="button" id="findReplaceAll" class="find-action icon-button">All</button>
+  </div>
+  <!-- Where the all-file answer lands: under the bar that asked for it, so the
+       query and its answer are one thing whether or not the pane is open. -->
+  <div id="librarySearchResults" class="library-results find-results" hidden></div>
+  <!-- Field names and the values they hold, offered as you type. A child of the
+       bar rather than of the field, which is one line tall. -->
+  <div id="filterMenu" class="filter-menu" role="listbox" hidden></div>
+</div>
+<div id="readerEdgeFade" class="reader-edge-fade" aria-hidden="true"></div>
+<!-- The minimap rail. Outside the card on purpose: it is chrome, so it sits on
+     the shell's texture in its own column and the page's border stops short of
+     it. Left empty rather than hidden when there is no minimap — the shell sizes
+     that column with :has(.document-minimap), which a hidden host would still
+     match. -->
+<div id="readerMinimap" class="reader-minimap" aria-hidden="true"></div>
+<!-- The line between two documents, drawn like the pane's own edge. Its own grid
+     track, so neither page loses width to it, and out of the page entirely until
+     a split opens: a column pinned to a track the shell has not written would
+     make the grid grow one. -->
+<div id="readerSplit" class="reader-split" role="separator" aria-orientation="vertical" hidden></div>
+<!-- The middle of a split, over the bar's own last pixel between the two cards.
+     It covers the divider there, so nothing runs from one page into the other, and
+     its two children are the arcs that turn each card's inner top corner down into
+     its side border. Placed by the shell's grid rather than by a number, so it
+     follows a pane resize and a drag of the line with no work of its own. -->
+<div id="readerSeam" class="reader-seam" aria-hidden="true" hidden>
+  <div class="reader-corner reader-seam-corner-left"></div>
+  <div class="reader-corner reader-seam-corner-right"></div>
+</div>
+<!-- Where a tab dropped on the page opens a second column: a ghost of the second
+     page over the right part of the page's own track, carrying the dragged
+     document's name, drawn only while a tab is being dragged over it. Its own
+     element rather than a mark on the card, because the card is the scroller and
+     anything drawn inside one scrolls away with the words. -->
+<div id="readerDropBeside" class="reader-drop-beside" aria-hidden="true" hidden><span id="readerDropBesideName" class="reader-drop-beside-name"></span></div>
+<!-- The right-hand column: the same card as the page above, standing on its own
+     tab, with its own rail beside it. Which of the two columns the reader's
+     commands act on moves with the keys and is marked `is-keyed`, so the page
+     answers for one without asking the host; which side the second column is on
+     never moves a card, which is why these two are pinned left and right rather
+     than keyed and beside. -->
+<main id="appRight" class="reader-shell reader-column reader-column-right" hidden></main>
+<!-- The right column's own top and bottom dissolve, so its last line is cut the
+     way the left one's is. -->
+<div class="reader-edge-fade reader-edge-fade-second" aria-hidden="true" hidden></div>
+<!-- That column's own rail. No id: the rail with one is the left column's, and
+     this one is reached through the column record in columns.js. -->
+<div class="reader-minimap reader-minimap-right" aria-hidden="true" hidden></div>
+<!-- The right column's own waiting state. One per column, because a document
+     opening into either one is a promise, and `#readerLoading` covers the left
+     card alone. -->
+<div class="reader-loading reader-loading-right" role="status" aria-live="polite" aria-label="Loading document…" hidden>
+  <div class="reader-loading-page" aria-hidden="true">
+    <span class="lt-skeleton reader-loading-heading"></span>
+    <span class="lt-skeleton reader-loading-line"></span>
+    <span class="lt-skeleton reader-loading-line"></span>
+    <span class="lt-skeleton reader-loading-line reader-loading-line-short"></span>
+    <span class="lt-skeleton reader-loading-line"></span>
+    <span class="lt-skeleton reader-loading-line reader-loading-line-short"></span>
+  </div>
+</div>
+<!-- The shape of the page that is arriving: a heading bar and the paragraph bars
+     under it, on an opaque surface, so the document being replaced is not left
+     showing through as though it were still the answer. The label is what a
+     screen reader hears; the bars are decoration and say nothing. -->
+<div id="readerLoading" class="reader-loading" role="status" aria-live="polite" aria-label="Loading document…" hidden>
+  <div class="reader-loading-page" aria-hidden="true">
+    <span class="lt-skeleton reader-loading-heading"></span>
+    <span class="lt-skeleton reader-loading-line"></span>
+    <span class="lt-skeleton reader-loading-line"></span>
+    <span class="lt-skeleton reader-loading-line reader-loading-line-short"></span>
+    <span class="lt-skeleton reader-loading-line"></span>
+    <span class="lt-skeleton reader-loading-line reader-loading-line-short"></span>
+  </div>
+</div>
+</div>
+<div id="glossaryBackdrop" class="lt-backdrop" hidden></div>
+<aside id="glossarySheet" class="leaf-sheet glossary-sheet" role="dialog" aria-modal="true" aria-label="Glossary" hidden>
+  <span class="sheet-shadow-face" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-top" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-bottom" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-left" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-right" aria-hidden="true"></span>
+  <div class="leaf-sheet-grip"></div>
+  <button type="button" id="glossarySheetClose" class="leaf-sheet-close" aria-label="Close glossary"><span class="lt-icon lt-icon-close"></span></button>
+  <div id="glossarySheetBody" class="glossary-sheet-body document-body leaf-scroll"></div>
+  <div class="glossary-sheet-footer"><button type="button" id="glossaryFullLink" class="glossary-sheet-fulllink">Open the full glossary</button></div>
+</aside>
+<div id="themeBackdrop" class="lt-backdrop" hidden></div>
+<aside id="themeSheet" class="leaf-sheet theme-sheet" role="dialog" aria-modal="true" aria-label="Themes" hidden>
+  <span class="sheet-shadow-face" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-top" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-bottom" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-left" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-right" aria-hidden="true"></span>
+  <div class="leaf-sheet-grip"></div>
+  <div class="theme-sheet-head">
+    <span class="theme-sheet-title">Themes</span>
+    <button type="button" id="themeSheetClose" class="leaf-sheet-close" aria-label="Close"><span class="lt-icon lt-icon-close"></span></button>
+  </div>
+  <div class="theme-sheet-modes" id="themeSheetModes" role="group" aria-label="Appearance">
+    <button type="button" class="theme-mode-btn" data-mode="system">System</button>
+    <button type="button" class="theme-mode-btn" data-mode="light">Light</button>
+    <button type="button" class="theme-mode-btn" data-mode="dark">Dark</button>
+    <button type="button" class="theme-mode-btn" data-mode="daylight">Daylight</button>
+  </div>
+  <hr class="theme-sheet-divider" />
+  <ul class="theme-sheet-grid leaf-scroll" id="themeSheetGrid"><li><button type="button" class="theme-item" data-family="amaranth" style="--card-bg-light:#ffffff;--card-bg-dark:#1e1e1e;--card-fg-light:#222222;--card-fg-dark:#dadada;--card-font:&quot;Source Serif 4&quot;, Georgia, Cambria, &quot;Times New Roman&quot;, serif" aria-pressed="false"><span class="theme-item-name">Amaranth</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#ffffff;--sw-dark:#1e1e1e"></span><span class="theme-swatch" style="--sw-light:#222222;--sw-dark:#dadada"></span><span class="theme-swatch" style="--sw-light:#6d45e0;--sw-dark:#a882ff"></span><span class="theme-swatch" style="--sw-light:#b0246a;--sw-dark:#fa99cd"></span><span class="theme-swatch" style="--sw-light:#8a5a00;--sw-dark:#e0de71"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li><button type="button" class="theme-item" data-family="arabica" style="--card-bg-light:#f5ece0;--card-bg-dark:#241c17;--card-fg-light:#3d2f26;--card-fg-dark:#ece0d2;--card-font:&quot;Rubik&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" aria-pressed="false"><span class="theme-item-name">Arabica</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#f5ece0;--sw-dark:#241c17"></span><span class="theme-swatch" style="--sw-light:#3d2f26;--sw-dark:#ece0d2"></span><span class="theme-swatch" style="--sw-light:#8839ef;--sw-dark:#cba6f7"></span><span class="theme-swatch" style="--sw-light:#7526d6;--sw-dark:#cba6f7"></span><span class="theme-swatch" style="--sw-light:#46671f;--sw-dark:#b7d38a"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li hidden data-unlock="birch"><button type="button" class="theme-item" data-family="birch" style="--card-bg-light:#ffffff;--card-bg-dark:#1e1e1e;--card-fg-light:#222222;--card-fg-dark:#dadada;--card-font:&quot;Public Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;" aria-pressed="false"><span class="theme-item-name">Birch</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#ffffff;--sw-dark:#1e1e1e"></span><span class="theme-swatch" style="--sw-light:#222222;--sw-dark:#dadada"></span><span class="theme-swatch" style="--sw-light:#6e6e6e;--sw-dark:#a2a2a2"></span><span class="theme-swatch" style="--sw-light:#6e6e6e;--sw-dark:#d0d0d0"></span><span class="theme-swatch" style="--sw-light:#646464;--sw-dark:#d9d9d9"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li><button type="button" class="theme-item" data-family="bloodleaf" style="--card-bg-light:#ffffff;--card-bg-dark:#0f141a;--card-fg-light:#15181c;--card-fg-dark:#dfe6ee;--card-font:&quot;Archivo&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" aria-pressed="false"><span class="theme-item-name">Bloodleaf</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#ffffff;--sw-dark:#0f141a"></span><span class="theme-swatch" style="--sw-light:#15181c;--sw-dark:#dfe6ee"></span><span class="theme-swatch" style="--sw-light:#d81e28;--sw-dark:#ff4b52"></span><span class="theme-swatch" style="--sw-light:#b3121b;--sw-dark:#ff6b70"></span><span class="theme-swatch" style="--sw-light:#0f6b3d;--sw-dark:#ffc043"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li><button type="button" class="theme-item" data-family="camellia" style="--card-bg-light:#fff7fa;--card-bg-dark:#1a1016;--card-fg-light:#3a1f2b;--card-fg-dark:#e8d4de;--card-font:&quot;Cormorant Garamond&quot;, Garamond, &quot;Times New Roman&quot;, Georgia, serif" aria-pressed="false"><span class="theme-item-name">Camellia</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#fff7fa;--sw-dark:#1a1016"></span><span class="theme-swatch" style="--sw-light:#3a1f2b;--sw-dark:#e8d4de"></span><span class="theme-swatch" style="--sw-light:#b0248a;--sw-dark:#f58fd0"></span><span class="theme-swatch" style="--sw-light:#9a1f78;--sw-dark:#f58fd0"></span><span class="theme-swatch" style="--sw-light:#6e4a00;--sw-dark:#e8c872"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li><button type="button" class="theme-item" data-family="eucalyptus" style="--card-bg-light:#f3fbfa;--card-bg-dark:#0e1a1c;--card-fg-light:#173536;--card-fg-dark:#d5e7e6;--card-font:&quot;Lato&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" aria-pressed="false"><span class="theme-item-name">Eucalyptus</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#f3fbfa;--sw-dark:#0e1a1c"></span><span class="theme-swatch" style="--sw-light:#173536;--sw-dark:#d5e7e6"></span><span class="theme-swatch" style="--sw-light:#00787b;--sw-dark:#5fd6d2"></span><span class="theme-swatch" style="--sw-light:#8a2a6e;--sw-dark:#e0a3e8"></span><span class="theme-swatch" style="--sw-light:#6e4a00;--sw-dark:#e8c872"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li><button type="button" class="theme-item" data-family="fern" style="--card-bg-light:#ffffff;--card-bg-dark:#1e1e1e;--card-fg-light:#222222;--card-fg-dark:#dadada;--card-font:&quot;Noto Serif&quot;, Georgia, Cambria, &quot;Times New Roman&quot;, serif" aria-pressed="false"><span class="theme-item-name">Fern</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#ffffff;--sw-dark:#1e1e1e"></span><span class="theme-swatch" style="--sw-light:#222222;--sw-dark:#dadada"></span><span class="theme-swatch" style="--sw-light:#1a7f37;--sw-dark:#3fb950"></span><span class="theme-swatch" style="--sw-light:#1a7f37;--sw-dark:#7ee787"></span><span class="theme-swatch" style="--sw-light:#8a5a00;--sw-dark:#e0de71"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li><button type="button" class="theme-item" data-family="foxglove" style="--card-bg-light:#f1f2ef;--card-bg-dark:#0d0d12;--card-fg-light:#191b19;--card-fg-dark:#e9e8ee;--card-font:&quot;Instrument Serif&quot;, Georgia, Cambria, &quot;Times New Roman&quot;, serif" aria-pressed="false"><span class="theme-item-name">Foxglove</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#f1f2ef;--sw-dark:#0d0d12"></span><span class="theme-swatch" style="--sw-light:#191b19;--sw-dark:#e9e8ee"></span><span class="theme-swatch" style="--sw-light:#5d00e0;--sw-dark:#a883ff"></span><span class="theme-swatch" style="--sw-light:#5d00e0;--sw-dark:#c2a8ff"></span><span class="theme-swatch" style="--sw-light:#1b7236;--sw-dark:#e6c35c"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li><button type="button" class="theme-item" data-family="ginger" style="--card-bg-light:#fdf7ef;--card-bg-dark:#2a2d3d;--card-fg-light:#43382e;--card-fg-dark:#c6ceef;--card-font:&quot;Nunito&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" aria-pressed="false"><span class="theme-item-name">Ginger</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#fdf7ef;--sw-dark:#2a2d3d"></span><span class="theme-swatch" style="--sw-light:#43382e;--sw-dark:#c6ceef"></span><span class="theme-swatch" style="--sw-light:#f0662e;--sw-dark:#f2934e"></span><span class="theme-swatch" style="--sw-light:#a63f16;--sw-dark:#f2934e"></span><span class="theme-swatch" style="--sw-light:#46671f;--sw-dark:#38c68d"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li><button type="button" class="theme-item" data-family="github" style="--card-bg-light:#ffffff;--card-bg-dark:#0d1117;--card-fg-light:#1f2328;--card-fg-dark:#f0f6fc;--card-font:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;" aria-pressed="false"><span class="theme-item-name">GitHub</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#ffffff;--sw-dark:#0d1117"></span><span class="theme-swatch" style="--sw-light:#1f2328;--sw-dark:#f0f6fc"></span><span class="theme-swatch" style="--sw-light:#1f883d;--sw-dark:#238636"></span><span class="theme-swatch" style="--sw-light:#cf222e;--sw-dark:#ff7b72"></span><span class="theme-swatch" style="--sw-light:#0a3069;--sw-dark:#a5d6ff"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li><button type="button" class="theme-item" data-family="goldenrod" style="--card-bg-light:#fffdf7;--card-bg-dark:#131210;--card-fg-light:#1c1a15;--card-fg-dark:#eceae2;--card-font:&quot;Space Grotesk&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" aria-pressed="false"><span class="theme-item-name">Goldenrod</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#fffdf7;--sw-dark:#131210"></span><span class="theme-swatch" style="--sw-light:#1c1a15;--sw-dark:#eceae2"></span><span class="theme-swatch" style="--sw-light:#f0b400;--sw-dark:#ffc300"></span><span class="theme-swatch" style="--sw-light:#7d5400;--sw-dark:#ffc300"></span><span class="theme-swatch" style="--sw-light:#46671f;--sw-dark:#b7d38a"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li><button type="button" class="theme-item" data-family="halcyon" style="--card-bg-light:#ffffff;--card-bg-dark:#1c2127;--card-fg-light:#222222;--card-fg-dark:#dadada;--card-font:&quot;IBM Plex Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" aria-pressed="false"><span class="theme-item-name">Halcyon</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#ffffff;--sw-dark:#1c2127"></span><span class="theme-swatch" style="--sw-light:#222222;--sw-dark:#dadada"></span><span class="theme-swatch" style="--sw-light:#086ddd;--sw-dark:#4c9dff"></span><span class="theme-swatch" style="--sw-light:#b0246a;--sw-dark:#fa99cd"></span><span class="theme-swatch" style="--sw-light:#8a5a00;--sw-dark:#e0de71"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li><button type="button" class="theme-item" data-family="ivy" style="--card-bg-light:#cfe8c9;--card-bg-dark:#0a0f0a;--card-fg-light:#1b2b1d;--card-fg-dark:#9ff29f;--card-font:&quot;IBM Plex Mono&quot;, &quot;Cascadia Mono&quot;, &quot;SFMono-Regular&quot;, Consolas, &quot;Liberation Mono&quot;, monospace" aria-pressed="false"><span class="theme-item-name">Ivy</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#cfe8c9;--sw-dark:#0a0f0a"></span><span class="theme-swatch" style="--sw-light:#1b2b1d;--sw-dark:#9ff29f"></span><span class="theme-swatch" style="--sw-light:#145c20;--sw-dark:#3ae04f"></span><span class="theme-swatch" style="--sw-light:#8a1f6e;--sw-dark:#e39ff2"></span><span class="theme-swatch" style="--sw-light:#6e4a00;--sw-dark:#e8d07a"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li hidden data-unlock="laurel"><button type="button" class="theme-item" data-family="laurel" style="--card-bg-light:#ffffff;--card-bg-dark:#17201a;--card-fg-light:#15261a;--card-fg-dark:#d0ddd4;--card-font:&quot;Figtree&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;" aria-pressed="false"><span class="theme-item-name">Laurel</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#ffffff;--sw-dark:#17201a"></span><span class="theme-swatch" style="--sw-light:#15261a;--sw-dark:#d0ddd4"></span><span class="theme-swatch" style="--sw-light:#108031;--sw-dark:#17bb48"></span><span class="theme-swatch" style="--sw-light:#108031;--sw-dark:#5ceb87"></span><span class="theme-swatch" style="--sw-light:#0e742d;--sw-dark:#81efa2"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li hidden data-unlock="lavender"><button type="button" class="theme-item" data-family="lavender" style="--card-bg-light:#ffffff;--card-bg-dark:#251734;--card-fg-light:#281d34;--card-fg-dark:#ddd8e3;--card-font:&quot;Outfit&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;" aria-pressed="false"><span class="theme-item-name">Lavender</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#ffffff;--sw-dark:#251734"></span><span class="theme-swatch" style="--sw-light:#281d34;--sw-dark:#ddd8e3"></span><span class="theme-swatch" style="--sw-light:#9043e8;--sw-dark:#bc8ef1"></span><span class="theme-swatch" style="--sw-light:#9043e8;--sw-dark:#dec7f8"></span><span class="theme-swatch" style="--sw-light:#8430e5;--sw-dark:#e4d2f9"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li><button type="button" class="theme-item" data-family="nightshade" style="--card-bg-light:#f7f5ef;--card-bg-dark:#282a36;--card-fg-light:#26222e;--card-fg-dark:#f8f8f2;--card-font:&quot;Fraunces&quot;, Georgia, Cambria, &quot;Times New Roman&quot;, serif" aria-pressed="false"><span class="theme-item-name">Nightshade</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#f7f5ef;--sw-dark:#282a36"></span><span class="theme-swatch" style="--sw-light:#26222e;--sw-dark:#f8f8f2"></span><span class="theme-swatch" style="--sw-light:#7b3fe4;--sw-dark:#bd93f9"></span><span class="theme-swatch" style="--sw-light:#b0257f;--sw-dark:#ff79c6"></span><span class="theme-swatch" style="--sw-light:#7a5a00;--sw-dark:#f1fa8c"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li><button type="button" class="theme-item" data-family="pippin" style="--card-bg-light:#ffffff;--card-bg-dark:#1c1c1e;--card-fg-light:#1d1d1f;--card-fg-dark:#f5f5f7;--card-font:&quot;DM Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" aria-pressed="false"><span class="theme-item-name">Pippin</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#ffffff;--sw-dark:#1c1c1e"></span><span class="theme-swatch" style="--sw-light:#1d1d1f;--sw-dark:#f5f5f7"></span><span class="theme-swatch" style="--sw-light:#0a6fe0;--sw-dark:#4a9eff"></span><span class="theme-swatch" style="--sw-light:#c2352b;--sw-dark:#e16d76"></span><span class="theme-swatch" style="--sw-light:#0a6e82;--sw-dark:#58b6c2"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li hidden data-unlock="saffron"><button type="button" class="theme-item" data-family="saffron" style="--card-bg-light:#ffffff;--card-bg-dark:#211e18;--card-fg-light:#282117;--card-fg-dark:#ded9d2;--card-font:&quot;Libre Franklin&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;" aria-pressed="false"><span class="theme-item-name">Saffron</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#ffffff;--sw-dark:#211e18"></span><span class="theme-swatch" style="--sw-light:#282117;--sw-dark:#ded9d2"></span><span class="theme-swatch" style="--sw-light:#986313;--sw-dark:#e0911c"></span><span class="theme-swatch" style="--sw-light:#986313;--sw-dark:#f1cb91"></span><span class="theme-swatch" style="--sw-light:#8a5a11;--sw-dark:#f4d4a5"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li><button type="button" class="theme-item" data-family="sage" style="--card-bg-light:#f7f6f4;--card-bg-dark:#1a1a1a;--card-fg-light:#222222;--card-fg-dark:#d6d4d0;--card-font:&quot;Inter&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" aria-pressed="false"><span class="theme-item-name">Sage</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#f7f6f4;--sw-dark:#1a1a1a"></span><span class="theme-swatch" style="--sw-light:#222222;--sw-dark:#d6d4d0"></span><span class="theme-swatch" style="--sw-light:#3f7aa8;--sw-dark:#82a9c9"></span><span class="theme-swatch" style="--sw-light:#40403e;--sw-dark:#c9c6c0"></span><span class="theme-swatch" style="--sw-light:#5f5b54;--sw-dark:#b0ac9f"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li hidden data-unlock="sumac"><button type="button" class="theme-item" data-family="sumac" style="--card-bg-light:#ffffff;--card-bg-dark:#251c1b;--card-fg-light:#301e1b;--card-fg-dark:#e2d8d7;--card-font:&quot;Karla&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;" aria-pressed="false"><span class="theme-item-name">Sumac</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#ffffff;--sw-dark:#251c1b"></span><span class="theme-swatch" style="--sw-light:#301e1b;--sw-dark:#e2d8d7"></span><span class="theme-swatch" style="--sw-light:#cf321a;--sw-dark:#ee8575"></span><span class="theme-swatch" style="--sw-light:#cf321a;--sw-dark:#f7c5bd"></span><span class="theme-swatch" style="--sw-light:#bc2d17;--sw-dark:#f8d0ca"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li hidden data-unlock="woad"><button type="button" class="theme-item" data-family="woad" style="--card-bg-light:#ffffff;--card-bg-dark:#1b1e25;--card-fg-light:#1b222f;--card-fg-dark:#d6dae1;--card-font:&quot;Manrope&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;" aria-pressed="false"><span class="theme-item-name">Woad</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#ffffff;--sw-dark:#1b1e25"></span><span class="theme-swatch" style="--sw-light:#1b222f;--sw-dark:#d6dae1"></span><span class="theme-swatch" style="--sw-light:#2068e3;--sw-dark:#77a3ee"></span><span class="theme-swatch" style="--sw-light:#2068e3;--sw-dark:#bcd2f7"></span><span class="theme-swatch" style="--sw-light:#1a5dd2;--sw-dark:#c8daf8"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li><li><button type="button" class="theme-item theme-item-random" data-family="random" style="--card-bg-light:#ffffff;--card-bg-dark:#1e1e1e;--card-fg-light:#222222;--card-fg-dark:#dadada;--card-font:&quot;Source Serif 4&quot;, Georgia, Cambria, &quot;Times New Roman&quot;, serif" aria-pressed="false"><span class="theme-item-name">Random</span><span class="theme-swatches" aria-hidden="true"><span class="theme-swatch" style="--sw-light:#ffffff;--sw-dark:#1e1e1e"></span><span class="theme-swatch" style="--sw-light:#222222;--sw-dark:#dadada"></span><span class="theme-swatch" style="--sw-light:#6d45e0;--sw-dark:#a882ff"></span><span class="theme-swatch" style="--sw-light:#b0246a;--sw-dark:#fa99cd"></span><span class="theme-swatch" style="--sw-light:#8a5a00;--sw-dark:#e0de71"></span></span><span class="lt-spinner theme-item-spinner" aria-hidden="true"></span><span class="lt-icon theme-item-check lt-icon-check-circle"></span></button></li></ul>
+  <div class="theme-sheet-footer">
+    <a href="#" id="themeSheetBrowse" class="theme-sheet-browse">Add your own theme on GitHub →</a>
+  </div>
+</aside>
+<div id="homeSheetBackdrop" class="lt-backdrop" hidden></div>
+<!-- A folded start-screen list, given the whole width of the window. Outside the
+     reader on purpose: the start screen is rebuilt on every render, and a sheet
+     inside it would be thrown away mid-scroll. -->
+<aside id="homeSheet" class="leaf-sheet home-sheet" role="dialog" aria-modal="true" aria-label="Recent" hidden>
+  <span class="sheet-shadow-face" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-top" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-bottom" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-left" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-right" aria-hidden="true"></span>
+  <div class="leaf-sheet-grip"></div>
+  <div class="home-sheet-head">
+    <span class="home-sheet-title" id="homeSheetTitle"></span>
+    <button type="button" id="homeSheetClose" class="leaf-sheet-close" aria-label="Close"><span class="lt-icon lt-icon-close"></span></button>
+  </div>
+  <div class="home-sheet-body" id="homeSheetBody"></div>
+</aside>
+<div id="groveBackdrop" class="lt-backdrop" hidden></div>
+<!-- The reading record, opened from the pill at the pane's foot. Outside the reader for the start-screen sheet's reason: a render replaces #app whole, and a sheet inside it would be thrown away mid-scroll. -->
+<aside id="groveSheet" class="leaf-sheet grove-sheet" role="dialog" aria-modal="true" aria-label="Your Grove" hidden>
+  <span class="sheet-shadow-face" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-top" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-bottom" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-left" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-right" aria-hidden="true"></span>
+  <div class="leaf-sheet-grip"></div>
+  <div class="grove-sheet-head">
+    <button type="button" id="groveBack" class="icon-button grove-back" aria-label="Back to every growth area" hidden><span class="lt-icon grove-back-icon lt-icon-back-long"></span></button>
+    <span class="grove-sheet-title" id="groveTitle">Your Grove</span>
+    <button type="button" id="groveSwitch" class="grove-switch" role="switch" aria-checked="true"><span class="grove-switch-label">Keep a record</span><span class="grove-switch-track" aria-hidden="true"><span class="grove-switch-thumb"></span></span></button>
+    <span class="grove-sheet-seeds" id="groveSeeds"></span>
+    <button type="button" id="groveSheetClose" class="leaf-sheet-close" aria-label="Close"><span class="lt-icon lt-icon-close"></span></button>
+  </div>
+  <div class="grove-tabs" id="groveTabs" role="tablist" aria-label="Grove views" hidden></div>
+  <div class="grove-sheet-body leaf-scroll" id="groveSheetBody"></div>
+</aside>
+<div id="calendarBackdrop" class="lt-backdrop" hidden></div>
+<!-- A month of the vault's documents, opened from the calendar square at the pane's foot. Inert until then: nothing is asked for while it is shut. -->
+<aside id="calendarSheet" class="leaf-sheet calendar-sheet" role="dialog" aria-modal="true" aria-label="Calendar" hidden>
+  <span class="sheet-shadow-face" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-top" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-bottom" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-left" aria-hidden="true"></span>
+  <span class="sheet-shadow-band sheet-shadow-band-right" aria-hidden="true"></span>
+  <div class="leaf-sheet-grip"></div>
+  <div class="calendar-sheet-head">
+    <span class="calendar-sheet-title" id="calendarSheetTitle"></span>
+    <span class="calendar-sheet-steps">
+      <button type="button" id="calendarPrevious" class="icon-button calendar-sheet-step" aria-label="Previous month" title="Previous month"><span class="lt-icon lt-icon-chevron-down calendar-step-back"></span></button>
+      <button type="button" id="calendarToday" class="theme-mode-btn calendar-sheet-today">Today</button>
+      <button type="button" id="calendarNext" class="icon-button calendar-sheet-step" aria-label="Next month" title="Next month"><span class="lt-icon lt-icon-chevron-down calendar-step-forward"></span></button>
+      <button type="button" id="calendarSheetClose" class="leaf-sheet-close" aria-label="Close"><span class="lt-icon lt-icon-close"></span></button>
+    </span>
+  </div>
+  <div class="calendar-sheet-choices">
+    <label class="reader-subselect leaf-select">
+      <select id="calendarField" aria-label="Which date to count"><option value="changed">Changed</option><option value="made">Made</option></select>
+      <span class="lt-icon lt-icon-chevron-down" aria-hidden="true"></span>
+    </label>
+    <span class="calendar-sheet-spans" id="calendarSpans" role="group" aria-label="How long a stretch">
+      <button type="button" class="theme-mode-btn is-active" data-calendar-span="month" aria-pressed="true">Month</button>
+      <button type="button" class="theme-mode-btn" data-calendar-span="week" aria-pressed="false">Week</button>
+      <button type="button" class="theme-mode-btn" data-calendar-span="day" aria-pressed="false">Day</button>
+    </span>
+  </div>
+  <div class="calendar-sheet-body leaf-scroll" id="calendarSheetBody"></div>
+  <p class="calendar-sheet-foot" id="calendarSheetFoot" aria-live="polite"></p>
+</aside>
+<div id="flowBackdrop" class="lt-backdrop" hidden></div>
+<!-- The flowchart sheet: a canvas and a code pane, peers over one graph. Both
+     panes are built by flow-canvas.js; only the frame is declared here. -->
+<aside id="flowSheet" class="flow-sheet" role="dialog" aria-modal="true" aria-label="Flowchart" hidden>
+  <!-- Every way of making something lives on the canvas: double-click, a box's
+       + handles, or right-click. What is left up here is chrome. -->
+  <div class="flow-sheet-head" id="flowSheetHead">
+    <span class="flow-sheet-title" id="flowSheetTitle">Flowchart</span>
+    <div class="flow-sheet-tools">
+      <div class="flow-steps" role="group" aria-label="History">
+        <button type="button" id="flowUndo" aria-label="Undo" title="Undo"><span class="lt-icon lt-icon-undo"></span></button>
+        <button type="button" id="flowRedo" aria-label="Redo" title="Redo"><span class="lt-icon lt-icon-redo"></span></button>
+      </div>
+      <label class="flow-sheet-direction leaf-select">Flow <select id="flowDirection"></select><span class="lt-icon lt-icon-chevron-down" aria-hidden="true"></span></label>
+      <!-- The same three the reading view puts on a drawn diagram, so looking at
+           one is the same gesture wherever you are. Each tooltip names the other
+           way of doing it: the wheel and the drag announce themselves nowhere. -->
+      <div class="flow-zoom" role="group" aria-label="Zoom">
+        <button type="button" id="flowZoomOut" title="Zoom out — or Ctrl and the wheel" aria-label="Zoom out"><span class="lt-icon lt-icon-zoom-out"></span></button>
+        <button type="button" id="flowZoomFit" title="Whole diagram, back where it started" aria-label="Fit the diagram"><span class="lt-icon lt-icon-fit"></span></button>
+        <button type="button" id="flowZoomIn" title="Zoom in — or Ctrl and the wheel. Drag empty space to move it" aria-label="Zoom in"><span class="lt-icon lt-icon-zoom-in"></span></button>
+      </div>
+    </div>
+    <div class="flow-sheet-actions">
+      <button type="button" id="flowSheetExport" class="flow-sheet-export">Export</button>
+      <button type="button" id="flowSheetCancel" class="flow-sheet-cancel">Cancel</button>
+      <button type="button" id="flowSheetSave" class="flow-sheet-save">Save</button>
+    </div>
+  </div>
+  <div class="flow-sheet-panes">
+    <section class="flow-pane flow-pane-canvas" aria-label="Diagram">
+      <p class="flow-hint" id="flowHint"></p>
+      <div class="flow-canvas leaf-scroll" id="flowCanvas" tabindex="0"></div>
+      <p class="flow-notice" id="flowNotice" hidden></p>
+    </section>
+    <div class="flow-split" id="flowSplit" role="separator" aria-orientation="vertical" aria-label="Resize the text pane" tabindex="0"></div>
+    <section class="flow-pane flow-pane-code" aria-label="Mermaid text">
+      <!-- Said here because here is where it shows: Save writes the diagram out
+           afresh rather than patching the lines someone typed. Tidying one box
+           and finding the whole block reflowed is a nasty surprise to have to
+           work out for yourself. -->
+      <p class="flow-code-note">Save rewrites the whole block: one box to a line, every label quoted.</p>
+      <textarea id="flowCode" class="flow-code leaf-scroll" spellcheck="false" aria-label="Mermaid text"></textarea>
+    </section>
+  </div>
+  <!-- What a box or a line can be changed to, and the same sheet the shape
+       picker uses: one component, so adding a box and changing one read the same
+       way. A child of the sheet rather than of the canvas pane, so it slides up
+       centered on the whole editor and not on the half left of the text. -->
+  <!-- The picker's own scrim, a child of the editor rather than of the window:
+       it dims the diagram the sheet is standing over, and #flowBackdrop outside
+       is already dimming everything else. -->
+  <div id="flowPickerBackdrop" class="lt-backdrop" hidden></div>
+  <aside class="leaf-sheet flow-picker" id="flowPicker" role="dialog" aria-label="Shapes" hidden>
+    <span class="sheet-shadow-face" aria-hidden="true"></span>
+    <span class="sheet-shadow-band sheet-shadow-band-top" aria-hidden="true"></span>
+    <span class="sheet-shadow-band sheet-shadow-band-bottom" aria-hidden="true"></span>
+    <span class="sheet-shadow-band sheet-shadow-band-left" aria-hidden="true"></span>
+    <span class="sheet-shadow-band sheet-shadow-band-right" aria-hidden="true"></span>
+    <div class="leaf-sheet-grip"></div>
+    <button type="button" id="flowPickerClose" class="leaf-sheet-close" aria-label="Close"><span class="lt-icon lt-icon-close"></span></button>
+    <!-- Every field the selection has stays put while the shapes scroll under it:
+         losing the name off the top mid-list is how a box ends up unnamed, and the
+         link, the icon and the picture were unfindable below forty-seven shapes. -->
+    <div class="flow-picker-head" id="flowPickerHead"></div>
+    <div class="flow-picker-body leaf-scroll" id="flowPickerBody"></div>
+  </aside>
+</aside>
+<!-- The one question the app asks. Declared here rather than built in script so it
+     is in the page before anything can need it, and so the scrim it shares with the
+     sheets is the same element type theirs is. Its words are written in when it
+     opens: what is asked is the caller's, the frame is the app's. -->
+<div id="confirmBackdrop" class="lt-backdrop" hidden></div>
+<div id="confirmDialog" class="confirm-dialog" role="dialog" aria-modal="true" aria-labelledby="confirmDialogTitle" aria-describedby="confirmDialogDetail" hidden>
+  <h2 id="confirmDialogTitle" class="confirm-dialog-title"></h2>
+  <p id="confirmDialogDetail" class="confirm-dialog-detail"></p>
+  <div class="confirm-dialog-actions">
+    <button type="button" id="confirmDialogCancel" class="confirm-dialog-button">Cancel</button>
+    <button type="button" id="confirmDialogAccept" class="confirm-dialog-button is-danger">Delete</button>
+  </div>
+</div>
+<!-- Where a diagram goes to be printed on its own. The export draws the diagram again into this box and raises `leaf-paper-diagram`, which takes everything else off the sheet — so the page the host renders is the drawing and nothing around it. Empty and out of the layout the rest of the time. See .diagram-print in reading/print.css. -->
+<div id="diagramPrint" class="diagram-print" aria-hidden="true"></div>
+<!-- Where a picture in the document goes to be printed on its own. The export puts a copy of the picture in this box at its own size and raises `leaf-paper-picture`, which takes everything else off the sheet. Empty and out of the layout the rest of the time. See .picture-print in reading/print.css. -->
+<div id="picturePrint" class="picture-print" aria-hidden="true"></div>
+<!-- Where the front-end arrives, filled by the host rather than written here. Both
+     fills name the same joined app.js over the asset protocol — the page is handed
+     to WebView2 as one string with a ceiling on it and this was 88% of it — and
+     both load it as a plain script rather than a module, because the fragments are
+     written as one shared scope.
+
+     A browser host gets the deferred tag: it runs before DOMContentLoaded and last
+     on the page, and the host's own module boot starts underneath it. The desktop
+     gets the loader in desktop-front-end-loader.js instead, which preloads that
+     same file and appends it one painted frame later, so the startup card above is
+     already drawn rather than sitting blank for the whole of the script's own
+     execution. See app_shell_html and app_shell_html_for_host in lib.rs. -->
+
+<script src="https://leaftext.com/assets/leaftext/app/app.js" crossorigin="anonymous" defer></script>
+</div>
+<noscript>
+      <p>
+        This page is drawn from Markdown. Its source is
+        <a href="README.md">README.md</a>, beside this page. Every page of the site as Markdown:
+        <a href="llms.txt">llms.txt</a>, <a href="llms-full.txt">llms-full.txt</a>,
+        <a href="sitemap-md.txt">sitemap-md.txt</a>.
+      </p>
+    </noscript><script type="module" src="https://leaftext.com/assets/leaftext/app/boot.js"></script></body>
 </html>
