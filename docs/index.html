@@ -65,7 +65,7 @@
             }
           }
         }
-        location.replace('../#docs/' + file + (anchor ? '#' + anchor : ''));
+        location.replace((document.documentElement.hasAttribute('data-doc-pages') ? file.replace(/\.md$/i, '.html') : '../#docs/' + file) + (anchor ? '#' + anchor : ''));
       })();
     </script>
   </head>

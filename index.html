@@ -7,10 +7,10 @@
 <!-- `leaf-site` is the open HTML page's own folder, and it is named here because a frame drawn from `srcdoc` inherits this policy and enforces its own on top: the two are additive, so a contained page can only ever be tighter than this and never looser. Without these four the page's own stylesheet, pictures, fonts and media would be refused by the app page before its own policy was ever asked. Nothing on this page can reach that folder itself — the app's markup is written here, and the sanitizer a note's raw HTML crosses allows neither a style block nor a stylesheet link. -->
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https: data: blob:; script-src 'self' https://leaftext.com 'unsafe-inline' 'unsafe-eval'; style-src 'self' https://leaftext.com 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://leaftext.com data: https://fonts.gstatic.com; connect-src 'self' https://leaftext.com">
 
-<script>window.__leafPending=[];window.ipc={postMessage:(m)=>window.__leafPending.push(m)};</script><script>window.__leafSettings = {"calendarField":"field:due","codeIntelEnabled":true,"codeUnlocked":false,"graphScope":"small","hintLastLaunch":0,"hintLaunches":0,"hintsSeen":[],"libraryClosed":false,"libraryProjectPath":"","libraryWidth":240,"readingUnlocked":false,"speedReaderEnabled":false,"splitFraction":0.5,"themeFamily":"random","themeMode":"daylight","themeRandomUsed":[],"updateLastChecked":0,"updateStagedVersion":""};
+<script>window.__leafPending=[];window.ipc={postMessage:(m)=>window.__leafPending.push(m)};</script><script>window.__leafSettings = {"arrangement":"","arrangements":[],"calendarField":"field:due","codeIntelEnabled":true,"codeUnlocked":false,"graphScope":"small","hintLastLaunch":0,"hintLaunches":0,"hintsSeen":[],"libraryClosed":false,"libraryList":"folders","libraryProjectPath":"","libraryWidth":240,"readingUnlocked":false,"speedReaderEnabled":false,"splitFraction":0.5,"themeFamily":"random","themeMode":"daylight","themeRandomUsed":[],"updateLastChecked":0,"updateStagedVersion":""};
 window.__leafInitialState = {"active":null,"document":null,"favorites":[],"recent":[],"tabs":[]};
-window.__leafDocumentExts = ["md","markdown","mdown","mdc","xml","json","yaml","yml","eml","mht","mhtml","html","htm","txt","ini","docx","docm","xlsx","xlsm","pptx","pptm","odt","ods","odp","epub","ts","tsx","js","jsx","jsonc","css","scss","sh","bash","zsh","toml","rs","py","sql","diff","patch","env","graphql","gql"];
-window.__leafVersion = "3.25.6";
+window.__leafDocumentExts = ["md","markdown","mdown","mdc","xml","json","yaml","yml","eml","mht","mhtml","html","htm","txt","ini","csv","tsv","docx","docm","xlsx","xlsm","pptx","pptm","odt","ods","odp","epub","azw","mobi","azw3","gsheet","gdoc","gslides","ts","tsx","js","jsx","jsonc","css","scss","sh","bash","zsh","toml","rs","py","sql","diff","patch","env","graphql","gql"]; window.__leafPointerSuffix = ".leafpointer.json";
+window.__leafVersion = "3.49.2";
 window.__leafRepository = "https://github.com/ryanallen/leaftext";
 window.__leafUpdateAsset = "";
 window.__leafEmbedded = false;</script><script>window.__leafSite=true;window.__leafAssetBase="https://leaftext.com/assets/leaftext/app/";</script><script src="https://leaftext.com/assets/leaftext/app/settings.js"></script><script>// Where the vendored runtimes are served from. Injected rather than written into the fragments, because the asset scheme differs by platform and a fragment that carries a placeholder cannot be served as a static file.
@@ -274,8 +274,8 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
 <div class="window-band window-band-corner window-band-bottom-right" aria-hidden="true"><span class="window-band-ring window-band-ring-bottom-right window-band-ring-0"></span><span class="window-band-ring window-band-ring-bottom-right window-band-ring-1"></span><span class="window-band-ring window-band-ring-bottom-right window-band-ring-2"></span><span class="window-band-ring window-band-ring-bottom-right window-band-ring-3"></span><span class="window-band-ring window-band-ring-bottom-right window-band-ring-4"></span><span class="window-band-ring window-band-ring-bottom-right window-band-ring-5"></span><span class="window-band-ring window-band-ring-bottom-right window-band-ring-6"></span></div>
 <!-- One box that means "the app", holding everything the page has. It is what a fixed position is measured from and what a fixed position is clipped to, so a sheet, a scrim or a menu belongs to the app rather than to the window — which are the same rectangle today and are not once the window's outer edge is a shadow the app draws. Nothing is added beside it: see .app-surface in reading/base.css and appSurface in shell/state.js. -->
 <div id="appSurface" class="app-surface">
-<!-- The shadow band's alpha curve, which --lt-grain-shadow-curve names as url(#lt-shadow-halftone). It is markup rather than a data URI in the token because WebKit resolves no filter reference outside the page, which left the band an opaque white slab on every Mac. Every page that serves the reading stylesheet carries this block, byte for byte, and reading_css_grain_curve.rs holds them to each other. -->
-<svg width="0" height="0" aria-hidden="true" focusable="false" style="position:absolute"><filter id="lt-shadow-halftone" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1" result="coverage"/><feComponentTransfer in="coverage" result="cut"><feFuncA type="linear" slope="4.5" intercept="-0.949"/></feComponentTransfer><feComposite in="cut" in2="SourceGraphic" operator="in"/></filter></svg>
+<!-- The shadow band's alpha curve, which --lt-grain-shadow-curve names as url(#lt-shadow-halftone), and the theme's shadow ink it paints the surviving dots in. It is markup rather than a data URI in the token because WebKit resolves no filter reference outside the page, which left the band an opaque white slab on every Mac. Every page that serves the reading stylesheet carries this block, byte for byte, and reading_css_grain_curve.rs holds them to each other. -->
+<svg width="0" height="0" aria-hidden="true" focusable="false" style="position:absolute"><filter id="lt-shadow-halftone" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1" result="coverage"/><feComponentTransfer in="coverage" result="cut"><feFuncA type="linear" slope="4.5" intercept="-0.949"/></feComponentTransfer><feFlood style="flood-color:var(--lt-shadow-ink)" result="ink"/><feComposite in="ink" in2="cut" operator="in" result="inked"/><feComposite in="inked" in2="SourceGraphic" operator="in"/></filter></svg>
 <!-- What a launch shows while the page is still coming: the leaf, a turning ring
      and the app's name, in a window 256 pixels square. It is first in the box and
      over everything, because the app underneath it is still being built and there
@@ -413,7 +413,7 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
     <button type="button" id="libraryProfile" class="library-profile" aria-haspopup="dialog" hidden><span class="lt-icon lt-icon-leaf library-profile-mark" aria-hidden="true"></span><span class="library-profile-label" id="libraryProfileLabel">Grove</span><span class="library-profile-bar" id="libraryProfileBar" aria-hidden="true"><span class="library-profile-bar-fill" id="libraryProfileBarFill"></span></span></button>
   </div>
 </aside>
-<main id="app" class="reader-shell reader-column is-keyed"><div class="reader-layout baked-page"><article class="document-body"><article class="document-body"><h1 id="empty-guru-the-clear-light-of-the-ego-less-guide"><div align="center">Empty Guru <br><sub>The Clear Light of the Ego-less Guide</sub></div></h1>
+<main id="app" class="reader-shell reader-column is-keyed"><div class="reader-layout baked-page"><article class="document-body"><h1 id="empty-guru-the-clear-light-of-the-ego-less-guide"><div align="center">Empty Guru <br><sub>The Clear Light of the Ego-less Guide</sub></div></h1>
 <h2 id="words-of-the-buddha-kangyur-"><span id="2"></span><a href="docs/collection-1-words-of-the-buddha--kangyur/README.md" rel="noopener noreferrer">Words of the Buddha</a> <br><sub>*(Kangyur)&nbsp;*</sub></h2>
 <h2 id="commentarial-treatises-tengyur">Commentarial Treatises <br><sub>(<em>Tengyur</em>)</sub></h2>
 <p><strong>Sources</strong></p>
@@ -421,18 +421,16 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
 <li><code>84k</code> = <a href="https://84000.co/" rel="noopener noreferrer">84000</a>: Translating the Words of the <a href="GLOSSARY.md#buddha" rel="noopener noreferrer">Buddha</a>. License: CC BY-NC-ND 4.0.</li>
 <li><a href="https://github.com/ryanallen/dharma" rel="noopener noreferrer"><code>EG</code></a> = <a href="https://github.com/ryanallen/dharma" rel="noopener noreferrer">GitHub source</a> for <a href="https://empty.guru" rel="noopener noreferrer">https://empty.guru</a>.</li>
 </ol>
-<nav class="docs-pager docs-pager-loading" aria-label="Document navigation" aria-busy="true"><span class="docs-pager-skeleton"><span class="lt-skeleton docs-pager-label-skeleton"></span><span class="lt-skeleton docs-pager-title-skeleton"></span></span><span class="docs-pager-skeleton docs-pager-next"><span class="lt-skeleton docs-pager-label-skeleton"></span><span class="lt-skeleton docs-pager-title-skeleton"></span></span></nav></article></article></div></main>
+<nav class="docs-pager docs-pager-loading" aria-label="Document navigation" aria-busy="true"><span class="docs-pager-skeleton"><span class="lt-skeleton docs-pager-label-skeleton"></span><span class="lt-skeleton docs-pager-title-skeleton"></span></span><span class="docs-pager-skeleton docs-pager-next"><span class="lt-skeleton docs-pager-label-skeleton"></span><span class="lt-skeleton docs-pager-title-skeleton"></span></span></nav></article></div></main>
 <!-- The graph, in the page rather than the pane. A map of the whole vault needs
      the room the reader has; at 240px in the sidebar its labels were unreadable
      and clicking a node shoved the answer somewhere you were not looking. Same
      grid cell as the reader, shown in its place. -->
 <div id="readerGraph" class="reader-graph" hidden>
   <div id="readerGraphCanvas" class="reader-graph-canvas"></div>
-  <!-- Shown only when the drawn map has a web address in it. A ring and a domain
-       name are close to self-explanatory, but "close to" is not the same as "is",
-       and clicking one leaves the app for the browser. -->
+  <!-- The key changes words when the map belongs to a live web page. -->
   <p id="readerGraphLegend" class="reader-graph-legend" hidden>
-    <span class="graph-key graph-key-document" aria-hidden="true"></span>your documents<span class="graph-key graph-key-external" aria-hidden="true"></span>web addresses
+    <span class="graph-key graph-key-document" aria-hidden="true"></span><span id="graphLocalLabel">your documents</span><span class="graph-key graph-key-external" aria-hidden="true"></span><span id="graphExternalLabel">web addresses</span>
   </p>
   <p id="readerGraphStatus" class="reader-graph-status" aria-live="polite" hidden></p>
 </div>
@@ -713,7 +711,7 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
 <div id="flowBackdrop" class="lt-backdrop" hidden></div>
 <!-- The flowchart sheet: a canvas and a code pane, peers over one graph. Both
      panes are built by flow-canvas.js; only the frame is declared here. -->
-<aside id="flowSheet" class="flow-sheet" role="dialog" aria-modal="true" aria-label="Flowchart" hidden>
+<aside id="flowSheet" class="flow-sheet" role="dialog" aria-modal="true" aria-labelledby="flowSheetTitle" hidden>
   <!-- Every way of making something lives on the canvas: double-click, a box's
        + handles, or right-click. What is left up here is chrome. -->
   <div class="flow-sheet-head" id="flowSheetHead">
@@ -723,7 +721,7 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
         <button type="button" id="flowUndo" aria-label="Undo" title="Undo"><span class="lt-icon lt-icon-undo"></span></button>
         <button type="button" id="flowRedo" aria-label="Redo" title="Redo"><span class="lt-icon lt-icon-redo"></span></button>
       </div>
-      <label class="flow-sheet-direction leaf-select">Flow <select id="flowDirection"></select><span class="lt-icon lt-icon-chevron-down" aria-hidden="true"></span></label>
+      <label class="flow-sheet-direction leaf-select" id="flowDirectionLabel">Flow <select id="flowDirection"></select><span class="lt-icon lt-icon-chevron-down" aria-hidden="true"></span></label>
       <!-- The same three the reading view puts on a drawn diagram, so looking at
            one is the same gesture wherever you are. Each tooltip names the other
            way of doing it: the wheel and the drag announce themselves nowhere. -->
@@ -747,11 +745,8 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
     </section>
     <div class="flow-split" id="flowSplit" role="separator" aria-orientation="vertical" aria-label="Resize the text pane" tabindex="0"></div>
     <section class="flow-pane flow-pane-code" aria-label="Mermaid text">
-      <!-- Said here because here is where it shows: Save writes the diagram out
-           afresh rather than patching the lines someone typed. Tidying one box
-           and finding the whole block reflowed is a nasty surprise to have to
-           work out for yourself. -->
-      <p class="flow-code-note">Save rewrites the whole block: one box to a line, every label quoted.</p>
+      <!-- Said here because here is where it shows: a flowchart the canvas models is written out afresh rather than patched, and anything else is written as typed. flow-canvas.js swaps the sentence to match. -->
+      <p class="flow-code-note" id="flowCodeNote">Save rewrites the whole block: one box to a line, every label quoted.</p>
       <textarea id="flowCode" class="flow-code leaf-scroll" spellcheck="false" aria-label="Mermaid text"></textarea>
     </section>
   </div>
