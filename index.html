@@ -7,14 +7,14 @@
 <!-- `leaf-site` is the open HTML page's own folder, and it is named here because a frame drawn from `srcdoc` inherits this policy and enforces its own on top: the two are additive, so a contained page can only ever be tighter than this and never looser. Without these four the page's own stylesheet, pictures, fonts and media would be refused by the app page before its own policy was ever asked. Nothing on this page can reach that folder itself — the app's markup is written here, and the sanitizer a note's raw HTML crosses allows neither a style block nor a stylesheet link. -->
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https: data: blob:; script-src 'self' https://leaftext.com 'unsafe-inline' 'unsafe-eval'; style-src 'self' https://leaftext.com 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://leaftext.com data: https://fonts.gstatic.com; connect-src 'self' https://leaftext.com">
 
-<script>window.__leafPending=[];window.ipc={postMessage:(m)=>window.__leafPending.push(m)};</script><script>window.__leafSettings = {"arrangement":"","arrangements":[],"calendarField":"field:due","codeIntelEnabled":true,"codeUnlocked":false,"graphScope":"small","hintLastLaunch":0,"hintLaunches":0,"hintsSeen":[],"libraryClosed":false,"libraryList":"folders","libraryProjectPath":"","libraryWidth":240,"readingUnlocked":false,"speedReaderEnabled":false,"splitFraction":0.5,"themeFamily":"random","themeMode":"daylight","themeRandomUsed":[],"updateLastChecked":0,"updateStagedVersion":""};
+<script>window.__leafPending=[];window.ipc={postMessage:(m)=>window.__leafPending.push(m)};</script><script>window.__leafSettings = {"arrangement":"","arrangements":[],"calendarField":"field:due","codeIntelEnabled":true,"codeUnlocked":false,"flashReaderChunk":1,"flashReaderWpm":300,"graphScope":"small","hintLastLaunch":0,"hintLaunches":0,"hintsSeen":[],"libraryClosed":false,"libraryList":"folders","libraryProjectPath":"","libraryWidth":240,"readAloudSpeed":100,"readAloudVoice":"","readingUnlocked":false,"speedReaderEnabled":false,"splitFraction":0.5,"themeFamily":"random","themeMode":"daylight","themeRandomUsed":[],"updateLastChecked":0,"updateStagedVersion":""};
 window.__leafInitialState = {"active":null,"document":null,"favorites":[],"recent":[],"tabs":[]};
 window.__leafDocumentExts = ["md","markdown","mdown","mdc","xml","json","yaml","yml","eml","mht","mhtml","html","htm","txt","ini","csv","tsv","docx","docm","xlsx","xlsm","pptx","pptm","odt","ods","odp","epub","azw","mobi","azw3","gsheet","gdoc","gslides","ts","tsx","js","jsx","jsonc","css","scss","sh","bash","zsh","toml","rs","py","sql","diff","patch","env","graphql","gql"]; window.__leafPointerSuffix = ".leafpointer.json";
-window.__leafVersion = "3.49.2";
+window.__leafVersion = "4.5.0";
 window.__leafRepository = "https://github.com/ryanallen/leaftext";
 window.__leafUpdateAsset = "";
 window.__leafEmbedded = false;</script><script>window.__leafSite=true;window.__leafAssetBase="https://leaftext.com/assets/leaftext/app/";</script><script src="https://leaftext.com/assets/leaftext/app/settings.js"></script><script>// Where the vendored runtimes are served from. Injected rather than written into the fragments, because the asset scheme differs by platform and a fragment that carries a placeholder cannot be served as a static file.
-window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://leaftext.com/assets/leaftext/app/mermaid.min.js","katex":"https://leaftext.com/assets/leaftext/app/katex/katex.min.js","pixi":"https://leaftext.com/assets/leaftext/app/pixi.min.js","pixiUnsafeEval":"https://leaftext.com/assets/leaftext/app/pixi-unsafe-eval.min.js","d3Force":"https://leaftext.com/assets/leaftext/app/d3-force.min.js","monaco":"https://leaftext.com/assets/leaftext/app/monaco/monaco.js","monacoCss":"https://leaftext.com/assets/leaftext/app/monaco/monaco.css"} });
+window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://leaftext.com/assets/leaftext/app/mermaid.min.js","katex":"https://leaftext.com/assets/leaftext/app/katex/katex.min.js","pixi":"https://leaftext.com/assets/leaftext/app/pixi.min.js","pixiUnsafeEval":"https://leaftext.com/assets/leaftext/app/pixi-unsafe-eval.min.js","d3Force":"https://leaftext.com/assets/leaftext/app/d3-force.min.js","monaco":"https://leaftext.com/assets/leaftext/app/monaco/monaco.js","monacoCss":"https://leaftext.com/assets/leaftext/app/monaco/monaco.css","xterm":"https://leaftext.com/assets/leaftext/app/xterm/xterm.js","xtermFit":"https://leaftext.com/assets/leaftext/app/xterm/addon-fit.js","xtermCss":"https://leaftext.com/assets/leaftext/app/xterm/xterm.css"} });
 (() => {
   // Themes are two axes: a family (github/nightshade/amaranth/…) and an appearance mode. Light/dark pick a fixed variant, system follows the OS, and daylight is light between DAY_START and DAY_END local time, dark otherwise. The built-in theme families, injected from the theme registry (theme.rs theme_families) so this list can never drift from the registered sources.
   const VALID_FAMILIES = new Set(["amaranth","arabica","birch","bloodleaf","camellia","eucalyptus","fern","foxglove","ginger","github","goldenrod","halcyon","ivy","laurel","lavender","nightshade","pippin","saffron","sage","sumac","woad"]);
@@ -315,13 +315,9 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
   <div class="tab-bar" id="tabBar" role="tablist" aria-label="Open documents">
     <div class="strip-part" id="stripKeys"></div>
     <div class="strip-part strip-part-beside" id="stripBeside" hidden></div>
-    <!-- The end of the strip, where the last tab ends and the next one begins.
-         A plain child of the strip rather than of a group: the groups are
-         written on every draw and this button keeps its element, its hover and
-         its focus across all of them. Out of the trailing group it is no longer
-         a candidate for the fold, which is the point — the tabs it belongs to
-         are never folded away, so neither is it. -->
+    <!-- Creation buttons stay beside the tabs when the tab groups redraw. -->
     <button type="button" id="newButton" class="icon-button new-button" aria-label="New document" title="New document"><span class="lt-icon lt-icon-new"></span></button>
+    <button type="button" id="newConsoleButton" class="icon-button new-console-button" aria-label="New console" title="New console" hidden><span class="lt-icon lt-icon-terminal"></span></button>
   </div>
   <div class="app-trailing">
     <button type="button" id="overflowToggle" class="icon-button overflow-toggle" aria-haspopup="true" aria-expanded="false" aria-label="More options" title="More options"><span class="lt-icon lt-icon-chevron-down"></span></button>
@@ -372,6 +368,9 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
     <!-- The open document's headings. One of the two lists this box holds, and
          one of them shows at a time. -->
     <div id="libraryOutline" class="library-outline" hidden></div>
+    <!-- What links to the open note, what names it and what else is about it,
+         under its headings and up only while they are. -->
+    <div id="libraryLinks" class="library-outline library-links" hidden></div>
     <div id="libraryTree" class="library-tree"></div>
     <!-- The documents of the day picked in the calendar: the third list, standing in for the other two until the day is cleared. -->
     <div id="libraryCalendarDay" class="library-calendar-day" hidden></div>
@@ -473,7 +472,10 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
           <span class="lt-icon lt-icon-chevron-down" aria-hidden="true"></span>
         </label>
         <button type="button" id="readerLockButton" class="reader-subtool" aria-pressed="false" aria-label="Unlock to edit" title="Unlock to edit"><span class="reader-swap-glyph reader-glyph-off"><span class="lt-icon lt-icon-lock-closed"></span></span><span class="reader-swap-glyph reader-glyph-on"><span class="lt-icon lt-icon-lock-open"></span></span></button>
+        <button type="button" id="splitViewButton" class="reader-subtool" aria-pressed="false" aria-label="Source beside the page" title="Source beside the page"><span class="lt-icon lt-icon-split"></span></button>
         <button type="button" id="speedReaderButton" class="reader-subtool" aria-pressed="false" aria-label="Speed reader" title="Speed reader"><span class="reader-swap-glyph reader-glyph-off"><span class="lt-icon lt-icon-speed-reader-off"></span></span><span class="reader-swap-glyph reader-glyph-on"><span class="lt-icon lt-icon-speed-reader-on"></span></span></button>
+        <button type="button" id="flashReaderButton" class="reader-subtool" aria-label="Flash words" title="Flash words"><span class="lt-icon lt-icon-flash-reader"></span></button>
+        <button type="button" id="readAloudButton" class="reader-subtool" aria-pressed="false" aria-label="Read aloud" title="Read aloud" hidden><span class="reader-swap-glyph reader-glyph-off"><span class="lt-icon lt-icon-read-aloud-off"></span></span><span class="reader-swap-glyph reader-glyph-on"><span class="lt-icon lt-icon-read-aloud-on"></span></span></button>
         <button type="button" id="codeIntelButton" class="reader-subtool" aria-pressed="true" aria-label="Typing help" title="Typing help"><span class="lt-icon lt-icon-wand"></span></button>
       </span>
     </span>
@@ -535,6 +537,46 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
   <!-- Field names and the values they hold, offered as you type. A child of the
        bar rather than of the field, which is one line tall. -->
   <div id="filterMenu" class="filter-menu" role="listbox" hidden></div>
+</div>
+<!-- Read aloud's voice, speed and stop, standing while the page is being read. Built from the find bar's own classes, so it takes the find bar's place and face, and it steps aside while find is open so the two never stand on each other. -->
+<div id="readAloudBar" class="find-bar read-aloud-bar" role="group" aria-label="Read aloud" hidden>
+  <div class="find-row">
+    <label class="reader-subselect leaf-select">
+      <select id="readAloudVoice" aria-label="Voice" title="Voice"><option value="">System</option></select>
+      <span class="lt-icon lt-icon-chevron-down" aria-hidden="true"></span>
+    </label>
+    <label class="reader-subselect leaf-select">
+      <select id="readAloudSpeed" aria-label="Speed" title="Speed"><option value="75">0.75×</option><option value="100">1×</option><option value="125">1.25×</option><option value="150">1.5×</option><option value="200">2×</option></select>
+      <span class="lt-icon lt-icon-chevron-down" aria-hidden="true"></span>
+    </label>
+    <button type="button" id="readAloudStop" class="find-step icon-button" aria-label="Stop reading aloud" title="Stop reading aloud"><span class="lt-icon lt-icon-close"></span></button>
+  </div>
+</div>
+<!-- Flash words: the page's prose a word or a few at a time, over the reading column. Its own grid cell placement like the find bar's, so it stays put while the page scrolls under it to follow the words. See flash-reader.js. -->
+<div id="flashReader" class="flash-reader" role="dialog" aria-label="Flash words" tabindex="-1" hidden>
+  <div class="flash-reader-stage">
+    <span class="flash-reader-guide" aria-hidden="true"></span>
+    <div id="flashReaderWords" class="flash-reader-words" aria-live="off"><span class="flash-reader-before"></span><span class="flash-reader-focus"></span><span class="flash-reader-after"></span></div>
+    <span class="flash-reader-guide" aria-hidden="true"></span>
+  </div>
+  <div class="flash-reader-controls">
+    <button type="button" id="flashReaderPlay" class="flash-reader-control" aria-label="Pause" title="Pause (Space)">Pause</button>
+    <button type="button" id="flashReaderBack" class="flash-reader-control" aria-label="Back a step" title="Back a step (Left)">←</button>
+    <button type="button" id="flashReaderForward" class="flash-reader-control" aria-label="Forward a step" title="Forward a step (Right)">→</button>
+    <button type="button" id="flashReaderSlower" class="flash-reader-control" aria-label="Slower" title="Slower (Down)">−</button>
+    <span id="flashReaderPace" class="flash-reader-pace">300 words a minute</span>
+    <button type="button" id="flashReaderFaster" class="flash-reader-control" aria-label="Faster" title="Faster (Up)">+</button>
+    <span id="flashReaderProgress" class="flash-reader-progress" role="progressbar" aria-label="How far through the document" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span class="flash-reader-progress-fill"></span></span>
+    <label class="leaf-select flash-reader-size">
+      <select id="flashReaderSize" aria-label="Words at a time" title="Words at a time">
+        <option value="1">1 word</option>
+        <option value="2">2 words</option>
+        <option value="3">3 words</option>
+      </select>
+      <span class="lt-icon lt-icon-chevron-down" aria-hidden="true"></span>
+    </label>
+    <button type="button" id="flashReaderClose" class="flash-reader-control" aria-label="Close" title="Close (Escape)">Close</button>
+  </div>
 </div>
 <div id="readerEdgeFade" class="reader-edge-fade" aria-hidden="true"></div>
 <!-- The minimap rail. Outside the card on purpose: it is chrome, so it sits on
@@ -747,6 +789,8 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
     <section class="flow-pane flow-pane-code" aria-label="Mermaid text">
       <!-- Said here because here is where it shows: a flowchart the canvas models is written out afresh rather than patched, and anything else is written as typed. flow-canvas.js swaps the sentence to match. -->
       <p class="flow-code-note" id="flowCodeNote">Save rewrites the whole block: one box to a line, every label quoted.</p>
+      <!-- A pie or xy chart's numbers as rows. data-chart-rows.js fills it while the text reads as one. -->
+      <div class="chart-rows leaf-scroll" id="chartRows" hidden></div>
       <textarea id="flowCode" class="flow-code leaf-scroll" spellcheck="false" aria-label="Mermaid text"></textarea>
     </section>
   </div>
