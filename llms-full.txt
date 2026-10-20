@@ -6,3 +6,18 @@
 - Page: https://empty.guru/
 - Markdown: https://empty.guru/README.md
 - Summary: Every text on the shelf, standing in the century it was written. Pull one out to read it.
+
+## Glossary
+- Page: https://empty.guru/#books/marpas-life-of-tilopa/glossary.md
+- Markdown: https://empty.guru/books/marpas-life-of-tilopa/glossary.md
+- Summary: © 2026 Konchok Gyurme Tenzin. Licensed CC BY-NC-SA 4.0: share and adapt it with credit, never for sale.
+
+## The Life of Tilopa
+- Page: https://empty.guru/#books/marpas-life-of-tilopa/marpas-life-of-tilopa.md
+- Markdown: https://empty.guru/books/marpas-life-of-tilopa/marpas-life-of-tilopa.md
+- Summary: © 2026 Konchok Gyurme Tenzin. Licensed CC BY-NC-SA 4.0: share and adapt it with credit, never for sale.
+
+## བརྒྱུད་པ་ཡིད་བཞིན་ནོར་བུའི་རྣམ་པར་ཐར་པ།
+- Page: https://empty.guru/#books/marpas-life-of-tilopa/tibetan.md
+- Markdown: https://empty.guru/books/marpas-life-of-tilopa/tibetan.md
+- Summary: © 2026 Konchok Gyurme Tenzin. Licensed CC BY-NC-SA 4.0: share and adapt it with credit, never for sale.

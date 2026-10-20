@@ -7,10 +7,47 @@
       "path": "README.md",
       "links": {
         "paths": [
-          "README.md"
+          "README.md",
+          "books/marpas-life-of-tilopa/marpas-life-of-tilopa.md"
         ],
         "urls": [
           "https://creativecommons.org/licenses/by-nc-sa/4.0"
+        ]
+      }
+    },
+    {
+      "path": "books/marpas-life-of-tilopa/glossary.md",
+      "links": {
+        "paths": [
+          "books/marpas-life-of-tilopa/marpas-life-of-tilopa.md"
+        ],
+        "urls": [
+          "https://creativecommons.org/licenses/by-nc-sa/4.0"
+        ]
+      }
+    },
+    {
+      "path": "books/marpas-life-of-tilopa/marpas-life-of-tilopa.md",
+      "links": {
+        "paths": [
+          "books/marpas-life-of-tilopa/tibetan.md",
+          "books/marpas-life-of-tilopa/glossary.md"
+        ],
+        "urls": [
+          "https://creativecommons.org/licenses/by-nc-sa/4.0",
+          "https://library.bdrc.io/show/bdr:MW24891"
+        ]
+      }
+    },
+    {
+      "path": "books/marpas-life-of-tilopa/tibetan.md",
+      "links": {
+        "paths": [
+          "books/marpas-life-of-tilopa/marpas-life-of-tilopa.md"
+        ],
+        "urls": [
+          "https://creativecommons.org/licenses/by-nc-sa/4.0",
+          "https://library.bdrc.io/show/bdr:MW24891"
         ]
       }
     }

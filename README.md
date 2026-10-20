@@ -15,7 +15,7 @@ A text whose English is published is on the shelf and opens where it stands; one
 
 ## Eleventh century
 
-- [The Life of Tilopa](README.md). Marpa Chökyi Lodrö. Tibetan. Coming; not published yet. Written: 1012–1097 CE. Edition not chosen yet. Length not measured yet.
+- [The Life of Tilopa](books/marpas-life-of-tilopa/marpas-life-of-tilopa.md). Marpa Chökyi Lodrö. Tibetan. On the shelf. Written: 1012–1097 CE. Edition: Apho Rinpoche's manuscript, compiled by Byang chub bzang po, 1973. Length: 6,106 syllables of Tibetan.
 
 ## Seventeenth century
 
