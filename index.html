@@ -10,7 +10,7 @@
 <script>window.__leafPending=[];window.__leafIpc={postMessage:(m)=>window.__leafPending.push(m)};</script><script>window.__leafSettings = {"arrangement":"","arrangements":[],"calendarField":"field:due","codeIntelEnabled":true,"codeUnlocked":false,"elevenLabsModel":"eleven_flash_v2_5","flashReaderChunk":1,"flashReaderWpm":300,"graphScope":"small","hintLastLaunch":0,"hintLaunches":0,"hintsSeen":[],"homeBoxes":["scheduled","recent","favorites","books-online"],"libraryClosed":false,"libraryList":"folders","libraryProjectPath":"","libraryWidth":240,"minimapShut":false,"readAloudSpeed":100,"readAloudVoice":"","readingUnlocked":false,"speedReaderEnabled":false,"splitFraction":0.5,"themeFamily":"random","themeMode":"daylight","themeRandomUsed":[],"updateLastChecked":0,"updateStagedVersion":""};
 window.__leafInitialState = {"active":null,"document":null,"favorites":[],"recent":[],"tabs":[]};
 window.__leafDocumentExts = ["md","markdown","mdown","mdc","xml","json","yaml","yml","eml","mht","mhtml","html","htm","txt","ini","css","csv","tsv","docx","docm","xlsx","xlsm","pptx","pptm","odt","ods","odp","epub","azw","mobi","azw3","gsheet","gdoc","gslides","ts","tsx","js","jsx","jsonc","scss","sh","bash","zsh","toml","rs","py","sql","diff","patch","env","graphql","gql"]; window.__leafPointerSuffix = ".leafpointer.json";
-window.__leafVersion = "5.11.3";
+window.__leafVersion = "5.11.6";
 window.__leafRepository = "https://github.com/ryanallen/leaftext";
 window.__leafUpdateAsset = "";
 window.__leafEmbedded = false;</script><script>window.__leafSite=true;window.__leafAssetBase="https://leaftext.com/assets/leaftext/app/";</script><script src="https://leaftext.com/assets/leaftext/app/settings.js"></script><script>// Where the vendored runtimes are served from. Injected rather than written into the fragments, because the asset scheme differs by platform and a fragment that carries a placeholder cannot be served as a static file.
@@ -210,16 +210,14 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
 </script>
 <link rel="stylesheet" href="https://leaftext.com/assets/leaftext/app/katex/katex.min.css">
 <link rel="stylesheet" href="https://leaftext.com/assets/leaftext/app/app.css" crossorigin="anonymous">
-<title>Teachings (Dharma)</title>
+<title>empty.guru</title>
     <meta
       name="description"
-      content="Teachings (Dharma): the Words of the Buddha and commentarial treatises, translated and modernized for readability."
+      content="Buddhist texts put into English from public-domain editions, standing on one shelf in the order they were written."
     />
     <link rel="canonical" href="https://empty.guru/" />
     <meta name="robots" content="index, follow" />
-    <!-- The page renders this Markdown file client-side; expose it as the
-         machine-readable alternate so crawlers and AI fetchers read the text
-         without running JavaScript. -->
+    <!-- The shelf is drawn from this Markdown file; it is the machine-readable alternate, so crawlers and AI fetchers read the list without running JavaScript. -->
     <link rel="alternate" type="text/markdown" href="README.md" />
     <!-- The two AI indexes: every page of the site as a raw Markdown address. -->
     <link rel="alternate" type="text/plain" href="llms.txt" title="AI index — every page as Markdown" />
@@ -227,22 +225,21 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
     <!-- Open Graph (link previews on social and chat apps). -->
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="empty.guru" />
-    <meta property="og:title" content="Teachings (Dharma)" />
+    <meta property="og:title" content="empty.guru" />
     <meta
       property="og:description"
-      content="The Words of the Buddha and commentarial treatises, translated and modernized for readability."
+      content="Buddhist texts put into English from public-domain editions, standing on one shelf in the order they were written."
     />
     <meta property="og:url" content="https://empty.guru/" />
     <meta property="og:locale" content="en_US" />
     <!-- Twitter / X card. -->
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Teachings (Dharma)" />
+    <meta name="twitter:title" content="empty.guru" />
     <meta
       name="twitter:description"
-      content="The Words of the Buddha and commentarial treatises, translated and modernized for readability."
+      content="Buddhist texts put into English from public-domain editions, standing on one shelf in the order they were written."
     />
-    <!-- Structured data: identifies the site and its publisher to search and
-         AI systems. -->
+    <!-- Structured data: identifies the site, its license and its rights holder to search and AI systems. -->
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -252,16 +249,10 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
             "@id": "https://empty.guru/#website",
             "url": "https://empty.guru/",
             "name": "empty.guru",
-            "alternateName": "Teachings (Dharma)",
-            "description": "The Words of the Buddha and commentarial treatises, translated and modernized for readability.",
-            "inLanguage": "en"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https://empty.guru/#org",
-            "name": "empty.guru",
-            "url": "https://empty.guru/",
-            "sameAs": ["https://github.com/ryanallen/dharma"]
+            "description": "Buddhist texts put into English from public-domain editions, standing on one shelf in the order they were written.",
+            "inLanguage": "en",
+            "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "copyrightHolder": { "@type": "Person", "name": "Konchok Gyurme Tenzin" }
           }
         ]
       }
@@ -288,15 +279,15 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
      window into the one the reader left, so it never has to fade against a layout
      that is still moving. Declared here rather than built in script, so it is in
      the page from the first parse and is what the first pixel draws. -->
-<div id="startupCard" class="startup-card" role="status" aria-label="Leaftext is starting">
-  <span class="lt-icon lt-icon-leaf startup-card-mark" aria-hidden="true"></span>
+<div id="startupCard" class="startup-card" role="status" aria-label="empty.guru is starting">
+  <span class="lt-icon lt-icon-lotus startup-card-mark" aria-hidden="true"></span>
   <span class="lt-spinner startup-card-spinner" aria-hidden="true"></span>
-  <span class="startup-card-name">Leaftext</span>
+  <span class="startup-card-name">empty.guru</span>
 </div>
 <header id="appBar" class="app-bar">
   <div class="app-bar-lead">
     <button type="button" id="homeButton" class="brand-button" aria-label="Home" title="Home">
-      <span class="lt-icon lt-icon-leaf"></span>
+      <span class="lt-icon lt-icon-lotus"></span>
     </button>
     <button type="button" id="libraryOpen" class="icon-button library-open" title="Toggle library" aria-label="Toggle library"><span class="lt-icon lt-icon-open-library"></span></button>
     <nav class="history-actions" aria-label="Document history">
@@ -417,15 +408,42 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
     <button type="button" id="libraryProfile" class="library-profile" aria-haspopup="dialog" hidden><span class="lt-icon lt-icon-leaf library-profile-mark" aria-hidden="true"></span><span class="library-profile-label" id="libraryProfileLabel">Grove</span><span class="library-profile-bar" id="libraryProfileBar" aria-hidden="true"><span class="library-profile-bar-fill" id="libraryProfileBarFill"></span></span></button>
   </div>
 </aside>
-<main id="app" class="reader-shell reader-column is-keyed"><div class="reader-layout baked-page"><article class="document-body"><h1 id="empty-guru-the-clear-light-of-the-ego-less-guide"><div align="center">Empty Guru <br><sub>The Clear Light of the Ego-less Guide</sub></div></h1>
-<h2 id="words-of-the-buddha-kangyur-"><span id="2"></span><a href="docs/collection-1-words-of-the-buddha--kangyur/README.md" rel="noopener noreferrer">Words of the Buddha</a> <br><sub>*(Kangyur)&nbsp;*</sub></h2>
-<h2 id="commentarial-treatises-tengyur">Commentarial Treatises <br><sub>(<em>Tengyur</em>)</sub></h2>
-<p><strong>Sources</strong></p>
-<ol>
-<li><code>84k</code> = <a href="https://84000.co/" rel="noopener noreferrer">84000</a>: Translating the Words of the <a href="GLOSSARY.md#buddha" rel="noopener noreferrer">Buddha</a>. License: CC BY-NC-ND 4.0.</li>
-<li><a href="https://github.com/ryanallen/dharma" rel="noopener noreferrer"><code>EG</code></a> = <a href="https://github.com/ryanallen/dharma" rel="noopener noreferrer">GitHub source</a> for <a href="https://empty.guru" rel="noopener noreferrer">https://empty.guru</a>.</li>
-</ol>
-<nav class="docs-pager docs-pager-loading" aria-label="Document navigation" aria-busy="true"><span class="docs-pager-skeleton"><span class="lt-skeleton docs-pager-label-skeleton"></span><span class="lt-skeleton docs-pager-title-skeleton"></span></span><span class="docs-pager-skeleton docs-pager-next"><span class="lt-skeleton docs-pager-label-skeleton"></span><span class="lt-skeleton docs-pager-title-skeleton"></span></span></nav></article></div></main>
+<main id="app" class="reader-shell reader-column is-keyed"><div class="reader-layout baked-page"><article class="document-body shelf-layout" data-shelf-order="written">
+<section class="shelf-hero">
+<p class="shelf-eyebrow">The Buddhism shelf</p>
+<h1 class="shelf-title">Pick a Buddhist text off the shelf.</h1>
+<p class="shelf-line">Every text on the shelf, standing in the century it was written. Pull one out to read it.</p>
+
+</section>
+<p class="shelf-sort-note">Each text stands in the century it was written, dated as its sources word it.</p>
+<div class="shelf-find" role="search"><input type="search" class="shelf-search" placeholder="Find a book by its title" aria-label="Find a book by its title"><label class="leaf-select shelf-filter-field"><select class="shelf-filter" data-shelf-filter="tone" aria-label="Language"><option value="">Every language</option><option value="chinese">Chinese</option><option value="sanskrit">Sanskrit</option><option value="pali">Pali</option><option value="tibetan">Tibetan</option><option value="other">Other languages</option></select><span class="lt-icon lt-icon-chevron-down" aria-hidden="true"></span></label><label class="leaf-select shelf-filter-field"><select class="shelf-filter" data-shelf-filter="status" aria-label="Out yet"><option value="">On the shelf and coming</option><option value="published">On the shelf</option><option value="planned">Coming</option></select><span class="lt-icon lt-icon-chevron-down" aria-hidden="true"></span></label></div>
+<div class="shelf-key"><span data-tone="chinese" style="--spine:var(--shelf-tone-chinese, var(--lt-primary));--spine-ink:var(--shelf-ink-chinese, var(--lt-primary-foreground))"><i></i>Chinese</span><span data-tone="sanskrit" style="--spine:var(--shelf-tone-sanskrit, var(--lt-primary));--spine-ink:var(--shelf-ink-sanskrit, var(--lt-primary-foreground))"><i></i>Sanskrit</span><span data-tone="pali" style="--spine:var(--shelf-tone-pali, var(--lt-primary));--spine-ink:var(--shelf-ink-pali, var(--lt-primary-foreground))"><i></i>Pali</span><span data-tone="tibetan" style="--spine:var(--shelf-tone-tibetan, var(--lt-primary));--spine-ink:var(--shelf-ink-tibetan, var(--lt-primary-foreground))"><i></i>Tibetan</span><span data-tone="other" style="--spine:var(--shelf-tone-other, var(--lt-primary));--spine-ink:var(--shelf-ink-other, var(--lt-primary-foreground))"><i></i>Other languages</span><span><i class="is-planned"></i>Coming</span><span>A thicker spine is a longer book.</span></div>
+<div class="shelf-case"><div class="shelf-row"><div class="shelf-bay" style="flex-grow:1"><span class="shelf-plate">Second century</span><div class="shelf-books"><button type="button" class="shelf-spine is-planned is-long" data-book="mahavibhasa" data-tone="chinese" aria-pressed="false" aria-label="The Abhidharma Mahāvibhāṣā, The five hundred arhats of Kashmir, translated into Chinese by Xuanzang, coming, 150–250 CE" style="width:64px;height:250px;--spine:var(--shelf-tone-chinese, var(--lt-primary));--spine-ink:var(--shelf-ink-chinese, var(--lt-primary-foreground))"><span class="shelf-spine-title">The Abhidharma Mahāvibhāṣā</span><span class="shelf-spine-tag">150–250 CE</span><span class="shelf-spine-lang">Zh</span></button></div></div><div class="shelf-bay" style="flex-grow:2"><span class="shelf-plate">Fifth century</span><div class="shelf-books"><button type="button" class="shelf-spine is-planned" data-book="the-digha-with-the-sumangalavilasini" data-tone="pali" aria-pressed="false" aria-label="The Long Discourses, with the Sumaṅgalavilāsinī, The Dīgha Nikāya, with Buddhaghosa's commentary, coming, 412–450 CE" style="width:26px;height:491px;--spine:var(--shelf-tone-pali, var(--lt-primary));--spine-ink:var(--shelf-ink-pali, var(--lt-primary-foreground))"><span class="shelf-spine-title">The Long Discourses, with the Sumaṅgalavilāsinī</span><span class="shelf-spine-tag">412–450 CE</span><span class="shelf-spine-lang">Pali</span></button><button type="button" class="shelf-spine is-planned" data-book="the-majjhima-with-the-papancasudani" data-tone="pali" aria-pressed="false" aria-label="The Middle-Length Discourses, with the Papañcasūdanī, The Majjhima Nikāya, with Buddhaghosa's commentary, coming, 412–450 CE" style="width:26px;height:528px;--spine:var(--shelf-tone-pali, var(--lt-primary));--spine-ink:var(--shelf-ink-pali, var(--lt-primary-foreground))"><span class="shelf-spine-title">The Middle-Length Discourses, with the Papañcasūdanī</span><span class="shelf-spine-tag">412–450 CE</span><span class="shelf-spine-lang">Pali</span></button></div></div><div class="shelf-bay" style="flex-grow:1"><span class="shelf-plate">Eleventh century</span><div class="shelf-books"><button type="button" class="shelf-spine is-planned" data-book="marpas-life-of-tilopa" data-tone="tibetan" aria-pressed="false" aria-label="The Life of Tilopa, Marpa Chökyi Lodrö, coming, 1012–1097 CE" style="width:26px;height:285px;--spine:var(--shelf-tone-tibetan, var(--lt-primary));--spine-ink:var(--shelf-ink-tibetan, var(--lt-primary-foreground))"><span class="shelf-spine-title">The Life of Tilopa</span><span class="shelf-spine-tag">1012–1097 CE</span><span class="shelf-spine-lang">Tib</span></button></div></div><div class="shelf-bay" style="flex-grow:1"><span class="shelf-plate">Seventeenth century</span><div class="shelf-books"><button type="button" class="shelf-spine is-planned" data-book="taranathas-seven-lineages" data-tone="tibetan" aria-pressed="false" aria-label="Tāranātha's Seven Lineages, Tāranātha, translated through Albert Grünwedel's German of 1914, coming, 1600 CE" style="width:26px;height:315px;--spine:var(--shelf-tone-tibetan, var(--lt-primary));--spine-ink:var(--shelf-ink-tibetan, var(--lt-primary-foreground))"><span class="shelf-spine-title">Tāranātha's Seven Lineages</span><span class="shelf-spine-tag">1600 CE</span><span class="shelf-spine-lang">Tib</span></button></div></div><div class="shelf-bay" style="flex-grow:1"><span class="shelf-plate">Nineteenth century</span><div class="shelf-books"><button type="button" class="shelf-spine is-planned" data-book="treasury-of-precious-instructions" data-tone="tibetan" aria-pressed="false" aria-label="The Treasury of Precious Instructions, Jamgön Kongtrul Lodrö Thayé, compiler, coming, 1870–1899 CE" style="width:26px;height:428px;--spine:var(--shelf-tone-tibetan, var(--lt-primary));--spine-ink:var(--shelf-ink-tibetan, var(--lt-primary-foreground))"><span class="shelf-spine-title">The Treasury of Precious Instructions</span><span class="shelf-spine-tag">1870–1899 CE</span><span class="shelf-spine-lang">Tib</span></button></div></div></div></div>
+<details class="shelf-list"><summary>Every book as a list</summary><p>A text whose English is published is on the shelf and opens where it stands; one still to come stands as a book to come, dated from its sources, until its translation is published.</p><h2 id="second-century">Second century</h2>
+<ul>
+<li><a href="README.md" rel="noopener noreferrer">The Abhidharma Mahāvibhāṣā</a>. The five hundred arhats of Kashmir, translated into Chinese by Xuanzang. Chinese. Coming; not published yet. Written: 150–250 CE. Edition: Takakusu Junjirō and Watanabe Kaigyoku, 1924–1934. Length: about 200 fascicles, about 1,480,000 characters of Chinese.</li>
+</ul>
+<h2 id="fifth-century">Fifth century</h2>
+<ul>
+<li><a href="README.md" rel="noopener noreferrer">The Long Discourses, with the Sumaṅgalavilāsinī</a>. The Dīgha Nikāya, with Buddhaghosa's commentary. Pali. Coming; not published yet. Written: 412–450 CE. Edition not chosen yet. Length not measured yet.</li>
+<li><a href="README.md" rel="noopener noreferrer">The Middle-Length Discourses, with the Papañcasūdanī</a>. The Majjhima Nikāya, with Buddhaghosa's commentary. Pali. Coming; not published yet. Written: 412–450 CE. Edition not chosen yet. Length not measured yet.</li>
+</ul>
+<h2 id="eleventh-century">Eleventh century</h2>
+<ul>
+<li><a href="README.md" rel="noopener noreferrer">The Life of Tilopa</a>. Marpa Chökyi Lodrö. Tibetan. Coming; not published yet. Written: 1012–1097 CE. Edition not chosen yet. Length not measured yet.</li>
+</ul>
+<h2 id="seventeenth-century">Seventeenth century</h2>
+<ul>
+<li><a href="README.md" rel="noopener noreferrer">Tāranātha's Seven Lineages</a>. Tāranātha, translated through Albert Grünwedel's German of 1914. Tibetan. Coming; not published yet. Written: 1600 CE. Edition: Albert Grünwedel, 1914. Length not measured yet.</li>
+</ul>
+<h2 id="nineteenth-century">Nineteenth century</h2>
+<ul>
+<li><a href="README.md" rel="noopener noreferrer">The Treasury of Precious Instructions</a>. Jamgön Kongtrul Lodrö Thayé, compiler. Tibetan. Coming; not published yet. Written: 1870–1899 CE. Edition not chosen yet. Length not measured yet.</li>
+</ul>
+</details>
+<p>© 2026 Konchok Gyurme Tenzin. Licensed <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>: share and adapt it with credit, never for sale.</p>
+<nav class="docs-pager docs-pager-loading" aria-label="Document navigation" aria-busy="true"><span class="docs-pager-skeleton"><span class="lt-skeleton docs-pager-label-skeleton"></span><span class="lt-skeleton docs-pager-title-skeleton"></span></span><span class="docs-pager-skeleton docs-pager-next"><span class="lt-skeleton docs-pager-label-skeleton"></span><span class="lt-skeleton docs-pager-title-skeleton"></span></span></nav>
+</article></div></main>
 <!-- The graph, in the page rather than the pane. A map of the whole vault needs
      the room the reader has; at 240px in the sidebar its labels were unreadable
      and clicking a node shoved the answer somewhere you were not looking. Same
@@ -890,7 +908,7 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
 </div>
 <noscript>
       <p>
-        This page is drawn from Markdown. Its source is
+        This page is the Buddhism shelf, drawn from Markdown. Its list is
         <a href="README.md">README.md</a>, beside this page. Every page of the site as Markdown:
         <a href="llms.txt">llms.txt</a>, <a href="llms-full.txt">llms-full.txt</a>,
         <a href="sitemap-md.txt">sitemap-md.txt</a>.

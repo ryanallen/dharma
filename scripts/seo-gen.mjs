@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 // seo-gen.mjs
 // ---------------------------------------------------------------------------
-// Generate the static discovery files for the empty.guru site from the real
-// docs/ tree. Deterministic: same repo state in, byte-identical files out, so
+// Generate the static discovery files for the empty.guru site from the shelf,
+// README.md, and every published book under books/. Deterministic: same repo state in, byte-identical files out, so
 // re-running never churns git. No network, no manifest to maintain.
 //
 // Produces, at the repo root (the deployed site root):
@@ -15,7 +15,7 @@
 // Run from anywhere:  node scripts/seo-gen.mjs
 // ---------------------------------------------------------------------------
 
-import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs';
+import { existsSync, readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import { dirname, join, relative, posix } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -113,17 +113,11 @@ function summaryOf(relPath) {
   return '';
 }
 
-// The route the docs SPA uses for a docs/ file: its path under docs/ without
-// the .md extension. docs/README.md is the docs index (empty route).
+// The address the app opens a document at on a site served in place: the shelf
+// at the top, and every other page by its path after the hash.
 function pageUrl(relPath) {
   if (relPath === 'README.md') return ORIGIN + '/';
-  if (relPath === 'docs/README.md') return ORIGIN + '/docs/';
-  if (relPath === 'GLOSSARY.md') return ORIGIN + '/GLOSSARY.md';
-  if (relPath.startsWith('docs/')) {
-    const route = relPath.slice('docs/'.length).replace(/\.md$/i, '');
-    return ORIGIN + '/docs/#/' + route;
-  }
-  return ORIGIN + '/' + relPath;
+  return ORIGIN + '/#' + relPath;
 }
 const mdUrl = (relPath) => ORIGIN + '/' + relPath;
 
@@ -145,9 +139,9 @@ const xmlEsc = (s) =>
 
 // ---- gather ---------------------------------------------------------------
 
-// Canonical ordering: landing, glossary, then every docs/ page in tree order.
-const docsMd = findMarkdown(join(ROOT, 'docs'));
-const allMd = ['README.md', 'GLOSSARY.md', ...docsMd];
+// Canonical ordering: the shelf, then every published book's pages in tree order.
+const booksMd = existsSync(join(ROOT, 'books')) ? findMarkdown(join(ROOT, 'books')) : [];
+const allMd = ['README.md', ...booksMd];
 
 const pages = allMd.map((relPath) => ({
   relPath,
@@ -215,8 +209,8 @@ writeFileSync(join(ROOT, 'sitemap-md.txt'), pages.map((p) => p.md).join('\n') + 
 
 const llms =
   '# empty.guru\n\n' +
-  '> Teachings (Dharma): the Words of the Buddha and commentarial treatises, ' +
-  'translated and modernized for readability. Source Markdown for every page is linked below.\n\n' +
+  '> Buddhist texts put into English from public-domain editions, standing on one shelf ' +
+  'in the order they were written. Source Markdown for every page is linked below.\n\n' +
   '## Pages\n\n' +
   pages.map((p) => `- [${p.title}](${p.md})`).join('\n') +
   '\n';
@@ -228,7 +222,7 @@ writeFileSync(join(ROOT, 'llms.txt'), llms);
 
 const llmsFull =
   '# empty.guru — full page index\n\n' +
-  '> Teachings (Dharma). Every canonical page, its human URL, its raw Markdown ' +
+  '> The Buddhism shelf and its books. Every canonical page, its human URL, its raw Markdown ' +
   'source, and a short description. Fetch the .md URLs for clean, JS-free text.\n\n' +
   pages
     .map((p) => {
