@@ -4,17 +4,17 @@
 
 *Marpa Chökyi Lodrö's life of the mahāsiddha Tilopa, written for his son, translated from the manuscript kept in the library of Apho Rinpoche ([BDRC W24891](https://library.bdrc.io/show/bdr:MW24891)). [The Tibetan](tibetan.md) stands beside it, part by part, and the names are in [the glossary](glossary.md).*
 
-![The title leaf of the manuscript](images/apho-1a-title-web.jpg)
+![The title leaf of the manuscript](https://empty.guru/books/marpas-life-of-tilopa/images/apho-1a-title-web.jpg)
 
 *The title leaf, folio 1a: "Here is the life of the lineage, the wish-fulfilling jewel." The manuscript kept in the library of Apho Rinpoche, reprinted New Delhi, 1973 ([BDRC W24891](https://library.bdrc.io/show/bdr:MW24891), image 23).*
 
 ## 0 Homage, and the three jewels
 
-![Folio 1b, the opening of the text](images/apho-1b-opening-web.jpg)
+![Folio 1b, the opening of the text](https://empty.guru/books/marpas-life-of-tilopa/images/apho-1b-opening-web.jpg)
 
 *Folio 1b, the opening, in its double frame: the invocation and the homage (image 24).*
 
-![A seated lama](images/shechen-W1KG12707-kha-1b-left-figure-web.jpg) ![A seated siddha raising a vajra](images/shechen-W1KG12707-kha-1b-right-figure-web.jpg)
+![A seated lama](https://empty.guru/books/marpas-life-of-tilopa/images/shechen-W1KG12707-kha-1b-left-figure-web.jpg) ![A seated siddha raising a vajra](https://empty.guru/books/marpas-life-of-tilopa/images/shechen-W1KG12707-kha-1b-right-figure-web.jpg)
 
 *Painted figures, a seated lama and a siddha raising a vajra, from the opening leaf of another manuscript of the same aural lineage, kept at Shechen, which begins with the same invocation ([BDRC W1KG12707](https://library.bdrc.io/show/bdr:MW1KG12707), volume 1, image 142).*
 
@@ -45,7 +45,7 @@ This wondrous whispered lineage of the ḍākinīs has three parts: the marks of
 
 Of these, this is the instruction of the emanation body, the wish-fulfilling jewel of the lineage. It holds two accounts: the account of the wisdom ḍākinī of the dharma body, and the account of the lineage of the accomplished ones of the emanation body. The first: as all the buddhas dwell in three bodies, so this wisdom ḍākinī dwells in three bodies, as is told at length below. The second, the lives of the lineage of the accomplished ones of the emanation body, begins with the life of Tilo, and it has four parts: how he was known as a man; how he was known as an emanation of Cakrasaṃvara; how he was known as Cakrasaṃvara himself; and how he was known as the body in which all the buddhas gather.
 
-![Folio 2a](images/apho-2a-opening-web.jpg)
+![Folio 2a](https://empty.guru/books/marpas-life-of-tilopa/images/apho-2a-opening-web.jpg)
 
 *Folio 2a, the second leaf of the manuscript, still in its frame, opening "the key of the ḍākinīs' secret word" (image 25).*
 
@@ -540,7 +540,7 @@ So ends the life of Tilopa, lord of yogins, whom even the accomplished know as a
 
 Written down at the monastery of glorious Drowolung for my son Dode. It is complete. Maṅgalam.[^colophon]
 
-![Folio 11b, the colophon](images/apho-11b-colophon-web.jpg)
+![Folio 11b, the colophon](https://empty.guru/books/marpas-life-of-tilopa/images/apho-11b-colophon-web.jpg)
 
 *Folio 11b, the last leaf: Marpa's colophon, written at Drowolung for his son Dode, closing "Maṅgalam" (image 44).*
 
