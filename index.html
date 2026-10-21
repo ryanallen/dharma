@@ -10,7 +10,7 @@
 <script>window.__leafPending=[];window.__leafIpc={postMessage:(m)=>window.__leafPending.push(m)};</script><script>window.__leafSettings = {"arrangement":"","arrangements":[],"calendarField":"field:due","codeIntelEnabled":true,"codeUnlocked":false,"elevenLabsModel":"eleven_flash_v2_5","flashReaderChunk":1,"flashReaderWpm":300,"graphScope":"small","hintLastLaunch":0,"hintLaunches":0,"hintsSeen":[],"homeBoxes":["scheduled","recent","favorites","books-online"],"libraryClosed":false,"libraryList":"folders","libraryProjectPath":"","libraryWidth":240,"minimapShut":false,"readAloudSpeed":100,"readAloudVoice":"","readingUnlocked":false,"speedReaderEnabled":false,"splitFraction":0.5,"themeFamily":"random","themeMode":"daylight","themeRandomUsed":[],"updateLastChecked":0,"updateStagedVersion":""};
 window.__leafInitialState = {"active":null,"document":null,"favorites":[],"recent":[],"tabs":[]};
 window.__leafDocumentExts = ["md","markdown","mdown","mdc","xml","json","yaml","yml","eml","mht","mhtml","html","htm","txt","ini","css","csv","tsv","docx","docm","xlsx","xlsm","pptx","pptm","odt","ods","odp","epub","azw","mobi","azw3","gsheet","gdoc","gslides","ts","tsx","js","jsx","jsonc","scss","sh","bash","zsh","toml","rs","py","sql","diff","patch","env","graphql","gql"]; window.__leafPointerSuffix = ".leafpointer.json";
-window.__leafVersion = "5.11.6";
+window.__leafVersion = "5.12.0";
 window.__leafRepository = "https://github.com/ryanallen/leaftext";
 window.__leafUpdateAsset = "";
 window.__leafEmbedded = false;</script><script>window.__leafSite=true;window.__leafAssetBase="https://leaftext.com/assets/leaftext/app/";</script><script src="https://leaftext.com/assets/leaftext/app/settings.js"></script><script>// Where the vendored runtimes are served from. Injected rather than written into the fragments, because the asset scheme differs by platform and a fragment that carries a placeholder cannot be served as a static file.
@@ -71,7 +71,9 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
   };
   // Two axes of family state: the persisted preference (drives the picker and may be 'random') and the concrete family actually applied (drives the CSS).
   let familyPreference = normalizePreference(settings.themeFamily);
-  let family = familyPreference === RANDOM ? drawRandomFamily() : familyPreference;
+  // A window pulled out of another on Random wears the family that window drew rather than drawing its own.
+  const worn = typeof settings.themeWorn === 'string' && wearable(settings.themeWorn) ? settings.themeWorn : null;
+  let family = familyPreference === RANDOM ? (worn || drawRandomFamily()) : familyPreference;
   let mode = normalizeMode(settings.themeMode);
 
   const isDaytime = () => {
