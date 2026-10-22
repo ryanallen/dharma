@@ -1,5 +1,5 @@
 {
- "shelf": {"name": "The Buddhism shelf", "orders": [{"key": "written", "label": "When it was written", "note": "Each text stands in the century it was written, dated as its sources word it.", "line": "Every text on the shelf, standing in the century it was written. Pull one out to read it."}], "tones": [["chinese", "Chinese"], ["sanskrit", "Sanskrit"], ["pali", "Pali"], ["tibetan", "Tibetan"], ["other", "Other languages"]], "toneLabel": "Language", "filters": ["tone", "status"], "coming": "README.md"},
+ "shelf": {"name": "The Buddhism shelf", "orders": [{"key": "written", "label": "When it was written", "note": "Each text stands in the century it was written, dated as its sources word it.", "line": "Every text on the shelf, standing in the century it was written. Pull one out to read it."}, {"key": "tradition", "label": "By tradition", "note": "Each text stands with its tradition, the oldest tradition first.", "line": "Every text on the shelf, standing with its tradition. Pull one out to read it."}], "tones": [["chinese", "Chinese"], ["sanskrit", "Sanskrit"], ["pali", "Pali"], ["tibetan", "Tibetan"], ["other", "Other languages"]], "toneLabel": "Language", "filters": ["tone", "status"], "coming": "README.md"},
  "bays": [
   {"name": "Second century", "plate": "Second century"},
   {"name": "Fifth century", "plate": "Fifth century"},

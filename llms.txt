@@ -7,4 +7,5 @@
 - [Pick a Buddhist text off the shelf.](https://empty.guru/README.md)
 - [Glossary](https://empty.guru/books/marpas-life-of-tilopa/glossary.md)
 - [The Life of Tilopa](https://empty.guru/books/marpas-life-of-tilopa/marpas-life-of-tilopa.md)
+- [Scans](https://empty.guru/books/marpas-life-of-tilopa/scans.md)
 - [བརྒྱུད་པ་ཡིད་བཞིན་ནོར་བུའི་རྣམ་པར་ཐར་པ།](https://empty.guru/books/marpas-life-of-tilopa/tibetan.md)

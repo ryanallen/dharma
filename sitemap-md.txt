@@ -1,4 +1,5 @@
 https://empty.guru/README.md
 https://empty.guru/books/marpas-life-of-tilopa/glossary.md
 https://empty.guru/books/marpas-life-of-tilopa/marpas-life-of-tilopa.md
+https://empty.guru/books/marpas-life-of-tilopa/scans.md
 https://empty.guru/books/marpas-life-of-tilopa/tibetan.md

@@ -17,6 +17,11 @@
 - Markdown: https://empty.guru/books/marpas-life-of-tilopa/marpas-life-of-tilopa.md
 - Summary: © 2026 Konchok Gyurme Tenzin. Licensed CC BY-NC-SA 4.0: share and adapt it with credit, never for sale.
 
+## Scans
+- Page: https://empty.guru/#books/marpas-life-of-tilopa/scans.md
+- Markdown: https://empty.guru/books/marpas-life-of-tilopa/scans.md
+- Summary: © 2026 Konchok Gyurme Tenzin. Licensed CC BY-NC-SA 4.0: share and adapt it with credit, never for sale.
+
 ## བརྒྱུད་པ་ཡིད་བཞིན་ནོར་བུའི་རྣམ་པར་ཐར་པ།
 - Page: https://empty.guru/#books/marpas-life-of-tilopa/tibetan.md
 - Markdown: https://empty.guru/books/marpas-life-of-tilopa/tibetan.md

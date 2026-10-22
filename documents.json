@@ -31,6 +31,7 @@
       "links": {
         "paths": [
           "books/marpas-life-of-tilopa/tibetan.md",
+          "books/marpas-life-of-tilopa/scans.md",
           "books/marpas-life-of-tilopa/glossary.md"
         ],
         "urls": [
@@ -76,6 +77,7 @@
           "https://rywiki.tsadra.org/index.php/snyan_brgyud",
           "https://rywiki.tsadra.org/index.php/bde_mchog_snyan_brgyud",
           "https://rywiki.tsadra.org/index.php/'od_gsal",
+          "https://rywiki.tsadra.org/index.php/bka'_babs_bzhi",
           "https://rywiki.tsadra.org/index.php/lha_min",
           "https://rywiki.tsadra.org/index.php/sgra_gcan",
           "https://www.rigpawiki.org/index.php?title=Demigods",
@@ -96,6 +98,7 @@
           "https://rywiki.tsadra.org/index.php/ye_shes_mkha'_'gro_ma",
           "https://rywiki.tsadra.org/index.php/grub_thob",
           "https://www.rigpawiki.org/index.php?title=Tilopa",
+          "https://en.wikipedia.org/wiki/Mahasiddha",
           "https://rywiki.tsadra.org/index.php/sprul_pa",
           "https://www.rigpawiki.org/index.php?title=Chakrasamvara",
           "https://rywiki.tsadra.org/index.php/drang_don",
@@ -111,7 +114,6 @@
           "https://www.rigpawiki.org/index.php?title=Yaksha",
           "https://rywiki.tsadra.org/index.php/mtshan_ma_can",
           "https://rywiki.tsadra.org/index.php/'dre",
-          "https://rywiki.tsadra.org/index.php/bdud",
           "https://rywiki.tsadra.org/index.php/lung_bstan",
           "https://rywiki.tsadra.org/index.php/sha_ba",
           "https://rywiki.tsadra.org/index.php/u_rgyan",
@@ -134,7 +136,6 @@
           "https://www.rigpawiki.org/index.php?title=Siddhi",
           "https://rywiki.tsadra.org/index.php/phyag_rgya_chen_po",
           "https://www.rigpawiki.org/index.php?title=Mahamudra",
-          "https://rywiki.tsadra.org/index.php/bka'_babs_bzhi",
           "https://rywiki.tsadra.org/index.php/klu_sgrub",
           "https://www.rigpawiki.org/index.php?title=Nagarjuna",
           "https://rywiki.tsadra.org/index.php/ma_tang_ga",
@@ -153,12 +154,12 @@
           "https://rywiki.tsadra.org/index.php/rgyud",
           "https://rywiki.tsadra.org/index.php/sems_kyi_ngo_bo",
           "https://rywiki.tsadra.org/index.php/sems_kyi_rang_bzhin",
+          "https://rywiki.tsadra.org/index.php/shes_rab_kyi_pha_rol_tu_phyin_pa_stong_phrag_brgya_pa",
           "https://rywiki.tsadra.org/index.php/kye_rdo_rje",
           "https://www.rigpawiki.org/index.php?title=Hevajra",
           "https://rywiki.tsadra.org/index.php/lu_hi_pa",
           "https://www.rigpawiki.org/index.php?title=Luipa",
           "https://www.rigpawiki.org/index.php?title=Eighty-four_mahasiddhas",
-          "https://rywiki.tsadra.org/index.php/shes_rab_kyi_pha_rol_tu_phyin_pa_stong_phrag_brgya_pa",
           "https://rywiki.tsadra.org/index.php/rim_gnyis",
           "https://rywiki.tsadra.org/index.php/bskyed_rdzogs",
           "https://rywiki.tsadra.org/index.php/bde_bar_gshegs_pa",
@@ -168,7 +169,7 @@
           "https://www.rigpawiki.org/index.php?title=Secret_mantra",
           "https://rywiki.tsadra.org/index.php/rus_pa'i_rgyan_drug",
           "https://www.rigpawiki.org/index.php?title=Bone_ornaments",
-          "https://rywiki.tsadra.org/index.php/lhan_cig_skyes_pa",
+          "https://rywiki.tsadra.org/index.php/gnyug_ma",
           "https://rywiki.tsadra.org/index.php/grol_ba",
           "https://rywiki.tsadra.org/index.php/thar_pa",
           "https://rywiki.tsadra.org/index.php/rdo_rje'i_mgur",
@@ -176,9 +177,10 @@
           "https://rywiki.tsadra.org/index.php/tshangs_dbyangs",
           "https://rywiki.tsadra.org/index.php/rten_cing_'brel_bar_'byung_ba",
           "https://www.rigpawiki.org/index.php?title=Twelve_links_of_dependent_origination",
+          "https://rywiki.tsadra.org/index.php/lhan_cig_skyes_pa",
           "https://rywiki.tsadra.org/index.php/ye_shes",
-          "https://rywiki.tsadra.org/index.php/de_bzhin_nyid",
           "https://rywiki.tsadra.org/index.php/de_nyid",
+          "https://rywiki.tsadra.org/index.php/de_bzhin_nyid",
           "https://rywiki.tsadra.org/index.php/brda",
           "https://rywiki.tsadra.org/index.php/kye_ho",
           "https://rywiki.tsadra.org/index.php/gnyen_po",
@@ -205,6 +207,7 @@
           "https://rywiki.tsadra.org/index.php/bcom_ldan_'das_ma",
           "https://rywiki.tsadra.org/index.php/rgyal_ba'i_yum",
           "https://rywiki.tsadra.org/index.php/lta_ba",
+          "https://rywiki.tsadra.org/index.php/bdud",
           "https://rywiki.tsadra.org/index.php/tsa_ka_li",
           "https://en.wikipedia.org/wiki/Tsakli",
           "https://rywiki.tsadra.org/index.php/yig_'bru",
@@ -213,6 +216,7 @@
           "https://rywiki.tsadra.org/index.php/rnam_rtog",
           "https://rywiki.tsadra.org/index.php/rnam_par_mi_rtog_pa",
           "https://rywiki.tsadra.org/index.php/gnas_lugs",
+          "https://rywiki.tsadra.org/index.php/shes_rab",
           "https://rywiki.tsadra.org/index.php/ma_rig_pa",
           "https://rywiki.tsadra.org/index.php/rang_rig",
           "https://rywiki.tsadra.org/index.php/rang_byung",
@@ -238,9 +242,9 @@
           "https://rywiki.tsadra.org/index.php/thams_cad_mkhyen_pa",
           "https://rywiki.tsadra.org/index.php/mu_stegs_pa",
           "https://rywiki.tsadra.org/index.php/las_'bras",
-          "https://en.wikipedia.org/wiki/Mahasiddha",
           "https://rywiki.tsadra.org/index.php/sa_chog",
           "https://rywiki.tsadra.org/index.php/ku_su_lu",
+          "https://rywiki.tsadra.org/index.php/tshad_ma",
           "https://rywiki.tsadra.org/index.php/e_ma",
           "https://rywiki.tsadra.org/index.php/don_dam",
           "https://rywiki.tsadra.org/index.php/bsam_gyis_mi_khyab_pa",
@@ -249,6 +253,7 @@
           "https://en.wikipedia.org/wiki/Nalanda_mahavihara",
           "https://rywiki.tsadra.org/index.php/phyi_rol_pa",
           "https://rywiki.tsadra.org/index.php/nang_pa",
+          "https://rywiki.tsadra.org/index.php/bstan_pa",
           "https://rywiki.tsadra.org/index.php/khams_gsum",
           "https://www.rigpawiki.org/index.php?title=Three_realms",
           "https://rywiki.tsadra.org/index.php/bum_pa_can",
@@ -260,6 +265,7 @@
           "https://rywiki.tsadra.org/index.php/sgyu_ma'i_skyes_bu",
           "https://rywiki.tsadra.org/index.php/sgyu_ma",
           "https://rywiki.tsadra.org/index.php/ha_ha_rgod_pa",
+          "https://rywiki.tsadra.org/index.php/dpag_tshad",
           "https://rywiki.tsadra.org/index.php/dus_mtha'i_me",
           "https://rywiki.tsadra.org/index.php/rlung_sems",
           "https://rywiki.tsadra.org/index.php/'pho_ba",
@@ -290,6 +296,7 @@
           "https://rywiki.tsadra.org/index.php/gnya'_shing",
           "https://rywiki.tsadra.org/index.php/sbyin_len",
           "https://rywiki.tsadra.org/index.php/shis_pa",
+          "https://rywiki.tsadra.org/index.php/lung",
           "https://rywiki.tsadra.org/index.php/dus_gsum",
           "https://rywiki.tsadra.org/index.php/rdul_tshon",
           "https://www.rigpawiki.org/index.php?title=Mahamaya",
@@ -305,10 +312,24 @@
       }
     },
     {
+      "path": "books/marpas-life-of-tilopa/scans.md",
+      "links": {
+        "paths": [
+          "books/marpas-life-of-tilopa/marpas-life-of-tilopa.md",
+          "books/marpas-life-of-tilopa/tibetan.md"
+        ],
+        "urls": [
+          "https://creativecommons.org/licenses/by-nc-sa/4.0",
+          "https://library.bdrc.io/show/bdr:MW24891"
+        ]
+      }
+    },
+    {
       "path": "books/marpas-life-of-tilopa/tibetan.md",
       "links": {
         "paths": [
-          "books/marpas-life-of-tilopa/marpas-life-of-tilopa.md"
+          "books/marpas-life-of-tilopa/marpas-life-of-tilopa.md",
+          "books/marpas-life-of-tilopa/scans.md"
         ],
         "urls": [
           "https://creativecommons.org/licenses/by-nc-sa/4.0",
