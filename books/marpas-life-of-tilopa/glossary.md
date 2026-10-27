@@ -1,6 +1,6 @@
 # Glossary
 
-© 2026 Konchok Gyurme Tenzin. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): share and adapt it with credit, never for sale.
+<sub>© 2026 Konchok Gyurme Tenzin. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): share and adapt it with credit, never for sale.</sub>
 
 *The names and words of [The Life of Tilopa](marpas-life-of-tilopa.md), each with its Tibetan, in Wylie, and its Sanskrit where it has one.*
 
@@ -8,7 +8,7 @@
 
 ཨ་ཌོ་ན *a ḍo na*.
 
-The temple of the monastery of the Crown Jewel. After the ḍākinīs give Tilopa the jewels in Oḍḍiyāna, the jñānaḍākinī sends Tilopa to the monastery of the Crown Jewel to take Nāro, Riri and Kasori into their care, and Tilopa goes to this temple at the end of 1.2.
+The temple of the monastery of the Crown Jewel. After the ḍākinīs give Tilopa the jewels in Oḍḍiyāna, the wisdom ḍākinī sends Tilopa to the monastery of the Crown Jewel to take Nāro, Riri and Kasori into their care, and Tilopa goes to this temple at the end of 1.2.
 
 ### Āryadeva
 
@@ -20,7 +20,7 @@ Nāgārjuna's disciple, who carried on Nāgārjuna's Madhyamaka and is counted a
 
 ཧ་ཧ་སྒྲོག་པ *ha ha sgrog pa*; Sanskrit Aṭṭahāsa.
 
-One of the eight great śmaśānas; its name means "Loud Laughter". The magician Tilopa tames in 1.4.3, given the name Deceiver Who Tells the Truth, lives on there without dying.
+One of the eight great charnel grounds; its name means "Loud Laughter". The magician Tilopa tames in 1.4.3, given the name Deceiver Who Tells the Truth, lives on there without dying.
 
 ### Bengal
 
@@ -32,13 +32,13 @@ The land in the east of India where the prophecy sends Tilopa to serve Bharima, 
 
 བྷ་རི་མ *bha ri ma*.
 
-The prostitute of the market of Pañcapana in Bengal. As the prophecy says, Tilopa serves their household, by night bringing people in and seeing them out and by day pounding sesame; with Bharima, Tilopa practices the guhyamantra in the śmaśāna of Kereli, and the two sing the song of the sesame oil before the ruler.
+The prostitute of the market of Pañcapana in Bengal. As the prophecy says, Tilopa serves their household, by night bringing people in and seeing them out and by day pounding sesame; with Bharima, Tilopa practices the Secret Mantra in the charnel ground of Kereli, and the two sing the song of the sesame oil before the ruler.
 
 ### Black Virtue
 
 ནག་པོ་དགེ་བ *nag po dge ba*.
 
-The name given the tīrthika of 1.4.2. A tīrthika teacher and siddha at Nālandā made all who didn't rise before them compete in power and in debate; Tilopa beat them at both, and they live on in Śītavana.
+The name given the non-Buddhist of 1.4.2. A non-Buddhist teacher and siddha at Nālandā made all who didn't rise before them compete in power and in debate; Tilopa beat them at both, and they live on in Śītavana.
 
 ### Bliss-Making Joy
 
@@ -56,25 +56,25 @@ The tantric deity of bliss whose emanation, and whose self, Tilopa is shown to b
 
 རྒྱང་ཕན་པ *rgyang phan pa*; Sanskrit Cārvāka, Lokāyata.
 
-A materialist, who denies that acts bear fruit. In 1.4.7 a Cārvāka says there's neither kuśala nor pāpa; Tilopa shows them the gods and the hells, they're terrified, and they're given the name Jinabodhi.
+A materialist, who denies that acts bear fruit. In 1.4.7 a Cārvāka says there's neither virtue nor wrongdoing; Tilopa shows them the gods and the hells, they're terrified, and they're given the name Jinabodhi.
 
 ### Caryāpa
 
 ཙརྱ་པ *tsarya pa*; Sanskrit Caryāpa.
 
-One of the four human gurus, who gave Tilopa dream. A mahāsiddha of India, "the one of caryā", who the child asks for upadeśa in the śmaśāna of Sala Bhehara in 1.1. The manuscript also writes *tsarya ba*.
+One of the four human gurus, who gave Tilopa dream. A mahāsiddha of India, "the one of conduct", who the child asks for instruction in the charnel ground of Sala Bhehara in 1.1. The manuscript also writes *tsarya ba*.
 
 ### Śītavana
 
 སིལ་བའི་ཚལ *sil ba'i tshal*; Sanskrit Śītavana.
 
-A śmaśāna near Bodh Gaya, the first of the eight great ones; its name means "Cool Grove". The tīrthika Tilopa tames at Nālandā in 1.4.2, given the name Black Virtue, lives on there without dying.
+A charnel ground near Bodh Gaya, the first of the eight great ones; its name means "Cool Grove". The non-Buddhist Tilopa tames at Nālandā in 1.4.2, given the name Black Virtue, lives on there without dying.
 
 ### ḍākinī
 
 མཁའ་འགྲོ་མ *mkha' 'gro ma*; Sanskrit ḍākinī.
 
-A female being of jñāna who guards and gives the secret Dharma.
+A female being of primordial wisdom who guards and gives the secret Dharma.
 
 ### Deceiver Who Tells the Truth
 
@@ -98,7 +98,7 @@ Marpa's seat in Lhodrak, where they wrote this life. The colophon says Marpa wro
 
 དུ་ཀ་ཏ *du ka ta*.
 
-A river bank in the east of India, near the Sorrowless monastery. There, at the source of the river Khasu, in the śmaśāna of the Masha Grove, stands the monastery where Tilopa is ordained in part 2.
+A river bank in the east of India, near the Sorrowless monastery. There, at the source of the river Khasu, in the charnel ground of the Masha Grove, stands the monastery where Tilopa is ordained in part 2.
 
 ### Dzako
 
@@ -128,13 +128,13 @@ The ḍākinī the ḍākinīs name as the child's true sister. In 1.1 the ḍā
 
 གསང་བ་འདུས་པ *gsang ba 'dus pa*; Sanskrit Guhyasamāja.
 
-A tantric deity and its tantra, "Assembly of Secrets", one of the major tantras of the new schools; its deity is a form of the buddha Akṣobhya. A yogin gives the child its abhiṣeka in 1.1, and in part 4 Tilopa's song names it as their skandhas and dhātus.
+A tantric deity and its tantra, "Assembly of Secrets", one of the major tantras of the new schools; its deity is a form of the buddha Akṣobhya. A yogin gives the child its empowerment in 1.1, and in part 4 Tilopa's song names it as their aggregates and elements.
 
 ### Hevajra
 
 ཧེ་བཛྲ *he badzra*; Sanskrit Hevajra.
 
-A tantric deity and its tantra, a chief deity of the highest yoga tantra, much practiced by the new schools. The one who teaches the child in the temple gives them its abhiṣeka in 1.1, and in part 4 Tilopa sings, "My body is Hevajra." The song of part 4 names them *kye'i rdo rje*.
+A tantric deity and its tantra, a chief deity of the highest yoga tantra, much practiced by the new schools. The one who teaches the child in the temple gives them its empowerment in 1.1, and in part 4 Tilopa sings, "My body is Hevajra." The song of part 4 names them *kye'i rdo rje*.
 
 ### the island of Sosa
 
@@ -164,25 +164,25 @@ Tilopa's name as a monk at the Sorrowless monastery. Tilopa's own family ordaine
 
 སྐལ་བ་བཟང་མོ *skal ba bzang mo*.
 
-The ḍākinī among the four human gurus, who gave Tilopa caṇḍālī. Their name means "Fortunate Lady"; it's kept in Tibetan, since the text gives no Sanskrit for it.
+The ḍākinī among the four human gurus, who gave Tilopa inner heat. Their name means "Fortunate Lady"; it's kept in Tibetan, since the text gives no Sanskrit for it.
 
 ### Kasori
 
 ཀ་སོ་རི *ka so ri*.
 
-One of the three the jñānaḍākinī tells Tilopa to take into their care at the monastery of the Crown Jewel, with Nāro and Riri, at the end of 1.2. Nothing more is told of Kasori in this life.
+One of the three the wisdom ḍākinī tells Tilopa to take into their care at the monastery of the Crown Jewel, with Nāro and Riri, at the end of 1.2. Nothing more is told of Kasori in this life.
 
 ### Kereli
 
 ཀེ་རེ་ལི *ke re li*.
 
-The śmaśāna where Tilopa and Bharima practice the caryā of the guhyamantra to its end. They go there from the market of Pañcapana, and back in the market Tilopa wins the siddhi close to Mahāmudrā.
+The charnel ground where Tilopa and Bharima practice the conduct of the Secret Mantra to its end. They go there from the market of Pañcapana, and back in the market Tilopa wins the siddhi close to Mahāmudrā.
 
 ### Khasu
 
 ཁ་སུ *kha su*.
 
-A river in the east of India whose source is on the bank of the Dukata. There, in the śmaśāna of the Masha Grove, stands the Sorrowless monastery where Tilopa is ordained in part 2.
+A river in the east of India whose source is on the bank of the Dukata. There, in the charnel ground of the Masha Grove, stands the Sorrowless monastery where Tilopa is ordained in part 2.
 
 ### Kimitsikili
 
@@ -190,17 +190,11 @@ A river in the east of India whose source is on the bank of the Dukata. There, i
 
 Where the sorcerer of 1.4.8 lives on. A sorcerer killed everyone with black magic until Tilopa made them like an old tree stump; given the name Nyiimi, they live on at Kimitsikili.
 
-### kusāli
-
-ཀུ་ས་ལི *ku sa li*; Sanskrit kusāli.
-
-A yogin of simple practice, as against the learned paṇḍitas.
-
 ### Lawapa
 
 ལ་ཝ་པ *la wa pa*; Sanskrit Lavapa, Kambala.
 
-One of the four human gurus, who gave Tilopa prabhāsvara, and who slept twelve years at a crossroads. Also called Kambalapāda, they were named for the woolen blanket they wore. The manuscript also writes *la ba pa*.
+One of the four human gurus, who gave Tilopa luminosity, and who slept twelve years at a crossroads. Also called Kambalapāda, they were named for the woolen blanket they wore. The manuscript also writes *la ba pa*.
 
 ### Lūhipa
 
@@ -218,19 +212,19 @@ A tantric deity and its tantra, "Great Illusion", one of the mother tantras of t
 
 ཕྱག་རྒྱ་ཆེན་པོ *phyag rgya chen po*; Sanskrit mahāmudrā.
 
-The nature of mind and the practice that realizes it. Lawapa won its siddhi sleeping at a crossroads; the jñānaḍākinī tells Tilopa to practice it for their mind, and Tilopa wins the siddhi close to it.
+The nature of mind and the practice that realizes it. Lawapa won its siddhi sleeping at a crossroads; the wisdom ḍākinī tells Tilopa to practice it for their mind, and Tilopa wins the siddhi close to it.
 
 ### Maheśvara
 
 དབང་ཕྱུག་ཆེན་པོ *dbang phyug chen po*; Sanskrit Maheśvara.
 
-The great god, Śiva, who blessed the śmaśāna of Sala Bhehara. The eight great śmaśānas are said to have grown up where the parts of Rudra's body fell.
+The great god, Śiva, who blessed the charnel ground of Sala Bhehara. The eight great charnel grounds are said to have grown up where the parts of Rudra's body fell.
 
 ### the Masha Grove
 
 རྨ་ཤའི་ཚལ *rma sha'i tshal*.
 
-The śmaśāna of the Sorrowless monastery. It lies at the source of the river Khasu, on the bank of the Dukata in the east of India, and there Tilopa is ordained and named Kalapa.
+The charnel ground of the Sorrowless monastery. It lies at the source of the river Khasu, on the bank of the Dukata in the east of India, and there Tilopa is ordained and named Kalapa.
 
 ### Melodious Mute
 
@@ -242,13 +236,13 @@ The name given the singer of 1.4.5. A skilled singer challenged Tilopa to a cont
 
 ནུས་ལྡན་བློ་གྲོས *nus ldan blo gros*.
 
-The name given the yogin of 1.4.1. The yogin called the Unrivaled offered to lead the ruler's gaṇacakra; Tilopa matched and then outdid them in debate and magic, and they live on in Oḍḍiyāna.
+The name given the yogin of 1.4.1. The yogin called the Unrivaled offered to lead the ruler's feast; Tilopa matched and then outdid them in debate and magic, and they live on in Oḍḍiyāna.
 
 ### the monastery of the Crown Jewel
 
 གཙུག་གི་ནོར་བུའི་དགོན་པ *gtsug gi nor bu'i dgon pa*.
 
-Where the ḍākinī sends Tilopa; its temple is Aḍona. At the end of 1.2 the jñānaḍākinī tells Tilopa to go there and take Nāro, Riri and Kasori into their care, and Tilopa goes, singing as they leave Gandhola.
+Where the ḍākinī sends Tilopa; its temple is Aḍona. At the end of 1.2 the wisdom ḍākinī tells Tilopa to go there and take Nāro, Riri and Kasori into their care, and Tilopa goes, singing as they leave Gandhola.
 
 ### nāga
 
@@ -266,19 +260,19 @@ Where the singer lives on. The singer of 1.4.5, given the name Melodious Mute af
 
 ཀླུ་སྒྲུབ *klu sgrub*; Sanskrit Nāgārjuna.
 
-One of Tilopa's four human gurus, who gave Tilopa the māyādeha; here the tantric teacher of that name. The great teacher who founded the Madhyamaka is also counted among the eighty-four mahāsiddhas and stands in the Guhyasamāja tradition.
+One of Tilopa's four human gurus, who gave Tilopa the illusory body; here the tantric teacher of that name. The great teacher who founded the Madhyamaka is also counted among the eighty-four mahāsiddhas and stands in the Guhyasamāja tradition.
 
 ### Nālandā
 
 ནཱ་ལན་དཱ *nā lan dā*; Sanskrit Nālandā.
 
-The great monastery where Tilopa tames the tīrthika; "glorious Śrī Nālandā", as the manuscript writes it, *dpal shri na len tra*. It was the largest of the monastic universities of India, in today's Bihar.
+The great monastery where Tilopa tames the non-Buddhist; "glorious Nālandā", as the manuscript writes it, *dpal shri na len tra*. It was the largest of the monastic universities of India, in today's Bihar.
 
 ### Nāropa
 
 ནཱ་རོ་པ *nā ro pa*; Sanskrit Nāropa, Nāḍapāda.
 
-Tilopa's disciple, the great paṇḍita, who went through twelve hardships under Tilopa; Marpa's guru. The homage calls Nāropa *nā ro'i paṇ chen*, "the great paṇḍita Nāropa", and the jñānaḍākinī *na ro*, "Nāro", with Riri and Kasori.
+Tilopa's disciple, the great paṇḍita, who went through twelve hardships under Tilopa; Marpa's guru. The homage calls Nāropa *nā ro'i paṇ chen*, "the great paṇḍita Nāropa", and the wisdom ḍākinī *na ro*, "Nāro", with Riri and Kasori.
 
 ### Nyiimi
 
@@ -302,7 +296,7 @@ The name the ḍākinīs give the child in their song, and the name Tilopa gives
 
 ཤེས་རབ་བཟང་པོ *shes rab bzang po*; Sanskrit Prajñābhadra.
 
-Tilopa's name given by the ḍākinīs in Oḍḍiyāna (1.2), meaning excellent prajñā; "Tilo Prajñābhadra" for *te lo shes rab bzang po*. The homage of part 0 bows to Prajñābhadra, and Tilopa sings the name as the bird of the mind takes wing.
+Tilopa's name given by the ḍākinīs in Oḍḍiyāna (1.2), meaning excellent wisdom; "Tilo Prajñābhadra" for *te lo shes rab bzang po*. The homage of part 0 bows to Prajñābhadra, and Tilopa sings the name as the bird of the mind takes wing.
 
 ### Rāhu
 
@@ -314,13 +308,13 @@ The asura who swallows the sun and moon in eclipse; "Rāhu the asura" for *lha m
 
 རི་རི *ri ri*.
 
-One of the three Tilopa is told to take into their care, with Nāro and Kasori. Nothing more is told of Riri in this life; the jñānaḍākinī names them at the end of 1.2.
+One of the three Tilopa is told to take into their care, with Nāro and Kasori. Nothing more is told of Riri in this life; the wisdom ḍākinī names them at the end of 1.2.
 
 ### Sala Bhehara
 
 ས་ལ་བྷེ་ཧ་ར *sa la bhe ha ra*.
 
-A śmaśāna in the south, blessed by Maheśvara. In 1.1 the ḍākinīs send the child there to find a guru, and there the child meets Caryāpa, Lawapa and the yogin sent in Nāgārjuna's place.
+A charnel ground in the south, blessed by Maheśvara. In 1.1 the ḍākinīs send the child there to find a guru, and there the child meets Caryāpa, Lawapa and the yogin sent in Nāgārjuna's place.
 
 ### Salden
 
@@ -356,13 +350,19 @@ What practice attains, common or supreme.
 
 སེང་གེ་ཟླ་བ *seng ge zla ba*; Sanskrit Siṃhacandra.
 
-The ruler who invites the siddhas in part 4. The ruler asks for abhiṣeka, and Tilopa raises a maṇḍala of colored powders in the sky that each sees differently.
+The ruler who invites the siddhas in part 4. The ruler asks for empowerment, and Tilopa raises a maṇḍala of colored powders in the sky that each sees differently.
+
+### simple yogin
+
+ཀུ་ས་ལི *ku sa li*; Sanskrit *kusāli*.
+
+A yogin of simple practice, as against the learned paṇḍitas.
 
 ### Sorrowless
 
 མྱ་ངན་མེད་པ *mya ngan med pa*.
 
-The monastery where Tilopa is ordained. It stands in the śmaśāna of the Masha Grove, by the source of the river Khasu, where Tilopa is named Kalapa and brought to account.
+The monastery where Tilopa is ordained. It stands in the charnel ground of the Masha Grove, by the source of the river Khasu, where Tilopa is named Kalapa and brought to account.
 
 ### Śrīparvata
 
@@ -392,7 +392,7 @@ The mahāsiddha whose life this is, 988–1069 by the usual reckoning; the first
 
 འགྲན་ཟླ་མེད་པ *'gran zla med pa*.
 
-The yogin of 1.4.1, whose name means "without rival". They offered to lead the ruler's gaṇacakra, but Tilopa outdid them; given the name Mighty Intellect, they live on in Oḍḍiyāna.
+The yogin of 1.4.1, whose name means "without rival". They offered to lead the ruler's feast, but Tilopa outdid them; given the name Mighty Intellect, they live on in Oḍḍiyāna.
 
 ### Vajrabhairava
 
@@ -404,7 +404,7 @@ A wrathful tantric deity, "Vajra Terror", a form of Yamāntaka with a buffalo's 
 
 རྡོ་རྗེ་ཕག་མོ *rdo rje phag mo*; Sanskrit Vajravārāhī.
 
-Cakrasaṃvara's partner in union, named as the child's true mother. "Vajra Sow", a jñānaḍākinī shown red with a sow's head beside their own, the root of all the ḍākinīs' emanations.
+Cakrasaṃvara's partner in union, named as the child's true mother. "Vajra Sow", a wisdom ḍākinī shown red with a sow's head beside their own, the root of all the ḍākinīs' emanations.
 
 ### yakṣa
 

@@ -1,6 +1,6 @@
 # བརྒྱུད་པ་ཡིད་བཞིན་ནོར་བུའི་རྣམ་པར་ཐར་པ།
 
-© 2026 Konchok Gyurme Tenzin. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): share and adapt it with credit, never for sale.
+<sub>© 2026 Konchok Gyurme Tenzin. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): share and adapt it with credit, never for sale.</sub>
 
 *The Tibetan of [The Life of Tilopa](marpas-life-of-tilopa.md), as the manuscript gives it: its folio and line in brackets, its spellings kept. Each folio and line number opens [the scan of its leaf](scans.md), and each folio number in the English opens its place here. Where the scribe's spelling slips, the English follows the word meant.*
 

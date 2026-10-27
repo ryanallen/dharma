@@ -25,4 +25,4 @@ A text whose English is published is on the shelf and opens where it stands; one
 
 - [The Treasury of Precious Instructions](README.md). Jamgön Kongtrul Lodrö Thayé, compiler. Tibetan. Coming; not published yet. Written: 1870–1899 CE. Edition not chosen yet. Length not measured yet.
 
-© 2026 Konchok Gyurme Tenzin. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): share and adapt it with credit, never for sale.
+<sub>© 2026 Konchok Gyurme Tenzin. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): share and adapt it with credit, never for sale.</sub>

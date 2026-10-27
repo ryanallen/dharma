@@ -1,6 +1,6 @@
 # Scans
 
-© 2026 Konchok Gyurme Tenzin. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): share and adapt it with credit, never for sale.
+<sub>© 2026 Konchok Gyurme Tenzin. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): share and adapt it with credit, never for sale.</sub>
 
 *Every leaf [The Life of Tilopa](marpas-life-of-tilopa.md) was translated from, kept two ways: a copy saved beside the book, and a link to where it was found online. Each marker in [the Tibetan](tibetan.md) opens its leaf here, and each leaf here links back to its place there.*
 

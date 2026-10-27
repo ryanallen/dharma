@@ -10,19 +10,19 @@
 ## Glossary
 - Page: https://empty.guru/#books/marpas-life-of-tilopa/glossary.md
 - Markdown: https://empty.guru/books/marpas-life-of-tilopa/glossary.md
-- Summary: © 2026 Konchok Gyurme Tenzin. Licensed CC BY-NC-SA 4.0: share and adapt it with credit, never for sale.
+- Summary: The names and words of The Life of Tilopa, each with its Tibetan, in Wylie, and its Sanskrit where it has one.
 
 ## The Life of Tilopa
 - Page: https://empty.guru/#books/marpas-life-of-tilopa/marpas-life-of-tilopa.md
 - Markdown: https://empty.guru/books/marpas-life-of-tilopa/marpas-life-of-tilopa.md
-- Summary: © 2026 Konchok Gyurme Tenzin. Licensed CC BY-NC-SA 4.0: share and adapt it with credit, never for sale.
+- Summary: Marpa Chökyi Lodrö's life of the mahāsiddha Tilopa, written for their son, translated from the manuscript kept in the library of Apho Rinpoche (BDRC W24891). A folio number in brackets marks where ...
 
 ## Scans
 - Page: https://empty.guru/#books/marpas-life-of-tilopa/scans.md
 - Markdown: https://empty.guru/books/marpas-life-of-tilopa/scans.md
-- Summary: © 2026 Konchok Gyurme Tenzin. Licensed CC BY-NC-SA 4.0: share and adapt it with credit, never for sale.
+- Summary: Every leaf The Life of Tilopa was translated from, kept two ways: a copy saved beside the book, and a link to where it was found online. Each marker in the Tibetan opens its leaf here, and each lea...
 
 ## བརྒྱུད་པ་ཡིད་བཞིན་ནོར་བུའི་རྣམ་པར་ཐར་པ།
 - Page: https://empty.guru/#books/marpas-life-of-tilopa/tibetan.md
 - Markdown: https://empty.guru/books/marpas-life-of-tilopa/tibetan.md
-- Summary: © 2026 Konchok Gyurme Tenzin. Licensed CC BY-NC-SA 4.0: share and adapt it with credit, never for sale.
+- Summary: The Tibetan of The Life of Tilopa, as the manuscript gives it: its folio and line in brackets, its spellings kept. Each folio and line number opens the scan of its leaf, and each folio number in th...
