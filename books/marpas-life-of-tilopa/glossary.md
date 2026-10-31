@@ -32,7 +32,7 @@ The land in the east of India where the prophecy sends Tilopa to serve Bharima, 
 
 བྷ་རི་མ *bha ri ma*.
 
-The prostitute of the market of Pañcapana in Bengal. As the prophecy says, Tilopa serves their household, by night bringing people in and seeing them out and by day pounding sesame; with Bharima, Tilopa practices the Secret Mantra in the charnel ground of Kereli, and the two sing the song of the sesame oil before the ruler.
+The sex worker of the market of Pañcapana in Bengal. As the prophecy says, Tilopa serves their household, by night bringing people in and seeing them out and by day pounding sesame; with Bharima, Tilopa practices the Secret Mantra in the charnel ground of Kereli, and the two sing the song of the sesame oil before the ruler.
 
 ### Black Virtue
 
@@ -226,7 +226,7 @@ The great god, Śiva, who blessed the charnel ground of Sala Bhehara. The eight 
 
 The charnel ground of the Sorrowless monastery. It lies at the source of the river Khasu, on the bank of the Dukata in the east of India, and there Tilopa is ordained and named Kalapa.
 
-### Melodious Mute
+### Melodious Silent One
 
 དབྱངས་ལྡན་ལྐུགས་པ *dbyangs ldan lkugs pa*.
 
@@ -254,7 +254,7 @@ A serpent spirit of the waters and the underworld, one of the beings the Brahmin
 
 ན་ག་ར *na ga ra*; Sanskrit Nagara.
 
-Where the singer lives on. The singer of 1.4.5, given the name Melodious Mute after Tilopa's song had no end, lives on there without dying, as the book tells it.
+Where the singer lives on. The singer of 1.4.5, given the name Melodious Silent One after Tilopa's song had no end, lives on there without dying, as the book tells it.
 
 ### Nāgārjuna
 
