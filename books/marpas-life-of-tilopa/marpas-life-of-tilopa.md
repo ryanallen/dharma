@@ -2,7 +2,7 @@
 
 <sub>© 2026 Konchok Gyurme Tenzin. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): share and adapt it with credit, never for sale.</sub>
 
-*Marpa Chökyi Lodrö's life of the mahāsiddha Tilopa, written for his son, translated from the manuscript kept in the library of Apho Rinpoche ([BDRC W24891](https://library.bdrc.io/show/bdr:MW24891)). A folio number in brackets marks where each leaf of the manuscript begins. It opens that leaf in [the Tibetan](tibetan.md), and each folio and line number there opens [the scan of the leaf](scans.md). The names are in [the glossary](glossary.md).*
+*Marpa Chökyi Lodrö's life of the mahāsiddha Tilopa, written for his son, translated from the manuscript kept in the library of Apho Rinpoche ([BDRC W24891](https://library.bdrc.io/show/bdr:MW24891)). A folio number in brackets marks where each leaf of the manuscript begins. It opens that leaf in [the Tibetan](tibetan.md), and each folio and line number there opens [the scan of the leaf](scans.md). The names and terms are in [the glossary](glossary.md).*
 
 ![[\[1a\]](scans.md#page-1a) The title leaf of the manuscript](https://empty.guru/books/marpas-life-of-tilopa/images/apho-1a-title-web.jpg)
 
