@@ -193,13 +193,13 @@ When the women said this, Tilopa asked what was needed to receive them. [\[5b\]]
 
 Now in the land of Oḍḍiyāna in the west, in the temple of Gandhola, lives the one called the wisdom ḍākinī of the dharmakāya. She lives as a ruler, in the state where every reference point[^reference] has ended, in non-duality[^non-duality], dwelling in the manner of not dwelling. Beside her is the one called the ḍākinī of the five families[^five-families], the saṃbhogakāya. In a palace of jewels she keeps the three precious wish-fulfilling jewels hidden, locked in with indestructible iron and sealed with seven seals. Ringed by a fortress, a moat and an iron wall, she lives as a minister.
 
-Beside her is the nirmāṇakāya, the ḍākinī of action[^dakini-of-action], the one who devours. To those with faith and devotion[^devotion] she gives siddhis. Those without faith, and those whose samayas are broken, she cuts down and devours. She lives as a gatekeeper.
+Beside her is the nirmāṇakāya, the karma ḍākinī[^karma-dakini], the one who devours. To those with faith and devotion[^devotion] she gives siddhis. Those without faith, and those whose samayas are broken, she cuts down and devours. She lives as a gatekeeper.
 
-The Brahmin's child went to the temple of Gandhola in the land of Oḍḍiyāna in the west. The nirmāṇakāya, the ḍākinī of action, came at him with a voice to crack the earth, a voice like thunder in the sky:
+The Brahmin's child went to the temple of Gandhola in the land of Oḍḍiyāna in the west. The nirmāṇakāya, the karma ḍākinī, came at him with a voice to crack the earth, a voice like thunder in the sky:
 
 <sub>*Meter*[^meter-5]</sub>
 
-> Ḍākinī of action[^dakini-of-action] in the flesh,\
+> I'm the karma ḍākinī[^karma-dakini] in flesh,\
 > I love human flesh and crave blood.
 
 So saying, the ḍākinī came at the Brahmin's child, who said:
@@ -860,7 +860,7 @@ Shar kha Ras chen, Kun dga' dar po and Byang chub bzang po. *Brgyud pa yid bzhin
 
 [^five-families]: The five families (*rigs lnga*) are the five buddha families, buddha, vajra, jewel, lotus and karma, each with its buddha (Vairocana, Akṣobhya, Ratnasambhava, Amitābha, Amoghasiddhi), its wisdom and the poison of the mind it purifies. See *Rangjung Yeshe Wiki*, s.v. "[rigs lnga](https://rywiki.tsadra.org/index.php/rigs_lnga)"; Das, *Tibetan-English Dictionary*, 1180; *Rigpa Wiki*, s.v. "[Five buddha families](https://www.rigpawiki.org/index.php?title=Five_buddha_families)."
 
-[^dakini-of-action]: The ḍākinī of action (Sanskrit *karmaḍākinī*, Tibetan *las kyi mkha' 'gro*) is a ḍākinī[^dakini] who carries out awakened activity, as against the wisdom ḍākinī[^wisdom-dakini]; the Nyingma speak of ḍākinīs of karma, of wisdom and of the world. Here they keep the gate. See *Rangjung Yeshe Wiki*, s.v. "[las kyi mkha' 'gro](https://rywiki.tsadra.org/index.php/las_kyi_mkha'_'gro)"; *Rigpa Wiki*, s.v. "[Dakini](https://www.rigpawiki.org/index.php?title=Dakini)."
+[^karma-dakini]: The karma ḍākinī (Sanskrit *karmaḍākinī*, Tibetan *las kyi mkha' 'gro*) is a ḍākinī[^dakini] who carries out awakened activity, as against the wisdom ḍākinī[^wisdom-dakini]. Karma here is that activity, not what one does and its fruit. The Nyingma speak of ḍākinīs of karma, of wisdom and of the world. Here she keeps the gate. See *Rangjung Yeshe Wiki*, s.v. "[las kyi mkha' 'gro](https://rywiki.tsadra.org/index.php/las_kyi_mkha'_'gro)"; *Rigpa Wiki*, s.v. "[Dakini](https://www.rigpawiki.org/index.php?title=Dakini)."
 
 [^devotion]: Devotion (*mos gus*), longing and respect toward the guru[^guru], is what the Kagyü, "the Practice Lineage", stress with guru yoga and the transmission from teacher to disciple. See *Rangjung Yeshe Wiki*, s.v. "[mos gus](https://rywiki.tsadra.org/index.php/mos_gus)"; *Rigpa Wiki*, s.v. "[Kagyü](https://www.rigpawiki.org/index.php?title=Kagy%C3%BC)."
 
