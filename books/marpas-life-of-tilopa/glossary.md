@@ -8,13 +8,13 @@
 
 ཨ་ཌོ་ན *a ḍo na*.
 
-The temple of the monastery of the Crown Jewel. After the ḍākinīs give Tilopa the jewels in Oḍḍiyāna, the wisdom ḍākinī sends Tilopa to the monastery of the Crown Jewel to take Nāro, Riri and Kasori into their care, and Tilopa goes to this temple at the end of 1.2.
+The temple of the monastery of the Crown Jewel. After the ḍākinīs give Tilopa the jewels in Oḍḍiyāna, the wisdom ḍākinī sends Tilopa to the monastery of the Crown Jewel to take Nāro, Riri and Kasori into his care, and Tilopa goes to this temple at the end of 1.2.
 
 ### Āryadeva
 
 ཨཱ་རྱ་དེ་ཝ *ā rya de wa*; Sanskrit Āryadeva.
 
-Nāgārjuna's disciple, who carried on Nāgārjuna's Madhyamaka and is counted among the eighty-four mahāsiddhas. In the song Tilopa sings to the ruler at the Sorrowless monastery in part 2, Tilopa says they've talked with Nāgārjuna and Āryadeva.
+Nāgārjuna's disciple, who carried on Nāgārjuna's Madhyamaka and is counted among the eighty-four mahāsiddhas. In the song Tilopa sings to the ruler at the Sorrowless monastery in part 2, Tilopa says he's talked with Nāgārjuna and Āryadeva.
 
 ### Aṭṭahāsa
 
@@ -26,13 +26,13 @@ One of the eight great charnel grounds; its name means "Loud Laughter". The magi
 
 བྷང་ག་ལ *bhang ga la*.
 
-The land in the east of India where the prophecy sends Tilopa to serve Bharima, in the market of Pañcapana. There Tilopa pounds sesame by day, which earns them the name Tilopa.
+The land in the east of India where the prophecy sends Tilopa to serve Bharima, in the market of Pañcapana. There Tilopa pounds sesame by day, which earns him the name Tilopa.
 
 ### Bharima
 
 བྷ་རི་མ *bha ri ma*.
 
-The sex worker of the market of Pañcapana in Bengal. As the prophecy says, Tilopa serves their household, by night bringing people in and seeing them out and by day pounding sesame; with Bharima, Tilopa practices the Secret Mantra in the charnel ground of Kereli, and the two sing the song of the sesame oil before the ruler.
+The sex worker of the market of Pañcapana in Bengal. As the prophecy says, Tilopa serves Bharima's household, by night bringing people in and seeing them out and by day pounding sesame; with Bharima, Tilopa practices the Secret Mantra in the charnel ground of Kereli, and the two sing the song of the sesame oil before the ruler.
 
 ### Black Virtue
 
@@ -92,7 +92,7 @@ Marpa's son, Darma Dode, who the life was written for. Marpa wrote it down at Dr
 
 གྲོ་བོ་ལུང *gro bo lung*.
 
-Marpa's seat in Lhodrak, where they wrote this life. The colophon says Marpa wrote the life down at the monastery of glorious Drowolung, in the Trowo valley of Lhodrak, for Dode.
+Marpa's seat in Lhodrak, where he wrote this life. The colophon says Marpa wrote the life down at the monastery of glorious Drowolung, in the Trowo valley of Lhodrak, for Dode.
 
 ### Dukata
 
@@ -104,7 +104,7 @@ A river bank in the east of India, near the Sorrowless monastery. There, at the 
 
 ཛ་ཀོ *dza ko*.
 
-Tilopa's birthplace, a city of Zahor in the east of India. Tilopa's family, Salwa, Salden and Saldrön, live there, and the child names it as their country when the ḍākinīs ask in 1.1.
+Tilopa's birthplace, a city of Zahor in the east of India. Tilopa's family, Salwa, Salden and Saldrön, live there, and the child names it as his country when the ḍākinīs ask in 1.1.
 
 ### gandharva
 
@@ -122,25 +122,25 @@ The temple in Oḍḍiyāna where the ḍākinīs keep the jewels. Tilopa crosse
 
 བདེ་སྟེར་མ *bde ster ma*.
 
-The ḍākinī the ḍākinīs name as the child's true sister. In 1.1 the ḍākinīs tell the child their true family, and in 1.2 Tilopa tells the retinue at Gandhola that the Giver of Bliss has sent them.
+The ḍākinī the ḍākinīs name as the child's true sister. In 1.1 the ḍākinīs tell the child his true family, and in 1.2 Tilopa tells the retinue at Gandhola that the Giver of Bliss has sent him.
 
 ### Guhyasamāja
 
 གསང་བ་འདུས་པ *gsang ba 'dus pa*; Sanskrit Guhyasamāja.
 
-A tantric deity and its tantra, "Assembly of Secrets", one of the major tantras of the new schools; its deity is a form of the buddha Akṣobhya. A yogin gives the child its empowerment in 1.1, and in part 4 Tilopa's song names it as their aggregates and elements.
+A tantric deity and its tantra, "Assembly of Secrets", one of the major tantras of the new schools; its deity is a form of the buddha Akṣobhya. A yogin gives the child its empowerment in 1.1, and in part 4 Tilopa's song names it as his aggregates and elements.
 
 ### Hevajra
 
 ཧེ་བཛྲ *he badzra*; Sanskrit Hevajra.
 
-A tantric deity and its tantra, a chief deity of the highest yoga tantra, much practiced by the new schools. The one who teaches the child in the temple gives them its empowerment in 1.1, and in part 4 Tilopa sings, "My body is Hevajra." The song of part 4 names them *kye'i rdo rje*.
+A tantric deity and its tantra, a chief deity of the highest yoga tantra, much practiced by the new schools. The one who teaches the child in the temple gives him its empowerment in 1.1, and in part 4 Tilopa sings, "My body is Hevajra." The song of part 4 names them *kye'i rdo rje*.
 
 ### the island of Sosa
 
 སོ་ས་གླིང *so sa gling*.
 
-Where the beer-seller of 1.4.4 lives on. A monkey and a cat Tilopa sent drank their beer on credit; Tilopa filled every jar again, and given the name Sunlight Lamp, the seller lives on there without dying.
+Where the beer-seller of 1.4.4 lives on. A monkey and a cat Tilopa sent drank her beer on credit; Tilopa filled every jar again, and given the name Sunlight Lamp, the seller lives on there without dying.
 
 ### the island of the rākṣasas
 
@@ -158,19 +158,19 @@ The name given the Cārvāka of 1.4.7. The Cārvāka denied that karma bears fru
 
 ཀ་ལ་པ *ka la pa*.
 
-Tilopa's name as a monk at the Sorrowless monastery. Tilopa's own family ordained them there in part 2, and the assembly brought Tilopa to account for killing small birds, which flew up alive.
+Tilopa's name as a monk at the Sorrowless monastery. Tilopa's own family ordained him there in part 2, and the assembly brought Tilopa to account for killing small birds, which flew up alive.
 
 ### Kalpa Zangmo
 
 སྐལ་བ་བཟང་མོ *skal ba bzang mo*.
 
-The ḍākinī among the four human gurus, who gave Tilopa inner heat. Their name means "Fortunate Lady"; it's kept in Tibetan, since the text gives no Sanskrit for it.
+The ḍākinī among the four human gurus, who gave Tilopa inner heat. Her name means "Fortunate Lady"; it's kept in Tibetan, since the text gives no Sanskrit for it.
 
 ### Kasori
 
 ཀ་སོ་རི *ka so ri*.
 
-One of the three the wisdom ḍākinī tells Tilopa to take into their care at the monastery of the Crown Jewel, with Nāro and Riri, at the end of 1.2. Nothing more is told of Kasori in this life.
+One of the three the wisdom ḍākinī tells Tilopa to take into his care at the monastery of the Crown Jewel, with Nāro and Riri, at the end of 1.2. Nothing more is told of Kasori in this life.
 
 ### Kereli
 
@@ -200,7 +200,7 @@ One of the four human gurus, who gave Tilopa luminosity, and who slept twelve ye
 
 ལུ་ཧི་པ *lu hi pa*; Sanskrit Lūipa.
 
-The mahāsiddha whose meaning the ḍākinī teaches Tilopa in the temple. A mahāsiddha of the tenth century, the first of the eighty-four in Abhayadatta's list, who ate fish guts to purify their pride.
+The mahāsiddha whose meaning the ḍākinī teaches Tilopa in the temple. A mahāsiddha of the tenth century, the first of the eighty-four in Abhayadatta's list, who ate fish guts to purify his pride.
 
 ### Mahāmāyā
 
@@ -212,7 +212,7 @@ A tantric deity and its tantra, "Great Illusion", one of the mother tantras of t
 
 ཕྱག་རྒྱ་ཆེན་པོ *phyag rgya chen po*; Sanskrit mahāmudrā.
 
-The nature of mind and the practice that realizes it. Lawapa won its siddhi sleeping at a crossroads; the wisdom ḍākinī tells Tilopa to practice it for their mind, and Tilopa wins the siddhi close to it.
+The nature of mind and the practice that realizes it. Lawapa won its siddhi sleeping at a crossroads; the wisdom ḍākinī tells Tilopa to practice it for his mind, and Tilopa wins the siddhi close to it.
 
 ### Maheśvara
 
@@ -242,7 +242,7 @@ The name given the yogin of 1.4.1. The yogin called the Unrivaled offered to lea
 
 གཙུག་གི་ནོར་བུའི་དགོན་པ *gtsug gi nor bu'i dgon pa*.
 
-Where the ḍākinī sends Tilopa; its temple is Aḍona. At the end of 1.2 the wisdom ḍākinī tells Tilopa to go there and take Nāro, Riri and Kasori into their care, and Tilopa goes, singing as they leave Gandhola.
+Where the ḍākinī sends Tilopa; its temple is Aḍona. At the end of 1.2 the wisdom ḍākinī tells Tilopa to go there and take Nāro, Riri and Kasori into his care, and Tilopa goes, singing as he leaves Gandhola.
 
 ### nāga
 
@@ -290,7 +290,7 @@ The land of the ḍākinīs in the west. There, in the temple of Gandhola, Tilop
 
 པཎ་ཙ་པ་ན *paṇ tsa pa na*.
 
-The name the ḍākinīs give the child in their song, and the name Tilopa gives themselves at the palace of the ḍākinīs; nearly the name of the market town in Bengal, *paṇ tsha pa na*, where they serve Bharima. The text doesn't explain it.
+The name the ḍākinīs give the child in their song, and the name Tilopa gives himself at the palace of the ḍākinīs; nearly the name of the market town in Bengal, *paṇ tsha pa na*, where he serves Bharima. The text doesn't explain it.
 
 ### Prajñābhadra
 
@@ -308,7 +308,7 @@ The asura who swallows the sun and moon in eclipse; "Rāhu the asura" for *lha m
 
 རི་རི *ri ri*.
 
-One of the three Tilopa is told to take into their care, with Nāro and Kasori. Nothing more is told of Riri in this life; the wisdom ḍākinī names them at the end of 1.2.
+One of the three Tilopa is told to take into his care, with Nāro and Kasori. Nothing more is told of Riri in this life; the wisdom ḍākinī names them at the end of 1.2.
 
 ### Sala Bhehara
 
@@ -320,13 +320,13 @@ A charnel ground in the south, blessed by Maheśvara. In 1.1 the ḍākinīs sen
 
 གསལ་ལྡན *gsal ldan*.
 
-Tilopa's mother, a Brahmin. They live in Dzako, and when the ugly ones with the marks appear, Salden fears for the child and asks what will help. The text also writes *gsal ldan ma*.
+Tilopa's mother, a Brahmin. She lives in Dzako, and when the ugly ones with the marks appear, Salden fears for the child and asks what will help. The text also writes *gsal ldan ma*.
 
 ### Saldrön
 
 གསལ་སྒྲོན *gsal sgron*.
 
-Tilopa's sister, a Brahmin. They live in Dzako with the family, and the child names them in their song to the ḍākinīs in 1.1. The text also writes *gsal ba'i sgron ma*.
+Tilopa's sister, a Brahmin. She lives in Dzako with the family, and the child names her in his song to the ḍākinīs in 1.1. The text also writes *gsal ba'i sgron ma*.
 
 ### Salwa
 
@@ -338,7 +338,7 @@ Tilopa's father, a Brahmin of Dzako. The family prayed at every shrine for a chi
 
 གསལ་འོད *gsal 'od*.
 
-Tilopa's name as a child, "Clear Light", given because the east of India filled with light when they were born. It's the name the child gives in the song of 1.1.
+Tilopa's name as a child, "Clear Light", given because the east of India filled with light when he was born. It's the name the child gives in the song of 1.1.
 
 ### siddhi
 
@@ -368,7 +368,7 @@ The monastery where Tilopa is ordained. It stands in the charnel ground of the M
 
 དཔལ་གྱི་རི *dpal gyi ri*; Sanskrit Śrīparvata.
 
-The mountain where Jinabodhi lives on. A mountain in the south of India where Nāgārjuna spent their last days; the Cārvāka of 1.4.7 lives on there without dying.
+The mountain where Jinabodhi lives on. A mountain in the south of India where Nāgārjuna spent his last days; the Cārvāka of 1.4.7 lives on there without dying.
 
 ### Sunlight Lamp
 
@@ -386,7 +386,7 @@ The mahāsiddha whose life this is, 988–1069 by the usual reckoning; the first
 
 ཏིལ་བསྲུངས་ཞབས *til bsrungs zhabs*.
 
-"The Sesame Keeper", the Tibetan the text gives for the name Tilopa, which they won pounding sesame in the market of Pañcapana. Til is Tibetan for sesame.
+"The Sesame Keeper", the Tibetan the text gives for the name Tilopa, which he won pounding sesame in the market of Pañcapana. Til is Tibetan for sesame.
 
 ### the Unrivaled
 
@@ -398,13 +398,13 @@ The yogin of 1.4.1, whose name means "without rival". They offered to lead the r
 
 རྡོ་རྗེ་འཇིགས་བྱེད *rdo rje 'jigs byed*; Sanskrit Vajrabhairava.
 
-A wrathful tantric deity, "Vajra Terror", a form of Yamāntaka with a buffalo's face and many arms and legs; its tantra belongs to the father tantras. Tilopa's song in part 4 names it as their lesser limbs.
+A wrathful tantric deity, "Vajra Terror", a form of Yamāntaka with a buffalo's face and many arms and legs; its tantra belongs to the father tantras. Tilopa's song in part 4 names it as his lesser limbs.
 
 ### Vajravārāhī
 
 རྡོ་རྗེ་ཕག་མོ *rdo rje phag mo*; Sanskrit Vajravārāhī.
 
-Cakrasaṃvara's partner in union, named as the child's true mother. "Vajra Sow", a wisdom ḍākinī shown red with a sow's head beside their own, the root of all the ḍākinīs' emanations.
+Cakrasaṃvara's partner in union, named as the child's true mother. "Vajra Sow", a wisdom ḍākinī shown red with a sow's head beside her own, the root of all the ḍākinīs' emanations.
 
 ### yakṣa
 

@@ -2,7 +2,7 @@
 
 <sub>© 2026 Konchok Gyurme Tenzin. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): share and adapt it with credit, never for sale.</sub>
 
-*Marpa Chökyi Lodrö's life of the mahāsiddha Tilopa, written for their son, translated from the manuscript kept in the library of Apho Rinpoche ([BDRC W24891](https://library.bdrc.io/show/bdr:MW24891)). A folio number in brackets marks where each leaf of the manuscript begins. It opens that leaf in [the Tibetan](tibetan.md), and each folio and line number there opens [the scan of the leaf](scans.md). The names are in [the glossary](glossary.md).*
+*Marpa Chökyi Lodrö's life of the mahāsiddha Tilopa, written for his son, translated from the manuscript kept in the library of Apho Rinpoche ([BDRC W24891](https://library.bdrc.io/show/bdr:MW24891)). A folio number in brackets marks where each leaf of the manuscript begins. It opens that leaf in [the Tibetan](tibetan.md), and each folio and line number there opens [the scan of the leaf](scans.md). The names are in [the glossary](glossary.md).*
 
 ![[\[1a\]](scans.md#page-1a) The title leaf of the manuscript](https://empty.guru/books/marpas-life-of-tilopa/images/apho-1a-title-web.jpg)
 
@@ -49,7 +49,7 @@ The third, the nature of the Dharma that's taught, is in three. Outwardly it's t
 
 Of these, this is the instruction of the nirmāṇakāya, the wish-fulfilling jewel of the lineage. It holds two accounts: the account of the wisdom ḍākinī[^wisdom-dakini] of the dharmakāya, and the account of the lineage of the siddhas[^siddha] of the nirmāṇakāya. [\[3a\]](tibetan.md#page-3a) The first: as all the buddhas live as the three bodies, so this wisdom ḍākinī lives as the three bodies, as is told at length below.
 
-The second is the lives of the lineage of the siddhas of the nirmāṇakāya. It begins with the life of Tilo, which has four parts. First, how Tilopa was known as a human. Second, how Tilopa was known as an emanation[^emanation] of Cakrasaṃvara[^cakrasamvara]. Third, how they were known as Cakrasaṃvara in person. Fourth, how they were known as the body in which all the buddhas gather.
+The second is the lives of the lineage of the siddhas of the nirmāṇakāya. It begins with the life of Tilo, which has four parts. First, how Tilopa was known as a human. Second, how Tilopa was known as an emanation[^emanation] of Cakrasaṃvara[^cakrasamvara]. Third, how he was known as Cakrasaṃvara in person. Fourth, how he was known as the body in which all the buddhas gather.
 
 ![Folio 2a](https://empty.guru/books/marpas-life-of-tilopa/images/apho-2a-opening-web.jpg)
 
@@ -57,7 +57,7 @@ The second is the lives of the lineage of the siddhas of the nirmāṇakāya. It
 
 ## 1 Tilopa as a human
 
-First, taken as a human, the great teacher Tilopa has four great qualities. First, in provisional meaning[^provisional], the ḍākinīs made prophecies about Tilopa, who looked for a guru[^guru] and practiced. Second, Tilopa overwhelmed the ḍākinīs and asked them for the Dharma. Third, in definitive meaning[^definitive], they were shown to have no human guru. Fourth, they showed their many emanations.
+First, taken as a human, the great teacher Tilopa has four great qualities. First, in provisional meaning[^provisional], the ḍākinīs made prophecies about Tilopa, who looked for a guru[^guru] and practiced. Second, Tilopa overwhelmed the ḍākinīs and asked them for the Dharma. Third, in definitive meaning[^definitive], he was shown to have no human guru. Fourth, he showed his many emanations.
 
 ## 1.1 The child who herded buffalo
 
@@ -69,19 +69,19 @@ First, Tilopa. In the east of India, in the land of Zahor, was a city called Dza
 > yakṣa[^yaksa], buddha? I can't tell.\
 > Love and guard this holy one.
 
-As the Brahmin said, the family cherished the child and guarded them. Once the father had gone out, and mother and son were alone. Something flickered. When they looked, there were many ugly women with the marks[^with-the-marks], puffing out their breath, limping and leaning on sticks. The mother thought, "Are they demons[^demon]? Will my child die?" and the women said:
+As the Brahmin said, the family cherished the child and guarded him. Once the father had gone out, and mother and son were alone. Something flickered. When they looked, there were many ugly women with the marks[^with-the-marks], puffing out their breath, limping and leaning on sticks. The mother thought, "Are they demons[^demon]? Will my child die?" and the women said:
 
 > Guard and cherish all you like:\
 > there's no land where no one dies.
 
 So they said. The child's mother asked, "Then what can we do that'll help?" and they said again:
 
-> Herding buffalo, they'll study;\
+> Herding buffalo, he'll study;\
 > ḍākinīs will prophesy.
 
 With that, it's said, they vanished without a trace.
 
-The child grew up, and the family set them to herd the buffalo, as the women had told them. While the child was herding, the women from before came again and asked the child about their country, their father and mother and the rest. The child said:
+The child grew up, and the family set him to herd the buffalo, as the women had told them. While the child was herding, the women from before came again and asked the child about his country, his father and mother and the rest. The child said:
 
 > I'm from Dzako, in the east;\
 > Brahmin Salwa fathered me;\
@@ -115,35 +115,35 @@ The great teacher Lawapa[^lawapa] sang:
 
 When Lawapa said this, the child asked for luminosity[^luminosity].
 
-The child looked for Nāgārjuna[^nagarjuna]. In that charnel ground, in the hut of someone of the lowest caste[^outcaste], a yogin[^yogin] who kept the yogic discipline[^discipline] sat meditating. "Nāgārjuna has gone to teach the Dharma to the ruler of the gandharvas[^gandharva]," they said. "I've been sent to take you into my care, good friend." The child offered them a maṇḍala[^mandala] and asked. The yogin called up before the child the maṇḍala of glorious Guhyasamāja[^guhyasamaja], gave them its empowerment[^empowerment] and explained its tantra[^tantra]. The child saw the nature of mind[^nature-of-mind].
+The child looked for Nāgārjuna[^nagarjuna]. In that charnel ground, in the hut of someone of the lowest caste[^outcaste], a yogin[^yogin] who kept the yogic discipline[^discipline] sat meditating. "Nāgārjuna has gone to teach the Dharma to the ruler of the gandharvas[^gandharva]," they said. "I've been sent to take you into my care, good friend." The child offered them a maṇḍala[^mandala] and asked. The yogin called up before the child the maṇḍala of glorious Guhyasamāja[^guhyasamaja], gave him its empowerment[^empowerment] and explained its tantra[^tantra]. The child saw the nature of mind[^nature-of-mind].
 
 In a temple there, the child's uncle was reciting the Prajñāpāramitā[^prajnaparamita] in a Hundred Thousand Lines. A woman came and said, "Do you know what this means?"
 
-The child said they didn't.
+The child said he didn't.
 
-"[\[4b\]](tibetan.md#page-4b) Then I'll explain it," the woman said, and explained its meaning. The woman gave the child the empowerments of Hevajra[^hevajra] and Cakrasaṃvara and explained their tantras. "This is what Lūhipa[^luhipa] meant," they said. "Meditate on it."
+"[\[4b\]](tibetan.md#page-4b) Then I'll explain it," the woman said, and explained its meaning. The woman gave the child the empowerments of Hevajra[^hevajra] and Cakrasaṃvara and explained their tantras. "This is what Lūhipa[^luhipa] meant," she said. "Meditate on it."
 
 The child said, "My uncle keeps me reciting the Hundred Thousand Lines and won't let me meditate."
 
 The woman said, "Cut the cord that ties the Hundred Thousand Lines[^pothi] and throw it from the temple door into the water. Pretend you've lost your mind, and meditate. I'll bless it, and nothing at all will happen to the Hundred Thousand Lines."
 
-The child did as the woman said, and nothing at all happened to the Hundred Thousand Lines.[^hundred] "The child has lost their mind," people said, and locked them up. There they trained in the two stages[^two-stages], the essence of all the paths that shine clearly in the undivided mind of the Sugatas[^sugata].
+The child did as the woman said, and nothing at all happened to the Hundred Thousand Lines.[^hundred] "The child has lost his mind," people said, and locked him up. There he trained in the two stages[^two-stages], the essence of all the paths that shine clearly in the undivided mind of the Sugatas[^sugata].
 
 Then came a prophecy[^prophecy]:
 
 > In the east, in Bengal,\
 > Pañcapana's marketplace,\
 > Bharima, whose trade was sex:\
-> serve them, and you'll be clean;\
+> serve her, and you'll be clean;\
 > end the conduct[^conduct]; siddhi's yours.
 
-So it was prophesied, and they went there. By night they did the work of bringing people in and seeing them out. By day they pounded sesame, so in the language of India they were known as Tilopa, and in Tibetan as Til Sungzhab, the Sesame Keeper.
+So it was prophesied, and Tilopa went there. By night he did the work of bringing people in and seeing them out. By day he pounded sesame, so in the language of India he was known as Tilopa, and in Tibetan as Til Sungzhab, the Sesame Keeper.
 
-Then they went to the charnel ground called Kereli, where they and Bharima delighted each other[^delighted] in the conduct of the Secret Mantra[^secret-mantra], and brought it to its end.
+Then he went to the charnel ground called Kereli, where he and Bharima delighted each other[^delighted] in the conduct of the Secret Mantra[^secret-mantra], and brought it to its end.
 
-Then, back in that market, as they went on pounding sesame, they won the siddhi that's close to the supreme Mahāmudrā. The people of the city saw them in different ways: some saw a blazing mass of fire, and some saw fire blazing in their bone ornaments[^bone-ornaments]. The people asked Tilopa for instruction. Tilopa said, "Let the genuine nature[^nija] that has arisen in my mind enter the hearts of you who follow me." At once they were freed[^freed].
+Then, back in that market, as he went on pounding sesame, he won the siddhi that's close to the supreme Mahāmudrā. The people of the city saw him in different ways: some saw a blazing mass of fire, and some saw fire blazing in his bone ornaments[^bone-ornaments]. The people asked Tilopa for instruction. Tilopa said, "Let the genuine nature[^nija] that has arisen in my mind enter the hearts of you who follow me." At once they were freed[^freed].
 
-Then the ruler of that country came riding an elephant with their court to honor them. The Brahmin's child and Bharima, the two of them, sang a vajra song[^vajra-song] in a great voice like Brahmā's[^brahma]:
+Then the ruler of that country came riding an elephant with his court to honor him. The Brahmin's child and Bharima, the two of them, sang a vajra song[^vajra-song] in a great voice like Brahmā's[^brahma]:
 
 <sub>*Meter*[^meter-5]</sub>
 
@@ -162,7 +162,7 @@ Then the ruler of that country came riding an elephant with their court to honor
 > Kye ho[^kye-ho]! What it means is vast and deep,\
 > yet it's clear right now. How marvelous!
 
-When they had sung this, all who were gathered there were freed. Here's the meaning of the song, untied. There's nothing out of keeping with the meaning to give up, and no remedy[^remedy], primordial wisdom[^primordial-wisdom], to bring about. There are no grounds and paths[^grounds-paths] to travel and no fruition to gain. Only as convention[^convention], in signs, must the guru show it. That's what it means. Then the people asked Tilopa who their guru was, and Tilopa said:
+When they had sung this, all who were gathered there were freed. Here's the meaning of the song, untied. There's nothing out of keeping with the meaning to give up, and no remedy[^remedy], primordial wisdom[^primordial-wisdom], to bring about. There are no grounds and paths[^grounds-paths] to travel and no fruition to gain. Only as convention[^convention], in signs, must the guru show it. That's what it means. Then the people asked Tilopa who his guru was, and Tilopa said:
 
 <sub>*Meter*[^meter-3]</sub>
 
@@ -171,11 +171,11 @@ When they had sung this, all who were gathered there were freed. Here's the mean
 > Kalpa Zangmo, gurus all:\
 > these, my four transmissions[^four-transmissions].
 
-So they said. From Nāgārjuna they asked for the illusory body[^illusory-body], from Caryāpa for dream, from Lawapa for luminosity, and from the ḍākinī for inner heat[^inner-heat]. These are known as the four great rivers of the whispered lineage.
+So he said. From Nāgārjuna he asked for the illusory body[^illusory-body], from Caryāpa for dream, from Lawapa for luminosity, and from the ḍākinī for inner heat[^inner-heat]. These are known as the four great rivers of the whispered lineage.
 
 ## 1.2 The ḍākinīs brought under Tilopa's power, and the jewels asked for
 
-Second, how they brought the ḍākinīs under their power and asked them for the Dharma. Again the women came and said:
+Second, how he brought the ḍākinīs under his power and asked them for the Dharma. Again the women came and said:
 
 <sub>*Meter*[^meter-4]</sub>
 
@@ -191,11 +191,11 @@ When the women said this, Tilopa said, "I can't receive them," and again the wom
 
 When the women said this, Tilopa asked what was needed to receive them. [\[5b\]](tibetan.md#page-5b) The women told Tilopa, "Take a crystal ladder, a bridge of jewels and a pair of grass mice, and go to Oḍḍiyāna."[^ladder] Tilopa's father found these without trouble. Tilopa took them and went.
 
-Now in the land of Oḍḍiyāna in the west, in the temple of Gandhola, lives the one called the wisdom ḍākinī of the dharmakāya. They live as a ruler, in the state where every reference point[^reference] has ended, in non-duality[^non-duality], dwelling in the manner of not dwelling. Beside them is the one called the ḍākinī of the five families[^five-families], the saṃbhogakāya. In a palace of jewels they keep the three precious wish-fulfilling jewels hidden, locked in with indestructible iron and sealed with seven seals. Ringed by a fortress, a moat and an iron wall, they live as a minister.
+Now in the land of Oḍḍiyāna in the west, in the temple of Gandhola, lives the one called the wisdom ḍākinī of the dharmakāya. She lives as a ruler, in the state where every reference point[^reference] has ended, in non-duality[^non-duality], dwelling in the manner of not dwelling. Beside her is the one called the ḍākinī of the five families[^five-families], the saṃbhogakāya. In a palace of jewels she keeps the three precious wish-fulfilling jewels hidden, locked in with indestructible iron and sealed with seven seals. Ringed by a fortress, a moat and an iron wall, she lives as a minister.
 
-Beside them is the nirmāṇakāya, the ḍākinī of action[^dakini-of-action], the one who devours. To those with faith and devotion[^devotion] they give siddhis. Those without faith, and those whose samayas are broken, they cut down and devour. They live as a gatekeeper.
+Beside her is the nirmāṇakāya, the ḍākinī of action[^dakini-of-action], the one who devours. To those with faith and devotion[^devotion] she gives siddhis. Those without faith, and those whose samayas are broken, she cuts down and devours. She lives as a gatekeeper.
 
-The Brahmin's child went to the temple of Gandhola in the land of Oḍḍiyāna in the west. The nirmāṇakāya, the ḍākinī of action, came at them with a voice to crack the earth, a voice like thunder in the sky:
+The Brahmin's child went to the temple of Gandhola in the land of Oḍḍiyāna in the west. The nirmāṇakāya, the ḍākinī of action, came at him with a voice to crack the earth, a voice like thunder in the sky:
 
 <sub>*Meter*[^meter-5]</sub>
 
@@ -209,7 +209,7 @@ So saying, the ḍākinī came at the Brahmin's child, who said:
 > Many fearsome ḍākinīs\
 > can't make me flinch at all.
 
-So the child said, and overwhelmed the ḍākinīs with the yogic discipline of awareness[^discipline-of-awareness]. The child's body didn't move, their speech didn't falter, their mind didn't shrink. The child gazed at the ḍākinīs, and they fainted. When they came to, they said:
+So the child said, and overwhelmed the ḍākinīs with the yogic discipline of awareness[^discipline-of-awareness]. The child's body didn't move, his speech didn't falter, his mind didn't shrink. The child gazed at the ḍākinīs, and they fainted. When they came to, they said:
 
 > Kye ma[^kye-ma]! As the lamp destroys the moth,\
 > we who'd eat you, we're destroyed.\
@@ -222,7 +222,7 @@ So they said. [\[6a\]](tibetan.md#page-6a) Then the Brahmin's child said, "Let m
 > we eat flesh and we drink blood:\
 > holy one, take this to heart.
 
-The gatekeepers handed the child over to the ḍākinīs of the saṃbhogakāya. These said, "Your yogic discipline looks slight. We'll set you free: go up." The Brahmin's child laid the bridge of jewels across the moat and set the crystal ladder against the iron wall. They opened the gate with the pair of grass mice and went in, and the ministers said:
+The gatekeepers handed the child over to the ḍākinīs of the saṃbhogakāya. These said, "Your yogic discipline looks slight. We'll set you free: go up." The Brahmin's child laid the bridge of jewels across the moat and set the crystal ladder against the iron wall. He opened the gate with the pair of grass mice and went in, and the ministers said:
 
 > Dreadful body, dreadful speech,\
 > dreadful weapons in our hands,\
@@ -238,30 +238,30 @@ So the child said, and gazed at the ministers, who fainted. "Let me in," the chi
 
 > Ministers like us are weak;\
 > if the ruler isn't asked,\
-> we're struck down by their decree:\
+> we'd be struck down by decree:\
 > holy one, take this to heart.
 
-So the ministers said, and they prayed to the ḍākinī of the dharmakāya. The child went in. The wisdom ḍākinī of the dharmakāya sat ringed by heroes[^heroes] past counting, in a row on their right, and heroines in a row on their left. The Brahmin's child didn't bow to them, and their retinue said:
+So the ministers said, and they prayed to the ḍākinī of the dharmakāya. The child went in. The wisdom ḍākinī of the dharmakāya sat ringed by heroes[^heroes] past counting, in a row on her right, and heroines in a row on her left. The Brahmin's child didn't bow to her, and her retinue said:
 
 > Every buddha's mother, here,\
 > our Blessed Lady[^blessed-lady], gets no bow:\
 > why not crush this mocking one?
 
-So saying, the retinue set about destroying the child, and then the ḍākinī of the dharmakāya spoke to their retinue:
+So saying, the retinue set about destroying the child, and then the ḍākinī of the dharmakāya spoke to her retinue:
 
 > Every buddha's father, here,\
 > this is Cakrasaṃvara:\
 > rain your vajras from the sky,\
-> how could you defeat them now?
+> how could you defeat him now?
 
-[\[6b\]](tibetan.md#page-6b) So they said, and the retinue, as though they didn't know the child was Cakrasaṃvara, said, "Who sent you? Who are you? What do you want?" and the Brahmin's child said:
+[\[6b\]](tibetan.md#page-6b) So the ḍākinī said, and the retinue, as though they didn't know the child was Cakrasaṃvara, said, "Who sent you? Who are you? What do you want?" and the Brahmin's child said:
 
 > Pañcapana's who I am;\
 > Giver of Bliss sent me here;\
 > view[^view], conduct, fruit, samaya,\
 > I've come for three-body jewels.
 
-When the child said this, the retinue laughed at them and said with one voice:
+When the child said this, the retinue laughed at him and said with one voice:
 
 > Blind ones look and see no form,\
 > deaf ones listen, hear no sound,\
@@ -274,7 +274,7 @@ To this the teacher answered:
 > has no cause to tell a lie:\
 > not a māra: ḍākinī!
 
-When they said this, the wisdom ḍākinī gave the signs of the precious jewel. Of their body they gave a painted card[^painted-card]; of their speech, a syllable[^seed-syllable]; of their mind, a hand emblem[^hand-emblem]. And the Brahmin's child said:
+When he said this, the wisdom ḍākinī gave the signs of the precious jewel. Of her body she gave a painted card[^painted-card]; of her speech, a syllable[^seed-syllable]; of her mind, a hand emblem[^hand-emblem]. And the Brahmin's child said:
 
 > From the body's vault, appearance-emptiness[^emptiness],\
 > I request the common jewel;\
@@ -283,7 +283,7 @@ When they said this, the wisdom ḍākinī gave the signs of the precious jewel.
 > from the mind's vault, free of thought[^free-of-thought],\
 > and the jewel of how things are[^way-things-are].
 
-When they said this, the wisdom ḍākinī said:
+When he said this, the wisdom ḍākinī said:
 
 > For the common wishing jewel\
 > use experience as key;\
@@ -310,7 +310,7 @@ So the ḍākinī said, and the Brahmin's child said:
 > mind itself, the nature of things[^nature-of-things], dharmakāya:\
 > mine's the key, the one that sees.
 
-So they said, and the wisdom ḍākinīs of the saṃbhogakāya and the nirmāṇakāya, both together, sang this song with one voice:
+So the ḍākinī of the dharmakāya said, and the wisdom ḍākinīs of the saṃbhogakāya and the nirmāṇakāya, both together, sang this song with one voice:
 
 > Father we all share, Blessed One[^blessed-one],\
 > Buddha Tilo, beings' guard,\
@@ -319,13 +319,13 @@ So they said, and the wisdom ḍākinīs of the saṃbhogakāya and the nirmā�
 
 So saying, the ḍākinīs gave Tilopa the root tantra[^root-tantra] in fifty-one chapters with its explanatory tantras, and the whispered lineage. And from the mouth of the wisdom ḍākinī came this: "To accomplish my body, work at the stage of generation[^generation]. For my speech, work at the essence[^essence]; for my mind, in the stage of completion[^completion], Mahāmudrā. Go to the monastery of the Crown Jewel, and take Nāro, Riri and Kasori into your care."
 
-With that the chief vanished. Tilopa was given the name Tilo Prajñābhadra, and they said:
+With that the chief vanished. Tilopa was given the name Tilo Prajñābhadra, and he said:
 
 > Like a bird across the sky,\
 > so the luminous mind flies;\
 > Prajñābhadra goes unchecked.
 
-When they said this, the ḍākinīs of the saṃbhogakāya and the nirmāṇakāya said:
+When he said this, the ḍākinīs of the saṃbhogakāya and the nirmāṇakāya said:
 
 > Holy one, what are you like?\
 > Please remain here for our sake.
@@ -336,7 +336,7 @@ When they asked this, Tilo said:
 > serving worthy vessels[^worthy-vessels] well,\
 > now this yogin seeks Crown Jewel.
 
-So they said, and on the road as they went, the nine cycles[^nine-cycles] of the Dharma of the bodiless ḍākinīs were given them out of the sky:
+So he said, and on the road as he went, the nine cycles[^nine-cycles] of the Dharma of the bodiless ḍākinīs were given him out of the sky:
 
 > Bodiless ones' vajra speech,\
 > like the gandharvas'[^gandharva] sweet songs,\
@@ -351,7 +351,7 @@ So they said, and on the road as they went, the nine cycles[^nine-cycles] of the
 > Conduct: cut the stream with steel.\
 > One taste[^one-taste]: outer mirror.
 
-They heard these from the sky, and Tilo said:
+He heard these from the sky, and Tilo said:
 
 > As the chief has shown the way,\
 > in illusion's Gandhola\
@@ -359,28 +359,28 @@ They heard these from the sky, and Tilo said:
 > locked by speech beyond all words,\
 > and the mind's bright bird flies off.
 
-So saying, they went to the temple of Aḍona, the monastery of the Crown Jewel.
+So saying, he went to the temple of Aḍona, the monastery of the Crown Jewel.
 
 ## 1.3 No human guru
 
-Third, that Tilopa had no human guru. Many people gathered there. Since Tilopa had won siddhi and received the Dharma at Gandhola, the people asked who their guru was, and Tilopa said:
+Third, that Tilopa had no human guru. Many people gathered there. Since Tilopa had won siddhi and received the Dharma at Gandhola, the people asked who his guru was, and Tilopa said:
 
 > I've no human guru:\
 > guru is All-Knowing One[^all-knowing].
 
-So they said.
+So he said.
 
 ## 1.4 The eight tamings
 
-Fourth, how Tilopa showed their many emanations. There are eight. Tilopa overwhelmed the yogin. They tamed the non-Buddhist[^heretic], the magician, the beer-seller, the singer, the butcher, the one who says karma bears no fruit[^acts-no-fruit], and the great sorcerer.[^order]
+Fourth, how Tilopa showed his many emanations. There are eight. Tilopa overwhelmed the yogin. He tamed the non-Buddhist[^heretic], the magician, the beer-seller, the singer, the butcher, the one who says karma bears no fruit[^acts-no-fruit], and the great sorcerer.[^order]
 
 ### 1.4.1 The yogin
 
-First. In the south of India there was a ruler who loved their mother deeply and did whatever pleased them. "What good thing can I do to please you?" the ruler asked. "I'll do it."
+First. In the south of India there was a ruler who loved his mother deeply and did whatever pleased her. "What good thing can I do to please you?" the ruler asked. "I'll do it."
 
 The ruler's mother said, "Gather paṇḍitas, siddhas and ḍākinīs. Raise a maṇḍala of jewels in the sky, and hold a great empowerment and a feast. That would make me glad."
 
-So the ruler sent a runner to each of the paṇḍitas who could do it, and one runner to the siddhas. They invited the paṇḍitas and the siddhas. The paṇḍitas performed the rite of the ground[^rite-of-the-ground] and the rest, and it was proclaimed that whatever these did would succeed.
+So the ruler sent a runner to each of the paṇḍitas who could do it, and one runner to the siddhas. He invited the paṇḍitas and the siddhas. The paṇḍitas performed the rite of the ground[^rite-of-the-ground] and the rest, and it was proclaimed that whatever these did would succeed.
 
 [\[8a\]](tibetan.md#page-8a) Then an ugly woman with the marks came before the simple yogins[^kusali] and said, "Who'll lead your feast?"
 
@@ -390,11 +390,11 @@ A yogin called the Unrivaled said, "I will."
 
 When the gathering asked where this brother was, the woman said, "In the charnel ground."
 
-"Then go and fetch them," the gathering said. The woman went to fetch Tilopa and said that Tilopa would come.
+"Then go and fetch him," the gathering said. The woman went to fetch Tilopa and said that Tilopa would come.
 
 At the very end Tilopa came and sat with the Unrivaled on two thrones. They debated by the logic[^pramana] that shows the contradictions and connections of word and meaning, and they were equal. They drew maṇḍalas in the sky and took turns making them vanish with rain and wind, and they were equal. They rode lions in a race to the sun and the moon, and again they were equal.
 
-Then Tilo brought the sun and the moon down to the ground and rode a lion on them. They turned their body inside out. On each hair they called up a maṇḍala with its charnel ground. In each charnel ground was a tree, and in each tree they sat cross-legged at play. The Unrivaled couldn't do it. All were amazed. "E ma[^e-ma]! Where does such magic come from?
+Then Tilo brought the sun and the moon down to the ground and rode a lion on them. He turned his body inside out. On each hair he called up a maṇḍala with its charnel ground. In each charnel ground was a tree, and in each tree he sat cross-legged at play. The Unrivaled couldn't do it. All were amazed. "E ma[^e-ma]! Where does such magic come from?
 
 > Where's such conduct coming from?"
 
@@ -406,7 +406,7 @@ When the gathering said this, Tilopa answered in song:
 > Tilo saw the ultimate[^ultimate]:\
 > every effort's gone from me.
 
-So Tilopa said, and when they spoke of the nature beyond thought[^beyond-thought], all were freed. The yogin was given the name Mighty Intellect, and even now they live in Oḍḍiyāna without dying[^without-passing-away].
+So Tilopa said, and when he spoke of the nature beyond thought[^beyond-thought], all were freed. The yogin was given the name Mighty Intellect, and even now they live in Oḍḍiyāna without dying[^without-passing-away].
 
 ### 1.4.2 The tīrthika
 
@@ -422,7 +422,7 @@ When they said this, Tilopa turned it back and answered in song:
 > sinking? Fill the vase[^vase] with wind:\
 > Tilo's free from every fear.
 
-So Tilopa said, and when they spoke of the nature of things beyond thought, all were freed. The non-Buddhist was given the name Black Virtue, and even now they live in Śītavana[^cool-grove] without dying.
+So Tilopa said, and when he spoke of the nature of things beyond thought, all were freed. The non-Buddhist was given the name Black Virtue, and even now they live in Śītavana[^cool-grove] without dying.
 
 ### 1.4.3 The magician
 
@@ -434,9 +434,9 @@ Third, the taming of the magician. A magician was taking the ruler's country wit
 
 "Where's your brother?"
 
-"In the charnel ground, on a sal tree a yojana[^yojana] high, they've tied a horse's tail. To it they've tied a corpse's legs, and to its arms five horses. They hold on to them and dance." So they said.
+"In the charnel ground, on a sal tree a yojana[^yojana] high, he's tied a horse's tail. To it he's tied a corpse's legs, and to its arms five horses. He holds on to them and dances." So the woman said.
 
-When the ruler heard this, the ruler said, "That woman has spoken of three things that can't be. Bring them here," and when the woman was asked, the woman said just what had been said before. The ruler sent people to look, and it was just as they'd been told. Then they invited Tilopa. Not knowing the army for an illusion, they were on the point of being routed, when Tilopa broke the illusion, killed some, and caught the magician. The magician said:
+When the ruler heard this, the ruler said, "That woman has spoken of three things that can't be. Bring the brother here," and when the woman was asked, the woman said just what had been said before. The ruler sent people to look, and it was just as they'd been told. Then they invited Tilopa. Not knowing the army for an illusion, they were on the point of being routed, when Tilopa broke the illusion, killed some, and caught the magician. The magician said:
 
 > You who lean on Dharma, say:\
 > is it right to kill like that?
@@ -450,7 +450,7 @@ When the ruler heard this, the ruler said, "That woman has spoken of three thing
 > speaking? Use a voiceless tongue;\
 > wanting? Use the letters up.
 
-So Tilopa said, and when they spoke of things beyond thought, all were freed. The magician was given the name Deceiver Who Tells the Truth, and even now they live at Aṭṭahāsa[^attahasa] without dying.[^magician]
+So Tilopa said, and when he spoke of things beyond thought, all were freed. The magician was given the name Deceiver Who Tells the Truth, and even now they live at Aṭṭahāsa[^attahasa] without dying.[^magician]
 
 ### 1.4.4 The beer-seller
 
@@ -468,13 +468,13 @@ When the seller said this, in an instant Tilopa filled every jar of beer with be
 > Beggar of the ultimate,\
 > Tilo, yogin you've not seen.
 
-So Tilopa said, and when they spoke of great bliss beyond thought, all were freed. The beer-seller was given the name Sunlight Lamp, and even now they live on the island of Sosa without dying.[^ifyou]
+So Tilopa said, and when he spoke of great bliss beyond thought, all were freed. The beer-seller was given the name Sunlight Lamp, and even now she lives on the island of Sosa without dying.[^ifyou]
 
 ### 1.4.5 The singer
 
-Fifth, the taming of the singer. There was a skilled singer. Tilopa sang a song of their own making before the singer. "Will you compete?" the singer asked.
+Fifth, the taming of the singer. There was a skilled singer. Tilopa sang a song of his own making before the singer. "Will you compete?" the singer asked.
 
-"Let's compete," they said, and the singer said, "Teacher, take up a song."
+"Let's compete," he said, and the singer said, "Teacher, take up a song."
 
 "I'll sing after," said Tilopa. The singer sang their song through to its end. [\[9b\]](tibetan.md#page-9b) Then Tilopa sang, and the song had no end. The singer couldn't match Tilopa. The singer said:
 
@@ -488,7 +488,7 @@ When they said this, Tilopa answered in song:
 > looking, look with eyes gone blind:\
 > sounds are echoes, all of them.
 
-So Tilopa said, and when they spoke of music beyond thought, all were freed. The singer was given the name Melodious Silent One, and even now they live in Nagara without dying.[^singer]
+So Tilopa said, and when he spoke of music beyond thought, all were freed. The singer was given the name Melodious Silent One, and even now they live in Nagara without dying.[^singer]
 
 ### 1.4.6 The butcher
 
@@ -506,7 +506,7 @@ The butcher was tormented with grief, and Tilopa said, "Then if you kill no othe
 > draw the wind-mind[^wind-mind] through the crown[^crown];\
 > wash away the stains of mind.
 
-So Tilopa said, and when they spoke of the practice of killing beyond thought, all were freed. The butcher was given the name Bliss-Making Joy, and even now they live on the island of the rākṣasas[^raksasa] without dying.[^butcher]
+So Tilopa said, and when he spoke of the practice of killing beyond thought, all were freed. The butcher was given the name Bliss-Making Joy, and even now they live on the island of the rākṣasas[^raksasa] without dying.[^butcher]
 
 ### 1.4.7 The one who said karma bears no fruit
 
@@ -528,9 +528,9 @@ When they said this, the teacher answered in song:
 > discursive thought[^discursive-thought] is the nirmāṇakāya;\
 > I've got nothing I could teach.
 
-So Tilopa said, and when they spoke of the diversity beyond thought, all were freed. The Cārvāka was given the name Jinabodhi, and even now they live on Śrīparvata[^sriparvata] without dying.
+So Tilopa said, and when he spoke of the diversity beyond thought, all were freed. The Cārvāka was given the name Jinabodhi, and even now they live on Śrīparvata[^sriparvata] without dying.
 
-Besides these, Tilopa taught the Dharma to those who did wrong by the bearing of their body. To an artisan Tilopa was a skilled artisan, to a great meditator a siddha. So they taught fishers, dog keepers and others without number. These people told Tilopa that they were fishers and the like, and then said:
+Besides these, Tilopa taught the Dharma to those who did wrong by the bearing of their body. To an artisan Tilopa was a skilled artisan, to a great meditator a siddha. So he taught fishers, dog keepers and others without number. These people told Tilopa that they were fishers and the like, and then said:
 
 > Tilo saw the ultimate:\
 > virtue, wrong: the names are gone.
@@ -551,11 +551,11 @@ When they said this, Tilopa answered in song:
 > drink the ocean in one sip;\
 > cut saṃsāra[^samsara] loose and leave.
 
-So Tilopa said, and when they spoke of activity beyond thought, all were freed. The sorcerer was given the name Nyiimi, and even now they live at Kimitsikili.
+So Tilopa said, and when he spoke of activity beyond thought, all were freed. The sorcerer was given the name Nyiimi, and even now they live at Kimitsikili.
 
 ## 2 An emanation of Cakrasaṃvara
 
-The second general part: how Tilopa was shown to be an emanation of Cakrasaṃvara. In the east of India, on the bank of the Dukata, is the source of the river Khasu. There, in the charnel ground of the Masha Grove, is a monastery called Sorrowless. There Tilopa's uncle and mother, who was a nun, were their preceptor and teacher[^preceptor-teacher], and there they were ordained as a monk and named Kalapa. The others gave themselves to the three wheels[^three-wheels] of a monk's work, but Tilopa didn't keep the Dharma. They killed many small birds, and showed their head one way and their body another. Everyone mocked them.
+The second general part: how Tilopa was shown to be an emanation of Cakrasaṃvara. In the east of India, on the bank of the Dukata, is the source of the river Khasu. There, in the charnel ground of the Masha Grove, is a monastery called Sorrowless. There Tilopa's uncle and mother, who was a nun, were Tilopa's preceptor and teacher[^preceptor-teacher], and there he was ordained as a monk and named Kalapa. The others gave themselves to the three wheels[^three-wheels] of a monk's work, but Tilopa didn't keep the Dharma. He killed many small birds, and showed his head one way and his body another. Everyone mocked him.
 
 Now those in charge of discipline talked it over. The provost[^provost], with the followers of the Dharma in general and the monks in particular, called an assembly of the Sorrowless monastery and brought Tilopa to account. The ruler of that country said:[^birds]
 
@@ -574,13 +574,13 @@ When the ruler asked this, Tilopa answered in song:
 > seen the thousand buddhas[^thousand-buddhas], too;\
 > [\[11a\]](tibetan.md#page-11a) never killed a living thing.
 
-When they said this, the birds, they say, flew up with a whir and were gone. All believed, and Tilopa was known as an emanation of Cakrasaṃvara.
+When he said this, the birds, they say, flew up with a whir and were gone. All believed, and Tilopa was known as an emanation of Cakrasaṃvara.
 
 ## 3 Cakrasaṃvara in person
 
-Third, how Tilopa was held to be Cakrasaṃvara in person. They went begging for food in the east of India. Going out, they set their feet down slowly, their eyes looked no farther than a yoke's length[^yoke] ahead, and they recited verses of poetry. Coming back, they spoke the auspicious verses of giving and receiving[^giving-receiving], and the people grew devoted to them.
+Third, how Tilopa was held to be Cakrasaṃvara in person. He went begging for food in the east of India. Going out, he set his feet down slowly, his eyes looked no farther than a yoke's length[^yoke] ahead, and he recited verses of poetry. Coming back, he spoke the auspicious verses of giving and receiving[^giving-receiving], and the people grew devoted to him.
 
-The ruler of that country invited them all and honored them. Then the ruler said, "Let each of you bring forth a verse on giving and receiving. It must not go against the grammar of the grammarians, nor against logic, scriptural authority[^agama], instruction, experience, or the realization of those who've realized." They all did so, and each agreed with one side or two. When Tilopa's turn came, the teacher spoke. Their verse went against none of them and reached the final meaning of each, and the ruler wrote it down:
+The ruler of that country invited them all and honored them. Then the ruler said, "Let each of you bring forth a verse on giving and receiving. It must not go against the grammar of the grammarians, nor against logic, scriptural authority[^agama], instruction, experience, or the realization of those who've realized." They all did so, and each agreed with one side or two. When Tilopa's turn came, the teacher spoke. His verse went against none of them and reached the final meaning of each, and the ruler wrote it down:
 
 > Father? Mother? I have none:\
 > Cakrasaṃvara, peak bliss.\
@@ -592,7 +592,7 @@ The ruler of that country invited them all and honored them. Then the ruler said
 > body, speech and mind are one;\
 > I go on into great bliss.
 
-So they said, and they were known as Cakrasaṃvara in person.
+So he said, and he was known as Cakrasaṃvara in person.
 
 ## 4 The body of all the buddhas
 
@@ -606,17 +606,17 @@ Fourth, how Tilopa was shown to be the body in which all the buddhas of the thre
 > small limbs, Vajrabhairava[^vajrabhairava];\
 > hairs: the buddhas of three times.
 
-So they said, and Tilopa was known as the body in which all the buddhas gather.
+So he said, and Tilopa was known as the body in which all the buddhas gather.
 
 By such acts, at the end, Tilopa set the beings of Zahor in the east on the path of ripening and freedom. A city of seven hundred thousand was emptied.
 
-So ends the life of Tilopa, chief of yogins, who even the siddhas know as a nirmāṇakāya. It's the account of what they did by their own great qualities, told as it is and told in full.
+So ends the life of Tilopa, chief of yogins, who even the siddhas know as a nirmāṇakāya. It's the account of what he did by his own great qualities, told as it is and told in full.
 
 Written down at the monastery of glorious Drowolung for my son Dode. It's complete. Maṅgalam[^mangalam].[^colophon]
 
 ![Folio 11b, the colophon](https://empty.guru/books/marpas-life-of-tilopa/images/apho-11b-colophon-web.jpg)
 
-<sub>*Folio 11b, the last leaf: Marpa's colophon, written at Drowolung for their son Dode, closing "Maṅgalam" (image 44).*</sub>
+<sub>*Folio 11b, the last leaf: Marpa's colophon, written at Drowolung for his son Dode, closing "Maṅgalam" (image 44).*</sub>
 
 ## Bibliography
 
@@ -656,13 +656,13 @@ Shar kha Ras chen, Kun dga' dar po and Byang chub bzang po. *Brgyud pa yid bzhin
 
 [^fruit]: Fruition (Sanskrit *phala*, Tibetan *'bras bu*) is the result of the path, awakening itself; "the fruition made manifest" calls Tilopa awakening in person. The same word is the result an act brings, as in "karma bears no fruit[^acts-no-fruit]", and with view[^view], conduct[^conduct] and samaya[^pledge] it's one of the four things a practitioner holds. See *Rangjung Yeshe Wiki*, s.v. "['bras bu](https://rywiki.tsadra.org/index.php/'bras_bu)"; Das, *Tibetan-English Dictionary*, 929.
 
-[^prajnabhadra]: Prajñābhadra, "Excellent Wisdom" (Tibetan *shes rab bzang po*), is Tilopa, by the name the wisdom ḍākinī[^wisdom-dakini] gives them in Oḍḍiyāna[^oddiyana] in 1.2. See *Bde mchog mkha' 'gro snyan rgyud*, fol. 7a.
+[^prajnabhadra]: Prajñābhadra, "Excellent Wisdom" (Tibetan *shes rab bzang po*), is Tilopa, by the name the wisdom ḍākinī[^wisdom-dakini] gives Tilopa in Oḍḍiyāna[^oddiyana] in 1.2. See *Bde mchog mkha' 'gro snyan rgyud*, fol. 7a.
 
 [^protector-of-beings]: The Protector of Beings (Sanskrit *Jagannātha*, Tibetan *'gro ba'i mgon po*) is a title of a buddha, or of a teacher seen as one. See *Rangjung Yeshe Wiki*, s.v. "['gro ba'i mgon po](https://rywiki.tsadra.org/index.php/'gro_ba'i_mgon_po)."
 
 [^pandita]: A paṇḍita (Tibetan *mkhas pa*, "learned one") is a scholar of the Buddhist Dharma[^dharma] and the sciences of India, such as the great teachers of its monastic universities. See *Rangjung Yeshe Wiki*, s.v. "[mkhas pa](https://rywiki.tsadra.org/index.php/mkhas_pa)"; Das, *Tibetan-English Dictionary*, 183.
 
-[^twelve-hardships]: Nāropa, a great scholar of the monastic universities of India who left their seat to seek Tilopa, was Tilopa's chief disciple and Marpa's own guru[^guru]. The twelve great hardships (*dka' ba bcu gnyis*) are the twelve trials Tilopa put them through before giving Nāropa the Dharma[^dharma]. See *Rangjung Yeshe Wiki*, s.vv. "[dka' ba bcu gnyis](https://rywiki.tsadra.org/index.php/dka'_ba_bcu_gnyis)," "[nā ro pa](https://rywiki.tsadra.org/index.php/nA_ro_pa)"; *Wikipedia*, s.v. "[Naropa](https://en.wikipedia.org/wiki/Naropa)."
+[^twelve-hardships]: Nāropa, a great scholar of the monastic universities of India who left his seat to seek Tilopa, was Tilopa's chief disciple and Marpa's own guru[^guru]. The twelve great hardships (*dka' ba bcu gnyis*) are the twelve trials Tilopa put him through before giving Nāropa the Dharma[^dharma]. See *Rangjung Yeshe Wiki*, s.vv. "[dka' ba bcu gnyis](https://rywiki.tsadra.org/index.php/dka'_ba_bcu_gnyis)," "[nā ro pa](https://rywiki.tsadra.org/index.php/nA_ro_pa)"; *Wikipedia*, s.v. "[Naropa](https://en.wikipedia.org/wiki/Naropa)."
 
 [^meter-4-5]: Trochaic tetrameter, then pentameter: four beats a line, then five, the rhythm of "Twinkle, twinkle, little star," then of "Polly wolly doodle all the day." Each beat is a stressed beat with a light one after it, and each English line is as long as its Tibetan line, so a line of seven or nine ends on its beat and a line of eight on the light one after it. See *Wikipedia*, s.v. "[Songs of realization](https://en.wikipedia.org/wiki/Songs_of_realization)."
 
@@ -722,7 +722,7 @@ Shar kha Ras chen, Kun dga' dar po and Byang chub bzang po. *Brgyud pa yid bzhin
 
 [^cakrasamvara]: Cakrasaṃvara, "Wheel of Supreme Bliss" (Tibetan *'khor lo bde mchog*), is a chief deity of the highest yoga tantras[^tantra] of the new schools, and of their mother tantras: a wrathful deity, usually blue, with four faces and twelve arms, in union with Vajravārāhī[^vajravarahi]. The whispered lineage[^whispered-lineage] is theirs. See *Rangjung Yeshe Wiki*, s.v. "['khor lo bde mchog](https://rywiki.tsadra.org/index.php/'khor_lo_bde_mchog)"; Das, *Tibetan-English Dictionary*, 669; *Rigpa Wiki*, s.v. "[Chakrasamvara](https://www.rigpawiki.org/index.php?title=Chakrasamvara)."
 
-[^provisional]: Provisional meaning (Sanskrit *neyārtha*, Tibetan *drang don*): a meaning that leads, one that needs interpreting; here, Tilopa's life told as though they were an ordinary human who needed gurus[^guru]. See *Rangjung Yeshe Wiki*, s.v. "[drang don](https://rywiki.tsadra.org/index.php/drang_don)."
+[^provisional]: Provisional meaning (Sanskrit *neyārtha*, Tibetan *drang don*): a meaning that leads, one that needs interpreting; here, Tilopa's life told as though he were an ordinary human who needed gurus[^guru]. See *Rangjung Yeshe Wiki*, s.v. "[drang don](https://rywiki.tsadra.org/index.php/drang_don)."
 
 [^guru]: A guru (Tibetan *bla ma*, lama) is a spiritual teacher; in the tantras[^tantra], the vajra teacher who gives empowerment[^empowerment], keeps the samayas[^pledge] and has experience and realization[^experience-realization], and is regarded as a buddha. See *Rangjung Yeshe Wiki*, s.v. "[bla ma](https://rywiki.tsadra.org/index.php/bla_ma)"; Das, *Tibetan-English Dictionary*, 900.
 
@@ -750,11 +750,11 @@ Shar kha Ras chen, Kun dga' dar po and Byang chub bzang po. *Brgyud pa yid bzhin
 
 [^oddiyana]: Oḍḍiyāna (Tibetan *u rgyan*), the "land of the ḍākinīs[^dakini]", was a real place northwest of ancient India, which many scholars put in the Swat valley of today's Pakistan, and which tradition made a buddha field[^buddha-fields] where the tantras[^tantra] flourish. Almost every great teacher of the tantras is said to have gone there, in body or in vision. See *Rangjung Yeshe Wiki*, s.v. "[u rgyan](https://rywiki.tsadra.org/index.php/u_rgyan)"; *Rigpa Wiki*, s.v. "[Oddiyana](https://www.rigpawiki.org/index.php?title=Oddiyana)"; *Wikipedia*, s.v. "[Oddiyana](https://en.wikipedia.org/wiki/Oddiyana)."
 
-[^vajravarahi]: Vajravārāhī, "Vajra Sow" (Tibetan *rdo rje phag mo*), is the partner in union of Cakrasaṃvara[^cakrasamvara] and the root of all the ḍākinīs'[^dakini] emanations[^emanation], a wisdom ḍākinī[^wisdom-dakini] shown red, with a sow's head beside their own. See *Rangjung Yeshe Wiki*, s.v. "[rdo rje phag mo](https://rywiki.tsadra.org/index.php/rdo_rje_phag_mo)"; *Rigpa Wiki*, s.v. "[Vajravarahi](https://www.rigpawiki.org/index.php?title=Vajravarahi)."
+[^vajravarahi]: Vajravārāhī, "Vajra Sow" (Tibetan *rdo rje phag mo*), is the partner in union of Cakrasaṃvara[^cakrasamvara] and the root of all the ḍākinīs'[^dakini] emanations[^emanation], a wisdom ḍākinī[^wisdom-dakini] shown red, with a sow's head beside her own. See *Rangjung Yeshe Wiki*, s.v. "[rdo rje phag mo](https://rywiki.tsadra.org/index.php/rdo_rje_phag_mo)"; *Rigpa Wiki*, s.v. "[Vajravarahi](https://www.rigpawiki.org/index.php?title=Vajravarahi)."
 
 [^pancapana]: The name isn't explained. It's nearly the name of the market town in Bengal where, in the prophecy[^prophecy] that follows, Tilopa is sent to serve Bharima. See *Bde mchog mkha' 'gro snyan rgyud*, fols. 4a, 4b.
 
-[^tree-of-awakening]: The tree of awakening (Sanskrit *bodhivṛkṣa*, Tibetan *byang chub shing*) is the fig at Bodh Gaya under which the Buddha awoke; here the place where the child is to win their own awakening. See *Rangjung Yeshe Wiki*, s.v. "[byang chub shing](https://rywiki.tsadra.org/index.php/byang_chub_shing)"; *Wikipedia*, s.v. "[Bodhi tree](https://en.wikipedia.org/wiki/Bodhi_tree)."
+[^tree-of-awakening]: The tree of awakening (Sanskrit *bodhivṛkṣa*, Tibetan *byang chub shing*) is the fig at Bodh Gaya under which the Buddha awoke; here the place where the child is to win his own awakening. See *Rangjung Yeshe Wiki*, s.v. "[byang chub shing](https://rywiki.tsadra.org/index.php/byang_chub_shing)"; *Wikipedia*, s.v. "[Bodhi tree](https://en.wikipedia.org/wiki/Bodhi_tree)."
 
 [^charnel-ground]: A charnel ground (Sanskrit *śmaśāna*, Tibetan *dur khrod*) is where the dead were left, burned or cut up for the birds. Terrifying and lonely, it's where the yogins[^yogin] of the tantras[^tantra] practiced, and it stands for the death of clinging to this body and life; India had eight great ones. See *Rangjung Yeshe Wiki*, s.v. "[dur khrod](https://rywiki.tsadra.org/index.php/dur_khrod)"; Das, *Tibetan-English Dictionary*, 630; *Rigpa Wiki*, s.vv. "[Charnel ground](https://www.rigpawiki.org/index.php?title=Charnel_ground)," "[Eight great charnel grounds](https://www.rigpawiki.org/index.php?title=Eight_great_charnel_grounds)."
 
@@ -770,13 +770,13 @@ Shar kha Ras chen, Kun dga' dar po and Byang chub bzang po. *Brgyud pa yid bzhin
 
 [^mahamudra]: Mahāmudrā (Tibetan *phyag rgya chen po*), the "great seal", is the nature of mind[^nature-of-mind], the seal set on all things in saṃsāra[^samsara], nirvāṇa and the path, and the most direct practice for realizing it; it's the meditation tradition of the Kagyü, passed from Nāropa to Marpa. See *Rangjung Yeshe Wiki*, s.v. "[phyag rgya chen po](https://rywiki.tsadra.org/index.php/phyag_rgya_chen_po)"; Das, *Tibetan-English Dictionary*, 831; *Rigpa Wiki*, s.v. "[Mahamudra](https://www.rigpawiki.org/index.php?title=Mahamudra)."
 
-[^nagarjuna]: Nāgārjuna (Tibetan *klu sgrub*), the great teacher of the second or third century who founded the Madhyamaka, is also counted among the eighty-four mahāsiddhas and stands in the Guhyasamāja[^guhyasamaja] tradition; here they're one of Tilopa's four human gurus[^guru], who gave Tilopa the illusory body[^illusory-body]. See *Rangjung Yeshe Wiki*, s.v. "[klu sgrub](https://rywiki.tsadra.org/index.php/klu_sgrub)"; *Rigpa Wiki*, s.v. "[Nagarjuna](https://www.rigpawiki.org/index.php?title=Nagarjuna)."
+[^nagarjuna]: Nāgārjuna (Tibetan *klu sgrub*), the great teacher of the second or third century who founded the Madhyamaka, is also counted among the eighty-four mahāsiddhas and stands in the Guhyasamāja[^guhyasamaja] tradition; here he's one of Tilopa's four human gurus[^guru], who gave Tilopa the illusory body[^illusory-body]. See *Rangjung Yeshe Wiki*, s.v. "[klu sgrub](https://rywiki.tsadra.org/index.php/klu_sgrub)"; *Rigpa Wiki*, s.v. "[Nagarjuna](https://www.rigpawiki.org/index.php?title=Nagarjuna)."
 
 [^outcaste]: The lowest caste (Sanskrit *mātaṅga*, Tibetan *gdol pa*) stood below the four classes of Indian society, shunned by the others as impure; a yogin[^yogin] living in such a hut has set purity and impurity aside. See *Rangjung Yeshe Wiki*, s.vv. "[ma tang ga](https://rywiki.tsadra.org/index.php/ma_tang_ga)," "[gdol pa](https://rywiki.tsadra.org/index.php/gdol_pa)"; Das, *Tibetan-English Dictionary*, 663.
 
 [^yogin]: A yogin (Tibetan *rnal 'byor pa*, "one who has mastered the real") is a practitioner of yoga; here a practitioner of the tantras[^tantra] who lives apart, an ascetic given to meditation. See *Rangjung Yeshe Wiki*, s.v. "[rnal 'byor pa](https://rywiki.tsadra.org/index.php/rnal_'byor_pa)"; Das, *Tibetan-English Dictionary*, 763.
 
-[^discipline]: Yogic discipline (Sanskrit *vrata*, Tibetan *brtul zhugs*) is the unconventional conduct[^conduct] advanced practitioners of the tantras[^tantra] take up, "vanquishing ordinary behaviour", to deepen their practice and train their awareness[^awareness], as Tilopa's show of losing their mind does in 1.1. See *Rangjung Yeshe Wiki*, s.v. "[brtul zhugs](https://rywiki.tsadra.org/index.php/brtul_zhugs)."
+[^discipline]: Yogic discipline (Sanskrit *vrata*, Tibetan *brtul zhugs*) is the unconventional conduct[^conduct] advanced practitioners of the tantras[^tantra] take up, "vanquishing ordinary behaviour", to deepen their practice and train their awareness[^awareness], as Tilopa's show of losing his mind does in 1.1. See *Rangjung Yeshe Wiki*, s.v. "[brtul zhugs](https://rywiki.tsadra.org/index.php/brtul_zhugs)."
 
 [^gandharva]: A gandharva (Tibetan *dri za*, "scent eater") is a celestial musician who lives on scents, at the rim of Mount Meru; "the city of the gandharvas" is a mirage, castles in the air. See *Rangjung Yeshe Wiki*, s.vv. "[dri za](https://rywiki.tsadra.org/index.php/dri_za)," "[dri za'i grong khyer](https://rywiki.tsadra.org/index.php/dri_za'i_grong_khyer)"; *Rigpa Wiki*, s.v. "[Gandharva](https://www.rigpawiki.org/index.php?title=Gandharva)."
 
@@ -794,7 +794,7 @@ Shar kha Ras chen, Kun dga' dar po and Byang chub bzang po. *Brgyud pa yid bzhin
 
 [^hevajra]: Hevajra (Tibetan *kye rdo rje*) is a chief deity of the highest yoga tantra[^tantra] and the tantra named after them, much practiced by the new schools. See *Rangjung Yeshe Wiki*, s.v. "[kye rdo rje](https://rywiki.tsadra.org/index.php/kye_rdo_rje)"; *Rigpa Wiki*, s.v. "[Hevajra](https://www.rigpawiki.org/index.php?title=Hevajra)."
 
-[^luhipa]: Lūhipa, or Lūipa, "the Fish-Gut Eater", a mahāsiddha of the tenth century born a royal child, is the first of the eighty-four mahāsiddhas in Abhayadatta's list; a ḍākinī[^dakini] told them to eat fish guts to purify their pride. See *Rangjung Yeshe Wiki*, s.v. "[lu hi pa](https://rywiki.tsadra.org/index.php/lu_hi_pa)"; *Rigpa Wiki*, s.vv. "[Luipa](https://www.rigpawiki.org/index.php?title=Luipa)," "[Eighty-four mahasiddhas](https://www.rigpawiki.org/index.php?title=Eighty-four_mahasiddhas)."
+[^luhipa]: Lūhipa, or Lūipa, "the Fish-Gut Eater", a mahāsiddha of the tenth century born a royal child, is the first of the eighty-four mahāsiddhas in Abhayadatta's list; a ḍākinī[^dakini] told him to eat fish guts to purify his pride. See *Rangjung Yeshe Wiki*, s.v. "[lu hi pa](https://rywiki.tsadra.org/index.php/lu_hi_pa)"; *Rigpa Wiki*, s.vv. "[Luipa](https://www.rigpawiki.org/index.php?title=Luipa)," "[Eighty-four mahasiddhas](https://www.rigpawiki.org/index.php?title=Eighty-four_mahasiddhas)."
 
 [^pothi]: A Tibetan book (Tibetan *dpe cha*) is a stack of long loose pages, unbound, as India's palm-leaf books were, so the child is told to cut the cord (*thag pa*) that holds the stack together. See *Rangjung Yeshe Wiki*, s.v. "[dpe cha](https://rywiki.tsadra.org/index.php/dpe_cha)"; *Bde mchog mkha' 'gro snyan rgyud*, fol. 4b.
 
@@ -832,7 +832,7 @@ Shar kha Ras chen, Kun dga' dar po and Byang chub bzang po. *Brgyud pa yid bzhin
 
 [^signs]: Signs (*brda*) are the gestures, symbols and words by which a teacher shows what words can't say; so in 1.2 the wisdom ḍākinī[^wisdom-dakini] answers Tilopa in signs. See *Rangjung Yeshe Wiki*, s.v. "[brda](https://rywiki.tsadra.org/index.php/brda)."
 
-[^kye-ho]: Kye ho! is a cry of amazement that calls the hearer, "Behold!", often opening a song of realization. See *Rangjung Yeshe Wiki*, s.v. "[kye ho](https://rywiki.tsadra.org/index.php/kye_ho)."
+[^kye-ho]: Kye ho! (Tibetan *kye ho*) is a cry of amazement that also calls to the hearers, "O!" or "Behold!", and often opens a song of realization. It's near *e ma ho*, "How marvelous!", but *e ma ho* only marvels and calls no one. *E ma*[^e-ma] is the same wonder, shorter, and *kye ma*[^kye-ma] is grief. The song's own "How marvelous!" is the words *ngo mtshar che*, not a cry. See *Rangjung Yeshe Wiki*, s.vv. "[kye ho](https://rywiki.tsadra.org/index.php/kye_ho)," "[e ma ho](https://rywiki.tsadra.org/index.php/e_ma_ho)."
 
 [^remedy]: A remedy (Sanskrit *pratipakṣa*, Tibetan *gnyen po*), or antidote, is a practice that counters a fault; where all is the innate[^innate], the song says, there's none to apply. See *Rangjung Yeshe Wiki*, s.v. "[gnyen po](https://rywiki.tsadra.org/index.php/gnyen_po)."
 
@@ -842,7 +842,7 @@ Shar kha Ras chen, Kun dga' dar po and Byang chub bzang po. *Brgyud pa yid bzhin
 
 [^meter-3]: Trochaic trimeter: three beats a line, the rhythm of "Ring around the rosie." Each beat is a stressed beat with a light one after it, and each English line is as long as its Tibetan line, six, so it ends on the light one after its last beat. See *Wikipedia*, s.v. "[Songs of realization](https://en.wikipedia.org/wiki/Songs_of_realization)."
 
-[^four-transmissions]: The four transmissions (*bka' babs bzhi*) are the four lines of the Dharma[^dharma] Tilopa received from their four human gurus[^guru]: the illusory body[^illusory-body] with transference, dream[^dream], luminosity[^luminosity] and inner heat[^inner-heat]. The name Kagyü is sometimes said to mean "the lineage[^lineage] of the four transmissions". See *Rangjung Yeshe Wiki*, s.v. "[bka' babs bzhi](https://rywiki.tsadra.org/index.php/bka'_babs_bzhi)"; *Rigpa Wiki*, s.v. "[Kagyü](https://www.rigpawiki.org/index.php?title=Kagy%C3%BC)."
+[^four-transmissions]: The four transmissions (*bka' babs bzhi*) are the four lines of the Dharma[^dharma] Tilopa received from his four human gurus[^guru]: the illusory body[^illusory-body] with transference, dream[^dream], luminosity[^luminosity] and inner heat[^inner-heat]. The name Kagyü is sometimes said to mean "the lineage[^lineage] of the four transmissions". See *Rangjung Yeshe Wiki*, s.v. "[bka' babs bzhi](https://rywiki.tsadra.org/index.php/bka'_babs_bzhi)"; *Rigpa Wiki*, s.v. "[Kagyü](https://www.rigpawiki.org/index.php?title=Kagy%C3%BC)."
 
 [^illusory-body]: The illusory body (Sanskrit *māyādeha*, Tibetan *sgyu lus*) is the practice of knowing one's body and all things as an illusion; it's one of the six dharmas of Nāropa. See *Rangjung Yeshe Wiki*, s.v. "[sgyu lus](https://rywiki.tsadra.org/index.php/sgyu_lus)"; Das, *Tibetan-English Dictionary*, 329.
 
@@ -866,7 +866,7 @@ Shar kha Ras chen, Kun dga' dar po and Byang chub bzang po. *Brgyud pa yid bzhin
 
 [^discipline-of-awareness]: The yogic discipline of awareness (Sanskrit *vidyāvrata*, Tibetan *rig pa brtul zhugs*) is yogic discipline[^discipline] carried by awareness[^awareness]: Tilopa overwhelms the ḍākinīs[^dakini] by resting unmoved in body, speech and mind. See *Rangjung Yeshe Wiki*, s.v. "[rig pa brtul zhugs](https://rywiki.tsadra.org/index.php/rig_pa_brtul_zhugs)."
 
-[^kye-ma]: Kye ma! is a cry of surprise and grief, "Alas!" See *Rangjung Yeshe Wiki*, s.v. "[kye ma](https://rywiki.tsadra.org/index.php/kye_ma)."
+[^kye-ma]: Kye ma! (Tibetan *kye ma*) is a cry of surprise and grief, "Alas!" It calls to the hearers as *kye ho*[^kye-ho] does, but in grief, not in wonder. See *Rangjung Yeshe Wiki*, s.v. "[kye ma](https://rywiki.tsadra.org/index.php/kye_ma)."
 
 [^heroes]: The heroes and heroines (Sanskrit *vīra* and *vīriṇī*, Tibetan *dpa' bo*, *dpa' mo*) are the deities of a maṇḍala[^mandala] of both kinds, the ḍākas and ḍākinīs[^dakini]; they ring the wisdom ḍākinī[^wisdom-dakini] as Cakrasaṃvara's[^cakrasamvara] retinue rings them. See *Rangjung Yeshe Wiki*, s.v. "[dpa' mo](https://rywiki.tsadra.org/index.php/dpa'_mo)"; Das, *Tibetan-English Dictionary*, 788.
 
@@ -922,13 +922,13 @@ Shar kha Ras chen, Kun dga' dar po and Byang chub bzang po. *Brgyud pa yid bzhin
 
 [^one-taste]: One taste (Sanskrit *samarasa*, Tibetan *ro snyoms*), or "even taste", is the realization that everything has the same taste, the nature of mind[^nature-of-mind]; as *ro gcig*, one taste, it's the third of the four yogas of Mahāmudrā[^mahamudra]. See *Rangjung Yeshe Wiki*, s.vv. "[ro snyoms](https://rywiki.tsadra.org/index.php/ro_snyoms)," "[ro gcig](https://rywiki.tsadra.org/index.php/ro_gcig)."
 
-[^all-knowing]: The All-Knowing One (Sanskrit *Sarvajña*, Tibetan *thams cad mkhyen pa*) is an epithet of a buddha. The Kagyü say Tilopa received the Dharma[^dharma] directly from the primordial buddha Vajradhara, and they're also called Vajradhara's emanation[^emanation]. See *Rangjung Yeshe Wiki*, s.v. "[thams cad mkhyen pa](https://rywiki.tsadra.org/index.php/thams_cad_mkhyen_pa)"; Das, *Tibetan-English Dictionary*, 572; *Rigpa Wiki*, s.v. "[Kagyü](https://www.rigpawiki.org/index.php?title=Kagy%C3%BC)."
+[^all-knowing]: The All-Knowing One (Sanskrit *Sarvajña*, Tibetan *thams cad mkhyen pa*) is an epithet of a buddha. The Kagyü say Tilopa received the Dharma[^dharma] directly from the primordial buddha Vajradhara, and he's also called Vajradhara's emanation[^emanation]. See *Rangjung Yeshe Wiki*, s.v. "[thams cad mkhyen pa](https://rywiki.tsadra.org/index.php/thams_cad_mkhyen_pa)"; Das, *Tibetan-English Dictionary*, 572; *Rigpa Wiki*, s.v. "[Kagyü](https://www.rigpawiki.org/index.php?title=Kagy%C3%BC)."
 
 [^heretic]: A non-Buddhist (Sanskrit *tīrthika*, Tibetan *mu stegs pa*), called a "heretic" in older English books, is a teacher or follower of one of India's other schools, Hindu, Jain or materialist. See *Rangjung Yeshe Wiki*, s.v. "[mu stegs pa](https://rywiki.tsadra.org/index.php/mu_stegs_pa)"; Das, *Tibetan-English Dictionary*, 967.
 
 [^acts-no-fruit]: Karma (Tibetan *las*), "action", bears fruit[^fruit], in the Buddhist Dharma[^dharma]: every act brings its result to the one who did it, the working of cause and effect (*las 'bras*). One who says karma bears no fruit denies it, and with it any reason for virtue[^virtue]. See *Rangjung Yeshe Wiki*, s.v. "[las 'bras](https://rywiki.tsadra.org/index.php/las_'bras)."
 
-[^order]: Other tellings tame them in another order. The lives of the gurus[^guru] of the whispered lineage[^whispered-lineage] in a later manuscript make the non-Buddhist[^heretic] the fifth and the beer-seller the seventh, and their beer-seller is tamed when Tilopa holds the sun in the sky until their credit falls due; Tsangnyön's *Gzhung 'brel*, in both manuscripts of the 1971 Leh reprint, makes the beer-seller follow the magician and has Tilopa come to them as a beggar; Marpa's collected works tame the magician, the beer-seller, a hunter, a non-Buddhist teacher, a sorcerer, the singer and a strong person. See Shar kha Ras chen et al., *Brgyud pa yid bzhin nor bu'i rnam thar dang zhal gdams sogs*; *Bde mchog mkha' 'gro snyan rgyud (Ras chung snyan rgyud): Two Manuscript Collections*; Mar pa Chos kyi blo gros, "Tai lo shes rab bzang po'i rnam thar," in *Mar pa chos kyi blo gros kyi gsung 'bum*.
+[^order]: Other tellings tame them in another order. The lives of the gurus[^guru] of the whispered lineage[^whispered-lineage] in a later manuscript make the non-Buddhist[^heretic] the fifth and the beer-seller the seventh, and their beer-seller is tamed when Tilopa holds the sun in the sky until the seller's credit falls due; Tsangnyön's *Gzhung 'brel*, in both manuscripts of the 1971 Leh reprint, makes the beer-seller follow the magician and has Tilopa come to them as a beggar; Marpa's collected works tame the magician, the beer-seller, a hunter, a non-Buddhist teacher, a sorcerer, the singer and a strong person. See Shar kha Ras chen et al., *Brgyud pa yid bzhin nor bu'i rnam thar dang zhal gdams sogs*; *Bde mchog mkha' 'gro snyan rgyud (Ras chung snyan rgyud): Two Manuscript Collections*; Mar pa Chos kyi blo gros, "Tai lo shes rab bzang po'i rnam thar," in *Mar pa chos kyi blo gros kyi gsung 'bum*.
 
 [^rite-of-the-ground]: The rite of the ground (*sa chog*) takes hold of the site where a maṇḍala[^mandala] will be made. See *Rangjung Yeshe Wiki*, s.v. "[sa chog](https://rywiki.tsadra.org/index.php/sa_chog)."
 
@@ -936,11 +936,11 @@ Shar kha Ras chen, Kun dga' dar po and Byang chub bzang po. *Brgyud pa yid bzhin
 
 [^pramana]: Logic (Sanskrit *pramāṇa*, Tibetan *tshad ma*), or valid cognition, is the Buddhist science of reasoning and knowledge, the means by which a thing is known for certain; to debate by it is to argue by its rules. See *Rangjung Yeshe Wiki*, s.v. "[tshad ma](https://rywiki.tsadra.org/index.php/tshad_ma)"; Das, *Tibetan-English Dictionary*, 1023.
 
-[^e-ma]: E ma! is a cry of wonder, "How wonderful!", and sometimes of grief. See *Rangjung Yeshe Wiki*, s.v. "[e ma](https://rywiki.tsadra.org/index.php/e_ma)."
+[^e-ma]: E ma! (Tibetan *e ma*) is a cry of wonder, "How wonderful!", and sometimes of grief. It's the short form of *e ma ho*, "How marvelous!", and unlike *kye ho*[^kye-ho] it calls no one. See *Rangjung Yeshe Wiki*, s.vv. "[e ma](https://rywiki.tsadra.org/index.php/e_ma)," "[e ma ho](https://rywiki.tsadra.org/index.php/e_ma_ho)."
 
 [^ultimate]: The ultimate (Sanskrit *paramārtha*, Tibetan *don dam*) is ultimate truth, as against convention[^convention], the conventional truth of everyday appearance. See *Rangjung Yeshe Wiki*, s.v. "[don dam](https://rywiki.tsadra.org/index.php/don_dam)"; Das, *Tibetan-English Dictionary*, 644.
 
-[^beyond-thought]: Beyond thought (Sanskrit *acintya*, Tibetan *bsam gyis mi khyab pa*): inconceivable, unfathomable by ordinary thought: each taming closes with Tilopa speaking of the art of the one they tame as beyond thought, and all who hear are freed[^freed]. See *Rangjung Yeshe Wiki*, s.v. "[bsam gyis mi khyab pa](https://rywiki.tsadra.org/index.php/bsam_gyis_mi_khyab_pa)."
+[^beyond-thought]: Beyond thought (Sanskrit *acintya*, Tibetan *bsam gyis mi khyab pa*): inconceivable, unfathomable by ordinary thought: each taming closes with Tilopa speaking of the art of the one he tames as beyond thought, and all who hear are freed[^freed]. See *Rangjung Yeshe Wiki*, s.v. "[bsam gyis mi khyab pa](https://rywiki.tsadra.org/index.php/bsam_gyis_mi_khyab_pa)."
 
 [^without-passing-away]: Without dying (*'das grongs med par*, "without passing away"): each of those Tilopa tames lives on in a sacred place. See *Rangjung Yeshe Wiki*, s.v. "['das grongs](https://rywiki.tsadra.org/index.php/'das_grongs)."
 
@@ -992,7 +992,7 @@ Shar kha Ras chen, Kun dga' dar po and Byang chub bzang po. *Brgyud pa yid bzhin
 
 [^discursive-thought]: Discursive thought (Sanskrit *vikalpa*, Tibetan *rnam rtog*) is conceptual thinking; that it "is the nirmāṇakāya" says thought itself appears, as a nirmāṇakāya[^emanation-body] does, from the nature of mind[^nature-of-mind]. See *Rangjung Yeshe Wiki*, s.v. "[rnam rtog](https://rywiki.tsadra.org/index.php/rnam_rtog)."
 
-[^sriparvata]: Śrīparvata (Tibetan *dpal gyi ri*), a mountain in the south of India, is where Nāgārjuna[^nagarjuna] spent their last days. See *Rangjung Yeshe Wiki*, s.v. "[dpal gyi ri](https://rywiki.tsadra.org/index.php/dpal_gyi_ri)."
+[^sriparvata]: Śrīparvata (Tibetan *dpal gyi ri*), a mountain in the south of India, is where Nāgārjuna[^nagarjuna] spent his last days. See *Rangjung Yeshe Wiki*, s.v. "[dpal gyi ri](https://rywiki.tsadra.org/index.php/dpal_gyi_ri)."
 
 [^sorcerer]: The Tibetan of this passage is hard, and the English gives its likeliest sense: the two are matched in killing; Tilopa takes up all who died but some, the sorcerer's women among them, and offers to raise those too if the sorcerer gives up their magic. See *Bde mchog mkha' 'gro snyan rgyud*, fols. 10a, 10b.
 
@@ -1010,11 +1010,11 @@ Shar kha Ras chen, Kun dga' dar po and Byang chub bzang po. *Brgyud pa yid bzhin
 
 [^buddha-fields]: A buddha field (Sanskrit *buddhakṣetra*, Tibetan *zhing khams*) is a buddha's own pure world, where buddhas teach in the saṃbhogakāya[^enjoyment-body]. See *Rangjung Yeshe Wiki*, s.v. "[zhing khams](https://rywiki.tsadra.org/index.php/zhing_khams)."
 
-[^aryadeva]: Āryadeva (Tibetan *'phags pa lha*) was Nāgārjuna's[^nagarjuna] disciple and continued their Madhyamaka; they too are counted among the eighty-four mahāsiddhas. See *Rangjung Yeshe Wiki*, s.v. "['phags pa lha](https://rywiki.tsadra.org/index.php/'phags_pa_lha)"; *Rigpa Wiki*, s.v. "[Aryadeva](https://www.rigpawiki.org/index.php?title=Aryadeva)."
+[^aryadeva]: Āryadeva (Tibetan *'phags pa lha*) was Nāgārjuna's[^nagarjuna] disciple and continued his Madhyamaka; he too is counted among the eighty-four mahāsiddhas. See *Rangjung Yeshe Wiki*, s.v. "['phags pa lha](https://rywiki.tsadra.org/index.php/'phags_pa_lha)"; *Rigpa Wiki*, s.v. "[Aryadeva](https://www.rigpawiki.org/index.php?title=Aryadeva)."
 
 [^thousand-buddhas]: The thousand buddhas are the thousand who appear in this bhadrakalpa (Tibetan *bskal pa bzang po*), the "good aeon". See *Rangjung Yeshe Wiki*, s.v. "[bskal pa bzang po](https://rywiki.tsadra.org/index.php/bskal_pa_bzang_po)."
 
-[^yoke]: A yoke's length (*gnya' shing*) ahead is as far as Tilopa's eyes look as they walk begging for food. See *Rangjung Yeshe Wiki*, s.v. "[gnya' shing](https://rywiki.tsadra.org/index.php/gnya'_shing)"; Das, *Tibetan-English Dictionary*, 491.
+[^yoke]: A yoke's length (*gnya' shing*) ahead is as far as Tilopa's eyes look as he walks begging for food. See *Rangjung Yeshe Wiki*, s.v. "[gnya' shing](https://rywiki.tsadra.org/index.php/gnya'_shing)"; Das, *Tibetan-English Dictionary*, 491.
 
 [^giving-receiving]: The auspicious verses of giving and receiving (*sbyin len gyi shis pa*) are words of good fortune[^fortune] spoken over gifts of food given and received. See *Rangjung Yeshe Wiki*, s.vv. "[sbyin len](https://rywiki.tsadra.org/index.php/sbyin_len)," "[shis pa](https://rywiki.tsadra.org/index.php/shis_pa)."
 
@@ -1032,4 +1032,4 @@ Shar kha Ras chen, Kun dga' dar po and Byang chub bzang po. *Brgyud pa yid bzhin
 
 [^mangalam]: Maṅgalam, Sanskrit for "auspiciousness" (Tibetan *bkra shis*), closes the book as a benediction. See *Rangjung Yeshe Wiki*, s.v. "[bkra shis](https://rywiki.tsadra.org/index.php/bkra_shis)"; Das, *Tibetan-English Dictionary*, 69.
 
-[^colophon]: Marpa writes at Drowolung, their seat in the Trowo valley of Lhodrak, for their son Dode, Darma Dode. See *Bde mchog mkha' 'gro snyan rgyud*, fol. 11b; *Rangjung Yeshe Wiki*, s.vv. "[gro bo lung](https://rywiki.tsadra.org/index.php/gro_bo_lung)," "[dar ma mdo sde](https://rywiki.tsadra.org/index.php/dar_ma_mdo_sde)."
+[^colophon]: Marpa writes at Drowolung, his seat in the Trowo valley of Lhodrak, for his son Dode, Darma Dode. See *Bde mchog mkha' 'gro snyan rgyud*, fol. 11b; *Rangjung Yeshe Wiki*, s.vv. "[gro bo lung](https://rywiki.tsadra.org/index.php/gro_bo_lung)," "[dar ma mdo sde](https://rywiki.tsadra.org/index.php/dar_ma_mdo_sde)."
