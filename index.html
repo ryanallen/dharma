@@ -10,7 +10,7 @@
 <script>window.__leafPending=[];window.__leafIpc={postMessage:(m)=>window.__leafPending.push(m)};</script><script>window.__leafSettings = {"agentNotices":true,"arrangement":"","arrangements":[],"calendarField":"field:due","chatBoard":"","chatFraction":0.4,"chatSide":"left","codeIntelEnabled":true,"codeUnlocked":false,"elevenLabsModel":"eleven_flash_v2_5","flashReaderChunk":1,"flashReaderWpm":300,"graphScope":"small","hintLastLaunch":0,"hintLaunches":0,"hintsSeen":[],"homeBoxes":["scheduled","recent","favorites","books-online"],"keepRunning":true,"libraryClosed":false,"libraryList":"folders","libraryProjectPath":"","libraryWidth":240,"minimapShut":false,"readAloudSpeed":100,"readAloudVoice":"","readingUnlocked":false,"speedReaderEnabled":false,"splitFraction":0.5,"themeFamily":"random","themeMode":"daylight","themeRandomUsed":[],"updateLastChecked":0,"updateStagedVersion":"","wispAccount":"","wispAgent":"","wispDiscordMember":"","wispEffort":"","wispFolder":"","wispImessageMember":"","wispLit":false,"wispModel":"","wispName":"","wispSlackMember":""};
 window.__leafInitialState = {"active":null,"document":null,"favorites":[],"recent":[],"tabs":[]};
 window.__leafDocumentExts = ["md","markdown","mdown","mdc","xml","json","yaml","yml","eml","mht","mhtml","html","htm","txt","ini","css","csv","tsv","docx","docm","xlsx","xlsm","pptx","pptm","odt","ods","odp","epub","azw","mobi","azw3","gsheet","gdoc","gslides","ts","tsx","js","jsx","jsonc","scss","sh","bash","zsh","toml","rs","py","sql","diff","patch","env","graphql","gql"]; window.__leafPointerSuffix = ".leafpointer.json";
-window.__leafVersion = "5.40.0";
+window.__leafVersion = "5.41.0";
 window.__leafRepository = "https://github.com/ryanallen/leaftext";
 window.__leafUpdateAsset = "";
 window.__leafEmbedded = false;</script><script>window.__leafSite=true;window.__leafAssetBase="https://leaftext.com/assets/leaftext/app/";</script><script src="https://leaftext.com/assets/leaftext/app/settings.js"></script><script>// Where the vendored runtimes are served from. Injected rather than written into the fragments, because the asset scheme differs by platform and a fragment that carries a placeholder cannot be served as a static file.
@@ -25,7 +25,9 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
   const ownedUnlocks = (profile) => new Set(Object.keys((profile && profile.unlocks) || {}).filter((id) => Number(profile.unlocks[id]) > 0));
   let owned = ownedUnlocks(window.__leafProfile);
   const wearable = (fam) => VALID_FAMILIES.has(fam) && (!EARNED_FAMILIES.has(fam) || owned.has(fam));
-  const wearableFamilies = () => REAL_FAMILIES.filter(wearable);
+  // A page may narrow what Random draws from: leaftext.com's marketing page names its good-looking families only, on the owner's word of 18 November 2026, 6:29pm, so a visitor never lands on the terminal green. A list naming none it can wear is ignored.
+  const narrowed = Array.isArray(window.__leafRandomFamilies) ? REAL_FAMILIES.filter((fam) => wearable(fam) && window.__leafRandomFamilies.includes(fam)) : [];
+  const wearableFamilies = () => (narrowed.length ? narrowed : REAL_FAMILIES.filter(wearable));
   const RANDOM = 'random';
   const VALID_MODES = new Set(['system', 'light', 'dark', 'daylight']);
   const FAMILY_FALLBACK = 'fern';
