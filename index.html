@@ -10,7 +10,7 @@
 <script>window.__leafPending=[];window.__leafIpc={postMessage:(m)=>window.__leafPending.push(m)};</script><script>window.__leafSettings = {"agentNotices":true,"arrangement":"","arrangements":[],"calendarField":"field:due","chatFraction":0.4,"chatSide":"left","codeIntelEnabled":true,"codeUnlocked":false,"elevenLabsModel":"eleven_flash_v2_5","flashReaderChunk":1,"flashReaderWpm":300,"graphScope":"small","hintLastLaunch":0,"hintLaunches":0,"hintsSeen":[],"homeBoxes":["scheduled","recent","favorites","books-online"],"keepRunning":true,"libraryClosed":false,"libraryList":"folders","libraryProjectPath":"","libraryWidth":240,"minimapShut":false,"readAloudSpeed":100,"readAloudVoice":"","readingUnlocked":false,"speedReaderEnabled":false,"splitFraction":0.5,"themeFamily":"random","themeMode":"daylight","themeRandomUsed":[],"updateLastChecked":0,"updateStagedVersion":"","wispAccount":"","wispAgent":"","wispDiscordMember":"","wispEffort":"","wispFolder":"","wispImessageMember":"","wispLit":false,"wispModel":"","wispName":"","wispSlackMember":""};
 window.__leafInitialState = {"active":null,"document":null,"favorites":[],"recent":[],"tabs":[]};
 window.__leafDocumentExts = ["md","markdown","mdown","mdc","xml","json","yaml","yml","eml","mht","mhtml","html","htm","txt","ini","css","csv","tsv","docx","docm","xlsx","xlsm","pptx","pptm","odt","ods","odp","epub","azw","mobi","azw3","gsheet","gdoc","gslides","ts","tsx","js","jsx","jsonc","scss","sh","bash","zsh","toml","rs","py","sql","diff","patch","env","graphql","gql"]; window.__leafPointerSuffix = ".leafpointer.json";
-window.__leafVersion = "5.43.1";
+window.__leafVersion = "5.43.2";
 window.__leafRepository = "https://github.com/ryanallen/leaftext";
 window.__leafUpdateAsset = "";
 window.__leafEmbedded = false;</script><script>window.__leafSite=true;window.__leafAssetBase="https://leaftext.com/assets/leaftext/app/";</script><script src="https://leaftext.com/assets/leaftext/app/settings.js"></script><script>// Where the vendored runtimes are served from. Injected rather than written into the fragments, because the asset scheme differs by platform and a fragment that carries a placeholder cannot be served as a static file.
@@ -889,9 +889,9 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
   <div class="grove-tabs" id="wispTabs" role="tablist" aria-label="Wisp views"></div>
   <div class="grove-sheet-body leaf-scroll" id="wispSheetBody"></div>
 </aside>
-<div id="wispImessageGuideBackdrop" class="lt-backdrop" hidden></div>
-<!-- How to set up iMessage, on a Mac: opened from the iMessage row, standing over the wisp's sheet. -->
-<aside id="wispImessageGuide" class="leaf-sheet grove-sheet wisp-sheet" role="dialog" aria-modal="true" aria-label="How to set up iMessage" hidden>
+<div id="wispGuideBackdrop" class="lt-backdrop" hidden></div>
+<!-- The wisp's guide: Discord's bot token, or iMessage on a Mac, opened from its row and standing over the wisp's sheet. -->
+<aside id="wispGuide" class="leaf-sheet grove-sheet wisp-sheet" role="dialog" aria-modal="true" aria-label="Guide" hidden>
   <span class="sheet-shadow-face" aria-hidden="true"></span>
   <span class="sheet-shadow-band sheet-shadow-band-top" aria-hidden="true"></span>
   <span class="sheet-shadow-band sheet-shadow-band-bottom" aria-hidden="true"></span>
@@ -899,10 +899,10 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
   <span class="sheet-shadow-band sheet-shadow-band-right" aria-hidden="true"></span>
   <div class="leaf-sheet-grip"></div>
   <div class="grove-sheet-head">
-    <span class="grove-sheet-title">How to set up iMessage</span>
-    <button type="button" id="wispImessageGuideClose" class="leaf-sheet-close" aria-label="Close"><span class="lt-icon lt-icon-close"></span></button>
+    <span class="grove-sheet-title" id="wispGuideTitle"></span>
+    <button type="button" id="wispGuideClose" class="leaf-sheet-close" aria-label="Close"><span class="lt-icon lt-icon-close"></span></button>
   </div>
-  <div class="grove-sheet-body leaf-scroll" id="wispImessageGuideBody"></div>
+  <div class="grove-sheet-body leaf-scroll" id="wispGuideBody"></div>
 </aside>
 <div id="calendarBackdrop" class="lt-backdrop" hidden></div>
 <!-- A month of the vault's documents, opened from the calendar square at the pane's foot. Inert until then: nothing is asked for while it is shut. -->
