@@ -10,7 +10,7 @@
 <script>window.__leafPending=[];window.__leafIpc={postMessage:(m)=>window.__leafPending.push(m)};</script><script>window.__leafSettings = {"agentNotices":true,"arrangement":"","arrangements":[],"calendarField":"field:due","chatFraction":0.4,"chatSide":"left","codeIntelEnabled":true,"codeUnlocked":false,"elevenLabsModel":"eleven_flash_v2_5","flashReaderChunk":1,"flashReaderWpm":300,"graphScope":"small","hintLastLaunch":0,"hintLaunches":0,"hintsSeen":[],"homeBoxes":["scheduled","recent","favorites","books-online"],"keepRunning":true,"libraryClosed":false,"libraryList":"folders","libraryProjectPath":"","libraryWidth":240,"minimapShut":false,"readAloudSpeed":100,"readAloudVoice":"","readingUnlocked":false,"speedReaderEnabled":false,"splitFraction":0.5,"themeFamily":"random","themeMode":"daylight","themeRandomUsed":[],"updateLastChecked":0,"updateStagedVersion":"","wispAccount":"","wispAgent":"","wispDiscordMember":"","wispEffort":"","wispFolder":"","wispImessageMember":"","wispLit":false,"wispModel":"","wispName":"","wispSlackMember":""};
 window.__leafInitialState = {"active":null,"document":null,"favorites":[],"recent":[],"tabs":[]};
 window.__leafDocumentExts = ["md","markdown","mdown","mdc","xml","json","yaml","yml","eml","mht","mhtml","html","htm","txt","ini","css","csv","tsv","docx","docm","xlsx","xlsm","pptx","pptm","odt","ods","odp","epub","azw","mobi","azw3","gsheet","gdoc","gslides","ts","tsx","js","jsx","jsonc","scss","sh","bash","zsh","toml","rs","py","sql","diff","patch","env","graphql","gql"]; window.__leafPointerSuffix = ".leafpointer.json";
-window.__leafVersion = "5.44.3";
+window.__leafVersion = "5.45.0";
 window.__leafRepository = "https://github.com/ryanallen/leaftext";
 window.__leafUpdateAsset = "";
 window.__leafEmbedded = false;</script><script>window.__leafSite=true;window.__leafAssetBase="https://leaftext.com/assets/leaftext/app/";</script><script src="https://leaftext.com/assets/leaftext/app/settings.js"></script><script>// Where the vendored runtimes are served from. Injected rather than written into the fragments, because the asset scheme differs by platform and a fragment that carries a placeholder cannot be served as a static file.
@@ -684,6 +684,17 @@ window.__lt = Object.assign(window.__lt || {}, { assets: {"mermaid":"https://lea
       <span class="lt-icon lt-icon-chevron-down" aria-hidden="true"></span>
     </label>
     <button type="button" id="readAloudStop" class="find-step icon-button" aria-label="Stop reading aloud" title="Stop reading aloud"><span class="lt-icon lt-icon-close"></span></button>
+  </div>
+</div>
+<!-- AI notes' recording: the time, a level, which sources are recording, Pause and Stop, while a recording runs. Built from the find bar's own classes, as read aloud's is, so it takes the find bar's place and face. See ai-notes.js. -->
+<div id="aiNotesBar" class="find-bar ai-notes-bar" role="group" aria-label="AI notes recording" hidden>
+  <div class="find-row">
+    <span class="ai-notes-dot" aria-hidden="true"></span>
+    <span id="aiNotesTime" class="find-count">0:00</span>
+    <span class="ai-notes-level" aria-hidden="true"><span id="aiNotesLevel" class="ai-notes-level-fill"></span></span>
+    <span id="aiNotesSources" class="find-count">Microphone · Computer sound</span>
+    <button type="button" id="aiNotesPause" class="find-step icon-button" aria-pressed="false" aria-label="Pause recording" title="Pause recording"><span class="lt-icon lt-icon-pause"></span></button>
+    <button type="button" id="aiNotesStop" class="find-step icon-button" aria-label="Stop and transcribe" title="Stop and transcribe"><span class="lt-icon lt-icon-check"></span></button>
   </div>
 </div>
 <div id="elevenLabsBackdrop" class="lt-backdrop" hidden></div>
